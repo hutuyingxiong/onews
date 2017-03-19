@@ -15,6 +15,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814273&from=ogGitn">美国专家指中共十九大两个问题值得关注 2017-03-19 11:35</a><br/>中共“两会”已结束。随着今秋中共“十九大”的举行，有美国专家指“十九大”上有两个问题将值得关注:一个是习近平可能会再次削减政治局常委的人数，由7人减到5人。另一个是习近平的重要盟友王岐山的留任。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814262&from=ogGitn">为什么这名驻华美国记者一夕网络爆红 2017-03-19 11:22</a><br/>美国国家公共广播电台记者孔安（Anthony Kuhn）在两会期间的记者会上，用流利的中文提问。事后有人将这段提问视频上传网络，1天之内点击量达500万次。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814258&from=ogGitn">西安独居老人连遇骗子上门 痛失3300元 2017-03-19 11:17</a><br/>西安87岁的独居老人，连续两天遭遇骗子上门行骗，第一个骗子骗走老人3300元，第二个骗子未得手。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814289&from=ogGitn">大陆保监会主席披露金融业六大风险 2017-03-19 10:45</a><br/>2017年3月18日，中国发展高层论坛在北京开幕，中国保险监督管理委员会副主席陈文辉在开幕式上披露，中国金融业存在六大风险。包括：脱实向虚，有系统性风险的危机；金融与实体经济失衡；存在公司治理失效的风险；有激进经营的风险；存在资产负债错配风险；有流动性风险。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814257&from=ogGitn">〝雷洋〞案再现 成都司机遭交警乱棍打死 2017-03-19 10:41</a><br/>司机被三名中共交警殴打致死后，成都当局在舆论压力下承认，交警确有打人，但声称事件原委尚不明朗。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814263&from=ogGitn">两会后首例  福建南平副市长〝车祸死〞 2017-03-19 10:20</a><br/>刚刚结束的今年中共两会后第三天，福建副市长被传〝车祸死〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814255&from=ogGitn">北京二手房市火热？ 实际成交低迷 2017-03-19 07:46</a><br/>在新房供应不足，且高端遍地的时代，北京二手房似乎成为今年楼市的主角。但据陆媒报导，北京二手房表面火热，实际情况并没有人们想像的那样疯狂。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814045&from=ogGitn">薄熙来重庆“打黑女红人”辞职 2017-03-16 20:33</a><br/>薄熙来主政重庆时期的“打黑干将”、李庄案的公诉人、女检察官么宁被证实已辞职，引发关注。此前有报导说，这几年来其“压力很大”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814053&from=ogGitn">中国移动贵州公司前董事长被立案侦查 2017-03-16 19:30</a><br/>据官方消息，中国移动通信集团（下称中国移动）贵州公司董事长芈大伟被立案侦查。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814037&from=ogGitn">韩国美女被〝滚出中国〞 骂急了  满口东北话回应（视频） 2017-03-16 19:27</a><br/>金娜娜说，就算她滚回了韩国，萨德也不会消失。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814042&from=ogGitn">沪前高官戴海波受审 与江泽民家族关系密切 2017-03-16 19:12</a><br/>3月16日，中共上海市前副秘书长戴海波“受贿、隐瞒境外存款案”在上海第一中级法院开庭审理。其被指控受贿近千万元人民币。戴海波是中共前党魁江泽民长子江绵恒的亲信，其落马被指或与江的家族有关。</td></tr>
 </table>
