@@ -8,6 +8,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814293&from=ogGitn">江西一家六口在缅甸惨遭灭门 最小仅2岁 2017-03-19 16:13</a><br/>江西省丰城市一家6口在缅甸遇害，三个大人三个小孩，最小的只有2岁。目前，犯罪嫌疑人已被抓获，但惨案原因，缅方还未给出信息。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 16:05</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814280&from=ogGitn">浙江200吨危废污泥运安徽制砖 恐祸及水土 2017-03-19 15:32</a><br/>近日陆媒又曝光，浙江丽水缙云县一家电解厂，将上百吨危险废物转移到安徽五河县的一家窑厂制砖。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814294&from=ogGitn">又见校园欺凌 青岛一初中生被殴致死 2017-03-19 15:10</a><br/>大陆校园再传暴力事件。青岛一名初中一年级的男生，疑因钱财问题，遭到多名本校及外校学生殴打致死。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814277&from=ogGitn">【翻墙必看】习十九大或再削减常委人数 2017-03-19 15:03</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814261&from=ogGitn">美智库：港人对一国两制没信心 台湾看在眼里 2017-03-19 14:30</a><br/>美国著名智库布鲁金斯学会东亚政策中心主任卜睿哲（Richard Bush）表示，中共对香港的强势政治手段让香港社会普遍对一国两制失去信心，台湾也对这个制度毫无兴趣。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814279&from=ogGitn">中药承载着中国传统文化 改名恐割断历史 2017-03-19 14:16</a><br/>中医药是中国传统文化的瑰宝。药名的丰富而多变，有趣而通于艺，古代医家每有文彩，文士多通医道，他们巧借动植物或名医名人为命名依据，形像地表现出某种药物的功能和形态特征。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814062&from=ogGitn">三大贿选丑闻 习近平两会放话要严惩 2017-03-16 22:41</a><br/>今年中共“两会”期间，习近平参加辽宁代表团审议时，他狠批辽宁、湖南、四川贿选案，称“要严惩所有人，以此为教训”。这几起贿选案曾震惊中南海，被高层多次点名。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814060&from=ogGitn">上海市前副秘书长戴海波受审 2017-03-16 22:36</a><br/>指控称，1998到2015年，戴海波在担任职务期间，为他人谋取利益，收受贿赂共计人民币990余万元。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814125&from=ogGitn">江苏黑衣男持铁锤当街砸伤5人 传1人身亡 2017-03-16 20:42</a><br/>继黑龙江男子引爆炸药，3月16日11点40左右，在江苏淮安清河区融桥华府附近的街头，一名著黑色皮衣的男子手持大铁锤，狂砸路人。陆媒报导称，当场造成5人受伤，其中有3人倒在血泊中。一名女童疑似头部受伤，鲜血染红了衣服。但有网民称，已有1人死亡，也有称有4人死亡。但消息未得到官方证实。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814063&from=ogGitn">南宋《六龙图》纽约拍卖 逾3亿元成交 2017-03-16 20:38</a><br/>南宋名家陈容以画活灵活现的龙图享有盛名。所作的《六龙图》，于美国纽约当地时间3月15日晚7时，以4,350万美元（约合人民币2.96亿元）的天价拍卖。</td></tr>
 </table>
