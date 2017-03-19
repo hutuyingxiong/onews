@@ -6,6 +6,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814263&from=ogGitn">两会后首例  福建南平副市长〝车祸死〞 2017-03-19 11:26</a><br/>刚刚结束的今年中共两会后第三天，福建副市长被传〝车祸死〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814262&from=ogGitn">为什么这名驻华美国记者一夕网络爆红 2017-03-19 11:22</a><br/>美国国家公共广播电台记者孔安（Anthony Kuhn）在两会期间的记者会上，用流利的中文提问。事后有人将这段提问视频上传网络，1天之内点击量达500万次。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814258&from=ogGitn">西安独居老人连遇骗子上门 痛失3300元 2017-03-19 11:17</a><br/>西安87岁的独居老人，连续两天遭遇骗子上门行骗，第一个骗子骗走老人3300元，第二个骗子未得手。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814269&from=ogGitn">山寨太多  德企：阿里巴巴出了名 2017-03-19 10:58</a><br/>德国工业企业抱怨中国仿冒产品有增无减。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814257&from=ogGitn">〝雷洋〞案再现 成都司机遭交警乱棍打死 2017-03-19 10:41</a><br/>司机被三名中共交警殴打致死后，成都当局在舆论压力下承认，交警确有打人，但声称事件原委尚不明朗。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">知情者：孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 10:27</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814255&from=ogGitn">北京二手房市冰火两重天 陆媒曝真相 2017-03-19 07:46</a><br/>在新房供应不足，且高端遍地的时代，北京二手房似乎成为今年楼市的主角。但据陆媒报导，北京二手房表面火热，实际情况并没有人们想像的那样疯狂。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814017&from=ogGitn">野猪都变异了 中国仍狂销日本核污染食品 2017-03-16 17:30</a><br/>涉嫌销售日本核污染食品的网上商家至少有13000多家。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814036&from=ogGitn">穗知名火锅店被曝光 口水油每周至少奉客560人 2017-03-16 17:14</a><br/>大陆火锅使用“地沟油”“口水油”及添加“罂粟壳”已是常态。近日，广州知名的半城正宗重庆火锅店被曝出，使用顾客吃剩的红油汤底经过滤渣后，熬煮再用。据估算，一锅底料可以反复使用560次。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814040&from=ogGitn">川数百业主维权 血汗钱买烂尾楼 2017-03-16 17:12</a><br/>四川资阳市数百名业主因开发商破产面临楼款损失，日前，业主去当地政府维权，与防暴警察发生冲突，多人被抓、被打。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814039&from=ogGitn">山西电建二公司职工欲跳楼讨薪 2017-03-16 17:10</a><br/>中国能源建设集团山西电建二公司多年来拖欠职工工资、五险一金、还有退休职工养老金，并打算将职工分流。9号，数百职工聚集公司楼讨薪，其中二、三十名职工站在公司楼顶试图集体跳楼讨薪。</td></tr>
 </table>
