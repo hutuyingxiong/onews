@@ -2,11 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814269&from=ogGitn">山寨太多  德企：阿里巴巴出了名 2017-03-19 12:00</a><br/>德国工业企业抱怨中国仿冒产品有增无减。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814259&from=ogGitn">每日三退声明精选（2017/03/18） 2017-03-19 11:37</a><br/>我们这边又刮起了文革风，有的单位不许工作人员佩戴民族服饰，连清真两字都不能说，电视中出现的民族服饰镜头都要剪掉......剥夺人们的信仰自由。退共青团、少先队 ！</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814263&from=ogGitn">两会后首例  福建南平副市长〝车祸死〞 2017-03-19 11:26</a><br/>刚刚结束的今年中共两会后第三天，福建副市长被传〝车祸死〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814262&from=ogGitn">为什么这名驻华美国记者一夕网络爆红 2017-03-19 11:22</a><br/>美国国家公共广播电台记者孔安（Anthony Kuhn）在两会期间的记者会上，用流利的中文提问。事后有人将这段提问视频上传网络，1天之内点击量达500万次。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814258&from=ogGitn">西安独居老人连遇骗子上门 痛失3300元 2017-03-19 11:17</a><br/>西安87岁的独居老人，连续两天遭遇骗子上门行骗，第一个骗子骗走老人3300元，第二个骗子未得手。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814269&from=ogGitn">山寨太多  德企：阿里巴巴出了名 2017-03-19 10:58</a><br/>德国工业企业抱怨中国仿冒产品有增无减。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814257&from=ogGitn">〝雷洋〞案再现 成都司机遭交警乱棍打死 2017-03-19 10:41</a><br/>司机被三名中共交警殴打致死后，成都当局在舆论压力下承认，交警确有打人，但声称事件原委尚不明朗。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">知情者：孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 10:27</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814255&from=ogGitn">北京二手房市冰火两重天 陆媒曝真相 2017-03-19 07:46</a><br/>在新房供应不足，且高端遍地的时代，北京二手房似乎成为今年楼市的主角。但据陆媒报导，北京二手房表面火热，实际情况并没有人们想像的那样疯狂。</td></tr>
