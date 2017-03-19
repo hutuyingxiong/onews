@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814297&from=ogGitn">〝大右派〞储安平的生死谜案 2017-03-19 23:15</a><br/>他是一代报业人，也是至今〝维持原案，不予改正〞的〝大右派〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814295&from=ogGitn">中药承载着中国传统文化 改名恐割断历史 2017-03-19 22:40</a><br/>中国大陆食药监总局要给中药改名，民间一片反对声，他们认为传统中药命名，标明的是历史记忆，彰显的是文化价值，如果大量中成药经典药品被迫改名，中医真有可能亡于药。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814291&from=ogGitn">广东幼师体罚女童    拍片上传网路分享（视频） 2017-03-19 18:35</a><br/>日前广东汕尾幼儿园一名女教师用尺子击打女童手掌，女童吃痛放声大哭，该老师体罚后还将视频上传微信朋友圈分享，遭到网友批评。目前，涉事女教师已被辞退。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814290&from=ogGitn">恐怖！广东1岁童眼中取出两活虫　元凶是…… 2017-03-19 18:31</a><br/>广东汕头市一家医院，日前医生从一个1岁多幼童眼里，取出一条蠕动的活虫！而元凶疑是家里的宠物狗。医生告诫，有小孩的家庭，要警惕宠物寄生虫病。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814296&from=ogGitn">2月大陆房价泡沫膨胀 再现一波调控潮 2017-03-19 17:18</a><br/>大陆2月份新建住宅涨价城市数量再增，二手住宅价格涨幅超过新房。最近三周以来，中共在20多个城市进行调控，大陆再现房地产调控潮。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814281&from=ogGitn">反强拆锄死副乡长  江西逼出〝好汉大伯〞（视频） 2017-03-19 17:00</a><br/>江西赣州市一副乡长卓某带队暴力强拆，62岁的明经国老人不堪受辱，用锄头将卓某杀死，随后老人被警方逮捕，还被警方暴打至满头鲜血。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814293&from=ogGitn">江西一家六口在缅甸惨遭灭门 最小仅2岁 2017-03-19 16:13</a><br/>江西省丰城市一家6口在缅甸遇害，三个大人三个小孩，最小的只有2岁。目前，犯罪嫌疑人已被抓获，但惨案原因，缅方还未给出信息。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 16:05</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814059&from=ogGitn">法媒评两会闭幕：江派全面退场 时局暗流涌动 2017-03-16 23:28</a><br/>2017年两会会议台面下暗流涌动，江派全面退场的迹象已显。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814058&from=ogGitn">孩子间争执打架 中美日父母处理各不同 2017-03-16 23:06</a><br/>深圳两男童间争执打架，家长却插手为儿子“出头”，痛殴另一名男童。日本、美国家长对此有不同态度。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814029&from=ogGitn">盖茨访华遭遇歼20 自述被胡锦涛〝侮辱〞内幕 2017-03-16 22:55</a><br/>日前，美国前国防部长罗伯特．盖茨在回忆录中讲述的一段与中共前国家主席胡锦涛之间发生的轶事被披露，书中讲述了2011年1月盖茨访问中国时，中共进行了歼—20的试飞。盖茨认为这是胡锦涛对他最大的侮辱。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814062&from=ogGitn">三大贿选丑闻 习近平两会放话要严惩 2017-03-16 22:41</a><br/>今年中共“两会”期间，习近平参加辽宁代表团审议时，他狠批辽宁、湖南、四川贿选案，称“要严惩所有人，以此为教训”。这几起贿选案曾震惊中南海，被高层多次点名。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814060&from=ogGitn">上海市前副秘书长戴海波受审 2017-03-16 22:36</a><br/>指控称，1998到2015年，戴海波在担任职务期间，为他人谋取利益，收受贿赂共计人民币990余万元。</td></tr>
 </table>
