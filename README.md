@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 16:05</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814281&from=ogGitn">反强拆锄死副乡长  江西逼出〝好汉大伯〞（视频） 2017-03-19 16:00</a><br/>江西赣州市一副乡长卓某带队暴力强拆，62岁的明经国老人不堪受辱，用锄头将卓某杀死，随后老人被警方逮捕，还被警方暴打至满头鲜血。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814280&from=ogGitn">浙江200吨危废污泥运安徽制砖 恐祸及水土 2017-03-19 15:32</a><br/>近日陆媒又曝光，浙江丽水缙云县一家电解厂，将上百吨危险废物转移到安徽五河县的一家窑厂制砖。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814277&from=ogGitn">【翻墙必看】习十九大或再削减常委人数 2017-03-19 15:03</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
@@ -15,7 +16,6 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814262&from=ogGitn">为什么这名驻华美国记者一夕网络爆红 2017-03-19 11:22</a><br/>美国国家公共广播电台记者孔安（Anthony Kuhn）在两会期间的记者会上，用流利的中文提问。事后有人将这段提问视频上传网络，1天之内点击量达500万次。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814258&from=ogGitn">西安独居老人连遇骗子上门 痛失3300元 2017-03-19 11:17</a><br/>西安87岁的独居老人，连续两天遭遇骗子上门行骗，第一个骗子骗走老人3300元，第二个骗子未得手。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814257&from=ogGitn">〝雷洋〞案再现 成都司机遭交警乱棍打死 2017-03-19 10:41</a><br/>司机被三名中共交警殴打致死后，成都当局在舆论压力下承认，交警确有打人，但声称事件原委尚不明朗。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 10:27</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814263&from=ogGitn">两会后首例  福建南平副市长〝车祸死〞 2017-03-19 10:20</a><br/>刚刚结束的今年中共两会后第三天，福建副市长被传〝车祸死〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814255&from=ogGitn">北京二手房市火热？ 实际成交低迷 2017-03-19 07:46</a><br/>在新房供应不足，且高端遍地的时代，北京二手房似乎成为今年楼市的主角。但据陆媒报导，北京二手房表面火热，实际情况并没有人们想像的那样疯狂。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814266&from=ogGitn">江西老人锄杀副乡长 背后真相令人心酸 2017-03-19 07:46</a><br/>3月17日，江西赣洲市南康区十八塘副乡长卓宇因强拆被一村民用锄头打死，目前打人者已被警方抓捕。网络上声援该村民的呼声高涨，网民说“杀了贾敬龙，还有后来人”。</td></tr>
