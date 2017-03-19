@@ -2,7 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814259&from=ogGitn">每日三退声明精选（2017/03/18） 2017-03-19 11:37</a><br/>我们这边又刮起了文革风，有的单位不许工作人员佩戴民族服饰，连清真两字都不能说，电视中出现的民族服饰镜头都要剪掉......剥夺人们的信仰自由。退共青团、少先队 ！</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814258&from=ogGitn">西安独居老人连遇骗子上门 痛失3300元 2017-03-19 11:17</a><br/>西安87岁的独居老人，连续两天遭遇骗子上门行骗，第一个骗子骗走老人3300元，第二个骗子未得手。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814257&from=ogGitn">〝雷洋〞案再现 成都司机遭交警乱棍打死 2017-03-19 10:41</a><br/>司机被三名中共交警殴打致死后，成都当局在舆论压力下承认，交警确有打人，但声称事件原委尚不明朗。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">知情者：孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 10:27</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814255&from=ogGitn">北京二手房市冰火两重天 陆媒曝真相 2017-03-19 07:46</a><br/>在新房供应不足，且高端遍地的时代，北京二手房似乎成为今年楼市的主角。但据陆媒报导，北京二手房表面火热，实际情况并没有人们想像的那样疯狂。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814253&from=ogGitn">山西中北大学突爆大火 火光冲天传爆炸声 2017-03-19 07:45</a><br/>3月18日晚19点许，山西太原中北大学的科研楼突发大火，现场火光冲天。据称现场曾传出爆炸声，周边有有毒气体泄漏。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814254&from=ogGitn">血色禁史：惨绝人寰的道县屠杀 文革之风今犹在? 2017-03-19 07:42</a><br/>1966年〝文革〞开始后，中国各地的〝四类份子〞和家人，再次遭遇惨无人道的肉体消灭，湖南道县大屠杀就是其中最惨烈的一桩。</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814050&from=ogGitn">网播窜红褒贬不一  年薪千万〝只是传说〞 2017-03-16 17:06</a><br/>中共官方调研显示，不到一成的网路主播月入过万。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814049&from=ogGitn">新疆男花百万买〝陨石〞向女友求婚 2017-03-16 16:47</a><br/>乌鲁木齐市一男子用百万元购买33吨〝陨石〞，向女友求婚。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814035&from=ogGitn">来台探亲陆籍老妇迷途 暖警上网助家属团圆 2017-03-16 16:21</a><br/>一名中国大陆籍河南省76岁牛姓老妇来台探亲，日前在新北市新庄区徘徊、游荡。新庄警方将她带回派出所，但查不出老妇身份。员警锲而不舍到社群网站寻找，终于找到家人。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814043&from=ogGitn">瑞银：年底人民币将至7.15 外储跌下3万亿 2017-03-16 16:17</a><br/>大型投行瑞银在最新的报告中表示，人民币兑美元今年底将跌至7.15，中共外汇储备仍然会跌下3万亿美元。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814044&from=ogGitn">袁斌：3400名中国游客韩国拒下邮轮的闹剧 2017-03-16 15:54</a><br/>“为你我用了半年的积蓄，漂洋过海抵制你”。3400名中国游客在韩国拒下豪华客轮，成了最近几天最吸引中国人眼球的新闻。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814034&from=ogGitn">高天韵：不祥之物—议中共向德赠送马克思像 2017-03-16 15:39</a><br/>在人类社会需要彻底摆脱共产伤害，必须向传统道德价值回归的关键时刻，中共依旧对马克思情有独钟，而且试图通过树立雕像、输出文艺、控制媒体等各种手段，在海外散播共产意识形态，其目的是通过红色渗透来挽救在国际去共化浪潮下的政权危机。这一座魔教信徒的雕像，本应是被唾弃之物。需要严肃反思的，不仅是那些投票赞成的特里尔市的议员们。</td></tr>
 </table>
