@@ -2,11 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814397&from=ogGitn">江西老农杀村官 民众声援律师免费援助 2017-03-20 19:42</a><br/>中国社会官民矛盾日趋突出，近日江西的老农抗强拆杀村官引起社会震动，网上民众声援者众，有律师公开表示提供免费法律援助，提老农维权。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814392&from=ogGitn">大陆整形恐怖内幕  鸡腿练割双眼皮  10天速成美容师 2017-03-20 18:30</a><br/>10天课程结束后，学员们即获发该培训中心的〝美容师资格证书〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814390&from=ogGitn">中国茅台〝假〞天下  茅台故乡制假酒  利润上千热销全国 
 										
 											?组图 2017-03-20 18:18</a><br/>贵州仁怀市茅台镇〝高端定制假茅台酒〞，生产销售一条龙服务，利润上千元，销往全中国。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814330&from=ogGitn">【微视频】朝鲜核武器危机与中国有关吗 2017-03-20 17:57</a><br/>朝鲜宣布，新研发大功率火箭引擎18号已经在地面点火成功。如果朝鲜核武器试验出现失误，中国东北大片土地将要受到污染。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814389&from=ogGitn">拿厕纸先〝刷脸〞 大陆人脸识别机上岗 2017-03-20 17:55</a><br/>北京天坛公园十多座公共卫生间，免费为如厕者提供手纸，但有人一天去公厕多次，将手纸塞满布袋偷偷带回家。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814387&from=ogGitn">共军部署东风16飞弹 台国防部：可境外击落 2017-03-20 17:33</a><br/>中华民国国防部长冯世宽3月20日首度证实，中共对台湾军事恫吓渐增，火箭军部署可对台湾本岛遂行精准打击的东风16型弹道飞弹，台湾有把握能先期侦测，“我们有足够武器能在境外击落”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814327&from=ogGitn">中纪委副书记透六四隐情：几十万军队围城不止为对付学生 2017-03-20 17:33</a><br/>曾任中委副书记的萧洪达讲述了〝六四事件〞的一些内幕情况。</td></tr>
@@ -52,6 +52,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814338&from=ogGitn">玉月：〝狄、林反党集团〞背后的黑幕 2017-03-20 09:54</a><br/>随着岁月的流逝，许多往事会不时浮现在脑中，特别是对自己所经历过的大事，由迷茫、迷惑到去思考、去探究，竟发现与己有关的反右和文革两次大事件发生之前，都上演了一个前奏，只是这个前奏被中共刻意掩盖而不为人所知，并且都以当年的中国科学院经济研究所，后改名为中国社会科学院经济研究所（以下简称经济所）为背景。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814336&from=ogGitn">千百度：你知道被译成外文最多的是哪本书吗 2017-03-20 09:51</a><br/>一本被译成外国文字最多的中国书，一本传遍了那么多国家，受到那么多人敬佩的好书，因为遭到中共的禁止，中国人自己却不能自由的学习、宣传和传播，还有比这更不正常，更令中国蒙羞的吗？！</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814335&from=ogGitn">杨光：朝鲜问题的渊源与终极解决 2017-03-20 09:45</a><br/>历史的经验似乎表明：朝鲜半岛的命运与中国的命运存在着“休戚与共”、“唇亡齿寒”的隐秘关联。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814330&from=ogGitn">【微视频】朝鲜核武器危机与中国有关吗 2017-03-20 08:57</a><br/>朝鲜宣布，新研发大功率火箭引擎18号已经在地面点火成功。如果朝鲜核武器试验出现失误，中国东北大片土地将要受到污染。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814321&from=ogGitn">【禁闻】广东揭东法院无罪释放法轮功学员 2017-03-20 08:30</a><br/>3月13号，广东省揭东县法院因证据不足，无罪释放了被非法关押8个多月的揭阳法轮功学员黄燕芝。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814376&from=ogGitn">【中国禁闻】3月19日完整版 2017-03-20 08:30</a><br/>朝鲜煤船进中国 外交部〝不了解〞？；抗建废物处置中心 肇庆人迫官方让步；江西老汉锄杀副乡长 知情者揭内情。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814316&from=ogGitn">朝鲜大动作挑衅 中美罕见将开展〝所有可能合作〞 2017-03-20 08:10</a><br/>中、美双方将在解决朝核危机的问题上开展〝所有可能的合作〞。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814163&from=ogGitn">陈破空：五千共谍撒台湾 不止 2017-03-17 22:43</a><br/>2017年3月，台湾连续发生共谍案。一个名叫周弘旭的陆生，企图吸收台湾外交部官员，套取台湾机密，被台北地检署收押。几天后，一个名叫王鸿儒的前台湾国安局少校被桃园地方法院收押。此人曾任前副总统吕秀莲的随扈，退役后到中国经商，被中共国安吸收为间谍。这两起案件，再次曝光中共渗透台湾的两种典型手法：向台湾派遣间谍，和，发展台湾人当间谍。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814252&from=ogGitn">湖北一化工厂突发火灾 现场浓烟冲天 2017-03-17 22:35</a><br/>3月17日，湖北荆门市一化工厂突发火灾，浓烟冲天。2月以来，大陆化工厂火灾爆炸事故频发。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814152&from=ogGitn">温州一司机开大货车凌晨连撞30多辆车 2017-03-17 22:32</a><br/>3月17日凌晨，浙江温州一司机开大货车连撞30多辆车，事后逃逸。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814160&from=ogGitn">中国移动贵州前董事长芈大伟被立案 2017-03-17 22:32</a><br/>日前，中国移动通信集团贵州公司董事长芈大伟因涉嫌受贿，被立案侦查。</td></tr>
 </table>
