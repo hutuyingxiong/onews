@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814431&from=ogGitn">关风祥：郭文贵爆料威力大小全看他的真话有多少 2017-03-21 05:04</a><br/>郭文贵在美国的两集电视直播，持续发酵，不但在国内引发地震，连海外中文媒体也受到波及。有人说郭〝雷声大雨点〞，〝没太多干货〞，因为郭并没爆炸性地点出更多高官姓名。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814432&from=ogGitn">赣杀村官案：明经国儿子被监控 律师暂拒采访 2017-03-21 04:58</a><br/>江西6旬村民明经国因反抗强拆而杀死乡长事件持续发酵，同情和支持明经国的声音持续高涨。但当局为控制舆情，已采取行动。明经国的儿子明帮伟向本台证实，他已被当局稳控，所有来电被监听。与此同时，该案代理律师刘文华拒绝接受外媒采访。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814430&from=ogGitn">毛泽东三个字给7岁女孩带来的恐怖记忆 2017-03-21 04:42</a><br/>我上小学一年级那年，其实毛泽东已经死了。但是他的阴魂不散，令一个小姑娘恐怖了许多年。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814429&from=ogGitn">雷击事故频发 湖南男子雨天玩充电手机丢命 2017-03-21 04:38</a><br/>3月19日，湖南省新化文田一位20多岁的罗姓男子在雨天充电玩手机时遭雷击身亡，家人悲痛欲绝。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814424&from=ogGitn">近2万件文物出水 张献忠〝千船沉银〞传说终确认？ 2017-03-21 03:55</a><br/>近日，四川彭山张献忠水下考古队公布，发掘面积已超过一万平方米，共有近2万件文物出水.</td></tr>
@@ -12,7 +13,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814428&from=ogGitn">海内外多方营救下 上海女青年韩雪娇获释 2017-03-21 02:27</a><br/>在海内外多方营救下，上海一家外企职员、青年法轮功学员韩雪娇于3月17日获释。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814419&from=ogGitn">〝画皮〞下的黑监狱深度曝光 2017-03-21 01:53</a><br/>北京市丰台区西四环南路60号院，挂了七块牌子：华信中安保安公司丰台分公司；容珍堂（北京）文化发展有限公司；容珍堂书画院；中安中视传媒有限公司；中安中能国际科技有限公司；北京国画艺术家协会……</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814417&from=ogGitn">生命的春天 2017-03-21 01:44</a><br/>时间如流水，人们都在生老病死、甜酸苦辣的生活规律中运行着，我也不例外。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814416&from=ogGitn">坐实经济政变？中共监察部长警告〝红顶商人〞 2017-03-21 01:27</a><br/>舆论称，杨晓渡剑指以肖建华为代表的〝红顶商人〞。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814416&from=ogGitn">坐实经济政变？中共监察部长严词警告〝红顶商人〞 2017-03-21 01:27</a><br/>舆论称，杨晓渡剑指以肖建华为代表的〝红顶商人〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814418&from=ogGitn">北京前进监狱阻挠律师会见法轮功案当事人 2017-03-21 00:17</a><br/>近日，北京前进监狱阻挠两名律师文东海和余文生，会见法轮功案当事人王树祥。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814413&from=ogGitn">广东救助中心变炼狱  49天死20人 2017-03-21 00:03</a><br/>据报，雷文峰在失踪期间被韶关托养〝救助〞中心收留，而该中心今年初在49天内已有20人死亡。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814427&from=ogGitn">一飞往北京的航班险遭劫机 紧急迫降 2017-03-20 23:53</a><br/>近日，埃航一飞往北京的航班险遭男子劫机，紧急迫降。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814196&from=ogGitn">【禁闻】俄媒吁移除列宁遗体〝让中共掏钱〞 2017-03-18 08:36</a><br/>俄国十月革命爆发100周年，海外俄罗斯东正教会为此在上个星期天发表声明，呼吁从莫斯科红场清除掉列宁遗体，下葬列宁。声明说，列宁遗体是20世纪制造迫害和折磨的主要凶手的象征。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814174&from=ogGitn">网传中共3个集团军开赴中朝边境   疑携俄制防空导弹（组图/视频） 2017-03-18 08:25</a><br/>川共军第16、39、40集团军的部队已经开往中朝边境。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814184&from=ogGitn">律师分析周强践踏法律背后的中共亡党危机 2017-03-18 08:21</a><br/>中共最高法院院长周强在两会上将“709大抓捕”案作为首要“政绩”，引发舆论谴责。维权律师夏钧表示，中共司法越来黑暗，就像文革时期；周强公然践踏法律，说明中共到了危急关头，中共高层心里恐惧，企图拚死维护中共独裁统治。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814183&from=ogGitn">【禁闻】陆餐饮乱象：谁造就了〝公厕餐馆 〞？ 2017-03-18 08:20</a><br/>广州传媒去年暗访当地外卖平台加盟餐馆，系列乱象引起舆论哄动。一年过去，记者再度暗访，各种乱象毫无改善。</td></tr>
 </table>
