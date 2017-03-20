@@ -2,9 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814336&from=ogGitn">千百度：你知道被译成外文最多的是哪本书吗 2017-03-20 09:51</a><br/>一本被译成外国文字最多的中国书，一本传遍了那么多国家，受到那么多人敬佩的好书，因为遭到中共的禁止，中国人自己却不能自由的学习、宣传和传播，还有比这更不正常，更令中国蒙羞的吗？！</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814335&from=ogGitn">杨光：朝鲜问题的渊源与终极解决 2017-03-20 09:45</a><br/>历史的经验似乎表明：朝鲜半岛的命运与中国的命运存在着“休戚与共”、“唇亡齿寒”的隐秘关联。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814327&from=ogGitn">中纪委副书记透六四隐情：几十万军队围城不止为对付学生 2017-03-20 09:35</a><br/>曾任中委副书记的萧洪达讲述了〝六四事件〞的一些内幕情况。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814330&from=ogGitn">【微视频】朝鲜核武器危机与中国有关吗 2017-03-20 08:57</a><br/>朝鲜宣布，新研发大功率火箭引擎18号已经在地面点火成功。如果朝鲜核武器试验出现失误，中国东北大片土地将要受到污染。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814327&from=ogGitn">中纪委副书记透六四隐情：几十万军队围城不止为对付学生 2017-03-20 08:35</a><br/>曾任中委副书记的萧洪达讲述了〝六四事件〞的一些内幕情况。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814321&from=ogGitn">【禁闻】广东揭东法院无罪释放法轮功学员 2017-03-20 08:30</a><br/>3月13号，广东省揭东县法院因证据不足，无罪释放了被非法关押8个多月的揭阳法轮功学员黄燕芝。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814316&from=ogGitn">朝鲜军事大动作挑衅？ 中美罕见将开展〝所有可能合作〞 2017-03-20 08:10</a><br/>中、美双方将在解决朝核危机的问题上开展〝所有可能的合作〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814317&from=ogGitn">石涛：美国务卿访华 对朝最后通牒 2017-03-20 08:00</a><br/>金正恩在试射导弹的时候，已经明确讲，目标是美国驻日本的基地，变相等于金正恩向美国宣战，给了美国人打他的藉口。这话反过来说，如果金正恩说我试了三颗导弹，看看能不能打进紫禁城，打进中南海，美国人说了，他是逗你玩呢。中国别认真，中国能信吗？谁逗谁玩呢？</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814092&from=ogGitn">雷洋案再现？网曝成都一司机被三交警打死 2017-03-17 07:29</a><br/>日前，网络曝光四川成都市一轿车司机肇事后被三名交警打死的视频；陆媒查证后发表报导，但随即相关报导及视频遭删除。中共警方却发布通告掩盖真相。网络质疑该事件为北京雷洋案的翻版。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814123&from=ogGitn">新一轮楼市调控启动?北京部分银行停贷 2017-03-17 07:11</a><br/>近日，中国大陆已有11个重点二三四线城市，启动新一波楼市调控措施，北京部分银行也已经停止个人住房贷款。新一波楼市调控的背景是，过年后中国大陆楼市热度开始恢复，北京及众多二三四线城市房价上涨明显。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814098&from=ogGitn">【禁闻】3月16日维权动态 2017-03-17 06:48</a><br/>曹顺利遇难3周年 人权组织追查凶手；黑龙江访民爬塔诉冤 被刑拘；大陆再有两维权人被禁出境；内蒙汉蒙冲突 两牧民伤重入院。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814097&from=ogGitn">【禁闻】3月16日退党精选 2017-03-17 06:47</a><br/>大陆的杨建锋说：共产党口口声声谈无神论，但却叫民众发毒誓，今天我终于明白真相，在此我声明退出共产党共青团与少先队组织。</td></tr>
 </table>
