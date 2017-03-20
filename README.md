@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814330&from=ogGitn">【微视频】朝鲜核武器危机与中国有关吗 2017-03-20 08:57</a><br/>朝鲜宣布，新研发大功率火箭引擎18号已经在地面点火成功。如果朝鲜核武器试验出现失误，中国东北大片土地将要受到污染。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814327&from=ogGitn">中纪委副书记透六四隐情：几十万军队围城不止为对付学生 2017-03-20 08:35</a><br/>曾任中委副书记的萧洪达讲述了〝六四事件〞的一些内幕情况。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814321&from=ogGitn">【禁闻】广东揭东法院无罪释放法轮功学员 2017-03-20 08:30</a><br/>3月13号，广东省揭东县法院因证据不足，无罪释放了被非法关押8个多月的揭阳法轮功学员黄燕芝。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814316&from=ogGitn">朝鲜军事大动作挑衅？ 中美罕见将开展〝所有可能合作〞 2017-03-20 08:10</a><br/>中、美双方将在解决朝核危机的问题上开展〝所有可能的合作〞。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814108&from=ogGitn">【禁闻】美联储加息 大陆货币政策雪上加霜 2017-03-17 06:27</a><br/>美联储日前再次宣布加息，将基准利率上调25个基点。美联储官员还暗示，今年的加息次数将比目前预期的三次更多。业界认为，这意味着美元将继续走高，人民币可能面临继续贬值，而中共央行已经进退两难的货币政策，将会雪上加霜。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814090&from=ogGitn">李昭出殡前 前副总理田纪云题字悼胡耀邦 2017-03-17 06:24</a><br/>胡耀邦遗孀李昭出殡前一日，网络曝光中共前副总理田纪云题字纪念胡耀邦。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814107&from=ogGitn">【禁闻】俄媒：列宁遗体只有中国人喜欢 2017-03-17 05:59</a><br/>二月份 72名法轮功学员被非法判刑；大陆又有数万人举报江泽民；大纪元：张晓明三个月后将被调职处理；俄媒：列宁遗体只有中国人喜欢。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814113&from=ogGitn">执行川普令 美移民局打击K-1签证及假结婚 2017-03-17 05:56</a><br/>美国移民局15日在提交国会，有关严查K-1签证及假结婚的一份书面证词中表示，已认识到社交媒体的潜在功能，并将其作为审批外国人是否涉及欺诈婚姻的工具。这意味着移民执法单位确实已将审查外国人社交媒体账号及内容，纳入签证审批程序。</td></tr>
 </table>
