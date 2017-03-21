@@ -2,7 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814551&from=ogGitn">转出大陆资金10亿 港经纪人亲述走资新渠道 2017-03-22 05:07</a><br/>日前，一名香港经纪人透露了现在大陆走资的新途径，这半年来，经他手利用这个渠道转移出大陆的资金达10亿元人民币。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814548&from=ogGitn">时政段子集：北京出租车司机一番话细思恐极 2017-03-22 04:57</a><br/>时政段子集：北京出租车司机对清华毕业生一番话细思恐极</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814552&from=ogGitn">3月21日全球看中国 2017-03-22 04:38</a><br/>全球看中国：德国之声：国际刑警发布命令 通缉中石化三名高管；华尔街日报：经合组织：中国金融风险加剧；美国之音：中国五大银行卷入俄罗斯洗钱案；大纪元时报：前南宁书记受审 或与令计划案有关。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814550&from=ogGitn">楼市调控再升级 央行急发文促银行控制房贷比 2017-03-22 04:36</a><br/>在大陆多地升级楼市调控政策之际，中共央行加急发文，敦促银行控制房贷比。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814554&from=ogGitn">江西老农抗拆怒杀村官 民间掀声援运动 2017-03-22 04:32</a><br/>江西省赣州市老农明经国抗拆怒杀村官，引起外界同情。有律师拟免费为其辩护。明经国之子否定官方说法，称其父是遭政府无通知情况下强拆一怒杀人，并表示自己已被当局维稳监控。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814547&from=ogGitn">政治局派19工作组进驻中央单位 政法系宣传口被指〝重灾区〞 2017-03-22 04:14</a><br/>政法系统和宣传系统被指是〝重灾区〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814545&from=ogGitn">悼李昭人士川流不息 有关部门“相当紧张” 2017-03-22 03:27</a><br/>中共前总书记胡耀邦遗孀的李昭去世后，到胡家小院悼念的各方人士川流不息，“有关部门”相当紧张，出动大批警察戒备。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814542&from=ogGitn">李辰：一位母亲寻求儿子死亡真相的崎岖之路（上） 2017-03-22 02:18</a><br/>2013年10月的一天，一位快70岁的老妇人走进四川省高级法院──一栋冰冷的青石色大楼。</td></tr>
@@ -59,6 +63,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814421&from=ogGitn">谢天奇：19大前哨战 习王5波行动围剿曾庆红 2017-03-21 15:53</a><br/>香港特首争夺战，作为“十九大”高层博弈的前哨战与风向标，习江双方博弈激烈，并在常委层面展开对决。从去年底到现在不到四个月时间内，习当局除了启动“第二号专案”外，另外至少还有四波行动指向曾庆红家族及其操控的香港势力。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814497&from=ogGitn">程晓容：上学成上朝—江西“皇宫”的乱世光影 2017-03-21 15:28</a><br/>穿越奇景又现中原！近日，有网民爆料，江西华东交通大学理工学院靖安校区的建筑装潢类似古代皇宫，引发网络舆论争议。据陆媒报导，这座靖安校区占地面积1850亩，拟总投入10亿元。根据网民上传的照片看，校区拥有护城河、红墙、黄色琉璃瓦、汉白玉围栏等，确实极似皇宫，难怪网民调侃：“上学成了上朝”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814508&from=ogGitn">分析：人民币陷易贬难升困境 2017-03-21 15:23</a><br/>日前，有中国智库在研究美联储升息所产生的效应时表示，面对美联储升息，人民币陷入了易贬难升的困境。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814553&from=ogGitn">缅北打工遇战乱 33陆民徒步8小时回国 2017-03-21 15:23</a><br/>近日，在果敢地区33名江西民工，冒着枪林弹雨，徒步8小时，翻山越岭逃回到云南。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814500&from=ogGitn">安徽女生遭六女围殴 叫声惨烈 2017-03-21 15:19</a><br/>近年来，大陆“校园凌霸”事件频频发生，引发关注。3月20日，网络流传一段安徽省凤阳县某学校1女生被6名女生围殴的视频。打完后，一短发女生还恐吓被打女生说，“越哭打你更狠”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814489&from=ogGitn">“塑胶粉丝”烧出刺鼻臭味 市民恐慌不敢吃 2017-03-21 15:04</a><br/>大陆毒食品泛滥成灾已失控。近日，一则“塑胶粉丝”视频在网络引起网民担忧，表示不敢食用。内容显示，“塑胶粉丝”燃烧后发出刺鼻的气味，且留下黑色残留物。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814493&from=ogGitn">毛阿敏丈夫近10亿美元海外投资疑不翼而飞 2017-03-21 14:53</a><br/>大陆知名歌星毛阿敏的丈夫、“中植系”掌门人解直锟，近年向海外一家私募股权公司投资了近10亿美元，近日被曝这笔投资不翼而飞。</td></tr>
@@ -209,9 +214,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814329&from=ogGitn">政商腐败 中纪委副书记指“谋取政治权力危险” 2017-03-20 07:04</a><br/>习近平的旧部、中纪委副书记、监察部部长杨晓渡3月18日公开警告中国企业家：“希望掌握经济权力之后谋取政治权力，这是十分危险的。”</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814364&from=ogGitn">安徽女大学生产子将其捅死塞行李箱带回老家 2017-03-20 06:44</a><br/>近日，安徽合肥一女大学生宿舍产子，将其捅死后塞行李箱带回老家。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814326&from=ogGitn">重度霾再袭京城 京津冀企业仍继续排污 2017-03-20 06:43</a><br/>3月19日上午，北京市空气质量再次达到重度污染级别，随后官方发布“空气重污染蓝色预警”。另外，京津冀及周边地区部分企业仍继续排污，这些企业日均值数据超标严重。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814328&from=ogGitn">又一藏人自焚抗议 2017-03-20 06:27</a><br/>自2009年以来，中国藏区已经发生了140多起自焚事件，多数自焚者死亡。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814332&from=ogGitn">辽宁残疾法轮功学员案将开庭 曾控告江泽民 2017-03-20 06:19</a><br/>辽宁省铁岭市银州区法院预定于3月21日,非法庭审残疾法轮功学员辛恕仁。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814324&from=ogGitn">【禁闻】朝鲜煤船进中国 外交部〝不了解〞？ 2017-03-20 05:57</a><br/>近年来，随着朝鲜金正恩政权不断发射导弹、进行核试验，对周边国家和美国进行威胁，朝鲜半岛局势快速升温，大有一触即发之势。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814351&from=ogGitn">前中纪委副书记透露六四军队围城背后隐情 2017-03-20 05:42</a><br/>杜导正在其相关回忆录中披露，中共前中纪委副书记萧洪达曾透露，六四几十万军队围城背后的隐情：担心军队哗变。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814323&from=ogGitn">多地法轮功学员无罪获释 律师：迫害难持久 2017-03-20 04:50</a><br/>近日明慧网报导多地出现法轮功学员案子在检察院不起诉无罪释放。大陆常代理法轮功案的维权律师表示，这跟政策的出台和公检法的人明白真相不愿意再替中共背黑锅，迫害法轮功难以持续、长久。</td></tr>
 </table>
