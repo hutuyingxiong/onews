@@ -34,7 +34,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814523&from=ogGitn">广东一集体土地被盗卖10年 村民维权遭镇压 2017-03-22 00:36</a><br/>广东省中山市东区库充村村民，三个月前发现村民集体土地被转到发展商手上，近日更发现开发商正在施工，其中有一处已建造豪华私人会所，村民前往阻止，过程中遭到公安局警察强捉、驱散，受伤多人。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814525&from=ogGitn">陕西假乞丐只收钱   将施舍食物丢垃圾桶 2017-03-21 23:47</a><br/>在都市的繁华路段，经常会看到一些衣衫褴褛、蓬头垢面的〝乞丐〞，但他们中的一些人却并非真正要饭，而是以此为职业，也就是人们通常所说的职业乞丐。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814546&from=ogGitn">中国五大银行卷入俄罗斯巨额洗钱 2017-03-21 23:01</a><br/>中国几家国家控制的银行涉嫌卷入俄罗斯罪犯的巨额洗钱活动。这些俄罗斯人与俄罗斯政府和俄罗斯间谍机构有关联。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814520&from=ogGitn">深圳的哥〝炸弹〞宰客   计程不足12公里变27公里 
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814520&from=ogGitn">深圳的哥〝炸弹〞载客   计程不足12公里变27公里 
 										
 											?组图 2017-03-21 22:22</a><br/>为了多〝赚〞一点钱，不少出租车安装了遥控的〝炸弹〞微小跳表器，随着行车里程的增加，车费也跟着跳涨。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814521&from=ogGitn">谣言变预言 西安地铁三号线电缆偷工减料 2017-03-21 22:11</a><br/>3月20日西安市政府召开新闻发布会，承认抽取的5个电缆样本，全部不合格。目前涉事电缆公司的8名相关人员，已被依法控制。</td></tr>
