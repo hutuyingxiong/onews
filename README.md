@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814476&from=ogGitn">袁斌：搞笑的央视打假风波 2017-03-21 12:54</a><br/>与被央视曝光的那些造假者相比，作为“喉舌”的央视自己堪称是更大的造假者</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814469&from=ogGitn">国际刑警对中国石化三高管发〝红色通报〞 2017-03-21 11:58</a><br/>印尼警方说，印尼当局于2月21日向国际刑警组织提出协助请求，并确定了红色通报中3人的身份。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814466&from=ogGitn">每日三退声明精选（2017/03/20） 2017-03-21 10:46</a><br/>我是王维林，我是中国人，是炎黄子孙，我深深的热爱着我的故乡，我的祖国！但是，从1949年到今天，神州大地上所发生的一切，都令我非常痛心！作为零零后的我，小时候，也曾无知的被中共灌输的极端思想所洗过脑，看到电视上共匪的阅兵，我也曾经热血沸腾过。直到有一天，我学会了翻墙，我明白了谷歌，Facebook，推特，YouTube，为什么用不了，为什么小时候，无意中百度...</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814473&from=ogGitn">骗救助费3年致死400余人  广东救助机构曝惊天大案 2017-03-21 10:34</a><br/>知情者爆料：广东省新丰县救助机构，3年死亡400余人的惊天大案。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814473&from=ogGitn">广东救助机构曝惊天大案 骗救助费3年致死400余人 2017-03-21 10:34</a><br/>知情者爆料：广东省新丰县救助机构，3年死亡400余人的惊天大案。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814475&from=ogGitn">刘青：不识邪恶与羞耻是共党极权本性 2017-03-21 10:18</a><br/>共党普遍凶残的心安理得，荒淫无度藐视一切法理和规则，乃是由于共党意识和实际人品滋生出来的，必是完全不识邪恶与羞耻为何物者。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814465&from=ogGitn">石涛八方：〝努力〞贪婪作梗 〝尽力〞缘分所至 2017-03-21 10:00</a><br/>我们就生活在前一妙和后一秒之间，后一秒在前一秒的基础上，每一个人都是这么默守陈规的生活着，但人生的转折往往就在这一秒之间骤然发生改变。这一秒钟，可能遇到了你的梦中情人，天降横祸，或洪福，但塞翁失马焉知非福。这里有着命运的概念。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814467&from=ogGitn">悼胡耀邦遗孀花圈摆出胡同外 有关部门〝相当紧张〞 
 										
@@ -13,6 +15,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814456&from=ogGitn">【中国禁闻】3月20日完整版 2017-03-21 09:30</a><br/>习启动二号专案 析：为十九大清障；大陆新一轮房市调控 专家: 饥饿营销；浩劫中绝响的秦香莲——小白玉霜。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814463&from=ogGitn">美国人都嫌弃的肮脏废渣 被运到中国 2017-03-21 09:25</a><br/>固体废料，由于极其容易造成污染，并严重危害人体健康，令欧美国都颇为头痛。不过，中国大陆的走私分子，竟然从海外走私大量危险类固体废物到国内，进行再加工，还能获得当地政府支持，圈地建厂，引发舆论质疑。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814462&from=ogGitn">成功：爱国不是沙文主义 2017-03-21 08:59</a><br/>爱国，就是要勇于为人民的自由而牺牲，而不是被人利用成为排外的工具，成为专制政权维护统治的牺牲品。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814474&from=ogGitn">周恩来在贺龙惨死案中鲜为人知的真面目（下） 2017-03-21 07:53</a><br/>贺龙在“文革”中惨遭迫害致死。不断披露的历史事实显示，与贺龙有着42年交情的周恩来不仅是贺龙专案组的负责人，亲自落实对贺龙的隔离审查，还签署了对贺龙的逮捕令；贺龙罪名的升级更与周恩来有直接关系。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814457&from=ogGitn">矛头指向韩正？习近平被指两会挑选下团有深意 2017-03-21 07:43</a><br/>习近平在参加上海代表团分组讨论时的发言被指暗批韩正。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814461&from=ogGitn">见过这么大的鸡吗？鸡王视频走红网络 2017-03-21 07:33</a><br/>美国署名LifesBook_Ceo的推友，3月19日在推特上传一段婆罗门鸡视频，引发网友热议，据说它来自中国上海。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814450&from=ogGitn">【禁闻】3月20日退党精选 2017-03-21 07:09</a><br/>中国共产党从抢到政权以来，它所做的一切无非就是对国人洗脑和诛心，并无所不用其极的采用愚民政策达到奴役国民的目的，活活逼死中国数千万人。</td></tr>
@@ -203,7 +206,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814228&from=ogGitn">港媒：中国正经历思想觉醒    中共已成过街老鼠 2017-03-18 23:01</a><br/>中共防民之口甚于防川，在中共治下的民间没有话语权。不过在网路时代，中国百姓正经历思想觉醒，私下里在网路平台的留言或街头巷尾的笑骂以及茶舍酒肆的段子中，中共早已是人人喊打的过街老鼠。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814248&from=ogGitn">蒂勒森见王毅 称朝鲜局势“相当危险” 2017-03-18 22:40</a><br/>在朝鲜局势紧张之际，美国务卿蒂勒森周六（18日）由韩国转往中国，并与中共外交部长王毅会面。蒂勒森称，朝鲜局势已经到了“危险的水平”，中美双方要共同努力制止朝鲜威胁。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814234&from=ogGitn">煽动民众反韩恐失控 中共变调 警方镇压 2017-03-18 22:29</a><br/>中共各地警方开始压制反韩抗议示威活动，甚至将“不听话”者带走。多家外媒认为，中共担心局势失控，开始打压反韩民众。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814236&from=ogGitn">图片社交网拼趣Pinterest 在中国被封 2017-03-18 22:15</a><br/>Pinterest遭封杀，可能与大陆民众做图说传播民主理念有关。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814271&from=ogGitn">“大右派”储安平的生死谜案 2017-03-18 22:13</a><br/>他是一代报业人，也是至今“维持原案，不予改正”的“大右派”。士大夫评议时政的传统，与西方自由民主的理想，在储安平身上融为一体，铸成一代媒体人的立身之本与人生理想。在20世纪中叶，动荡而充满变数的中国，储安平以“民主、进步、自由、独立”为宗旨，创办或执掌中国著名报刊，为大陆新闻业带来短期的鲜活气象。其实，他不过是一个书生，一个忧国忧民、希冀以言...</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814235&from=ogGitn">福建数百村民阻开发商占海 遭镇压 2017-03-18 22:12</a><br/>造成数十名村民受伤，多名老人重伤，十多人被捕，村民持续两天到市政府上访都无人理会。</td></tr>
 </table>
