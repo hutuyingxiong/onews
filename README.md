@@ -65,7 +65,6 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814399&from=ogGitn">通州风车节被轰圈钱 宣传与实际大相径庭 2017-03-20 20:03</a><br/>通州“七彩风车节”被轰欺骗，网民纷纷上传视频和图片，吐槽宣传与实际大相径庭。不仅是通州，似乎多个地区的风车节都出现类似被“忽悠”的情况。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814405&from=ogGitn">709案谢阳恐再遭酷刑 辩护律师将被污名化 2017-03-20 19:54</a><br/>“709”案谢阳的辩护律师陈建刚向大纪元表示谢阳最近很有可能再次遭受酷刑，同时他还透露，因披露谢阳受酷刑真相及坚持代理谢阳案，中共警方等最近在准备材料对他进行污名化。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814397&from=ogGitn">江西老农杀强拆官被捕 民众声援 律师免费援助 2017-03-20 19:42</a><br/>中国社会官民矛盾日趋突出，近日江西的老农抗强拆杀村官引起社会震动，网上民众声援者众，有律师公开表示提供免费法律援助，提老农维权。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814327&from=ogGitn">中纪委副书记透六四隐情：几十万军队围城不止为对付学生 2017-03-20 19:33</a><br/>曾任中委副书记的萧洪达讲述了〝六四事件〞的一些内幕情况。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814401&from=ogGitn">【翻墙必看】真实的周恩来令人不寒而栗 2017-03-20 19:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814392&from=ogGitn">大陆整形恐怖内幕  鸡腿练割双眼皮  10天速成美容师 2017-03-20 18:30</a><br/>10天课程结束后，学员们即获发该培训中心的〝美容师资格证书〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814390&from=ogGitn">中国茅台〝假〞天下 茅台故乡制假酒 利润上千热销全国 
@@ -74,6 +73,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814330&from=ogGitn">【微视频】朝鲜核武器危机与中国有关吗 2017-03-20 17:57</a><br/>朝鲜宣布，新研发大功率火箭引擎18号已经在地面点火成功。如果朝鲜核武器试验出现失误，中国东北大片土地将要受到污染。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814389&from=ogGitn">拿厕纸先〝刷脸〞 大陆人脸识别机上岗 2017-03-20 17:55</a><br/>北京天坛公园十多座公共卫生间，免费为如厕者提供手纸，但有人一天去公厕多次，将手纸塞满布袋偷偷带回家。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814387&from=ogGitn">共军部署东风16飞弹 台国防部：可境外击落 2017-03-20 17:33</a><br/>中华民国国防部长冯世宽3月20日首度证实，中共对台湾军事恫吓渐增，火箭军部署可对台湾本岛遂行精准打击的东风16型弹道飞弹，台湾有把握能先期侦测，“我们有足够武器能在境外击落”。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814327&from=ogGitn">中纪委副书记透六四隐情：几十万军队围城不止为对付学生 2017-03-20 17:33</a><br/>曾任中委副书记的萧洪达讲述了〝六四事件〞的一些内幕情况。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814394&from=ogGitn">江苏未成年女生遭3同学殴打性侵引民愤 2017-03-20 17:13</a><br/>近日，有人在网络传播一则不雅视频。内容显示3个未成年学生威胁强迫一女生与男生发生关系。女生的面部疑似被欧打肿胀。视频引发网民愤怒，指大陆的已经毁了几代人。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814384&from=ogGitn">用鸡腿练割双眼皮 豫美容班学员10天速成 2017-03-20 17:13</a><br/>近日，网络上有一则视频被热传。内容是河南郑州一美容培训中心的学员，在鸡腿上练习割双眼皮。10天后，即可得到“美容师资格证书”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814386&from=ogGitn">张北出租车司机罢工 已持续5天 2017-03-20 16:47</a><br/>张北县共有三百辆出租车分属三家出租车公司。当地民众透露，罢工的出租车停靠在城郊的南高速出口，场面壮观。</td></tr>
