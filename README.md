@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814518&from=ogGitn">京公厕推“人脸识别”厕纸机 网评道德成本高 2017-03-21 21:33</a><br/>为杜绝游客“打包”厕纸现像，近日北京天坛公园出奇招，使用“人脸识别”厕纸机，需要“刷脸”才能拿到厕纸。有评论认为“道德”的“成本”越来越高。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814517&from=ogGitn">江苏爆血案 男子持刀刺伤三巡特警后逃逸 2017-03-21 20:34</a><br/>3月21日下午，网民爆料称：“镇江宝塔路发生血案 一特勤被捅两刀”。目前，嫌犯仍在逃。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814515&from=ogGitn">涉欺诈案 中石化三高管遭国际刑警红色通缉 2017-03-21 20:21</a><br/>印尼警方21日发布消息，国际刑警组织应印尼当局要求，对中国石化集团（下称“中石化”）派驻当地的三名高管发出最高级别的红色通缉（Red Notice），他们涉嫌介入高达8.5亿美元的开发弊案。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814513&from=ogGitn">中国商界大佬投资海外足球俱乐部 高层警告 2017-03-21 20:08</a><br/>近日央行副行长在一个高端论坛上批大陆企业投资海外足球俱乐部等项目，是非理性和异常的投资。放风警告地方外汇管理机构及市场主体，不要再试图利用外汇管制的缺口和漏洞。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814293&from=ogGitn">江西一家六口在缅甸惨遭灭门 最小仅2岁 2017-03-19 16:13</a><br/>江西省丰城市一家6口在缅甸遇害，三个大人三个小孩，最小的只有2岁。目前，犯罪嫌疑人已被抓获，但惨案原因，缅方还未给出信息。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814260&from=ogGitn">孔子学院年耗16亿 红二代刮分换绿卡 2017-03-19 16:05</a><br/>知情者揭露，以〝汉语国际推广〞为招牌的孔子学院，在国外年耗费16亿税款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814280&from=ogGitn">浙江200吨危废污泥运安徽制砖 恐祸及水土 2017-03-19 15:32</a><br/>近日陆媒又曝光，浙江丽水缙云县一家电解厂，将上百吨危险废物转移到安徽五河县的一家窑厂制砖。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814308&from=ogGitn">高天韵：“把列宁遗体送给中国人”是玩笑吗 2017-03-19 15:25</a><br/>3月12日，海外俄罗斯东正教会发表声明，呼吁从红场清除列宁遗体。声明说，列宁遗体是20世纪制造迫害和折磨的主要凶手的象征。</td></tr>
 </table>
