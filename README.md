@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814545&from=ogGitn">悼李昭人士川流不息 有关部门“相当紧张” 2017-03-22 03:27</a><br/>中共前总书记胡耀邦遗孀的李昭去世后，到胡家小院悼念的各方人士川流不息，“有关部门”相当紧张，出动大批警察戒备。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814542&from=ogGitn">李辰：一位母亲寻求儿子死亡真相的崎岖之路（上） 2017-03-22 02:18</a><br/>2013年10月的一天，一位快70岁的老妇人走进四川省高级法院──一栋冰冷的青石色大楼。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814544&from=ogGitn">会场下惊现明蜀王府遗址 周杰伦成都演出被迫取消 
 										
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814322&from=ogGitn">319枪击案13周年 吕秀莲质疑中共涉入 2017-03-20 04:42</a><br/>三一九枪击案届满13年，国民党前副主席、前奇美医院詹启贤3月19日重申，前总统陈水扁当天到院时就有伤口。前副总统吕秀莲表示，中国流亡作家袁红冰认为三一九是来自于中国（中共）当时对台政策，如果袁红冰所指控是真的话，那是石破天惊的大事情。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814318&from=ogGitn">【禁闻】贫富严重分化 陆教育陷〝拉丁美洲化〞 2017-03-20 04:37</a><br/>北京大学中国教育财政科学研究所所长王蓉，在一项报告中说，在一些拉丁美洲国家，中高收入的家长更多的选择私立学校，而公立学校则逐渐成为品质低劣机构的代名词。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814315&from=ogGitn">四川藏人自焚抗议 中共封锁消息 军警严控 2017-03-20 04:03</a><br/>四川藏人白玛坚参于3月18日在甘孜县城展开自焚抗议活动，随即被中共警方灭火强行带走，生死不明；其约10名亲友到甘孜县公安局要求交还自焚者却遭拘押一夜，均受到毒打。自焚事件发生后，中共地方当局封锁网络和电话，部署军警严控。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814313&from=ogGitn">金正恩核试迹象加剧 蒂勒森发出〝最后通牒〞 2017-03-20 04:02</a><br/>美中双方都认同朝鲜半岛局势已到紧迫危险的局面。</td></tr>
 </table>
