@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814648&from=ogGitn">宇祥：陆贽的道德操守 2017-03-23 01:06</a><br/>陆贽，字敬舆，唐朝苏州嘉兴（今浙江嘉兴）人，幼年时即勤学、有操守，十八岁中进士，任翰林学士、宰相。他恪尽职守，以直言敢谏闻名当世，也因此屡遭贬谪，但他坚持为民请命，敢于矫正人君的过失，敢于揭露奸佞误国的罪恶。其论谏被称为〝经世有用之言〞、〝昭昭然与金石不朽〞。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814647&from=ogGitn">当良心遭遇政治 2017-03-23 00:36</a><br/>您看过记录片电影《纽纶堡大审判》吗？今日看后，感慨颇多。如有机会，建议您看一看。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814645&from=ogGitn">西坡：雷文锋之死撕掉了盛世的画皮 2017-03-22 23:39</a><br/>雷文锋之死，又一次撕掉了盛世的画皮。画皮有再生功能，撕了又长，所以要屡撕不止。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814644&from=ogGitn">陈思敏：刘云山文宣系统遭习王另一种清洗 2017-03-22 23:35</a><br/>3月20日中纪委官网消息，安徽出版集团原董事长王亚非被查。过去在文化界的〝皖军〞被指〝凶猛〞，安徽出版集团正是其代表。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814643&from=ogGitn">周晓辉：外交系统两官员一贬一免不寻常 2017-03-22 23:30</a><br/>几日前，大陆媒体报导称，梁建全已担任中共外交学会副会长，原副会长孙荣民去职。隶属于外交部的外交学会官网相关资讯业已更换。按照中共的说法，该学会是〝专门从事人民外交、公共外交工作的非政府组织〞。这当然是自欺欺人，因为不论从其主管部门，还是其任职人员，都在切切实实的告诉大家，这是一家打着〝非政府组织〞、实则配合中共当局推行外交政策的有着浓厚官方背景的组织。</td></tr>
@@ -216,6 +218,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814417&from=ogGitn">生命的春天 2017-03-21 01:44</a><br/>时间如流水，人们都在生老病死、甜酸苦辣的生活规律中运行着，我也不例外。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814416&from=ogGitn">坐实经济政变？中共监察部长严词警告〝红顶商人〞 2017-03-21 01:27</a><br/>舆论称，杨晓渡剑指以肖建华为代表的〝红顶商人〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814418&from=ogGitn">北京前进监狱阻挠律师会见法轮功案当事人 2017-03-21 00:17</a><br/>近日，北京前进监狱阻挠两名律师文东海和余文生，会见法轮功案当事人王树祥。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814413&from=ogGitn">广东救助中心变炼狱  49天死20人 2017-03-21 00:03</a><br/>据报，雷文峰在失踪期间被韶关托养〝救助〞中心收留，而该中心今年初在49天内已有20人死亡。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814427&from=ogGitn">一飞往北京的航班险遭劫机 紧急迫降 2017-03-20 23:53</a><br/>近日，埃航一飞往北京的航班险遭男子劫机，紧急迫降。</td></tr>
 </table>
