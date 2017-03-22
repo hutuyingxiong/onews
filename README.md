@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814618&from=ogGitn">北京诗人王藏遭逼迁 妻子精神失常 2017-03-22 17:00</a><br/>北京诗人王藏22号告诉《新唐人》，他的妻子从19号上午9点多就精神失常了，因为这几年来跟着他四处漂泊，搬了9次家。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814528&from=ogGitn">王友群：〝马列子孙〞中共对〝炎黄子孙〞祖先的彻底否定 2017-03-22 16:57</a><br/>问渠哪得清如许，为有源头活水来。自古以来，中华民族的先祖就有敬神佛，敬天地，敬祖先，慎终怀远，认祖归宗，承前启后的优良传统。神佛创造了人，天地养育了人，祖先繁衍了人。中华民族的祖先，从神的启示中，创造了举世无双、灿烂辉煌的神传文化。这文化，通过一代又一代优秀的中国知识份子，承传到了1949年。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814617&from=ogGitn">西湖龙井春茶上市  1斤3千元以上 2017-03-22 16:46</a><br/>西湖龙井中外驰名，色绿、香郁、味甘、形美。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814616&from=ogGitn">不浸泡直接干煮冬菇  浙江女胃生7厘米〝冬菇石〞 2017-03-22 16:34</a><br/>最近，吴姓女子到义乌稠州医院求诊，一粒7厘米大的〝冬菇石〞才被取出。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814614&from=ogGitn">十九大临近暗流涌动 传前国防部长梁光烈将落马 2017-03-22 16:02</a><br/>有评论分析，前国防部长梁光烈在十九大召开前，或步王喜斌后尘。</td></tr>
@@ -21,7 +23,6 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814597&from=ogGitn">每日三退声明精选（2017/03/21） 2017-03-22 11:49</a><br/>本人纯属自愿，请求退出中共党、团、队及一切魔教恐怖组织。我现在明白了中共说这个邪那个邪，象中共那么邪的全世界都找不到，说它是邪教还不够，应该加上最大的魔教恐怖组织！！</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814596&from=ogGitn">传习明年启动修宪 或修改国家主席任期 2017-03-22 11:46</a><br/>北京消息透露，习当局已着手修改宪法准备，或明年将启动修宪动员；未来修宪的主要内容，包括撤销中共国家主席连任两届的限制等。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814599&from=ogGitn">玉清心：中共不倒 “血拆”不停 2017-03-22 11:31</a><br/>如果“血拆”多年，恶性案件愈演愈烈，就是停不下来，说明吃人的土地政策改变不了。如果连“丰城事件”后的妥协让步都做不到了，说明出台恶政的中共已经无力自救，到了非解体不可的地步。解体中共，才能结束“血拆”惨案。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814528&from=ogGitn">王友群：〝马列子孙〞中共对〝炎黄子孙〞祖先的彻底否定 2017-03-22 11:20</a><br/>问渠哪得清如许，为有源头活水来。自古以来，中华民族的先祖就有敬神佛，敬天地，敬祖先，慎终怀远，认祖归宗，承前启后的优良传统。神佛创造了人，天地养育了人，祖先繁衍了人。中华民族的祖先，从神的启示中，创造了举世无双、灿烂辉煌的神传文化。这文化，通过一代又一代优秀的中国知识份子，承传到了1949年。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814561&from=ogGitn">【禁闻】国际协定CRS难堵中共贪官资产外流 2017-03-22 11:05</a><br/>按照CRS协议要求，从今年开始进行税务信息交换，共同打击跨国逃税等非法行为。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814595&from=ogGitn">官方否认明经国房屋被强拆 网友晒出航拍图 
 										
@@ -219,5 +220,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814394&from=ogGitn">江苏未成年女生遭3同学殴打性侵引民愤 2017-03-20 17:13</a><br/>近日，有人在网络传播一则不雅视频。内容显示3个未成年学生威胁强迫一女生与男生发生关系。女生的面部疑似被欧打肿胀。视频引发网民愤怒，指大陆的已经毁了几代人。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814384&from=ogGitn">用鸡腿练割双眼皮 豫美容班学员10天速成 2017-03-20 17:13</a><br/>近日，网络上有一则视频被热传。内容是河南郑州一美容培训中心的学员，在鸡腿上练习割双眼皮。10天后，即可得到“美容师资格证书”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814327&from=ogGitn">中纪委副书记透六四隐情：几十万军队围城不止为对付学生 2017-03-20 16:55</a><br/>曾任中委副书记的萧洪达讲述了〝六四事件〞的一些内幕情况。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814386&from=ogGitn">张北出租车司机罢工 已持续5天 2017-03-20 16:47</a><br/>张北县共有三百辆出租车分属三家出租车公司。当地民众透露，罢工的出租车停靠在城郊的南高速出口，场面壮观。</td></tr>
 </table>
