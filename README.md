@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814606&from=ogGitn">潘金莲状告冯小刚  〝为潘金莲正名〞 2017-03-22 14:11</a><br/>广东增城的农妇潘金莲将冯小刚等人告上法庭，要求停止侵权，恢复名誉。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814611&from=ogGitn">千百度：曝光活摘 郭文贵先生选择了正义一边 2017-03-22 13:29</a><br/>郭文贵先生可以说用自己的实际行动为中国权贵阶层人士做出了榜样。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814605&from=ogGitn">安徽过百官员被约谈 涉落马副省长案 2017-03-22 13:09</a><br/>已落马的中共安徽省副省长陈树隆有最新消息。陆媒3月22日报导指，陈树隆受贿金额巨大，远超亿元（人民币，下同）。其落马主要问题发生在芜湖执政期间，超过100名芜湖官员已被约谈。此外，为陈充当“操盘手”和涉嫌输送利益的有3人。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814601&from=ogGitn">中共打压 台外交部长：积极争取参与WHA 2017-03-22 12:58</a><br/>中共打压台湾参与世界卫生大会（WHA），外交部长李大维3月22日表示，仍在积极沟通、争取台湾援例参与WHA；对于中共的施压，他强调：“不容乐观、绝不悲观、积极争取、全力以赴”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814598&from=ogGitn">丑态毕露 中共淫官不雅〝摸胸照〞网路热传 
@@ -42,7 +43,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814562&from=ogGitn">【禁闻】49天死20人 韶关托养中心藏何黑幕 2017-03-22 06:04</a><br/>广东韶关新丰县练溪托养中心，最近爆出短短49天内有20人死亡的消息，该中心被揭发官员安插家属管账，涉嫌中饱私囊，托养愈多拨款愈多，在欠缺监管的情况下，托养中心的黑幕引发外界关注和议论。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814560&from=ogGitn">【禁闻】郭文贵揭〝活摘〞 中共高层震怒 2017-03-22 05:56</a><br/>消除〝中共活摘器官〞在国际上的影响，是中共今年的一个政策，〝一定要把这个事情给抹掉〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814559&from=ogGitn">【禁闻】十一国大使联署 促查酷刑折磨律师 2017-03-22 05:53</a><br/>十一国大使联署 促查酷刑折磨律师；港媒：特首选举 习近平称不表态；中石化三高管遭国际刑警红色通报。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814558&from=ogGitn">从3美元飙到220万 中国陶瓷品为何卖出惊人天价？ 2017-03-22 05:45</a><br/>据CNN报导，一些“未被发现”的中国陶瓷拍出惊人高价，激发了一些人的兴趣去翻找阁楼，希望发现潜藏的宝藏。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814558&from=ogGitn">从3飙到220万 中国陶瓷品何以卖出惊人天价？ 2017-03-22 05:45</a><br/>据CNN报导，一些“未被发现”的中国陶瓷拍出惊人高价，激发了一些人的兴趣去翻找阁楼，希望发现潜藏的宝藏。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814551&from=ogGitn">转出大陆资金10亿 港经纪人亲述走资新渠道 2017-03-22 05:07</a><br/>日前，一名香港经纪人透露了现在大陆走资的新途径，这半年来，经他手利用这个渠道转移出大陆的资金达10亿元人民币。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814557&from=ogGitn">资本外逃严重 李克强提到国有资产问题 2017-03-22 05:05</a><br/>大陆资本外逃严重，李克强近日表示，国有资产不能任人宰割，要加强企业海外投资监管。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814548&from=ogGitn">时政段子集：北京出租车司机一番话细思恐极 2017-03-22 04:57</a><br/>时政段子集：北京出租车司机对清华毕业生一番话细思恐极</td></tr>
@@ -219,5 +220,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814385&from=ogGitn">山西焦煤原副总涉贪被情妇揭露 2017-03-20 16:19</a><br/>山西焦煤集团原副总经理的刘生瑞的情妇被抓后，如实交代了他们共同受贿，还主动揭发了官方未掌握的刘生瑞的其他犯罪事实，因此获得轻判。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814381&from=ogGitn">广东救助中心变炼狱  49天死20人 2017-03-20 16:09</a><br/>据报，雷文峰在失踪期间被韶关托养〝救助〞中心收留，而该中心今年初在49天内已有20人死亡。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814380&from=ogGitn">颜丹：70年房屋产权“自动续期”是“定心丸”? 2017-03-20 15:57</a><br/>目前在中国，所谓的“土地国有”其实已是“政府所有”，而非国民所有。从如今中共治下，各级政府堂而皇之的变卖土地、甚至动不动就搞“强拆”的现实情况来看，本该率属于国民的“土地”在中共的字典里早已变成了“党产”。确切的说，是仅限于在中共权贵内部进行瓜分的私有财产。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814339&from=ogGitn">夏小强：中共迫害法轮功18年 世人面临抉择 2017-03-20 15:45</a><br/>2017年3月13日，广东省揭东县法院以证据不足，无罪释放被非法关押八个多月的法轮功学员黄燕芝。黄燕芝现已回家。</td></tr>
 </table>
