@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814648&from=ogGitn">宇祥：陆贽的道德操守 2017-03-23 01:06</a><br/>陆贽，字敬舆，唐朝苏州嘉兴（今浙江嘉兴）人，幼年时即勤学、有操守，十八岁中进士，任翰林学士、宰相。他恪尽职守，以直言敢谏闻名当世，也因此屡遭贬谪，但他坚持为民请命，敢于矫正人君的过失，敢于揭露奸佞误国的罪恶。其论谏被称为〝经世有用之言〞、〝昭昭然与金石不朽〞。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814649&from=ogGitn">姜维平：西南证券被调查 黄奇帆〝触雷〞？ 2017-03-23 00:51</a><br/>日前，重庆证券商西南证券遭证监会调查。前香港《文汇报》记者姜维平发文指，西南证券此次踩进了中纪委和证监会严厉打击的〝雷区〞，作为西南证券当年上市主要推手和后台的原重庆市长黄奇帆，恐怕脱不了干系。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814647&from=ogGitn">当良心遭遇政治 2017-03-23 00:36</a><br/>您看过记录片电影《纽纶堡大审判》吗？今日看后，感慨颇多。如有机会，建议您看一看。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814645&from=ogGitn">西坡：雷文锋之死撕掉了盛世的画皮 2017-03-22 23:39</a><br/>雷文锋之死，又一次撕掉了盛世的画皮。画皮有再生功能，撕了又长，所以要屡撕不止。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814644&from=ogGitn">陈思敏：刘云山文宣系统遭习王另一种清洗 2017-03-22 23:35</a><br/>3月20日中纪委官网消息，安徽出版集团原董事长王亚非被查。过去在文化界的〝皖军〞被指〝凶猛〞，安徽出版集团正是其代表。</td></tr>
@@ -54,7 +55,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814596&from=ogGitn">传习明年启动修宪 或修改国家主席任期 2017-03-22 11:46</a><br/>北京消息透露，习当局已着手修改宪法准备，或明年将启动修宪动员；未来修宪的主要内容，包括撤销中共国家主席连任两届的限制等。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814599&from=ogGitn">玉清心：中共不倒 “血拆”不停 2017-03-22 11:31</a><br/>如果“血拆”多年，恶性案件愈演愈烈，就是停不下来，说明吃人的土地政策改变不了。如果连“丰城事件”后的妥协让步都做不到了，说明出台恶政的中共已经无力自救，到了非解体不可的地步。解体中共，才能结束“血拆”惨案。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814561&from=ogGitn">【禁闻】国际协定CRS难堵中共贪官资产外流 2017-03-22 11:05</a><br/>按照CRS协议要求，从今年开始进行税务信息交换，共同打击跨国逃税等非法行为。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814595&from=ogGitn">官方否认明经国房屋被强拆 网友晒出航拍图 
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814595&from=ogGitn">官方否认明经国房屋被强拆 网友晒航拍图揭谎 
 										
 											?组图 2017-03-22 11:05</a><br/>网友发布一张从高处拍照的明家老屋照片，显示屋顶一部份已被拆除。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814592&from=ogGitn">中共红色教育 教授：已没人信 2017-03-22 10:57</a><br/>宋代著名理学家张载说，读书人要“为天地立心，为生民立命，为往圣继绝学，为万世开太平。”真正的读书人，重道德品行，具社会责任、心怀国家，教育更是立国之本；然而在中共统治下的中国教育，学生却成了追名逐利的自私菁英。一篇北京大学著名教授钱理群的文章〈大学里绝对精致的利己主义者〉引发社会哗然。他看到，中国顶尖学府正在培养“绝对的、精致的利己主义者”，这群顶尖...</td></tr>
@@ -217,5 +218,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814453&from=ogGitn">中国人酷爱龙虾 促美国出口创历史新高 2017-03-21 01:50</a><br/>龙虾味道鲜美，特受中国食客的喜爱。近年来大陆龙虾需求不断增长，美国龙虾出口大陆的销售量疯狂增长。去年出口到大陆的龙虾创历史新高。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814417&from=ogGitn">生命的春天 2017-03-21 01:44</a><br/>时间如流水，人们都在生老病死、甜酸苦辣的生活规律中运行着，我也不例外。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814416&from=ogGitn">坐实经济政变？中共监察部长严词警告〝红顶商人〞 2017-03-21 01:27</a><br/>舆论称，杨晓渡剑指以肖建华为代表的〝红顶商人〞。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814418&from=ogGitn">北京前进监狱阻挠律师会见法轮功案当事人 2017-03-21 00:17</a><br/>近日，北京前进监狱阻挠两名律师文东海和余文生，会见法轮功案当事人王树祥。</td></tr>
 </table>
