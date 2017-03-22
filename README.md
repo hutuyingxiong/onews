@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814629&from=ogGitn">山东龙冈天马岛景区发生爆炸 两人当场身亡 2017-03-22 19:17</a><br/>3月20日，有网友爆料在山东龙冈旅游天马岛景区天马忠魂一炸药库发生爆炸，当场两人身亡。周边的建设不同程度受损。次日该旅游景区各路口设警戒线，游人无法进入。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814614&from=ogGitn">十九大临近暗流涌动 传前国防部长梁光烈将落马 2017-03-22 18:52</a><br/>有评论分析，前国防部长梁光烈在十九大召开前，或步王喜斌后尘。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814624&from=ogGitn">传习近平批示了郭文贵爆料 〝让子弹飞〞 2017-03-22 18:35</a><br/>习近平近日对此做出了批示。其中一条是，要查清爆料人的背景和问题。有分析认为，这意味着习近平想〝让子弹多飞一会儿〞，以便从郭文贵的背景和爆料中，捏住政治对手的命门。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814628&from=ogGitn">【翻墙必看】中共四千老干部曾犀利批毛 2017-03-22 18:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814627&from=ogGitn">中韩足球赛长沙举行 安保空前万警戒备 2017-03-22 17:34</a><br/>2018世界杯亚洲区预赛决选赛的中韩足球赛，安保空前，当局部署万余名警力戒备。</td></tr>
@@ -14,7 +16,6 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814617&from=ogGitn">西湖龙井春茶上市  1斤3千元以上 2017-03-22 16:46</a><br/>西湖龙井中外驰名，色绿、香郁、味甘、形美。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814616&from=ogGitn">不浸泡直接干煮冬菇  浙江女胃生7厘米〝冬菇石〞 2017-03-22 16:34</a><br/>最近，吴姓女子到义乌稠州医院求诊，一粒7厘米大的〝冬菇石〞才被取出。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814619&from=ogGitn">中共拟新规限海外投资 分析：难遏资本外流 2017-03-22 16:03</a><br/>由于担心资本外流，中共收紧了对大陆企业海外并购的审查，今年以来相关交易正在减速。有分析表示，即使中共政府采取管控，大陆资本外流的压力仍在，而且管控也令境外机构愈加谨慎。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814614&from=ogGitn">十九大临近暗流涌动 传前国防部长梁光烈将落马 2017-03-22 16:02</a><br/>有评论分析，前国防部长梁光烈在十九大召开前，或步王喜斌后尘。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814613&from=ogGitn">港媒：中办传达密件明年修宪 涉3大议题习近平势延任 2017-03-22 15:56</a><br/>目前，宪法规定国家主席任期为每届5年。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814612&from=ogGitn">广西南宁前书记受审  曾把〝暧昧〞念〝暖胃〞  与令计划夫妇有染 2017-03-22 15:53</a><br/>中共广西南宁原书记余远辉受贿案于3月21日在湖南湘西中级法院一审开庭审理，余远辉被控受贿金额逾900万元人民币。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814626&from=ogGitn">广东农妇潘金莲状告冯小刚等人侵权 2017-03-22 14:40</a><br/>大陆知名导演冯小刚导演的电影《我不是潘金莲》惹官司：广东农妇潘金莲起诉冯小刚等9人侵犯名誉权。庭审当日冯小刚等未现身。该案将于4月19日宣判。</td></tr>
@@ -217,5 +218,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814307&from=ogGitn">郭文贵称赞法轮功 2017-03-20 21:26</a><br/>我希望法轮功呢，真的是会发扬光大，在中华民族走向最关键的时刻发挥积极的作用。然后，我希望你们能成功。我如果有机会能为你们做什么事情，我也非常愿意做。我也深信法轮功会在未来，不会很长时间，对这个国家、这个世界有更大贡献的。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814400&from=ogGitn">欧美铝业协会：大陆产能过剩扰乱国际贸易 2017-03-20 20:10</a><br/>近日，美国、欧洲和加拿大的铝业协会联合呼吁，在今年夏季的20国集团（G20）会议之前建立一个全球论坛，来处理中国的铝产量飙升的问题。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814399&from=ogGitn">通州风车节被轰圈钱 宣传与实际大相径庭 2017-03-20 20:03</a><br/>通州“七彩风车节”被轰欺骗，网民纷纷上传视频和图片，吐槽宣传与实际大相径庭。不仅是通州，似乎多个地区的风车节都出现类似被“忽悠”的情况。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814405&from=ogGitn">709案谢阳恐再遭酷刑 辩护律师将被污名化 2017-03-20 19:54</a><br/>“709”案谢阳的辩护律师陈建刚向大纪元表示谢阳最近很有可能再次遭受酷刑，同时他还透露，因披露谢阳受酷刑真相及坚持代理谢阳案，中共警方等最近在准备材料对他进行污名化。</td></tr>
 </table>
