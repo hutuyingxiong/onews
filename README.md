@@ -2,21 +2,22 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814605&from=ogGitn">安徽过百官员被约谈 涉落马副省长案 2017-03-22 13:09</a><br/>已落马的中共安徽省副省长陈树隆有最新消息。陆媒3月22日报导指，陈树隆受贿金额巨大，远超亿元（人民币，下同）。其落马主要问题发生在芜湖执政期间，超过100名芜湖官员已被约谈。此外，为陈充当“操盘手”和涉嫌输送利益的有3人。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814601&from=ogGitn">中共打压 台外交部长：积极争取参与WHA 2017-03-22 12:58</a><br/>中共打压台湾参与世界卫生大会（WHA），外交部长李大维3月22日表示，仍在积极沟通、争取台湾援例参与WHA；对于中共的施压，他强调：“不容乐观、绝不悲观、积极争取、全力以赴”。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814598&from=ogGitn">丑态毕露 中共淫官不雅〝摸胸照〞网路热传 
-										
-											?组图 2017-03-22 12:50</a><br/>陜西省榆林市一名中共村官，被网民举报行为不检点。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814590&from=ogGitn">与〝女大学生〞网聊被骗58万 10年后才知是大妈 2017-03-22 12:47</a><br/>大妈编造年龄以及身世，并通过假照片、变声器来和男网友聊天。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814600&from=ogGitn">【快讯】朝鲜发射1枚导弹 数秒后空中爆炸 2017-03-22 12:10</a><br/>日本共同通讯社（Kyodo News）援引日本政府的消息报导，朝鲜可能在当地时间3月22日上午发射几枚导弹。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814603&from=ogGitn">周晓辉：外交系统两官员一贬一免不寻常 2017-03-22 11:52</a><br/>梁建全、孙荣民的被贬和被免，虽然静悄悄，但透出的信号却是：外交部反腐和清剿江派仍在进行中。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814597&from=ogGitn">每日三退声明精选（2017/03/21） 2017-03-22 11:49</a><br/>本人纯属自愿，请求退出中共党、团、队及一切魔教恐怖组织。我现在明白了中共说这个邪那个邪，象中共那么邪的全世界都找不到，说它是邪教还不够，应该加上最大的魔教恐怖组织！！</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814596&from=ogGitn">传习明年启动修宪 或修改国家主席任期 2017-03-22 11:46</a><br/>北京消息透露，习当局已着手修改宪法准备，或明年将启动修宪动员；未来修宪的主要内容，包括撤销中共国家主席连任两届的限制等。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814599&from=ogGitn">玉清心：中共不倒 “血拆”不停 2017-03-22 11:31</a><br/>如果“血拆”多年，恶性案件愈演愈烈，就是停不下来，说明吃人的土地政策改变不了。如果连“丰城事件”后的妥协让步都做不到了，说明出台恶政的中共已经无力自救，到了非解体不可的地步。解体中共，才能结束“血拆”惨案。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814598&from=ogGitn">丑态毕露 中共淫官不雅〝摸胸照〞网路热传 
+										
+											?组图 2017-03-22 11:19</a><br/>陜西省榆林市一名中共村官，被网民举报行为不检点。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814561&from=ogGitn">【禁闻】国际协定CRS难堵中共贪官资产外流 2017-03-22 11:05</a><br/>按照CRS协议要求，从今年开始进行税务信息交换，共同打击跨国逃税等非法行为。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814595&from=ogGitn">官方否认明经国房屋被强拆 网友晒出航拍图 
 										
 											?组图 2017-03-22 11:05</a><br/>网友发布一张从高处拍照的明家老屋照片，显示屋顶一部份已被拆除。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814592&from=ogGitn">中共红色教育 教授：已没人信 2017-03-22 10:57</a><br/>宋代著名理学家张载说，读书人要“为天地立心，为生民立命，为往圣继绝学，为万世开太平。”真正的读书人，重道德品行，具社会责任、心怀国家，教育更是立国之本；然而在中共统治下的中国教育，学生却成了追名逐利的自私菁英。一篇北京大学著名教授钱理群的文章〈大学里绝对精致的利己主义者〉引发社会哗然。他看到，中国顶尖学府正在培养“绝对的、精致的利己主义者”，这群顶尖...</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814590&from=ogGitn">与〝女大学生〞网聊被骗58万 10年后才知是大妈 2017-03-22 10:57</a><br/>大妈编造年龄以及身世，并通过假照片、变声器来和男网友聊天。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814589&from=ogGitn">11吨爱他美假奶粉现身海外 震惊海淘妈妈 2017-03-22 10:52</a><br/>达能建议中国消费者最好从爱他美官网和线下门店购买。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814594&from=ogGitn">付永军：浸泡在农药化肥里的国度 2017-03-22 10:08</a><br/>在中国，公开讨论土壤污染，已经成为一个极其敏感的话题。官媒全面禁言，政府国家机密，以至于到现在为止，我们都没有一个准确的资料去揭开我们早已千疮百孔的土壤黑纱。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814563&from=ogGitn">【禁闻】赣大学砸十亿建皇宫校区  网友吐槽 2017-03-22 09:47</a><br/>如果不是被告知这是一所高校校区，肯定有人以为走进了一座影视城，乍眼看去，无论是建筑还是装修的式样，都很类似故宫这样的宫廷建筑，护城河、城墙、黄色的琉璃瓦、红墙、汉白玉围栏一应俱全.</td></tr>
@@ -219,5 +220,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814366&from=ogGitn">一片阴森凄凉 美媒清晰图揭秘中国鬼城 2017-03-20 15:33</a><br/>中共多年来一直在建造巨大的“鬼城”。根据美国DigitalGlobe公司和《商业内幕》新的卫星分析判断，中国仍有数量惊人的空置房地产。“鬼城”究竟是什么样子？《商业内幕》用最新卫星技术清晰呈现了其内部阴森、凄凉的景象。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814395&from=ogGitn">网文：最严调控出台 原来北京不缺房子 2017-03-20 15:33</a><br/>日前，北京出台了被称为目前最严格的楼市限购措施，有财经人士对此进行了分析后表示，北京原来不缺房子。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814377&from=ogGitn">朱虹霖：中国雾霾的根治不用耗费巨资 2017-03-20 15:24</a><br/>在刚刚结束的北京两会上，中国国务院总理李克强在回答记者问时说：〝中国北方冬季的雾霾，在全世界都是特殊的，当然，这个因素我不便在这儿发表……国家为此将设立专项资金〞不惜巨资来治理雾霾。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814369&from=ogGitn">北大才子卖猪肉年收入超过12亿元 2017-03-20 15:16</a><br/>陆步轩开的连锁猪肉店，如今遍及北上广并挺进宁波，年收入超过12亿元人民币。</td></tr>
 </table>
