@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814614&from=ogGitn">十九大临近暗流涌动 传前国防部长梁光烈将落马 2017-03-22 16:02</a><br/>有评论分析，前国防部长梁光烈在十九大召开前，或步王喜斌后尘。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814613&from=ogGitn">港媒：中办传达密件明年修宪 涉3大议题习近平势延任 2017-03-22 15:56</a><br/>目前，宪法规定国家主席任期为每届5年。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814612&from=ogGitn">广西南宁前书记受审  曾把〝暧昧〞念〝暖胃〞  与令计划夫妇有染 2017-03-22 15:53</a><br/>中共广西南宁原书记余远辉受贿案于3月21日在湖南湘西中级法院一审开庭审理，余远辉被控受贿金额逾900万元人民币。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814606&from=ogGitn">潘金莲状告冯小刚  〝为潘金莲正名〞 2017-03-22 14:11</a><br/>广东增城的农妇潘金莲将冯小刚等人告上法庭，要求停止侵权，恢复名誉。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814611&from=ogGitn">千百度：曝光活摘 郭文贵先生选择了正义一边 2017-03-22 13:29</a><br/>郭文贵先生可以说用自己的实际行动为中国权贵阶层人士做出了榜样。</td></tr>
@@ -218,6 +220,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814422&from=ogGitn">陈思敏：傅政华实权接连被削 仕途不妙 2017-03-20 16:36</a><br/>外界或有认为，在此换届大年，现任公安部副部长傅政华的仕途恐因郭文贵海外爆料而受影响。其实早在两年前，傅政华的仕途已经大闪黄灯。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814383&from=ogGitn">北京颐和园售票员疑勾结黄牛倒卖门票 2017-03-20 16:28</a><br/>有大陆网民在微博上发帖称，在北京颐和园门口排队买入门票时，看到有职员将几叠门票交给“黄牛”（即票贩子）手中，质疑售票员与黄牛勾结敛财。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814382&from=ogGitn">山东惊现〝烈火战车〞 货车起火马路狂奔 2017-03-20 16:25</a><br/>山东临沂一辆行驶的货车车尾，载满货物的货斗突然起火。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814385&from=ogGitn">山西焦煤原副总涉贪被情妇揭露 2017-03-20 16:19</a><br/>山西焦煤集团原副总经理的刘生瑞的情妇被抓后，如实交代了他们共同受贿，还主动揭发了官方未掌握的刘生瑞的其他犯罪事实，因此获得轻判。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814381&from=ogGitn">广东救助中心变炼狱  49天死20人 2017-03-20 16:09</a><br/>据报，雷文峰在失踪期间被韶关托养〝救助〞中心收留，而该中心今年初在49天内已有20人死亡。</td></tr>
 </table>
