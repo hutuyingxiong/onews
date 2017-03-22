@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814675&from=ogGitn">【禁闻】3月22日维权动态 2017-03-23 05:54</a><br/>内蒙学校危楼上课 上千家长恐慌；东莞禁摩 民众称警方变相敛财；村民抗议高速施工毁地 遭200人暴打；上海维权人士遭酷刑 内伤住院。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814672&from=ogGitn">【禁闻】3月22日退党精选 2017-03-23 05:51</a><br/>中国越来越多民众从民间渠道得知中共活摘法轮功学员器官，他们不愿糊里糊涂加入中共组织，都声明退出。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814671&from=ogGitn">广西一男子突然冲向公交车 遭碾压身亡 2017-03-23 05:25</a><br/>3月22日下午，广西省南宁市发生一起路人被公交车碾压，路人当场死亡的事故。事故发生突然，不知该男子为何在与人谈话时冲向公交车？目前，该起事故的原因还在调查中。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814674&from=ogGitn">【禁闻】马克思家乡人如何看待马克思 2017-03-23 05:23</a><br/>今年一月，当党媒《人民日报》刊登文章，报导中国雕塑家去年到马克思出生地特里尔市参观并构思塑像时，实际上特里尔市民还没有决定，要不要接受这个烫手的礼物。今年3月，在经历了将近一年的争论后，特里尔市议会表决通过，决定接下这个礼物。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814665&from=ogGitn">习王杀回马枪 吉林纪委书记崔少鹏被调离 2017-03-23 05:10</a><br/>习近平、王岐山当局对江派常委张德江的老巢吉林省“杀回马枪”期间，吉林省委纪委书记崔少鹏突然被调走，引外界关注。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814670&from=ogGitn">粤村集体土地被盗卖10年  村民维权遭镇压打伤 2017-03-23 04:54</a><br/>十年前村民集体土地被私自卖掉，村民维权追查，却被警方强行驱离，并暴力抓人，导致多人受伤。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814669&from=ogGitn">香港再成习江斗焦点？ 法媒：香港党媒〝歇斯底里〞狂轰曾俊华 
@@ -216,6 +218,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814451&from=ogGitn">【禁闻】3月20日维权动态 2017-03-21 06:57</a><br/>600访民联署吁中共处理信访乱象；警方威胁庄烈宏母亲 暗杀其子；陕西村民倒垃圾堵路 三人遭拘留。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814607&from=ogGitn">江西一家在缅甸被灭门 家属：凶手残忍得惊人 2017-03-21 06:34</a><br/>江西丰城市一家六口缅甸遇害事件的家属向大纪元记者透露，凶手行凶手段残忍，大人全部是钝器击头后，用刀割喉杀害，小孩子则是用刀从后背捅至前身。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814455&from=ogGitn">张德江刘云山老巢被巡视 中纪委刊文施压 2017-03-21 06:22</a><br/>习王当局对江派两常委张德江、刘云山的政治老巢吉林、内蒙古开展“回头看”巡视之际，中纪委官网再发文施压称， 巡视要检查形式主义、各自为政，是否把“政治规矩”摆在首位等问题。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814441&from=ogGitn">【禁闻】消息人士：郭文贵佐证活摘 高层震怒 2017-03-21 05:58</a><br/>河南辉县检察院退卷 侯贵花无罪获释；消息人士：郭文贵佐证活摘 高层震怒。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814448&from=ogGitn">张献忠〝千船沉银〞传说终确认 近2万件文物出水 2017-03-21 05:57</a><br/>位于四川眉山市江口镇的张献忠〝千船沉银〞遗址，目前发掘面积已超过一万平方米，共有近2万件文物出水，当中包括金银币、金印侧、金银首饰、铁制刀剑等兵器。张献忠江口沉银一直是一个未解之谜，此次发掘为此提供了直接证据。</td></tr>
 </table>
