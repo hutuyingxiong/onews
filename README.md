@@ -2,7 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814721&from=ogGitn">科学家彭加木被外星人劫持？当局不敢公开的惊天内幕 2017-03-23 15:59</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814721&from=ogGitn">科学家彭加木被外星人劫持？当局不敢公开的惊天内幕 2017-03-23 16:50</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814651&from=ogGitn">【禁闻】阿城15人两会前遭绑架  家属吁释放 2017-03-23 15:41</a><br/>2月25号晚上，哈尔滨阿城区水利二处的法轮功学员张革，家门口忽然来了好几辆车，一大帮手持大铁棒的便衣从车上下来后，用铁棒将门撬开，强行将张革控制住，张革妻子当即被吓到瘫软。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814715&from=ogGitn">南京农妇采茶被射杀  肇事男：以为是野猪 2017-03-23 15:36</a><br/>67岁的魏姓农妇，在山上采茶时被人当成野猪一箭穿心而当场死亡。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814714&from=ogGitn">11国驻华大使联名  促中共公安部查709律师酷刑案 2017-03-23 15:00</a><br/>日前，11个国家的驻华大使联名致信中共公安部长郭声琨，要求公安部对709案多名被捕律师，谢阳、李和平、王全璋、李春富律师及人权活动家吴淦遭受的酷刑指控进行独立调查。</td></tr>
