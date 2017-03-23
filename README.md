@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814732&from=ogGitn">【翻墙必看】反腐触及江泽民祖孙四代成员 2017-03-23 18:35</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814731&from=ogGitn">西安地铁电缆隐患 折射官媒辟谣套路 2017-03-23 18:01</a><br/>西安地铁三号线之前曝出电缆存在重大隐患，但大陆媒体对此的报导是先〝辟谣〞，之后又承认〝造谣〞，几天之内的报导标题综合起来看，被网友嘲讽，构成一幅中国式辟谣的典型样板。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814728&from=ogGitn">央视丑闻大曝光：美女主持升职快〝红黑〞敛财有术 2017-03-23 17:53</a><br/>消息称，央视郭振玺利用媒体效应大量敛财黑幕；为了争夺客户，央视曾向百度开战。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814729&from=ogGitn">中储粮发红小麦销往面粉厂   专家：致癌 2017-03-23 17:43</a><br/>近日中储粮郑州八岗粮管所被曝光，将受潮发红的变质小麦（俗称〝红籽〞）销往当地面粉厂。专家指，变质红籽中的呕吐毒素是致癌物，会使人出现呕吐、腹泻及发烧等症状。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814505&from=ogGitn">毛阿敏丈夫近10亿美元海外私募不见了 2017-03-21 18:11</a><br/>近日，解直锟一纸诉状将XIO集团告上了开曼群岛法庭。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814507&from=ogGitn">赣农抗拆杀村官 律师网友均受压 2017-03-21 17:58</a><br/>江西赣洲市南康区十八塘副乡长卓宇，因强拆村民明经国家的房子，被老人一锄头砍死后，19号，老人被警方抓捕。而代理该案的律师刘文华遭到骚扰，前往当地声援的网民也被阻拦。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814510&from=ogGitn">北京掀婚姻造假潮 假结婚换取汽车牌照 2017-03-21 17:50</a><br/>大陆人在中共房地产泡沫经济的拉动下，曾绞尽脑汁为了多购房，多地出现假结婚、假离婚现象。如今，为了能拿到一辆牌照，北京又掀起假结婚潮。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814504&from=ogGitn">辽宁号甲板藏致命隐患  陆参谋长：危及舰上几千人生命 2017-03-21 17:35</a><br/>舰载航空兵部队参谋长张叶透露，舰上环境很恶劣，如果出现损失，可能危及好几千人的生命安全。</td></tr>
 </table>
