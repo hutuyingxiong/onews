@@ -11,7 +11,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814733&from=ogGitn">江苏访民为冤儿维权15载 今患肺癌仍坚持 2017-03-23 17:33</a><br/>江苏宜兴72岁访民卢国强为遵守对死去儿子的承诺，一维权就是15年，目前患上肺癌的他仍要坚持为29岁就冤死的儿子讨回公道，同时呼吁国际社会关注中国人权、环境问题。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814722&from=ogGitn">H7N9夺走116中国人生命  港大：基因突变 人类受威胁 2017-03-23 17:04</a><br/>3月22日，香港大学在国际期刊《自然通讯》中发表报告，称发现H7N9禽流感病毒基因出现突变可人传人，人类将受感染威胁。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814724&from=ogGitn">广东流氓式强拆 村民拼死抵抗 2017-03-23 16:54</a><br/>广东顺德大良逢沙村以建造〝欢乐华侨城〞为名征地拆迁，由于补偿过低，一些村民拒绝签字搬迁，当局采用流氓手段逼迫村民搬迁。22号，强拆一栋房屋时，遭到屋主强烈抵抗，打算扔煤油汽瓶同归于尽，成功阻止强拆。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814721&from=ogGitn">科学家彭加木被外星人劫持？当局不敢公开的惊人内幕 2017-03-23 16:50</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814721&from=ogGitn">科学家彭加木被外星人劫持？北京不敢公开的惊人内幕 2017-03-23 16:50</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814651&from=ogGitn">【禁闻】阿城15人两会前遭绑架  家属吁释放 2017-03-23 15:41</a><br/>2月25号晚上，哈尔滨阿城区水利二处的法轮功学员张革，家门口忽然来了好几辆车，一大帮手持大铁棒的便衣从车上下来后，用铁棒将门撬开，强行将张革控制住，张革妻子当即被吓到瘫软。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814715&from=ogGitn">南京农妇采茶被射杀  肇事男：以为是野猪 2017-03-23 15:36</a><br/>67岁的魏姓农妇，在山上采茶时被人当成野猪一箭穿心而当场死亡。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814717&from=ogGitn">11国驻华使馆要求中共查人权律师遭酷刑案 2017-03-23 15:02</a><br/>今年2月底，有11个国家的驻华使馆大使馆联合致信中共公安部部长郭声琨，要求中共官方调查有关人权律师在遭拘禁期间遭受酷刑的报导。</td></tr>
