@@ -2,12 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814728&from=ogGitn">央视丑闻大曝光：美女主持升职快〝红黑〞敛财有术 2017-03-23 19:53</a><br/>消息称，央视郭振玺利用媒体效应大量敛财黑幕；为了争夺客户，央视曾向百度开战。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814721&from=ogGitn">科学家彭加木被外星人劫持？北京不敢公开的惊人内幕 2017-03-23 19:51</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814734&from=ogGitn">爱滋红误认为〝中国红〞  iPhone7让中国客户尴尬 2017-03-23 19:14</a><br/>红色特别版的和iPhone7Plus，是Apple继续为对抗爱滋病项目出的一分力。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814735&from=ogGitn">济南前市长杨鲁豫受贿逾2300万 一审开庭 2017-03-23 18:50</a><br/>3月23日，山东济南前市长杨鲁豫被控受贿超过2300万元（人民币，下同）案，在中共河南省平顶山市中级法院一审开庭审理。杨鲁豫是山东被查的第三名副省级干部。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814732&from=ogGitn">【翻墙必看】反腐触及江泽民祖孙四代成员 2017-03-23 18:35</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814731&from=ogGitn">西安地铁电缆隐患 折射官媒辟谣套路 2017-03-23 18:01</a><br/>西安地铁三号线之前曝出电缆存在重大隐患，但大陆媒体对此的报导是先〝辟谣〞，之后又承认〝造谣〞，几天之内的报导标题综合起来看，被网友嘲讽，构成一幅中国式辟谣的典型样板。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814704&from=ogGitn">河北两大落马高官与令计划关系匪浅 2017-03-23 17:53</a><br/>前中共河北省委书记周本顺及其“大秘”景春华均已成为阶下囚，他们都是前中共中办主任令计划团伙的重要成员。周本顺还是令计划与周永康结盟的牵线人。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814728&from=ogGitn">央视丑闻大曝光：美女主持升职快〝红黑〞敛财有术 2017-03-23 17:53</a><br/>消息称，央视郭振玺利用媒体效应大量敛财黑幕；为了争夺客户，央视曾向百度开战。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814717&from=ogGitn">11国驻华使馆要求中共查人权律师遭酷刑案 2017-03-23 17:50</a><br/>今年2月底，有11个国家的驻华使馆大使馆联合致信中共公安部部长郭声琨，要求中共官方调查有关人权律师在遭拘禁期间遭受酷刑的报导。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814729&from=ogGitn">中储粮发红小麦销往面粉厂   专家：致癌 2017-03-23 17:43</a><br/>近日中储粮郑州八岗粮管所被曝光，将受潮发红的变质小麦（俗称〝红籽〞）销往当地面粉厂。专家指，变质红籽中的呕吐毒素是致癌物，会使人出现呕吐、腹泻及发烧等症状。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814730&from=ogGitn">曾花3.9亿买公务机享用 山西女贪官被公诉 2017-03-23 17:38</a><br/>近日，前中共山西国信集团董事长上官永清被提起公诉。上官永清被曝生活奢靡，曾花3.9亿元（人民币，下同）公款买公务机给自己享用。</td></tr>
@@ -15,13 +16,13 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814733&from=ogGitn">江苏访民为冤儿维权15载 今患肺癌仍坚持 2017-03-23 17:33</a><br/>江苏宜兴72岁访民卢国强为遵守对死去儿子的承诺，一维权就是15年，目前患上肺癌的他仍要坚持为29岁就冤死的儿子讨回公道，同时呼吁国际社会关注中国人权、环境问题。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814722&from=ogGitn">H7N9夺走116中国人生命  港大：基因突变 人类受威胁 2017-03-23 17:04</a><br/>3月22日，香港大学在国际期刊《自然通讯》中发表报告，称发现H7N9禽流感病毒基因出现突变可人传人，人类将受感染威胁。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814724&from=ogGitn">广东流氓式强拆 村民拼死抵抗 2017-03-23 16:54</a><br/>广东顺德大良逢沙村以建造〝欢乐华侨城〞为名征地拆迁，由于补偿过低，一些村民拒绝签字搬迁，当局采用流氓手段逼迫村民搬迁。22号，强拆一栋房屋时，遭到屋主强烈抵抗，打算扔煤油汽瓶同归于尽，成功阻止强拆。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814721&from=ogGitn">科学家彭加木被外星人劫持？北京不敢公开的惊人内幕 2017-03-23 16:50</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814651&from=ogGitn">【禁闻】阿城15人两会前遭绑架  家属吁释放 2017-03-23 15:41</a><br/>2月25号晚上，哈尔滨阿城区水利二处的法轮功学员张革，家门口忽然来了好几辆车，一大帮手持大铁棒的便衣从车上下来后，用铁棒将门撬开，强行将张革控制住，张革妻子当即被吓到瘫软。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814715&from=ogGitn">南京农妇采茶被射杀  肇事男：以为是野猪 2017-03-23 15:36</a><br/>67岁的魏姓农妇，在山上采茶时被人当成野猪一箭穿心而当场死亡。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814714&from=ogGitn">11国驻华大使联名  促中共公安部查709律师酷刑案 2017-03-23 15:00</a><br/>日前，11个国家的驻华大使联名致信中共公安部长郭声琨，要求公安部对709案多名被捕律师，谢阳、李和平、王全璋、李春富律师及人权活动家吴淦遭受的酷刑指控进行独立调查。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814720&from=ogGitn">湖北男子超市盗窃 得手后假扮留学生退货套现 2017-03-23 14:43</a><br/>自2月20日至3月2日以来，29岁的湖北男子常敬（化名）从重庆盗窃到成都。据了解，常敬专挑大型超市下手，偷到货物后，其又到服务台以一口流利的英语佯装成留学生要求退货，将赃物“兑换”成现金，其涉案金额在6万元以上。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814726&from=ogGitn">新疆官场大洗牌 8个市级地区“一把手”换人 2017-03-23 14:38</a><br/>近日新疆乌鲁木齐、昌吉和阿勒泰三地“一把手”同时换人。近4个月来新疆14个市级地区“一把手”已换8人，其中2名卸任的官员落马。自张春贤卸任新疆书记后，新疆官场持续被大清洗。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814713&from=ogGitn">大陆取消赴韩邮轮航班 超300个〝限韩令〞害苦商家 2017-03-23 14:37</a><br/>今日消息称，从3月15日开始直到今年年末，中国大陆取消停靠韩国港口的邮轮航班逾300个，涉及到逾100万游客。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814736&from=ogGitn">A股震荡 房地产板块走弱 市场资金面紧 2017-03-23 14:26</a><br/>最近大陆A股市场出现震荡，3月22日再现大跌，盘中一度跌1%。市场分析认为，A股震荡一方面与市场资金紧张有关，另外最近房地产板块明显走弱。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814709&from=ogGitn">央视郭振玺落马原因曝光：和江派走得很近 2017-03-23 14:15</a><br/>日前，网络上出现一篇揭底中共央视前“大总管”郭振玺黑幕的文章，道出郭振玺落马的必然性。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814705&from=ogGitn">前江苏大学副教授受贿获刑 暴力猥亵女家教 2017-03-23 14:13</a><br/>大陆高校特招黑幕频被曝光。近期，江苏大学原体育部副教授刘春忠被判刑3年3个月。刘春忠被指借高招多次受贿。此外，他曾在家中暴力猥亵其英语女家教。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814710&from=ogGitn">惊城血案 辽宁男砍妻将头扔街后跳楼亡 2017-03-23 14:00</a><br/>“这是得有多大的深仇大恨，他们夫妻这一走，可把家人和孩子给坑了！”3 月 21 日凌晨 2 时 30 分，辽宁绥中县东戴河某小区发生震惊县城血案。一名男子，在与妻子发生争吵后，残忍砍下妻子的头颅，并从20楼的住处扔到街上，后自己跳楼自杀。命案发生的前一天，夫妻俩人刚办完离婚手续。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814514&from=ogGitn">二维码被植入木马 共享单车成骗子新工具 2017-03-21 19:44</a><br/>骗子盯上了共享单车，其二维码被植入木马，盗取用户手机绑定银行卡秘码。网民感叹，大陆人必须炼就“火眼金睛”才能避免被骗。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814512&from=ogGitn">江西高层人事变动 两名副省长辞职 2017-03-21 19:27</a><br/>中共江西高层出现人事变动，尹建业、殷美根均辞任江西副省长。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814495&from=ogGitn">陈思敏：刘云山文宣系统遭习王另一种清洗 2017-03-21 18:18</a><br/>安徽出版集团王亚非在退休后的落马，可以是时代出版的重组窝案将受到清查，也是对刘云山文宣系统的另一种清洗。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814506&from=ogGitn">【翻墙必看】中纪委高层发警告 或震慑红二代 2017-03-21 18:17</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 </table>
