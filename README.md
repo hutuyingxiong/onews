@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814715&from=ogGitn">南京农妇采茶被射杀  肇事男：以为是野猪 2017-03-23 15:36</a><br/>67岁的魏姓农妇，在山上采茶时被人当成野猪一箭穿心而当场死亡。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814714&from=ogGitn">11国驻华大使联名  促中共公安部查709律师酷刑案 2017-03-23 15:00</a><br/>日前，11个国家的驻华大使联名致信中共公安部长郭声琨，要求公安部对709案多名被捕律师，谢阳、李和平、王全璋、李春富律师及人权活动家吴淦遭受的酷刑指控进行独立调查。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814713&from=ogGitn">大陆取消赴韩邮轮航班超300个  〝限韩令〞害苦商家 2017-03-23 14:37</a><br/>今日消息称，从3月15日开始直到今年年末，中国大陆取消停靠韩国港口的邮轮航班逾300个，涉及到逾100万游客。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814709&from=ogGitn">央视郭振玺落马原因曝光：和江派走得很近 2017-03-23 14:15</a><br/>日前，网络上出现一篇揭底中共央视前“大总管”郭振玺黑幕的文章，道出郭振玺落马的必然性。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814553&from=ogGitn">缅北打工遇战乱 33陆民徒步8小时回国 2017-03-21 15:23</a><br/>近日，在果敢地区33名江西民工，冒着枪林弹雨，徒步8小时，翻山越岭逃回到云南。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814500&from=ogGitn">安徽女生遭六女围殴 叫声惨烈 2017-03-21 15:19</a><br/>近年来，大陆“校园凌霸”事件频频发生，引发关注。3月20日，网络流传一段安徽省凤阳县某学校1女生被6名女生围殴的视频。打完后，一短发女生还恐吓被打女生说，“越哭打你更狠”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814489&from=ogGitn">“塑胶粉丝”烧出刺鼻臭味 市民恐慌不敢吃 2017-03-21 15:04</a><br/>大陆毒食品泛滥成灾已失控。近日，一则“塑胶粉丝”视频在网络引起网民担忧，表示不敢食用。内容显示，“塑胶粉丝”燃烧后发出刺鼻的气味，且留下黑色残留物。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814493&from=ogGitn">毛阿敏丈夫近10亿美元海外投资疑不翼而飞 2017-03-21 14:53</a><br/>大陆知名歌星毛阿敏的丈夫、“中植系”掌门人解直锟，近年向海外一家私募股权公司投资了近10亿美元，近日被曝这笔投资不翼而飞。</td></tr>
 </table>
