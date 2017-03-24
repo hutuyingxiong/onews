@@ -4,7 +4,7 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814807&from=ogGitn">每日三退声明精选（2017/03/23） 2017-03-24 12:15</a><br/>今天，我有幸听到了1989年中共镇压学生、天安门自焚伪案等真实情况，我对共产党的邪恶有了更为深刻的认识。今天，我也知道了“天灭中共，三退保命”的喜讯。为此，我坚决退出以前加入的中国共青团和少先队组织，断绝与中共邪党及邪灵的一切关系。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814805&from=ogGitn">前中国民航大学校长退休两年后被判刑 2017-03-24 11:37</a><br/>日前，前中国民航大学校长吴桐水因贪污受贿被判刑。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814808&from=ogGitn">陆球迷韩国队下榻处放鞭炮 中国队真赢了 2017-03-24 11:30</a><br/>23日凌晨2时起，中国球迷在韩国队下塌的酒店外彻夜放鞭炮。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814808&from=ogGitn">陆球迷韩国队下榻处放鞭炮 中国真队赢了 2017-03-24 11:34</a><br/>23日凌晨2时起，中国球迷在韩国队下塌的酒店外彻夜放鞭炮。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814804&from=ogGitn">充电手机有危险 甘肃农妇睡梦中手掌焦黑死亡 2017-03-24 11:11</a><br/>3月21日，甘肃平凉静宁县一户农家发生悲剧。农妇在晚间睡觉时，手握著连接火牛、正在充电的手机身亡。事后发现其手掌焦黑。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814806&from=ogGitn">中韩球赛奏韩国歌遭嘘 国际足联或处罚 2017-03-24 11:04</a><br/>港媒指，根据国际足联的章程，中国或受到罚款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814793&from=ogGitn">湖南贼王落网 操纵聋哑人盗窃 开视频会议指挥 2017-03-24 09:47</a><br/>近日，重庆市曝光一个以〝公司化管理〞聋哑人盗窃团伙,幕后老板姚某对他们洗脑培训。</td></tr>
