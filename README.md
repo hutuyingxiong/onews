@@ -2,9 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814915&from=ogGitn">【禁闻】3月24日退党精选 2017-03-25 06:26</a><br/>湖南醴陵的唐琪说：偶然的机会遇到同学的父亲，给我讲了法轮功真相，深受震撼，若不是这次机会，我根本不知道这一切，我决意退出邪恶的党、团、队组织。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814909&from=ogGitn">58同城被爆数据外泄 700元可窃取全国简历 2017-03-25 06:23</a><br/>大陆网络诈骗案频发，居民隐私非常容易遭泄漏，近日陆媒报导，只需要支付700元，就可以采集58同城全国的简历信息，有很大安全隐患。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814914&from=ogGitn">【禁闻 】3月24日维权动态 2017-03-25 06:13</a><br/>湖南访民辜湘红第15次被关精神病院；广西北海村民反强拆 挂条幅抗议；抗议牧场被占坐牢 6内蒙牧民上诉；上海20多人冒雨举牌 声援明经国。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814913&from=ogGitn">中共封杀微信群 被批不解决问题却解决提问题的人 2017-03-25 06:11</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814913&from=ogGitn">中共挥刀微信群 被批不解决问题却解决提问题的人 2017-03-25 06:11</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814906&from=ogGitn">3月24日全球看中国 2017-03-25 05:45</a><br/>垃圾之河：水污染威胁中国最美城市；河南商丘强拆村支书房爆警民冲突 警发射催泪弹驱散人群；共和党两议员要求美国对中国人权问题更强硬；50多位美国议员致信中共驻美大使，抱怨中国限制云计算的举措。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814912&from=ogGitn">刘士余口中〝野蛮人〞指谁？ 港媒揭晓终极答案 2017-03-25 05:44</a><br/>2015股灾被指党内针对习近平的经济政变，多名江派常委家属参与做空。之后习当局对金融领域展开清洗。近期证监会主席刘士余多次向〝野蛮人、大鳄〞宣战。港媒指，刘不便言明，〝魔鬼、妖精〞就是一些退休和现任顶级高官的家属。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814910&from=ogGitn">【禁闻】华夏正道受虐待 狱中发表绝食声明 2017-03-25 05:42</a><br/>华夏正道受虐待 狱中发表绝食声明；28国际组织发声明 吁公正审判709案；河南政府强拆遭抵制 上千警民互殴。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814675&from=ogGitn">【禁闻】3月22日维权动态 2017-03-23 05:54</a><br/>内蒙学校危楼上课 上千家长恐慌；东莞禁摩 民众称警方变相敛财；村民抗议高速施工毁地 遭200人暴打；上海维权人士遭酷刑 内伤住院。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814672&from=ogGitn">【禁闻】3月22日退党精选 2017-03-23 05:51</a><br/>中国越来越多民众从民间渠道得知中共活摘法轮功学员器官，他们不愿糊里糊涂加入中共组织，都声明退出。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814712&from=ogGitn">2月255位法轮功学员被绑架 7人迫害致死 2017-03-23 05:44</a><br/>据不完全统计，大陆2月份255位法轮功学员被绑架，7人在迫害中含冤离世。此外，局部地区的迫害有所减轻，2月有16名法轮功学员被无罪释放。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814676&from=ogGitn">【禁闻】中国五大国有银行涉俄罗斯洗钱案 2017-03-23 05:27</a><br/>150北京民众联署吁释放法轮功学员；中国五大国有银行卷入俄罗斯洗钱案；河南小学发生踩踏事故 20多人死伤。</td></tr>
 </table>
