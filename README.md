@@ -2,7 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814860&from=ogGitn">央视电视认罪造假 吴淦吁主持人董倩出庭作证 2017-03-24 20:23</a><br/>近日被关押的知名维权人士吴淦给央视主持人董倩的公开信在网上流传，引起关注。他痛批央视造假并要求董倩出庭作证，还原当时真相。此举得到众人赞赏和支持。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814860&from=ogGitn">央视电视认罪造假 吴淦吁主持人出庭作证 2017-03-24 20:23</a><br/>近日被关押的知名维权人士吴淦给央视主持人董倩的公开信在网上流传，引起关注。他痛批央视造假并要求董倩出庭作证，还原当时真相。此举得到众人赞赏和支持。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814859&from=ogGitn">两央企国资重大损失案 多名高官受处分 2017-03-24 20:06</a><br/>中国铁物和中冶集团造成国有资产重大损失。两大集团均有多名高官被处分，其中一名官员被移送司法机关处理。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814858&from=ogGitn">陆房价为何越控越高 投资者看清中共底牌？ 2017-03-24 19:43</a><br/>随着大陆楼市的再次火热，有二十多座城市再次推出或者加码了限购措施。为什么大陆越限购房价越高？为什么限购措施却成了楼市利好的工具？业界人士从不同侧面进行了分析。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814857&from=ogGitn">【翻墙必看】董存瑞扮演者文革中被扫地出门。 2017-03-24 18:41</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
