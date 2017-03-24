@@ -4,7 +4,7 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814807&from=ogGitn">每日三退声明精选（2017/03/23） 2017-03-24 12:15</a><br/>今天，我有幸听到了1989年中共镇压学生、天安门自焚伪案等真实情况，我对共产党的邪恶有了更为深刻的认识。今天，我也知道了“天灭中共，三退保命”的喜讯。为此，我坚决退出以前加入的中国共青团和少先队组织，断绝与中共邪党及邪灵的一切关系。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814805&from=ogGitn">前中国民航大学校长退休两年后被判刑 2017-03-24 11:37</a><br/>日前，前中国民航大学校长吴桐水因贪污受贿被判刑。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814808&from=ogGitn">陆球迷韩国队下榻处放鞭炮 中国真队赢了 2017-03-24 11:34</a><br/>23日凌晨2时起，中国球迷在韩国队下塌的酒店外彻夜放鞭炮。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814808&from=ogGitn">陆球迷韩国队下榻处放鞭炮 中国队真赢了 2017-03-24 11:30</a><br/>23日凌晨2时起，中国球迷在韩国队下塌的酒店外彻夜放鞭炮。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814804&from=ogGitn">充电手机有危险 甘肃农妇睡梦中手掌焦黑死亡 2017-03-24 11:11</a><br/>3月21日，甘肃平凉静宁县一户农家发生悲剧。农妇在晚间睡觉时，手握著连接火牛、正在充电的手机身亡。事后发现其手掌焦黑。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814806&from=ogGitn">中韩球赛奏韩国歌遭嘘 国际足联或处罚 2017-03-24 11:04</a><br/>港媒指，根据国际足联的章程，中国或受到罚款。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814793&from=ogGitn">湖南贼王落网 操纵聋哑人盗窃 开视频会议指挥 2017-03-24 09:47</a><br/>近日，重庆市曝光一个以〝公司化管理〞聋哑人盗窃团伙,幕后老板姚某对他们洗脑培训。</td></tr>
@@ -12,8 +12,8 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814791&from=ogGitn">女孩西安遇黑车遭索要603元 警方推诿不管 2017-03-24 09:23</a><br/>大陆许多城市黑车横行，近日，一位黑龙江女孩在遭遇黑车后，被索要600多元车费，当女孩质疑时，黑车司机又将她锁在车里，直到女孩微信转账后才放行。事后，当地交通运管处和警方互相推诿，均称：这事不归我们管。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814774&from=ogGitn">日上免税行人事股权变更 江泽民堂叔孙子双双出局 2017-03-24 09:02</a><br/>日前，上海日上免税行发布股权于人事变更信息，法定代表人和董事长江世干被撤换，江泽民孙子江志成不再是日上免税行的股东。江世干被指是江泽民的远房亲戚，外媒曾披露江家族通过日上资本腾挪将国有资产占为己有的内幕。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814794&from=ogGitn">18年青春18年坎坷 包斯琴高娃控告江泽民 2017-03-24 08:59</a><br/>18年前，她还是一位不谙世事的单纯女大学生；18年后，她已历经磨难，步入中年。18年来，她经历了怎样的坎坷与辛酸？她是内蒙古法轮功学员包斯琴高娃。2015年9月30日，包斯琴高娃女士正式控告江泽民。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814778&from=ogGitn">谢天奇：港特首选举 习亮底牌 张德江被打脸 2017-03-24 07:25</a><br/>香港特首前夕，中南海透露习对香港特首选举的真实态度，将中共高层对港事务存在两个司令部的分裂状况公开化。习近平的“不钦点论”，公开打脸江派常委张德江的“中央任命论”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814759&from=ogGitn">【禁闻】足球泛政治化？ 世界杯中韩战蒙阴影 2017-03-24 07:10</a><br/>2018世界杯预选赛亚洲区12强赛，23号晚上中国队与韩国队进行对决，还没开始前，教练和队长就誓言凿凿，一定不能输。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814778&from=ogGitn">谢天奇：港特首选举 习亮底牌 张德江被打脸 2017-03-24 06:37</a><br/>香港特首前夕，中南海透露习对香港特首选举的真实态度，将中共高层对港事务存在两个司令部的分裂状况公开化。习近平的“不钦点论”，公开打脸江派常委张德江的“中央任命论”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814782&from=ogGitn">【禁闻】麦粒红了 人心黑了  粮仓硕鼠有几只 2017-03-24 06:37</a><br/>小麦受潮发红后，如不及时处理，可能会产生呕吐毒素等有害物质。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814781&from=ogGitn">巧合还是宿命？饰演党员受刑的赵丹在同地被肆意凌虐 
 										
