@@ -10,6 +10,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814828&from=ogGitn">秦城监狱〝大老虎〞获减刑  薄周令郭除外 2017-03-24 16:56</a><br/>内蒙古自治区党委常委、统战部部长王素毅去年底获得减刑建议。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814824&from=ogGitn">张三丰是韩国济州岛人？太极拳申遗再起争执 2017-03-24 16:39</a><br/>河南人大代表张立勇说：韩、日等国也都在〝抢报〞太极拳申遗。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814823&from=ogGitn">新疆监狱高官贪腐上亿细节曝光  紧跟江泽民遭国际追查 2017-03-24 16:30</a><br/>近日，已落马的新疆公安厅前副厅长谢晖，被曝贪腐一亿多元。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814853&from=ogGitn">“陈毅探母”涉杜撰 大陆语文教材造假多 2017-03-24 16:05</a><br/>长期以来，中国大陆的中小学语文教材中，有不少文章涉造假、杜撰，对教育读本中存在许多史实谬误民众表示不满。近日，大陆官方出版社回应称，新版教材删除了有争议的文章。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814827&from=ogGitn">中海油去年净利大跌近97% 今年形势不明 2017-03-24 15:52</a><br/>中海油23日公布2016年业绩，油气销售收入同比下降17.2%，至人民币1213亿元，净利润跌至人民币6.37亿元，同比降幅高达96.9%。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814822&from=ogGitn">嘉兴楼盘关系户资料外泄 涉172名公职人员 2017-03-24 15:43</a><br/>日前，嘉兴一高档楼盘关系户预登记资料外泄，资料显示，预约购房人多为当地政府机关官员或金融机构负责人，还记录著这些人通过何种关系预约。官方称涉172名公职人员。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814851&from=ogGitn">陕西高速发生重大车祸 已致6死3伤 2017-03-24 15:00</a><br/>3月24日6时35分，一辆食品专用罐车与一辆面包车，在西临高速发生碰撞。事故已造成6人死亡，3人受伤。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814619&from=ogGitn">中共拟新规限海外投资 分析：难遏资本外流 2017-03-22 16:03</a><br/>由于担心资本外流，中共收紧了对大陆企业海外并购的审查，今年以来相关交易正在减速。有分析表示，即使中共政府采取管控，大陆资本外流的压力仍在，而且管控也令境外机构愈加谨慎。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814612&from=ogGitn">广西南宁前书记受审  曾把〝暧昧〞念〝暖胃〞  与令计划夫妇有染 2017-03-22 15:53</a><br/>中共广西南宁原书记余远辉受贿案于3月21日在湖南湘西中级法院一审开庭审理，余远辉被控受贿金额逾900万元人民币。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814711&from=ogGitn">陈思敏：中石化爆弊案 张高丽丑闻被触发 2017-03-22 15:33</a><br/>石油系统反腐，办了一个周永康，还有一个张高丽。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814600&from=ogGitn">朝鲜发射1枚导弹 数秒后空中爆炸 2017-03-22 15:10</a><br/>日本共同通讯社（Kyodo News）援引日本政府的消息报导，朝鲜可能在当地时间3月22日上午发射几枚导弹。</td></tr>
 </table>
