@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814852&from=ogGitn">北京大货车逆行撞向公交车 15人送医 2017-03-24 18:25</a><br/>3月24日早上6时30分许，在北京大兴区伍各庄发生一起惊险车祸。一辆载有十余乘客的公交车与一辆货车迎头相撞，造成车上15人受伤送医，其中货车上俩人受重伤。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814850&from=ogGitn">中国海平面上升加速 专家：或面临严重海洋灾难 2017-03-24 17:51</a><br/>中共官方最新数据显示，大陆沿海的海平面上升加速。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814849&from=ogGitn">央视打假节目〝造假〞  日本使馆发函质询 2017-03-24 17:40</a><br/>日本驻华大使馆近日向中共央视发出信函，就央视早前在〝315晚会〞误报日涉核食品进入中国大陆事件，提出书面质询，并要求调查央视记者采访经过和事实关系。据悉，目前日方仍未收到回复。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814830&from=ogGitn">吉林一幼儿园上百儿童集体中毒 2017-03-24 17:18</a><br/>9号下午起，吉林市春芽中东幼儿园，先后有幼儿发生腹痛，呕吐，发热，个别幼儿出现便血、听不清、看不清等症状。</td></tr>
@@ -11,6 +12,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814823&from=ogGitn">新疆监狱高官贪腐上亿细节曝光  紧跟江泽民遭国际追查 2017-03-24 16:30</a><br/>近日，已落马的新疆公安厅前副厅长谢晖，被曝贪腐一亿多元。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814827&from=ogGitn">中海油去年净利大跌近97% 今年形势不明 2017-03-24 15:52</a><br/>中海油23日公布2016年业绩，油气销售收入同比下降17.2%，至人民币1213亿元，净利润跌至人民币6.37亿元，同比降幅高达96.9%。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814822&from=ogGitn">嘉兴楼盘关系户资料外泄 涉172名公职人员 2017-03-24 15:43</a><br/>日前，嘉兴一高档楼盘关系户预登记资料外泄，资料显示，预约购房人多为当地政府机关官员或金融机构负责人，还记录著这些人通过何种关系预约。官方称涉172名公职人员。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814851&from=ogGitn">陕西高速发生重大车祸 已致6死3伤 2017-03-24 15:00</a><br/>3月24日6时35分，一辆食品专用罐车与一辆面包车，在西临高速发生碰撞。事故已造成6人死亡，3人受伤。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814817&from=ogGitn">孙悟空〝出国〞了  老外翻译《西游记》获奖 
 										
 											?组图 2017-03-24 14:22</a><br/>《西游记》是中国四大名著之一。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814612&from=ogGitn">广西南宁前书记受审  曾把〝暧昧〞念〝暖胃〞  与令计划夫妇有染 2017-03-22 15:53</a><br/>中共广西南宁原书记余远辉受贿案于3月21日在湖南湘西中级法院一审开庭审理，余远辉被控受贿金额逾900万元人民币。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814711&from=ogGitn">陈思敏：中石化爆弊案 张高丽丑闻被触发 2017-03-22 15:33</a><br/>石油系统反腐，办了一个周永康，还有一个张高丽。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814600&from=ogGitn">朝鲜发射1枚导弹 数秒后空中爆炸 2017-03-22 15:10</a><br/>日本共同通讯社（Kyodo News）援引日本政府的消息报导，朝鲜可能在当地时间3月22日上午发射几枚导弹。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814626&from=ogGitn">广东农妇潘金莲状告冯小刚等人侵权 2017-03-22 14:40</a><br/>大陆知名导演冯小刚导演的电影《我不是潘金莲》惹官司：广东农妇潘金莲起诉冯小刚等9人侵犯名誉权。庭审当日冯小刚等未现身。该案将于4月19日宣判。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814615&from=ogGitn">安徽出版集团高管落马 或涉国有资产流失 2017-03-22 14:15</a><br/>已退休近两年的安徽出版集团有限责任公司前高官落马，同日，当局下发《中国文联深化改革方案》。王亚非与中国文联出版社等国企的重组窝案被深挖。</td></tr>
 </table>
