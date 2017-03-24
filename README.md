@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814855&from=ogGitn">寅吃卯粮 中共发展模式致大陆房企债务激增 2017-03-24 18:41</a><br/>大陆经济高度依赖债务，房地产市场是其主要方面。近日有分析表示，中共过度依赖房地产和债务市场，令房企负债累累，而巨额债务也令大陆房地产市场的风险上升，并引发国际金融机构担忧。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814852&from=ogGitn">北京大货车逆行撞向公交车 15人送医 2017-03-24 18:25</a><br/>3月24日早上6时30分许，在北京大兴区伍各庄发生一起惊险车祸。一辆载有十余乘客的公交车与一辆货车迎头相撞，造成车上15人受伤送医，其中货车上俩人受重伤。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814850&from=ogGitn">中国海平面上升加速 专家：或面临严重海洋灾难 2017-03-24 17:51</a><br/>中共官方最新数据显示，大陆沿海的海平面上升加速。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814849&from=ogGitn">央视打假节目〝造假〞  日本使馆发函质询 2017-03-24 17:40</a><br/>日本驻华大使馆近日向中共央视发出信函，就央视早前在〝315晚会〞误报日涉核食品进入中国大陆事件，提出书面质询，并要求调查央视记者采访经过和事实关系。据悉，目前日方仍未收到回复。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814616&from=ogGitn">不浸泡直接干煮冬菇  浙江女胃生7厘米〝冬菇石〞 2017-03-22 16:34</a><br/>最近，吴姓女子到义乌稠州医院求诊，一粒7厘米大的〝冬菇石〞才被取出。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814603&from=ogGitn">周晓辉：外交系统两官员一贬一免不寻常 2017-03-22 16:20</a><br/>梁建全、孙荣民的被贬和被免，虽然静悄悄，但透出的信号却是：外交部反腐和清剿江派仍在进行中。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814619&from=ogGitn">中共拟新规限海外投资 分析：难遏资本外流 2017-03-22 16:03</a><br/>由于担心资本外流，中共收紧了对大陆企业海外并购的审查，今年以来相关交易正在减速。有分析表示，即使中共政府采取管控，大陆资本外流的压力仍在，而且管控也令境外机构愈加谨慎。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814612&from=ogGitn">广西南宁前书记受审  曾把〝暧昧〞念〝暖胃〞  与令计划夫妇有染 2017-03-22 15:53</a><br/>中共广西南宁原书记余远辉受贿案于3月21日在湖南湘西中级法院一审开庭审理，余远辉被控受贿金额逾900万元人民币。</td></tr>
 </table>
