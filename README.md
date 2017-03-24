@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814850&from=ogGitn">中国海平面上升加速 专家：或面临严重海洋灾难 2017-03-24 17:51</a><br/>中共官方最新数据显示，大陆沿海的海平面上升加速。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814849&from=ogGitn">央视打假节目〝造假〞  日本使馆发函质询 2017-03-24 17:40</a><br/>日本驻华大使馆近日向中共央视发出信函，就央视早前在〝315晚会〞误报日涉核食品进入中国大陆事件，提出书面质询，并要求调查央视记者采访经过和事实关系。据悉，目前日方仍未收到回复。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814830&from=ogGitn">吉林一幼儿园上百儿童集体中毒 2017-03-24 17:18</a><br/>9号下午起，吉林市春芽中东幼儿园，先后有幼儿发生腹痛，呕吐，发热，个别幼儿出现便血、听不清、看不清等症状。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814829&from=ogGitn">不满被指影响患者就诊  河北警官反铐医生 2017-03-24 17:09</a><br/>中国维权律师兰志学说，大陆警权滥用，已经成为一种习惯，他一天不违法好像都不正常了。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814828&from=ogGitn">秦城监狱〝大老虎〞获减刑  薄周令郭除外 2017-03-24 16:56</a><br/>内蒙古自治区党委常委、统战部部长王素毅去年底获得减刑建议。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814600&from=ogGitn">朝鲜发射1枚导弹 数秒后空中爆炸 2017-03-22 15:10</a><br/>日本共同通讯社（Kyodo News）援引日本政府的消息报导，朝鲜可能在当地时间3月22日上午发射几枚导弹。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814626&from=ogGitn">广东农妇潘金莲状告冯小刚等人侵权 2017-03-22 14:40</a><br/>大陆知名导演冯小刚导演的电影《我不是潘金莲》惹官司：广东农妇潘金莲起诉冯小刚等9人侵犯名誉权。庭审当日冯小刚等未现身。该案将于4月19日宣判。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814615&from=ogGitn">安徽出版集团高管落马 或涉国有资产流失 2017-03-22 14:15</a><br/>已退休近两年的安徽出版集团有限责任公司前高官落马，同日，当局下发《中国文联深化改革方案》。王亚非与中国文联出版社等国企的重组窝案被深挖。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814606&from=ogGitn">潘金莲状告冯小刚  〝为潘金莲正名〞 2017-03-22 14:11</a><br/>广东增城的农妇潘金莲将冯小刚等人告上法庭，要求停止侵权，恢复名誉。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814810&from=ogGitn">谢田：中美贸易战若开打谁先称臣 2017-03-22 14:09</a><br/>如笔者在〈中美贸易之战是否已经开打〉一文中所述，中美贸易战虽然没有正式进入上规模的冲突，但试探性的武力侦测、暗尝彼此的虚实，甚至部分的短兵相接，已经进入实施。中共的策略，应该是在川普正式发难前，通过外交接触化解美方攻势，使中共在贸易战中的损失成为最小。任何贸易战，如同真正的战争一样，交战双方都会有不同程度的损失。中国人讲，歼敌一千，自损八百。但是，一旦贸易战...</td></tr>
 </table>
