@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814759&from=ogGitn">【禁闻】足球泛政治化？ 世界杯中韩战蒙阴影 2017-03-24 08:47</a><br/>2018世界杯预选赛亚洲区12强赛，23号晚上中国队与韩国队进行对决，还没开始前，教练和队长就誓言凿凿，一定不能输。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814778&from=ogGitn">谢天奇：港特首选举 习亮底牌 张德江被打脸 2017-03-24 06:37</a><br/>香港特首前夕，中南海透露习对香港特首选举的真实态度，将中共高层对港事务存在两个司令部的分裂状况公开化。习近平的“不钦点论”，公开打脸江派常委张德江的“中央任命论”。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814782&from=ogGitn">【禁闻】麦粒红了 人心黑了  粮仓硕鼠有几只 2017-03-24 06:37</a><br/>小麦受潮发红后，如不及时处理，可能会产生呕吐毒素等有害物质。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814781&from=ogGitn">巧合还是宿命？饰演党员受刑的赵丹在同地被肆意凌虐 
@@ -11,6 +12,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814779&from=ogGitn">【 石涛八方】难得糊涂被红尘所扰 为欲望所思 2017-03-24 06:14</a><br/>他们看到了红尘中的龌龊，但又无奈，他们心里烦，只能糊涂。如果他们能够跳出红尘，他们的思想、情感和喜怒哀乐不被红尘所影响的话，他们不会难得糊涂的，〝糊涂〞里面有着逃避的含义。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814777&from=ogGitn">【禁闻】3月23日退党精选 2017-03-24 06:00</a><br/>吴保杰说：中共执迷不悟，坚持歪理，不仅自腐而前腐后继，而且欺人而打击良善，制造无数人间悲剧，实乃邪恶组织，我们必果断与之绝裂，摒弃其邪恶主张，避免其罪恶影响，故申请即刻退出其组织！</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814783&from=ogGitn">3月23日全球看中国 2017-03-24 05:50</a><br/>英媒：澳大利亚拒绝与中共一带一路接轨；智能门铃会向中国发送数据；博鳌亚洲竞争力排行 台湾维持第4、中国第9；中国封杀QQ群后挥刀微信群。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814789&from=ogGitn">江苏交管所副所长带人讨债 持刀砍断对方手指 2017-03-24 05:35</a><br/>最近，一段“交通局公职人员光天化日带刀上门砍人”的视频，在江苏建湖县网上被纷纷转发，视频中的多位身穿黑衣的男子，手持砍刀，大白天在一住宅小区叫骂，还砍伤一人。经大陆媒体披露，带头砍人的，是当地交通部门一位副所长。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814775&from=ogGitn">【禁闻】吉林百余幼儿集体中毒 官方阻就医 2017-03-24 05:34</a><br/>2月份 255名法轮功学员遭非法抓捕；吉林百余幼儿集体中毒 官方阻就医；江苏男子派出所猝死 警方销毁证据。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814773&from=ogGitn">美官员：朝鲜未来几天料将再进行核试验 2017-03-24 05:27</a><br/>了解朝鲜最新情报的美国官员告诉福克斯，朝鲜处于准备又一轮核试验的最后阶段，并可能在未来几天举行核试验。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814772&from=ogGitn">周恩来口中的〝文武全才〞干毅 文革遭迫害入狱8年 2017-03-24 05:25</a><br/>干毅被中共领导周恩来赞誉为〝文武全才〞的科学界的泰斗，但在文革中也没幸免被迫害。文革运动历时10年，就这样一位学富五车的老知识份子累计在监狱中度过了8年，右派的帽子直到1984年才摘掉。</td></tr>
@@ -26,7 +28,6 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814761&from=ogGitn">【禁闻】中共〝北水南调〞贝加尔湖  评: 饮鸩止渴 2017-03-24 03:21</a><br/>据大陆媒体报导，甘肃兰州市城乡规划院最近推出了〝中国．兰州2030城市规划愿景〞计划书。其中，在远期规划中提出了〝开展俄罗斯贝加尔湖‘北水南调’工程可行性研究工作〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814763&from=ogGitn">提供虚假情况 中共教育部8名官员被处分 2017-03-24 03:13</a><br/>近日，因提供虚假情况，中共教育部8名局级干部被处理。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814760&from=ogGitn">【禁闻】文革中的人权先行者：遇罗克 2017-03-24 03:13</a><br/>今天的〝百年红祸〞特别报导，我们就来回顾遇罗克和他的《出身论》。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814759&from=ogGitn">【禁闻】足球泛政治化？ 世界杯中韩战蒙阴影 2017-03-24 03:01</a><br/>2018世界杯预选赛亚洲区12强赛，23号晚上中国队与韩国队进行对决，还没开始前，教练和队长就誓言凿凿，一定不能输。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814754&from=ogGitn">中韩足球大战 长沙如临大敌 武警进驻球场 2017-03-24 02:32</a><br/>正值中韩因萨德交恶之际，3月23日晚，2018年世界杯足球外围赛中韩大战将在湖南长沙登场。 为避免中韩球迷冲突，当局如临大敌，大批武警进驻球场画面曝光。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814758&from=ogGitn">〝手被人放女侍应胸前〞  官方解释摸胸照引网民热议 2017-03-24 02:32</a><br/>网上热传的〝摸胸照〞，官方在通报中给出了解释：手被人放在女服务员的胸前拍照。网民纷纷对此通报热议。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814755&from=ogGitn">明经国为何愤杀官？被捕后以4字作答 2017-03-24 02:22</a><br/>明经国被捕照被中国网友评价为〝中国最佳摄影〞。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814567&from=ogGitn">关键机制全失灵 15岁走失少年命丧〝流浪汉集中营〞 2017-03-22 07:03</a><br/>患有自闭症的15岁少年雷文锋，从他父亲在深圳的宿舍走失，几天后昏倒在东莞街头，10月19号被当作流浪人员，送往广东韶关练溪托养中心，短短45天后就感染伤寒身亡。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814565&from=ogGitn">女子施舍一袋麻花 被乞讨老妇扔进垃圾桶 2017-03-22 06:36</a><br/>大陆各地城市的市区、繁华地段随处可见乞讨者，陆媒曾披露其中九成为“职业乞丐”，他们乞讨不是为了填饱肚子，而是要钱。近日，在陕西西安，一名跪地乞讨的老妇，竟将路人好心施舍的食物，扔进了垃圾桶。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814551&from=ogGitn">转出大陆资金10亿 港经纪人亲述走资新渠道 2017-03-22 06:29</a><br/>日前，一名香港经纪人透露了现在大陆走资的新途径，这半年来，经他手利用这个渠道转移出大陆的资金达10亿元人民币。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814548&from=ogGitn">时政段子集：北京出租车司机一番话细思恐极 2017-03-22 06:12</a><br/>时政段子集：北京出租车司机对清华毕业生一番话细思恐极</td></tr>
 </table>
