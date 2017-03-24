@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814824&from=ogGitn">张三丰是韩国济州岛人？太极拳申遗再起争执 2017-03-24 16:39</a><br/>河南人大代表张立勇说：韩、日等国也都在〝抢报〞太极拳申遗。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814823&from=ogGitn">新疆监狱高官贪腐上亿细节曝光  紧跟江泽民遭国际追查 2017-03-24 16:30</a><br/>近日，已落马的新疆公安厅前副厅长谢晖，被曝贪腐一亿多元。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814827&from=ogGitn">中海油去年净利大跌近97% 今年形势不明 2017-03-24 15:52</a><br/>中海油23日公布2016年业绩，油气销售收入同比下降17.2%，至人民币1213亿元，净利润跌至人民币6.37亿元，同比降幅高达96.9%。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814822&from=ogGitn">嘉兴楼盘关系户资料外泄 涉172名公职人员 2017-03-24 15:43</a><br/>日前，嘉兴一高档楼盘关系户预登记资料外泄，资料显示，预约购房人多为当地政府机关官员或金融机构负责人，还记录著这些人通过何种关系预约。官方称涉172名公职人员。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814817&from=ogGitn">孙悟空〝出国〞了  老外翻译《西游记》获奖 
 										
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814611&from=ogGitn">千百度：曝光活摘 郭文贵先生选择了正义一边 2017-03-22 13:29</a><br/>郭文贵先生可以说用自己的实际行动为中国权贵阶层人士做出了榜样。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814605&from=ogGitn">安徽过百官员被约谈 涉落马副省长案 2017-03-22 13:09</a><br/>已落马的中共安徽省副省长陈树隆有最新消息。陆媒3月22日报导指，陈树隆受贿金额巨大，远超亿元（人民币，下同）。其落马主要问题发生在芜湖执政期间，超过100名芜湖官员已被约谈。此外，为陈充当“操盘手”和涉嫌输送利益的有3人。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814601&from=ogGitn">中共打压 台外交部长：积极争取参与WHA 2017-03-22 12:58</a><br/>中共打压台湾参与世界卫生大会（WHA），外交部长李大维3月22日表示，仍在积极沟通、争取台湾援例参与WHA；对于中共的施压，他强调：“不容乐观、绝不悲观、积极争取、全力以赴”。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814598&from=ogGitn">丑态毕露 中共淫官不雅〝摸胸照〞网路热传 2017-03-22 12:50</a><br/>陜西省榆林市一名中共村官，被网民举报行为不检点。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814590&from=ogGitn">与〝女大学生〞网聊被骗58万 10年后才知是大妈 2017-03-22 12:47</a><br/>大妈编造年龄以及身世，并通过假照片、变声器来和男网友聊天。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814597&from=ogGitn">每日三退声明精选（2017/03/21） 2017-03-22 11:49</a><br/>本人纯属自愿，请求退出中共党、团、队及一切魔教恐怖组织。我现在明白了中共说这个邪那个邪，象中共那么邪的全世界都找不到，说它是邪教还不够，应该加上最大的魔教恐怖组织！！</td></tr>
 </table>
