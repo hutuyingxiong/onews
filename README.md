@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814857&from=ogGitn">【翻墙必看】董存瑞扮演者文革中被扫地出门。 2017-03-24 18:41</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814855&from=ogGitn">寅吃卯粮 中共发展模式致大陆房企债务激增 2017-03-24 18:41</a><br/>大陆经济高度依赖债务，房地产市场是其主要方面。近日有分析表示，中共过度依赖房地产和债务市场，令房企负债累累，而巨额债务也令大陆房地产市场的风险上升，并引发国际金融机构担忧。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814852&from=ogGitn">北京大货车逆行撞向公交车 15人送医 2017-03-24 18:25</a><br/>3月24日早上6时30分许，在北京大兴区伍各庄发生一起惊险车祸。一辆载有十余乘客的公交车与一辆货车迎头相撞，造成车上15人受伤送医，其中货车上俩人受重伤。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814850&from=ogGitn">中国海平面上升加速 专家：或面临严重海洋灾难 2017-03-24 17:51</a><br/>中共官方最新数据显示，大陆沿海的海平面上升加速。</td></tr>
@@ -16,6 +17,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814827&from=ogGitn">中海油去年净利大跌近97% 今年形势不明 2017-03-24 15:52</a><br/>中海油23日公布2016年业绩，油气销售收入同比下降17.2%，至人民币1213亿元，净利润跌至人民币6.37亿元，同比降幅高达96.9%。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814822&from=ogGitn">嘉兴楼盘关系户资料外泄 涉172名公职人员 2017-03-24 15:43</a><br/>日前，嘉兴一高档楼盘关系户预登记资料外泄，资料显示，预约购房人多为当地政府机关官员或金融机构负责人，还记录著这些人通过何种关系预约。官方称涉172名公职人员。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814851&from=ogGitn">陕西高速发生重大车祸 已致6死3伤 2017-03-24 15:00</a><br/>3月24日6时35分，一辆食品专用罐车与一辆面包车，在西临高速发生碰撞。事故已造成6人死亡，3人受伤。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814856&from=ogGitn">只因未穿校服 赣女生遭老师踢下体倒地打滚 2017-03-24 14:30</a><br/>江西九江瑞昌城东学校一名小学女生，因没穿校服到校，遭到邓姓女老师穿皮鞋猛踢其腿部及下体，女孩当即疼痛至倒地打滚。涉事老师已被暂时停职。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814817&from=ogGitn">孙悟空〝出国〞了  老外翻译《西游记》获奖 
 										
 											?组图 2017-03-24 14:22</a><br/>《西游记》是中国四大名著之一。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814620&from=ogGitn">河南小学生上厕所发生踩踏  至22人死伤 2017-03-22 16:56</a><br/>今天（3月22日）上午8点半左右，河南濮阳县一小学发生学生踩踏事件，据悉，事故已造成2人死亡，20余人受伤。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814617&from=ogGitn">西湖龙井春茶上市  1斤3千元以上 2017-03-22 16:46</a><br/>西湖龙井中外驰名，色绿、香郁、味甘、形美。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814616&from=ogGitn">不浸泡直接干煮冬菇  浙江女胃生7厘米〝冬菇石〞 2017-03-22 16:34</a><br/>最近，吴姓女子到义乌稠州医院求诊，一粒7厘米大的〝冬菇石〞才被取出。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814603&from=ogGitn">周晓辉：外交系统两官员一贬一免不寻常 2017-03-22 16:20</a><br/>梁建全、孙荣民的被贬和被免，虽然静悄悄，但透出的信号却是：外交部反腐和清剿江派仍在进行中。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814619&from=ogGitn">中共拟新规限海外投资 分析：难遏资本外流 2017-03-22 16:03</a><br/>由于担心资本外流，中共收紧了对大陆企业海外并购的审查，今年以来相关交易正在减速。有分析表示，即使中共政府采取管控，大陆资本外流的压力仍在，而且管控也令境外机构愈加谨慎。</td></tr>
 </table>
