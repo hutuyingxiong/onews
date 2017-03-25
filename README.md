@@ -2,7 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814910&from=ogGitn">【禁闻】28个国际组织发表联合声明 吁公正审判709案 2017-03-25 15:18</a><br/>华夏正道受虐待 狱中发表绝食声明；28国际组织发声明 吁公正审判709案；河南政府强拆遭抵制 上千警民互殴。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814942&from=ogGitn">广西货车冲撞小学生 致3死2伤  司机被拘（视频） 2017-03-25 15:14</a><br/>广西桂平市日前发生一起恶性交通事故，一辆货车冲向正在斑马线上过马路的一群小学生，导致3死2伤，目前，肇事司机已被警方刑事拘留。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814940&from=ogGitn">广州一在建电厂发生坍塌事故 已致9死2伤 2017-03-25 14:55</a><br/>3月25日上午8时许，广州从化鳌头潭口在建广州第七热力发电厂发生作业平台坍塌事故。事故目前已造成9人死亡、2人受伤。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814943&from=ogGitn">前党工赴中失踪 民进党吁陆切实保障人权 2017-03-25 14:19</a><br/>民主进步党前党工、台湾非政府组织工作者李明哲传出日前入境中国大陆广东省后失踪，民进党3月25日表示，中国大陆应及时回应台湾方面的协寻要求，以解家属悬念；民进党也呼吁北京当局，切实保护人权，勿增加台湾民众赴中国的风险。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814938&from=ogGitn">浙江1岁婴疑遭毒手  缝纫针从乳头插至肝脏 2017-03-25 14:01</a><br/>浙江一19个月的婴儿，日前被发现其右边乳头上长出一条线，医生检查，发现线头在该婴儿体内连着一根缝纫针，并已刺进肝脏。医生随后施手术取出针线，目前婴儿康复进度良好。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814934&from=ogGitn">海南高官披露黄岩岛计划 中共紧急辟谣 2017-03-25 13:56</a><br/>中共海南省一名高官曾透露，中共将在黄岩岛建监测站，不到半个月后，中共外交部发言人改口。外界分析黄岩岛计划生变的背后的原因。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814936&from=ogGitn">传山东高层将大变动 书记省长或换人 2017-03-25 12:21</a><br/>有消息说，中共山东省委书记、省长将换人。</td></tr>
@@ -14,7 +17,6 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814927&from=ogGitn">美传奇式臭鼬工厂 如何击败中共航母杀手？ 2017-03-25 09:57</a><br/>美国海军10艘尼米兹级航母（Nimitz Class Aircraft Carrier）具有向全球任何海岸投射力量的无与伦比的能力，因而成为世界艳羡的目标。但美国的对手也特意研发了名为“航母杀手”的超远程导弹，这种导弹航程超过尼米兹级航母300多英里左右。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814908&from=ogGitn">【禁闻】大陆新媒体〝搬运号〞 有益还是有害？ 2017-03-25 09:26</a><br/>在中共的新闻审查制度下，一个庞大的〝搬运号〞产业，正蓬勃起来。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814876&from=ogGitn">上海女傭误用约5万元普洱煮蛋  创〝史上最贵茶蛋〞记录 2017-03-25 09:15</a><br/>价值近5万元人民币、有收藏价值的普洱茶，被不知情的保姆拿来做茶叶蛋，创下〝史上最贵茶叶蛋〞。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814910&from=ogGitn">【禁闻】华夏正道受虐待 狱中发表绝食声明 2017-03-25 09:08</a><br/>华夏正道受虐待 狱中发表绝食声明；28国际组织发声明 吁公正审判709案；河南政府强拆遭抵制 上千警民互殴。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814913&from=ogGitn">中共封杀微信群 被批不解决问题却解决提问题的人 2017-03-25 09:08</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814939&from=ogGitn">河南灵宝一金矿酿险情 已致8死1失踪 2017-03-25 08:28</a><br/>河南灵宝市一金矿3月24日发生险情，官方报导称，目前已经造成8人遇难，一人失联。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814922&from=ogGitn">【中国禁闻】3月24日完整版 2017-03-25 08:23</a><br/>华夏正道受虐待 狱中发表绝食声明；香港特首选战前 〝不钦点论〞频曝光；日上行换董事长 评: 剿江进程加快；红祸百年祭 《致命的列宁》港台发行。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814693&from=ogGitn">袁斌：地铁“电缆门”事件 西安市府自打嘴巴 2017-03-23 10:45</a><br/>在中国，“谣言”往往被证实是“遥遥领先的预言”。最近发生的西安地铁“电缆门”事件再次证明了这一点！</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814683&from=ogGitn">韩雪娇重获自由 感谢各界营救 2017-03-23 10:44</a><br/>近日，在上海一家外企工作，被非法关押一个月之久的青年法轮功学员韩雪娇获得释放。家人感谢海内外正义人士对她的营救和帮助，韩雪娇本人也通过媒体转达了对大家的感谢。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814707&from=ogGitn">北京11家房企中介被关 21城市出台限购政策 2017-03-23 10:40</a><br/>在大陆新一轮楼市调控开启之际，北京接连出招整顿楼市，其中11家房产中介被关停。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814694&from=ogGitn">台湾前AIT首席武官：台湾军队很强 防御力高 2017-03-23 10:32</a><br/>台湾民众忧心两岸军力失衡问题；负责台美军售联系的前AIT首席武官罗瑞华说，台湾军队很强，防御能力又高；台湾军事预算有限，所以要用很小的资源，获得更大的效果。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814692&from=ogGitn">中国公民走私敏感零件被捕 疑窃俄航空发动机技术 2017-03-23 10:23</a><br/>中共的航空发动机一直是军事科技发展的软肋。</td></tr>
 </table>
