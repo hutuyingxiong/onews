@@ -5,15 +5,15 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814908&from=ogGitn">【禁闻】大陆新媒体〝搬运号〞 有益还是有害？ 2017-03-25 09:26</a><br/>在中共的新闻审查制度下，一个庞大的〝搬运号〞产业，正蓬勃起来。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814876&from=ogGitn">上海女傭误用约5万元普洱煮蛋  创〝史上最贵茶蛋〞记录 2017-03-25 09:15</a><br/>价值近5万元人民币、有收藏价值的普洱茶，被不知情的保姆拿来做茶叶蛋，创下〝史上最贵茶叶蛋〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814910&from=ogGitn">【禁闻】华夏正道受虐待 狱中发表绝食声明 2017-03-25 09:08</a><br/>华夏正道受虐待 狱中发表绝食声明；28国际组织发声明 吁公正审判709案；河南政府强拆遭抵制 上千警民互殴。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814913&from=ogGitn">中共封杀微信群 被批不解决问题却解决提问题的人 2017-03-25 09:08</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814920&from=ogGitn">石涛：香港特首选举无〝钦点〞 张德江携政治局对抗 2017-03-25 08:36</a><br/>张德江做了一堆事，埋了一堆地雷，都没用，关键事情还得问习近平。例如要不要梁振英还得习近平决定，这个事情他迈不过去，问了习近平，梁振英得了一个政协副主席就回家了，没戏了。现在推林郑月娥还是那一套。但现在习核心已经在两会传递完思想了，如果张德江再对抗的话，就是跟党中央作对了。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814922&from=ogGitn">【中国禁闻】3月24日完整版 2017-03-25 08:23</a><br/>华夏正道受虐待 狱中发表绝食声明；香港特首选战前 〝不钦点论〞频曝光；日上行换董事长 评: 剿江进程加快；红祸百年祭 《致命的列宁》港台发行。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评：剿江进程加快 2017-03-25 08:20</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评: 剿江进程加快 2017-03-25 08:20</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814918&from=ogGitn">江派窝点再被清洗 江西两官员被查处 2017-03-25 07:27</a><br/>近两日大陆官网传出，江西、吉林、广东、海南、湖南等5省有8名官员被查处。这5省都是江派窝点。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814917&from=ogGitn">臧山：“中央不任命”不可能出现 2017-03-25 07:00</a><br/>香港特首选举前夕，有关“中央不任命”的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814915&from=ogGitn">【禁闻】3月24日退党精选 2017-03-25 06:26</a><br/>湖南醴陵的唐琪说：偶然的机会遇到同学的父亲，给我讲了法轮功真相，深受震撼，若不是这次机会，我根本不知道这一切，我决意退出邪恶的党、团、队组织。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814909&from=ogGitn">58同城被爆数据外泄 700元可窃取全国简历 2017-03-25 06:23</a><br/>大陆网络诈骗案频发，居民隐私非常容易遭泄漏，近日陆媒报导，只需要支付700元，就可以采集58同城全国的简历信息，有很大安全隐患。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814914&from=ogGitn">【禁闻 】3月24日维权动态 2017-03-25 06:13</a><br/>湖南访民辜湘红第15次被关精神病院；广西北海村民反强拆 挂条幅抗议；抗议牧场被占坐牢 6内蒙牧民上诉；上海20多人冒雨举牌 声援明经国。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814913&from=ogGitn">中共封杀微信群 被批不解决问题却解决提问题的人 2017-03-25 06:11</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814916&from=ogGitn">谢天奇：内蒙首虎立大功减刑 供出刘云山？ 2017-03-25 05:54</a><br/>连续两年的中共两会敏感期，刘云山主管的文宣系统搅局动作不断；习阵营对刘云山的文宣系统及其老巢内蒙古的清洗力度则不断加强。在此背景之下，陆媒高调报导内蒙首虎王素毅重大立功获减刑的消息，震慑刘云山的意味明显，也为清算刘云山家族腐败埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814906&from=ogGitn">3月24日全球看中国 2017-03-25 05:45</a><br/>垃圾之河：水污染威胁中国最美城市；河南商丘强拆村支书房爆警民冲突 警发射催泪弹驱散人群；共和党两议员要求美国对中国人权问题更强硬；50多位美国议员致信中共驻美大使，抱怨中国限制云计算的举措。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814912&from=ogGitn">刘士余口中〝野蛮人〞指谁？ 港媒揭晓终极答案 2017-03-25 05:44</a><br/>2015股灾被指党内针对习近平的经济政变，多名江派常委家属参与做空。之后习当局对金融领域展开清洗。近期证监会主席刘士余多次向〝野蛮人、大鳄〞宣战。港媒指，刘不便言明，〝魔鬼、妖精〞就是一些退休和现任顶级高官的家属。</td></tr>
@@ -66,12 +66,12 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814855&from=ogGitn">寅吃卯粮 中共发展模式致大陆房企债务激增 2017-03-24 18:41</a><br/>大陆经济高度依赖债务，房地产市场是其主要方面。近日有分析表示，中共过度依赖房地产和债务市场，令房企负债累累，而巨额债务也令大陆房地产市场的风险上升，并引发国际金融机构担忧。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814919&from=ogGitn">寒潮突袭内蒙古 多城交通瘫痪春耕受阻 2017-03-24 18:25</a><br/>寒冬已去，春意渐浓，但内蒙古却遭遇寒流大雪袭击。3月23日，大雪天气导致部分地区交通瘫痪，由于降温仍将持续，将对春耕及春播进度造成冲击。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814852&from=ogGitn">北京大货车逆行撞向公交车 15人送医 2017-03-24 18:25</a><br/>3月24日早上6时30分许，在北京大兴区伍各庄发生一起惊险车祸。一辆载有十余乘客的公交车与一辆货车迎头相撞，造成车上15人受伤送医，其中货车上俩人受重伤。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814828&from=ogGitn">秦城监狱〝大老虎〞获减刑  薄周令郭除外 2017-03-24 17:55</a><br/>内蒙古自治区党委常委、统战部部长王素毅去年底获得减刑建议。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814850&from=ogGitn">中国海平面上升加速 专家：或面临严重海洋灾难 2017-03-24 17:41</a><br/>中共官方最新数据显示，大陆沿海的海平面上升加速。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814849&from=ogGitn">央视打假节目〝造假〞  日本使馆发函质询 2017-03-24 17:40</a><br/>日本驻华大使馆近日向中共央视发出信函，就央视早前在〝315晚会〞误报日涉核食品进入中国大陆事件，提出书面质询，并要求调查央视记者采访经过和事实关系。据悉，目前日方仍未收到回复。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814830&from=ogGitn">吉林一幼儿园上百儿童集体中毒 2017-03-24 17:18</a><br/>9号下午起，吉林市春芽中东幼儿园，先后有幼儿发生腹痛，呕吐，发热，个别幼儿出现便血、听不清、看不清等症状。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814854&from=ogGitn">万能险保费骤降 前海人寿等14家险企降幅90% 2017-03-24 17:17</a><br/>3月22日，大陆公布的寿险行业保户投资款新增交费（以万能险为主）数据显示，今年1月份和2月份，新增交费同比下滑约60.68%，前海人寿等14家保险企业下滑超过90%。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814829&from=ogGitn">不满被指影响患者就诊  河北警官反铐医生 2017-03-24 17:09</a><br/>中国维权律师兰志学说，大陆警权滥用，已经成为一种习惯，他一天不违法好像都不正常了。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814828&from=ogGitn">秦城监狱〝大老虎〞获减刑  薄周令郭除外 2017-03-24 16:56</a><br/>内蒙古自治区党委常委、统战部部长王素毅去年底获得减刑建议。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814864&from=ogGitn">11国驻华大使促查酷刑案 709案代理律师被〝休息〞 2017-03-24 16:43</a><br/>陈建刚说，相关部门对他所在律所进行全面检查。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814824&from=ogGitn">张三丰是韩国济州岛人？太极拳申遗再起争执 2017-03-24 16:39</a><br/>河南人大代表张立勇说：韩、日等国也都在〝抢报〞太极拳申遗。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814823&from=ogGitn">新疆监狱高官贪腐上亿细节曝光  紧跟江泽民遭国际追查 2017-03-24 16:30</a><br/>近日，已落马的新疆公安厅前副厅长谢晖，被曝贪腐一亿多元。</td></tr>
