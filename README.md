@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814940&from=ogGitn">广州一在建电厂发生坍塌事故 已致9死2伤 2017-03-25 14:55</a><br/>3月25日上午8时许，广州从化鳌头潭口在建广州第七热力发电厂发生作业平台坍塌事故。事故目前已造成9人死亡、2人受伤。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814938&from=ogGitn">浙江1岁婴疑遭毒手  缝纫针从乳头插至肝脏 2017-03-25 14:01</a><br/>浙江一19个月的婴儿，日前被发现其右边乳头上长出一条线，医生检查，发现线头在该婴儿体内连着一根缝纫针，并已刺进肝脏。医生随后施手术取出针线，目前婴儿康复进度良好。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814934&from=ogGitn">海南高官披露黄岩岛计划 中共紧急辟谣 2017-03-25 13:56</a><br/>中共海南省一名高官曾透露，中共将在黄岩岛建监测站，不到半个月后，中共外交部发言人改口。外界分析黄岩岛计划生变的背后的原因。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814936&from=ogGitn">传山东高层将大变动 书记省长或换人 2017-03-25 12:21</a><br/>有消息说，中共山东省委书记、省长将换人。</td></tr>
@@ -15,6 +16,7 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814876&from=ogGitn">上海女傭误用约5万元普洱煮蛋  创〝史上最贵茶蛋〞记录 2017-03-25 09:15</a><br/>价值近5万元人民币、有收藏价值的普洱茶，被不知情的保姆拿来做茶叶蛋，创下〝史上最贵茶叶蛋〞。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814910&from=ogGitn">【禁闻】华夏正道受虐待 狱中发表绝食声明 2017-03-25 09:08</a><br/>华夏正道受虐待 狱中发表绝食声明；28国际组织发声明 吁公正审判709案；河南政府强拆遭抵制 上千警民互殴。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814913&from=ogGitn">中共封杀微信群 被批不解决问题却解决提问题的人 2017-03-25 09:08</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814939&from=ogGitn">河南灵宝一金矿酿险情 已致8死1失踪 2017-03-25 08:28</a><br/>河南灵宝市一金矿3月24日发生险情，官方报导称，目前已经造成8人遇难，一人失联。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814922&from=ogGitn">【中国禁闻】3月24日完整版 2017-03-25 08:23</a><br/>华夏正道受虐待 狱中发表绝食声明；香港特首选战前 〝不钦点论〞频曝光；日上行换董事长 评: 剿江进程加快；红祸百年祭 《致命的列宁》港台发行。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814925&from=ogGitn">特首选举倒计时 大陆各界看香港选举 2017-03-25 07:59</a><br/>香港特首“选举”投票进入倒计时，为最后的冲刺，不仅候选人四处拉选票，媒体攻势也日趋猛烈。曾俊华回应大公报指其对抗中央是抹黑。他自信选举将有奇迹发生。大陆的一些专家学者向大纪元表达他们对特首选举的看法。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814918&from=ogGitn">江派窝点再被清洗 江西两官员被查处 2017-03-25 07:27</a><br/>近两日大陆官网传出，江西、吉林、广东、海南、湖南等5省有8名官员被查处。这5省都是江派窝点。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814707&from=ogGitn">北京11家房企中介被关 21城市出台限购政策 2017-03-23 10:40</a><br/>在大陆新一轮楼市调控开启之际，北京接连出招整顿楼市，其中11家房产中介被关停。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814694&from=ogGitn">台湾前AIT首席武官：台湾军队很强 防御力高 2017-03-23 10:32</a><br/>台湾民众忧心两岸军力失衡问题；负责台美军售联系的前AIT首席武官罗瑞华说，台湾军队很强，防御能力又高；台湾军事预算有限，所以要用很小的资源，获得更大的效果。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814692&from=ogGitn">中国公民走私敏感零件被捕 疑窃俄航空发动机技术 2017-03-23 10:23</a><br/>中共的航空发动机一直是军事科技发展的软肋。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814690&from=ogGitn">百度高层持续震荡 首席科学家吴恩达离职 2017-03-23 09:47</a><br/>3月22日，百度首席科学家吴恩达离职。近期，百度高层人事持续震荡。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814687&from=ogGitn">谢天奇：江泽民祖孙四代被围剿 上海帮逾百人被调查 2017-03-23 09:47</a><br/>中共两会前后三个星期内，习近平当局密集动作围剿上海帮，清洗江泽民家族政商利益地盘，触及江泽民祖孙四代多名关键成员；迹象显示，〝十九大〞前夕，习阵营针对终极〝大老虎〞江泽民的清洗行动升级的可能性越来越大。</td></tr>
 </table>
