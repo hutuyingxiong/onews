@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评：剿江进程加快 2017-03-25 10:54</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814920&from=ogGitn">石涛：香港特首选举无〝钦点〞 张德江携政治局对抗 2017-03-25 10:53</a><br/>张德江做了一堆事，埋了一堆地雷，都没用，关键事情还得问习近平。例如要不要梁振英还得习近平决定，这个事情他迈不过去，问了习近平，梁振英得了一个政协副主席就回家了，没戏了。现在推林郑月娥还是那一套。但现在习核心已经在两会传递完思想了，如果张德江再对抗的话，就是跟党中央作对了。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814927&from=ogGitn">美传奇式臭鼬工厂 如何击败中共航母杀手？ 2017-03-25 09:57</a><br/>美国海军10艘尼米兹级航母（Nimitz Class Aircraft Carrier）具有向全球任何海岸投射力量的无与伦比的能力，因而成为世界艳羡的目标。但美国的对手也特意研发了名为“航母杀手”的超远程导弹，这种导弹航程超过尼米兹级航母300多英里左右。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814908&from=ogGitn">【禁闻】大陆新媒体〝搬运号〞 有益还是有害？ 2017-03-25 09:26</a><br/>在中共的新闻审查制度下，一个庞大的〝搬运号〞产业，正蓬勃起来。</td></tr>
@@ -9,7 +10,6 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814910&from=ogGitn">【禁闻】华夏正道受虐待 狱中发表绝食声明 2017-03-25 09:08</a><br/>华夏正道受虐待 狱中发表绝食声明；28国际组织发声明 吁公正审判709案；河南政府强拆遭抵制 上千警民互殴。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814913&from=ogGitn">中共封杀微信群 被批不解决问题却解决提问题的人 2017-03-25 09:08</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814922&from=ogGitn">【中国禁闻】3月24日完整版 2017-03-25 08:23</a><br/>华夏正道受虐待 狱中发表绝食声明；香港特首选战前 〝不钦点论〞频曝光；日上行换董事长 评: 剿江进程加快；红祸百年祭 《致命的列宁》港台发行。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评：剿江进程加快 2017-03-25 08:20</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814925&from=ogGitn">特首选举倒计时 大陆各界看香港选举 2017-03-25 07:59</a><br/>香港特首“选举”投票进入倒计时，为最后的冲刺，不仅候选人四处拉选票，媒体攻势也日趋猛烈。曾俊华回应大公报指其对抗中央是抹黑。他自信选举将有奇迹发生。大陆的一些专家学者向大纪元表达他们对特首选举的看法。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814918&from=ogGitn">江派窝点再被清洗 江西两官员被查处 2017-03-25 07:27</a><br/>近两日大陆官网传出，江西、吉林、广东、海南、湖南等5省有8名官员被查处。这5省都是江派窝点。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814917&from=ogGitn">臧山：“中央不任命”不可能出现 2017-03-25 07:00</a><br/>香港特首选举前夕，有关“中央不任命”的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。</td></tr>
