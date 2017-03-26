@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 17:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815027&from=ogGitn">【翻墙必看】有预测中共将很快垮台 2017-03-26 16:04</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815029&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-26 15:04</a><br/>中南海若在香港采取上述大动作，虽然会起到一些成效，但乱港的根子，即乱港的始作俑者曾庆红、张德江不除，香港未来出任何状况都有可能，而这必将打乱习近平专注的如中美关系等其他重要事务。</td></tr>
@@ -17,7 +18,6 @@
 										
 											?组图 2017-03-26 11:20</a><br/>一些家庭甚至为获取5万元1年的租金超生孩子，然后租给犯罪团伙去实施盗窃。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815021&from=ogGitn">助朝鲜伊朗研发武器 大陆6企业3人遭美制裁 2017-03-26 10:59</a><br/>美国国务院发表声明，决定对违反禁令向伊朗、朝鲜和叙利亚出售大规模杀伤性武器相关设备与技术的11个单位和个人实施制裁，其中包括6家中国公司和3名中国公民。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 09:48</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815019&from=ogGitn">山东“辱母杀人案”引关注 警方被指不作为 2017-03-26 09:15</a><br/>因借高利贷无法还清余款，苏银霞和儿子于欢被催款团伙控制、侮辱，由于警方不作为，最后酿出了血案。近日，山东法院以故意伤害罪判处于欢无期徒刑。该案被陆媒报导后引起舆论极大关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815009&from=ogGitn">血色禁史：红兵弑母 〝狼孩〞痛悔 2017-03-26 07:58</a><br/>10年狂热的文革中，时年16岁的少年张红兵因为母亲2句反对毛泽东的话，而将母亲方忠谋送上了断头台。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815003&from=ogGitn">港特首选举 亲共社团紧急动员造势密令爆光 2017-03-26 06:02</a><br/>今天（26日）是第五届特首选举日。继网传中联办密令曝光，即要求选委、各界知名人士、政团社团协会领袖发声支持林郑月娥参选特首、“营造支持林郑月娥参选特首的舆论氛围”外，香港大纪元收到另一封由和中联办关系密切的福建社团联会3月20日发出的密令，动员社团成员召集到会场外，为选举造势。</td></tr>
