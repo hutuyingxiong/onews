@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c815009&from=ogGitn">血色禁史：红兵弑母 〝狼孩〞痛悔 2017-03-26 07:58</a><br/>10年狂热的文革中，时年16岁的少年张红兵因为母亲2句反对毛泽东的话，而将母亲方忠谋送上了断头台。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c815003&from=ogGitn">港特首选举 亲共社团紧急动员造势密令爆光 2017-03-26 06:02</a><br/>今天（26日）是第五届特首选举日。继网传中联办密令曝光，即要求选委、各界知名人士、政团社团协会领袖发声支持林郑月娥参选特首、“营造支持林郑月娥参选特首的舆论氛围”外，香港大纪元收到另一封由和中联办关系密切的福建社团联会3月20日发出的密令，动员社团成员召集到会场外，为选举造势。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814994&from=ogGitn">内蒙古包头市居民楼爆炸 3死25伤 2017-03-26 05:15</a><br/>当地时间周六下午两点，内蒙古包头市向阳小区一栋居民楼，发生天然气管道爆炸。从画面看到，其中一个单元整体塌陷。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814998&from=ogGitn">华尔街日报编委：中共将如苏联般迅速垮台 2017-03-26 04:41</a><br/>《华尔街日报》编委会成员基塞尔（Mary Kissel）近日在一次演说中预测中共将会垮台。他说：“我相信这个恐怖政权的终结将会到来，来的时候会很迅速，并且是在你最没料到的时候，就像苏联那样。”</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814734&from=ogGitn">爱滋红误认为〝中国红〞  iPhone7让中国客户尴尬 2017-03-23 19:14</a><br/>红色特别版的和iPhone7Plus，是Apple继续为对抗爱滋病项目出的一分力。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814735&from=ogGitn">济南前市长杨鲁豫受贿逾2300万 一审开庭 2017-03-23 18:50</a><br/>3月23日，山东济南前市长杨鲁豫被控受贿超过2300万元（人民币，下同）案，在中共河南省平顶山市中级法院一审开庭审理。杨鲁豫是山东被查的第三名副省级干部。</td></tr>
 <tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814742&from=ogGitn">中共再严厉控制教会 浙江教堂安装监控器 2017-03-23 18:45</a><br/>据最新消息，在浙江省自2013年底开始不断深化各种措施严控和打压教会之际，浙江一些地区近期要求在教堂限期完成安装监控装置，再度引发外界关注。有分析认为，这是官方教会配合公安和宗教当局，联手监控信徒和教牧的言论及活动，进一步打压信仰权利和宗教自由。</td></tr>
-<tr><td><a href="https://s3.amazonaws.com/ogate/oGate.htm?c814732&from=ogGitn">【翻墙必看】反腐触及江泽民祖孙四代成员 2017-03-23 18:35</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 </table>
