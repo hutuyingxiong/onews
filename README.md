@@ -8,7 +8,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815014&from=ogGitn">孕妇租儿童盗窃成产业链 150女贼上海落网 
 										
 											?组图 2017-03-26 11:20</a><br/>一些家庭甚至为获取5万元1年的租金超生孩子，然后租给犯罪团伙去实施盗窃。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">【直播】香港特首选举 今日产生新特首 2017-03-26 09:48</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">【直播】香港特首选举点票结束 林郑777票胜出 2017-03-26 09:48</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815009&from=ogGitn">血色禁史：红兵弑母 〝狼孩〞痛悔 2017-03-26 07:58</a><br/>10年狂热的文革中，时年16岁的少年张红兵因为母亲2句反对毛泽东的话，而将母亲方忠谋送上了断头台。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815003&from=ogGitn">港特首选举 亲共社团紧急动员造势密令爆光 2017-03-26 06:02</a><br/>今天（26日）是第五届特首选举日。继网传中联办密令曝光，即要求选委、各界知名人士、政团社团协会领袖发声支持林郑月娥参选特首、“营造支持林郑月娥参选特首的舆论氛围”外，香港大纪元收到另一封由和中联办关系密切的福建社团联会3月20日发出的密令，动员社团成员召集到会场外，为选举造势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814994&from=ogGitn">内蒙古包头市居民楼爆炸 3死25伤 2017-03-26 05:15</a><br/>当地时间周六下午两点，内蒙古包头市向阳小区一栋居民楼，发生天然气管道爆炸。从画面看到，其中一个单元整体塌陷。</td></tr>
