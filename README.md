@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815044&from=ogGitn">揭秘谷俊山其人与“军盾一号”绝密工程 2017-03-27 01:37</a><br/>中共前后勤部副部长谷俊山曾向前军委副主席徐才厚行贿、行色，得以8年连升5级。谷俊山以“军盾一号”工程名义从北京市民手中廉价征地后，却建成了“京城第一天价豪宅”的钓鱼台七号院和11套戒备森严的豪华专用别墅群“钓鱼台乙六号院”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815040&from=ogGitn">习近平旧部李书磊兼任追逃办主任 2017-03-27 00:48</a><br/>习近平的旧部李书磊刚刚升任中纪委副书记2个月后，日前又兼任中共中央追逃办主任这一要职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（上） 2017-03-26 20:51</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境艰难。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814760&from=ogGitn">【禁闻】文革中的人权先行者：遇罗克 2017-03-24 03:13</a><br/>今天的〝百年红祸〞特别报导，我们就来回顾遇罗克和他的《出身论》。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814754&from=ogGitn">中韩足球大战 长沙如临大敌 武警进驻球场 2017-03-24 02:32</a><br/>正值中韩因萨德交恶之际，3月23日晚，2018年世界杯足球外围赛中韩大战将在湖南长沙登场。 为避免中韩球迷冲突，当局如临大敌，大批武警进驻球场画面曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814758&from=ogGitn">〝手被人放女侍应胸前〞  官方解释摸胸照引网民热议 2017-03-24 02:32</a><br/>网上热传的〝摸胸照〞，官方在通报中给出了解释：手被人放在女服务员的胸前拍照。网民纷纷对此通报热议。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814755&from=ogGitn">明经国为何愤杀官？被捕后以4字作答 2017-03-24 02:22</a><br/>明经国被捕照被中国网友评价为〝中国最佳摄影〞。</td></tr>
 </table>
