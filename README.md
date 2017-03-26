@@ -6,6 +6,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（上） 2017-03-26 20:51</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境艰难。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 17:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815041&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-26 16:55</a><br/>这次辉山乳业无端崩塌的背后之一，有指是大股东挪用30亿资金投资房地产失利的消息在市场上走漏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815027&from=ogGitn">【翻墙必看】有预测中共将很快垮台 2017-03-26 16:04</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815029&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-26 15:04</a><br/>中南海若在香港采取上述大动作，虽然会起到一些成效，但乱港的根子，即乱港的始作俑者曾庆红、张德江不除，香港未来出任何状况都有可能，而这必将打乱习近平专注的如中美关系等其他重要事务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815026&from=ogGitn">辉山乳业股价暴跌 辽宁首富日损209亿 2017-03-26 14:28</a><br/>3月24日，辉山乳业实际控制人实控人杨凯、葛坤，财富蒸发折合人民币209亿元。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814754&from=ogGitn">中韩足球大战 长沙如临大敌 武警进驻球场 2017-03-24 02:32</a><br/>正值中韩因萨德交恶之际，3月23日晚，2018年世界杯足球外围赛中韩大战将在湖南长沙登场。 为避免中韩球迷冲突，当局如临大敌，大批武警进驻球场画面曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814758&from=ogGitn">〝手被人放女侍应胸前〞  官方解释摸胸照引网民热议 2017-03-24 02:32</a><br/>网上热传的〝摸胸照〞，官方在通报中给出了解释：手被人放在女服务员的胸前拍照。网民纷纷对此通报热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814755&from=ogGitn">明经国为何愤杀官？被捕后以4字作答 2017-03-24 02:22</a><br/>明经国被捕照被中国网友评价为〝中国最佳摄影〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814757&from=ogGitn">继出云号后 日本准航母“加贺号”正式服役 2017-03-24 01:36</a><br/>日本海上自卫队最大型的直升机航空母舰“加贺号”周三（3月22日）在横滨造船厂举行了军舰交付仪式，正式服役。</td></tr>
 </table>
