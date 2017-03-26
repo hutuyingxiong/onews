@@ -9,6 +9,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 17:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815041&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-26 16:55</a><br/>这次辉山乳业无端崩塌的背后之一，有指是大股东挪用30亿资金投资房地产失利的消息在市场上走漏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815027&from=ogGitn">【翻墙必看】有预测中共将很快垮台 2017-03-26 16:04</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815045&from=ogGitn">辉山乳业董事长杨凯周六现身 总部外有警车 2017-03-26 15:18</a><br/>3月25日下午，辉山乳业董事长杨凯现身位于辉山乳业大厦一楼大厅，大门外停著一辆载有多名警察的警车。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815029&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-26 15:04</a><br/>中南海若在香港采取上述大动作，虽然会起到一些成效，但乱港的根子，即乱港的始作俑者曾庆红、张德江不除，香港未来出任何状况都有可能，而这必将打乱习近平专注的如中美关系等其他重要事务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815026&from=ogGitn">辉山乳业股价暴跌 辽宁首富日损209亿 2017-03-26 14:28</a><br/>3月24日，辉山乳业实际控制人实控人杨凯、葛坤，财富蒸发折合人民币209亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815024&from=ogGitn">政法系大清洗  习近平用人呈现一大特征 2017-03-26 14:05</a><br/>日前，中共中央政治局批高法高检领导班子〝软、散、疲〞。2017年两会前后，中共政法系统大换血，多名无政法工作经历的新人上位。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814762&from=ogGitn">【禁闻】3月23日维权动态 2017-03-24 03:37</a><br/>广西北海村再遭强拆 村民抵制；〝非新闻〞创办人卢昱宇会见律师；四川甘孜藏人自焚 抗议中共统制；李和平王全璋案主审法官避见律师。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814763&from=ogGitn">提供虚假情况 中共教育部8名官员被处分 2017-03-24 03:13</a><br/>近日，因提供虚假情况，中共教育部8名局级干部被处理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814760&from=ogGitn">【禁闻】文革中的人权先行者：遇罗克 2017-03-24 03:13</a><br/>今天的〝百年红祸〞特别报导，我们就来回顾遇罗克和他的《出身论》。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814754&from=ogGitn">中韩足球大战 长沙如临大敌 武警进驻球场 2017-03-24 02:32</a><br/>正值中韩因萨德交恶之际，3月23日晚，2018年世界杯足球外围赛中韩大战将在湖南长沙登场。 为避免中韩球迷冲突，当局如临大敌，大批武警进驻球场画面曝光。</td></tr>
 </table>
