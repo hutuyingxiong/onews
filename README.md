@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815015&from=ogGitn">计生迫害藉口不灵了？广东女多伦多申请难民被拒 
+										
+											?组图 2017-03-26 11:40</a><br/>遭到中共计划生育部门的迫害，广东女多伦多申请难民被拒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815014&from=ogGitn">孕妇租儿童盗窃成产业链 150女贼上海落网 
 										
 											?组图 2017-03-26 11:20</a><br/>一些家庭甚至为获取5万元1年的租金超生孩子，然后租给犯罪团伙去实施盗窃。</td></tr>
@@ -209,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814768&from=ogGitn">央视“3?15”造假 日本食品受牵连被下架 2017-03-23 20:48</a><br/>受中共央视“3.15”晚会不实报导影响，日本食品被大陆多家超市下架。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814753&from=ogGitn">台NGO工作者大陆失踪 陆委会吁赴陆谨慎 2017-03-23 20:48</a><br/>中华民国行政院陆委会3月23日表示，中国大陆“境外非政府组织（NGO）境内活动管理办法”今年实施，可能增加台湾赴陆人员与相关团体风险，在大陆举办相关活动时须注意人身安全。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814739&from=ogGitn">专家揭大陆一些城市楼市限购背后有黑幕 2017-03-23 20:43</a><br/>近来，大陆很多城市又开始了对楼市的新一轮调控，但是有大陆金融专家表示，大陆一些搞限购的城市根本不缺房子卖，也不缺土地盖房，它们是在搞饥饿营销。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814737&from=ogGitn">新疆监狱高官谢晖案 50多人卷入 内幕曝光 2017-03-23 20:00</a><br/>3月23日，已落马的中共新疆公安厅前副厅长谢晖的贪腐丑闻被详细曝光，该案中有7人被移送法办、42人被处分。据报，新疆劳教系统及监狱系统所有工程项目都是其说了算，因此，向谢行贿的私营业主多达数十人。其被指控受贿金额高达1亿多元（人民币，下同），其家族成员也疯狂捞金。自张春贤卸任新疆书记后，新疆官场被深度清洗。</td></tr>
 </table>
