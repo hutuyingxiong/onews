@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815056&from=ogGitn">【禁闻】新特首出炉 黄之锋：是选拔非选举 2017-03-27 05:56</a><br/>新特首出炉 黄之锋：是选拔非选举；澳洲学者回大陆 澳返被禁出境。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815055&from=ogGitn">【禁闻】判决不公 令〝辱母杀人案〞网络大热 2017-03-27 04:46</a><br/>山东聊城一名女企业家，因为无法还清有黑社会背景的高利贷欠款，被11名催债人限制人身自由并凌辱，其中包括极端的性污辱。在警方不作为的情况下，同样被控制的企业家儿子用水果刀刺死了一名黑社会催债人，却被法院判无期徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815054&from=ogGitn">【禁闻】落马新疆监狱高官被起底 数十人涉案 2017-03-27 04:45</a><br/>据报，谢晖违法金额高达1亿多人民币，涉案的劳教和监狱系统官员中，有7人被移送司法处理、42人被处分。有分析认为，中共司法部门尤其是监狱系统等，沦为贪腐重地，是中共体制造成的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815050&from=ogGitn">副市长对财色来者不拒 落马后与妻同台受审 2017-03-27 04:19</a><br/>被戏为“通奸党”的中共再自曝丑闻，落马的湖南常德市委前常委、副市长卢武福与妻子苗旭华同台受审；卢武福先后与9名女性“通奸”，他对女性来者不拒。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814772&from=ogGitn">周恩来口中的〝文武全才〞干毅 文革遭迫害入狱8年 2017-03-24 05:25</a><br/>干毅被中共领导周恩来赞誉为〝文武全才〞的科学界的泰斗，但在文革中也没幸免被迫害。文革运动历时10年，就这样一位学富五车的老知识份子累计在监狱中度过了8年，右派的帽子直到1984年才摘掉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814761&from=ogGitn">【禁闻】中共〝北水南调〞贝加尔湖  评: 饮鸩止渴 2017-03-24 05:21</a><br/>据大陆媒体报导，甘肃兰州市城乡规划院最近推出了〝中国．兰州2030城市规划愿景〞计划书。其中，在远期规划中提出了〝开展俄罗斯贝加尔湖‘北水南调’工程可行性研究工作〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814814&from=ogGitn">纪录片揭大陆工人辛酸 中毒致病维权无门 2017-03-24 05:18</a><br/>“大陆的一名年轻工人，24岁时由于在工厂环境中苯中毒而患上白血病，他说好像有蚂蚁从里往外咬自己的身体。”这是纪录片《共犯》（Complicit）中的故事之一，具有相似经历的人还有很多。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814770&from=ogGitn">江苏男子被警方带走后死亡 身体有明显外伤 2017-03-24 05:09</a><br/>大陆媒体披露，江苏一名男子近日被当地警方带到派出所后，数小时后死亡，其家属称男子身体有明显外伤，但警方却称男子死于心源性猝死，疑点重重。</td></tr>
 </table>
