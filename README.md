@@ -2,7 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个马仔落马（上） 2017-03-26 13:55</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个马仔落马（上） 2017-03-26 13:55</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815020&from=ogGitn">频频骚扰上海女大学生 深圳官员被查 2017-03-26 13:51</a><br/>近日，深圳一官员在上海高校培训期间，频频骚扰女大学生被举报。目前，举报中提到的两人已被停职协助调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815015&from=ogGitn">计生迫害藉口不灵了？广东女多伦多申请难民被拒 
 										
@@ -65,7 +65,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814931&from=ogGitn">清洗张德江老巢 吉林省部级官员大换人 2017-03-25 11:31</a><br/>近期中共吉林官场高层出现人事异动，包括两名副省长辞职，一名省委常委调往异地任职。吉林是中共江派常委张德江的老巢。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评：剿江进程加快 2017-03-25 10:54</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814920&from=ogGitn">石涛：香港特首选举无〝钦点〞 张德江携政治局对抗 2017-03-25 10:53</a><br/>张德江做了一堆事，埋了一堆地雷，都没用，关键事情还得问习近平。例如要不要梁振英还得习近平决定，这个事情他迈不过去，问了习近平，梁振英得了一个政协副主席就回家了，没戏了。现在推林郑月娥还是那一套。但现在习核心已经在两会传递完思想了，如果张德江再对抗的话，就是跟党中央作对了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814933&from=ogGitn">豫商丘强拆爆警民冲突 警发催泪弹引众怒 2017-03-25 10:22</a><br/>河南商丘梁园区一处村庄因征地强拆，3月24日城管与村民爆发冲突，警方发射催泪弹平息事件。村民说，政府以每平方米800多元的补偿价要求村民异地安置，被拒绝。当天被强拆的是村支书的房屋，但村民担心稍后还会拆他们的住宅，于是上前阻挠。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814933&from=ogGitn">豫商丘强拆爆警民冲突 警发催泪弹引众怒 2017-03-25 10:42</a><br/>河南商丘梁园区一处村庄因征地强拆，3月24日城管与村民爆发冲突，警方发射催泪弹平息事件。村民说，政府以每平方米800多元的补偿价要求村民异地安置，被拒绝。当天被强拆的是村支书的房屋，但村民担心稍后还会拆他们的住宅，于是上前阻挠。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814908&from=ogGitn">【禁闻】大陆新媒体〝搬运号〞 有益还是有害？ 2017-03-25 09:26</a><br/>在中共的新闻审查制度下，一个庞大的〝搬运号〞产业，正蓬勃起来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814876&from=ogGitn">上海女傭误用约5万元普洱煮蛋  创〝史上最贵茶蛋〞记录 2017-03-25 09:15</a><br/>价值近5万元人民币、有收藏价值的普洱茶，被不知情的保姆拿来做茶叶蛋，创下〝史上最贵茶叶蛋〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814913&from=ogGitn">中共封杀微信群 被批不解决问题却解决提问题的人 2017-03-25 09:08</a><br/>一批持民主宪政理念的网路名人的群组被封。</td></tr>
