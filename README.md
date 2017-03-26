@@ -25,6 +25,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815019&from=ogGitn">山东“辱母杀人案”引关注 警方被指不作为 2017-03-26 09:15</a><br/>因借高利贷无法还清余款，苏银霞和儿子于欢被催款团伙控制、侮辱，由于警方不作为，最后酿出了血案。近日，山东法院以故意伤害罪判处于欢无期徒刑。该案被陆媒报导后引起舆论极大关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815009&from=ogGitn">【血色禁史】红兵弑母 〝狼孩〞痛悔 2017-03-26 07:58</a><br/>10年狂热的文革中，时年16岁的少年张红兵因为母亲2句反对毛泽东的话，而将母亲方忠谋送上了断头台。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815003&from=ogGitn">港特首选举 亲共社团紧急动员造势密令爆光 2017-03-26 06:02</a><br/>今天（26日）是第五届特首选举日。继网传中联办密令曝光，即要求选委、各界知名人士、政团社团协会领袖发声支持林郑月娥参选特首、“营造支持林郑月娥参选特首的舆论氛围”外，香港大纪元收到另一封由和中联办关系密切的福建社团联会3月20日发出的密令，动员社团成员召集到会场外，为选举造势。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815008&from=ogGitn">中共封杀大批微信群 律师起诉要维权 2017-03-26 05:34</a><br/>近日，中国大陆多个微信号、微信群被封杀。其中，人权律师刘书庆的个人微信号也被封，显示信息是“传播色情/暴力/敏感/广告等违法行为”，但刘书庆律师表示自己并没有传播这些内容，遂准备状告腾讯公司侵犯名誉权。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814994&from=ogGitn">内蒙古包头市居民楼爆炸 3死25伤 2017-03-26 05:15</a><br/>当地时间周六下午两点，内蒙古包头市向阳小区一栋居民楼，发生天然气管道爆炸。从画面看到，其中一个单元整体塌陷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814998&from=ogGitn">华尔街日报编委：中共将如苏联般迅速垮台 2017-03-26 04:41</a><br/>《华尔街日报》编委会成员基塞尔（Mary Kissel）近日在一次演说中预测中共将会垮台。他说：“我相信这个恐怖政权的终结将会到来，来的时候会很迅速，并且是在你最没料到的时候，就像苏联那样。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815033&from=ogGitn">山东书记下课消息不断 港媒传继任人选出人意料 2017-03-26 03:26</a><br/>日前，香港《星岛日报》引述消息说，从无地方从政经历的中共国家审计署审计长刘家义，将接替姜异康出任中共山东省委书记，山东省长将由省委副书记龚正接任。此前该报曾多次报导山东省委书记继任人选，不过均未坐实。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814763&from=ogGitn">提供虚假情况 中共教育部8名官员被处分 2017-03-24 03:13</a><br/>近日，因提供虚假情况，中共教育部8名局级干部被处理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814760&from=ogGitn">【禁闻】文革中的人权先行者：遇罗克 2017-03-24 03:13</a><br/>今天的〝百年红祸〞特别报导，我们就来回顾遇罗克和他的《出身论》。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814754&from=ogGitn">中韩足球大战 长沙如临大敌 武警进驻球场 2017-03-24 02:32</a><br/>正值中韩因萨德交恶之际，3月23日晚，2018年世界杯足球外围赛中韩大战将在湖南长沙登场。 为避免中韩球迷冲突，当局如临大敌，大批武警进驻球场画面曝光。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814758&from=ogGitn">〝手被人放女侍应胸前〞  官方解释摸胸照引网民热议 2017-03-24 02:32</a><br/>网上热传的〝摸胸照〞，官方在通报中给出了解释：手被人放在女服务员的胸前拍照。网民纷纷对此通报热议。</td></tr>
 </table>
