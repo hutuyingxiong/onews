@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815027&from=ogGitn">【翻墙必看】有预测中共将很快垮台 2017-03-26 16:04</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815029&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-26 15:04</a><br/>中南海若在香港采取上述大动作，虽然会起到一些成效，但乱港的根子，即乱港的始作俑者曾庆红、张德江不除，香港未来出任何状况都有可能，而这必将打乱习近平专注的如中美关系等其他重要事务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815026&from=ogGitn">辉山乳业股价暴跌 辽宁首富日损209亿 2017-03-26 14:28</a><br/>3月24日，辉山乳业实际控制人实控人杨凯、葛坤，财富蒸发折合人民币209亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815024&from=ogGitn">政法系大清洗  习近平用人呈现一大特征 2017-03-26 14:05</a><br/>日前，中共中央政治局批高法高检领导班子〝软、散、疲〞。2017年两会前后，中共政法系统大换血，多名无政法工作经历的新人上位。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个马仔落马（上） 2017-03-26 13:55</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿...</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814752&from=ogGitn">伦敦恐袭 美犹他州男子遇难 大陆女生受伤 2017-03-23 23:38</a><br/>3月22日，英国国会大厦外惊传恐怖袭击，造成4人死亡，29人受伤。其中一名美国人在伦敦庆祝结婚25年，不幸遇难。伤者中则包括一名中国女生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814751&from=ogGitn">操纵聋哑人盗窃 开视频会议进行洗脑 湘男被捕 2017-03-23 23:37</a><br/>近日，重庆市曝光一个以〝公司化管理〞聋哑人盗窃团伙,幕后老板姚某对他们洗脑培训。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814766&from=ogGitn">加拿大公民孙茜在北京被绑架 2017-03-23 23:04</a><br/>近日，加拿大籍华人孙茜被北京朝阳区警察非法绑架。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814746&from=ogGitn">《南德意志报》：来自遥远东方的一群人 2017-03-23 22:56</a><br/>在慕尼黑，中国人已经成为了出手最为阔绰的游客群体。德语媒体近日纷纷关注这个话题，分析中国游客的购物特点，也给出德国商家一些建议。《南德意志报》3月22日的一篇题为“慕尼黑的新宠：中国游客”的文章写道：“一项新研究显示，在德国慕尼黑，平均每名中国游客每天消费513欧元，这远高于阿拉伯人的367欧元。而巴伐利亚商会早在2015年就对他们的消费行为进行了调...</td></tr>
 </table>
