@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个马仔落马（上） 2017-03-26 13:55</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815020&from=ogGitn">频频骚扰上海女大学生 深圳官员被查 2017-03-26 13:51</a><br/>近日，深圳一官员在上海高校培训期间，频频骚扰女大学生被举报。目前，举报中提到的两人已被停职协助调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815015&from=ogGitn">计生迫害藉口不灵了？广东女多伦多申请难民被拒 
 										
@@ -9,6 +10,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815014&from=ogGitn">孕妇租儿童盗窃成产业链 150女贼上海落网 
 										
 											?组图 2017-03-26 11:20</a><br/>一些家庭甚至为获取5万元1年的租金超生孩子，然后租给犯罪团伙去实施盗窃。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815021&from=ogGitn">助朝鲜伊朗研发武器 大陆6企业3人遭美制裁 2017-03-26 10:59</a><br/>美国国务院发表声明，决定对违反禁令向伊朗、朝鲜和叙利亚出售大规模杀伤性武器相关设备与技术的11个单位和个人实施制裁，其中包括6家中国公司和3名中国公民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 09:48</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815019&from=ogGitn">山东“辱母杀人案”引关注 警方被指不作为 2017-03-26 09:15</a><br/>因借高利贷无法还清余款，苏银霞和儿子于欢被催款团伙控制、侮辱，由于警方不作为，最后酿出了血案。近日，山东法院以故意伤害罪判处于欢无期徒刑。该案被陆媒报导后引起舆论极大关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815009&from=ogGitn">血色禁史：红兵弑母 〝狼孩〞痛悔 2017-03-26 07:58</a><br/>10年狂热的文革中，时年16岁的少年张红兵因为母亲2句反对毛泽东的话，而将母亲方忠谋送上了断头台。</td></tr>
@@ -210,6 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814721&from=ogGitn">科学家彭加木被外星人劫持？北京不敢公开的惊人内幕 2017-03-23 22:41</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814749&from=ogGitn">港媒：中纪委约谈70多股灾特大暴发户 全是官二代 2017-03-23 22:36</a><br/>港媒消息，证监会主席刘士余再次向金融市场〝野蛮人、妖精〞公开宣战。中共当局今年初已约谈、控制了70多名2105年大股灾中的特大暴发户，这些暴发户全部是高层官二代、官三代子女。此前有报导称，当年大股灾是党内利益集团针对习近平的〝经济政变〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814747&from=ogGitn">李克强访澳会见澳总理 场外多团体吁停止迫害 2017-03-23 22:01</a><br/>3月23日（周四）中午，澳洲总理特恩布尔（Malcolm Turnbull）在首都堪培拉国会大会堂宴请到访的中共总理李克强。双方都关注两国的经济贸易发展，并强调了地区稳定的重要性，李克强还称“以和为贵”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814748&from=ogGitn">西安地铁电缆牵出多个疑点 舆论追问真相 2017-03-23 21:06</a><br/>西安地铁电缆问题牵出涉事公司——陕西奥凯公司诸多问题。媒体认为，该事件不能仅止于道歉，要对公众质疑给予明确交代。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814728&from=ogGitn">央视丑闻大曝光：美女主持升职快〝红黑〞敛财有术 2017-03-23 20:53</a><br/>消息称，央视郭振玺利用媒体效应大量敛财黑幕；为了争夺客户，央视曾向百度开战。</td></tr>
 </table>
