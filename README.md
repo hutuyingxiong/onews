@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815040&from=ogGitn">习近平旧部李书磊兼任追逃办主任 2017-03-27 00:48</a><br/>习近平的旧部李书磊刚刚升任中纪委副书记2个月后，日前又兼任中共中央追逃办主任这一要职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（上） 2017-03-26 20:51</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境艰难。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 17:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814758&from=ogGitn">〝手被人放女侍应胸前〞  官方解释摸胸照引网民热议 2017-03-24 02:32</a><br/>网上热传的〝摸胸照〞，官方在通报中给出了解释：手被人放在女服务员的胸前拍照。网民纷纷对此通报热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814755&from=ogGitn">明经国为何愤杀官？被捕后以4字作答 2017-03-24 02:22</a><br/>明经国被捕照被中国网友评价为〝中国最佳摄影〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814757&from=ogGitn">继出云号后 日本准航母“加贺号”正式服役 2017-03-24 01:36</a><br/>日本海上自卫队最大型的直升机航空母舰“加贺号”周三（3月22日）在横滨造船厂举行了军舰交付仪式，正式服役。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814756&from=ogGitn">石铭：古之奸佞魏忠贤与今之酷吏周永康 2017-03-23 23:46</a><br/>此文引用两个坏事做绝的恶人：古之奸佞明朝太监魏忠贤，今之奸佞前中共政法委书记周永康。</td></tr>
 </table>
