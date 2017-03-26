@@ -23,6 +23,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815003&from=ogGitn">港特首选举 亲共社团紧急动员造势密令爆光 2017-03-26 06:02</a><br/>今天（26日）是第五届特首选举日。继网传中联办密令曝光，即要求选委、各界知名人士、政团社团协会领袖发声支持林郑月娥参选特首、“营造支持林郑月娥参选特首的舆论氛围”外，香港大纪元收到另一封由和中联办关系密切的福建社团联会3月20日发出的密令，动员社团成员召集到会场外，为选举造势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814994&from=ogGitn">内蒙古包头市居民楼爆炸 3死25伤 2017-03-26 05:15</a><br/>当地时间周六下午两点，内蒙古包头市向阳小区一栋居民楼，发生天然气管道爆炸。从画面看到，其中一个单元整体塌陷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814998&from=ogGitn">华尔街日报编委：中共将如苏联般迅速垮台 2017-03-26 04:41</a><br/>《华尔街日报》编委会成员基塞尔（Mary Kissel）近日在一次演说中预测中共将会垮台。他说：“我相信这个恐怖政权的终结将会到来，来的时候会很迅速，并且是在你最没料到的时候，就像苏联那样。”</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815033&from=ogGitn">山东书记下课消息不断 港媒传继任人选出人意料 2017-03-26 03:26</a><br/>日前，香港《星岛日报》引述消息说，从无地方从政经历的中共国家审计署审计长刘家义，将接替姜异康出任中共山东省委书记，山东省长将由省委副书记龚正接任。此前该报曾多次报导山东省委书记继任人选，不过均未坐实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814986&from=ogGitn">“没有钦点” 港特首选举花落何家？ 2017-03-26 03:15</a><br/>离香港特首选举投票仅剩半天。由于习近平当局没有钦点香港特首，且选情十分紧张，谁将当选特首变得扑朔迷离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814985&from=ogGitn">港媒：习当局或公布震惊海内外的大案 2017-03-26 02:38</a><br/>习近平的旧部、中纪委副书记杨晓渡日前公开警告金融巨鳄“谋取政治权力十分危险”。港媒称，北京当局掀起一轮目标直指财经界寡头和巨鳄的整肃运动，很可能公布一些震惊海内外的大案要案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814983&from=ogGitn">林辉：反抗中共的《星火》杂志与林昭之死 2017-03-26 01:44</a><br/>上个世纪五六十年代，中共发起了一个又一个运动，特别是〝大跃进〞造成饿死不少人的惨状，让一些虽遭受迫害，但仍选择不屈服的知识份子挺身而出。1960年初，那个黑暗时代的一抹亮色在中国西北闪现：一本名为〝星火〞的油印刊物悄然在甘肃武山县刊发了第一期，创办者是部分被兰州大学送到农村劳动改造的学生。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814757&from=ogGitn">继出云号后 日本准航母“加贺号”正式服役 2017-03-24 01:36</a><br/>日本海上自卫队最大型的直升机航空母舰“加贺号”周三（3月22日）在横滨造船厂举行了军舰交付仪式，正式服役。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814756&from=ogGitn">石铭：古之奸佞魏忠贤与今之酷吏周永康 2017-03-23 23:46</a><br/>此文引用两个坏事做绝的恶人：古之奸佞明朝太监魏忠贤，今之奸佞前中共政法委书记周永康。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814752&from=ogGitn">伦敦恐袭 美犹他州男子遇难 大陆女生受伤 2017-03-23 23:38</a><br/>3月22日，英国国会大厦外惊传恐怖袭击，造成4人死亡，29人受伤。其中一名美国人在伦敦庆祝结婚25年，不幸遇难。伤者中则包括一名中国女生。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814751&from=ogGitn">操纵聋哑人盗窃 开视频会议进行洗脑 湘男被捕 2017-03-23 23:37</a><br/>近日，重庆市曝光一个以〝公司化管理〞聋哑人盗窃团伙,幕后老板姚某对他们洗脑培训。</td></tr>
 </table>
