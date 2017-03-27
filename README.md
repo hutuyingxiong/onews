@@ -2,7 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 14:34</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:30</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815071&from=ogGitn">【中国禁闻】3月26日完整版 2017-03-27 14:30</a><br/>华尔街日报编委：中共必将垮台；落马新疆监狱高官被起底 数十人涉案；判决不公 令〝辱母杀人案〞网络大热。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后代 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连 大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
@@ -28,7 +28,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815047&from=ogGitn">迫害法轮功遭厄运 明慧网记载7省约7千案例 2017-03-27 05:17</a><br/>明慧网记载了逾万起迫害法轮功遭厄运的真实案例，上至中共政治局常委，下至迫害法轮功的非法组织“610”的乡镇人员和不明真相的民众。他们中有的车祸毙命，有离奇猝死，有的自杀，有的暴病身亡，有的判刑入狱，还有的殃及家人……</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815072&from=ogGitn">一周大事解读：习王围剿江家族四代 敲打张刘 2017-03-27 05:12</a><br/>上周，围绕香港特首选举，习阵营与江泽民集团公开对决；中南海释放习近平的“不钦点论”，公开打脸江派常委张德江的“中央任命论”。江派窝点和利益地盘被密集清洗，江泽民家族四代被围剿，上海帮政法系统逾百人被调查。习当局高调释放内蒙古首虎王素毅因重大立功获减刑的消息，或暗示王素毅已供出刘云山家族贪腐。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815055&from=ogGitn">【禁闻】判决不公 令〝辱母杀人案〞网络大热 2017-03-27 04:46</a><br/>山东聊城一名女企业家，因为无法还清有黑社会背景的高利贷欠款，被11名催债人限制人身自由并凌辱，其中包括极端的性污辱。在警方不作为的情况下，同样被控制的企业家儿子用水果刀刺死了一名黑社会催债人，却被法院判无期徒刑。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815054&from=ogGitn">【禁闻】落马新疆监狱高官被起底 数十人涉案 2017-03-27 04:45</a><br/>据报，谢晖违法金额高达1亿多人民币，涉案的劳教和监狱系统官员中，有7人被移送司法处理、42人被处分。有分析认为，中共司法部门尤其是监狱系统等，沦为贪腐重地，是中共体制造成的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815054&from=ogGitn">【禁闻】落马新疆监狱高官被起底 数十人涉案 2017-03-27 04:35</a><br/>据报，谢晖违法金额高达1亿多人民币，涉案的劳教和监狱系统官员中，有7人被移送司法处理、42人被处分。有分析认为，中共司法部门尤其是监狱系统等，沦为贪腐重地，是中共体制造成的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815050&from=ogGitn">副市长对财色来者不拒 落马后与妻同台受审 2017-03-27 04:19</a><br/>被戏为“通奸党”的中共再自曝丑闻，落马的湖南常德市委前常委、副市长卢武福与妻子苗旭华同台受审；卢武福先后与9名女性“通奸”，他对女性来者不拒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815049&from=ogGitn">山东辱母杀人案引舆论海啸 逾亿评论轰警方不作为 2017-03-27 04:11</a><br/>没有公权力的保护，每个人都可能遭遇于欢一样的屈辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815051&from=ogGitn">十亿名画要不回 中行下岗职工的辛酸路 2017-03-27 03:23</a><br/>前中国银行北京市分行职工宋军，近日向媒体投诉，在他所负责的美术协会项目上借来的名画，在美协封停后，被扣留了1800幅，价值逾10亿，他向单位要求取回，总是要他等著或去走访。10几年来他经历了被下岗、拆迁的安置房被拿走，在诉讼与漂泊中艰困的过日子。他要求中行归还属于他的物品，并且公开向他道歉。</td></tr>
