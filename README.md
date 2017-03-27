@@ -2,12 +2,15 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815107&from=ogGitn">辱母案判决引公愤  最高检称介入 2017-03-27 17:44</a><br/>中共最高检26号发通报称，山东省聊城市冠县〝辱母杀人案〞引起社会广泛关注，最高检已派人到山东阅卷审查。对于被告人于欢，因保护母亲，怒杀追债人的行为，是否是正当防卫或防卫过当，将审查认定。对媒体反映警方在执法过程中的渎职行为，将调查处理。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815106&from=ogGitn">内蒙古包头市一小区发生爆炸事故 2017-03-27 17:43</a><br/>25号下午1点55分，向阳小区发生爆炸事故，导致一栋单元楼整体塌陷，楼下多辆车子被炸毁。当地村民透露，爆炸发生后，特警迅速封锁现场至今。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815103&from=ogGitn">对金钱美女来者不拒  湘官自曝9个二奶仍不够 2017-03-27 17:38</a><br/>卢武福自曝，除了对金钱来者不拒以外，对女人也是，先后与9名女性〝通奸〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815101&from=ogGitn">北京再加码调控 停止“商改住”项目 2017-03-27 16:15</a><br/>3月26日，北京宣布停止“商改住”项目。这是继多次调控住宅项目后，北京再次加码楼市调控，也引发了业界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815102&from=ogGitn">湖南官场持续震荡 省委市委宣传部长都出事 2017-03-27 16:10</a><br/>中共湖南、广东官场持续震荡。自湖南省宣传部长张文雄落马后，3月27日，湖南前长沙市委常委、宣传部部长张湘涛被接受审查；此外，前广东前肇庆市委常委、宣传部长陈定坤被逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815105&from=ogGitn">罕见怪病 浙江“透明宝宝”惊呆医生 2017-03-27 16:05</a><br/>近日，浙江温州市某院产科遇到了一名患有先天性皮肤缺损疾病的新生儿，两腿从大腿至膝盖处均无皮肤呈鲜红色，血管裸露。医生称从未见过。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815099&from=ogGitn">部级高官口述与著名影星情史  反腐新书曝贪官荒淫内情 2017-03-27 16:04</a><br/>一名昔日显赫一时的正部级官员，自述与著名女影星〝安娜〞的荒淫情史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815096&from=ogGitn">新疆厅官贪腐过亿 待公布案情恐更惊人 2017-03-27 15:59</a><br/>前新疆公安厅副厅长谢晖贪腐1亿多元（人民币，下同）的丑闻令人震惊。新疆已查处了大批厅局级官员，但案情尚未公布，陆媒认为，大批落马厅官案情公布的话必将是更惊人的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 15:15</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:10</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815095&from=ogGitn">自曝情史的落马正部级高官到底是谁？ 2017-03-27 14:49</a><br/>在一本新出版的书中，提到一名被判刑12年的中共北京正部级金融高官的贪腐经历及其与女明星的情史。因为书中未提及此高官的名字，引发网民好奇：此人到底是谁？随后陆媒报导说，此人是前中共建设银行行长王雪冰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815071&from=ogGitn">【中国禁闻】3月26日完整版 2017-03-27 14:30</a><br/>华尔街日报编委：中共必将垮台；落马新疆监狱高官被起底 数十人涉案；判决不公 令〝辱母杀人案〞网络大热。</td></tr>
@@ -17,7 +20,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815094&from=ogGitn">长春男子引爆煤气罐致爆炸火灾 居民陷恐慌 2017-03-27 11:22</a><br/>吉林长春一对开土豆粉店的夫妻吵架，丈夫点燃了店里的煤气罐，引发爆炸和火灾，周边市民极度恐慌。发生爆炸、火灾的店面已面目全非，楼上六层楼均受殃及。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815087&from=ogGitn">贵州盘县山体滑坡 致民房倒塌4人死亡 2017-03-27 11:15</a><br/>26日凌晨0点左右，贵州六盘水市盘县新民镇扒噶村发生山体滑坡，一间房屋被推倒，房中5人被困，仅1人生还。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 11:03</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 10:52</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815078&from=ogGitn">内蒙古一居民楼爆炸    致5死25人伤 2017-03-27 10:45</a><br/>日前，内蒙古包头市的一小区居民楼房发生爆炸，导致中间整个单元塌陷，事故造成5人死亡，25人受伤，小区83户居民房屋受损，波及259人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815080&from=ogGitn">西藏云南3月27日上午接连发生浅层地震 2017-03-27 10:41</a><br/>3月27日上午，位于中国西南的西藏和云南，接连发生6次深度为8千米至12千米的浅层地震，最大震级为5.1。</td></tr>
@@ -50,8 +52,8 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815029&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-26 23:04</a><br/>中南海若在香港采取上述大动作，虽然会起到一些成效，但乱港的根子，即乱港的始作俑者曾庆红、张德江不除，香港未来出任何状况都有可能，而这必将打乱习近平专注的如中美关系等其他重要事务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815048&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-26 22:56</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（上） 2017-03-26 20:51</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境艰难。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 20:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815024&from=ogGitn">政法系大清洗  习近平用人呈现一大特征 2017-03-26 19:05</a><br/>日前，中共中央政治局批高法高检领导班子〝软、散、疲〞。2017年两会前后，中共政法系统大换血，多名无政法工作经历的新人上位。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 19:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815041&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-26 16:55</a><br/>这次辉山乳业无端崩塌的背后之一，有指是大股东挪用30亿资金投资房地产失利的消息在市场上走漏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815027&from=ogGitn">【翻墙必看】有预测中共将很快垮台 2017-03-26 16:04</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814822&from=ogGitn">嘉兴楼盘关系户资料外泄 涉172名公职人员 2017-03-24 15:43</a><br/>日前，嘉兴一高档楼盘关系户预登记资料外泄，资料显示，预约购房人多为当地政府机关官员或金融机构负责人，还记录著这些人通过何种关系预约。官方称涉172名公职人员。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814867&from=ogGitn">袁斌：西安“电缆门”事件能一跪了之吗？ 2017-03-24 15:34</a><br/>“电缆门”事件不应一跪了之，必须彻查与奥凯公司有牵连的相关企业、政府职能部门和公职人员，有无合谋参与、权钱交易、利益输送等违规问题，还原事件的全部真相，给全体西安市民一个交待。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814851&from=ogGitn">陕西高速发生重大车祸 已致6死3伤 2017-03-24 15:00</a><br/>3月24日6时35分，一辆食品专用罐车与一辆面包车，在西临高速发生碰撞。事故已造成6人死亡，3人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814856&from=ogGitn">只因未穿校服 赣女生遭老师踢下体倒地打滚 2017-03-24 14:30</a><br/>江西九江瑞昌城东学校一名小学女生，因没穿校服到校，遭到邓姓女老师穿皮鞋猛踢其腿部及下体，女孩当即疼痛至倒地打滚。涉事老师已被暂时停职。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814816&from=ogGitn">“我爸是领导” 安徽男子一句谎言骗倒18人 2017-03-24 14:20</a><br/>安徽一名男子谎称自己“家里有人，父亲是某市领导，能拿到低于市场价近千元的苹果手机。”这一句话令前后18人受骗，共被骗去300多万元。</td></tr>
 </table>
