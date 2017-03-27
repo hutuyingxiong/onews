@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后人 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连   大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815087&from=ogGitn">贵州盘县山体滑坡 致民房倒塌4人死亡 2017-03-27 11:15</a><br/>26日凌晨0点左右，贵州六盘水市盘县新民镇扒噶村发生山体滑坡，一间房屋被推倒，房中5人被困，仅1人生还。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814808&from=ogGitn">陆球迷韩国队下榻处放鞭炮 中国队真赢了 2017-03-24 11:30</a><br/>23日凌晨2时起，中国球迷在韩国队下塌的酒店外彻夜放鞭炮。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814804&from=ogGitn">充电手机有危险 甘肃农妇睡梦中手掌焦黑死亡 2017-03-24 11:11</a><br/>3月21日，甘肃平凉静宁县一户农家发生悲剧。农妇在晚间睡觉时，手握著连接火牛、正在充电的手机身亡。事后发现其手掌焦黑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814928&from=ogGitn">“就得不断碰撞抗争” 我知道的王全璋律师 2017-03-24 11:06</a><br/>2015年，王全璋律师因“709”事件被抓。知情人透露，在监视居住期间，他遭受电击等严重酷刑，并被中共变相剥夺辩护权。王全璋律师代理了大量法轮功学员的案件，很多与他相识的人都惦念着他，本文作者田露（化名）就是其中之一。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814806&from=ogGitn">中韩球赛奏韩国歌遭嘘 国际足联或处罚 2017-03-24 11:04</a><br/>港媒指，根据国际足联的章程，中国或受到罚款。</td></tr>
 </table>
