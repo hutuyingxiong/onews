@@ -12,6 +12,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815052&from=ogGitn">谢天奇：香港分裂持续 林郑面临四路夹击 2017-03-27 02:05</a><br/>受江派势力力挺的林郑当选香港下届特首，预示香港两大分裂态势还将持续，后续博弈料将升级。江派扰乱香港的势力正从上至下被解体；林郑上任首将遭遇四路夹击。林郑在不断升级的习江博弈中何去何从，在香港特首任上能走多远，还是未知数。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815044&from=ogGitn">揭秘谷俊山其人与“军盾一号”绝密工程 2017-03-27 01:37</a><br/>中共前后勤部副部长谷俊山曾向前军委副主席徐才厚行贿、行色，得以8年连升5级。谷俊山以“军盾一号”工程名义从北京市民手中廉价征地后，却建成了“京城第一天价豪宅”的钓鱼台七号院和11套戒备森严的豪华专用别墅群“钓鱼台乙六号院”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815040&from=ogGitn">习近平旧部李书磊兼任追逃办主任要职 2017-03-27 00:48</a><br/>习近平的旧部李书磊刚刚升任中纪委副书记2个月后，日前又兼任中共中央追逃办主任这一要职。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815061&from=ogGitn">“辱母杀人”案判决引众怒 舆论为何挺凶手 2017-03-27 00:40</a><br/>这个周末，朋友圈被山东“辱母杀人案”刷爆，法院一审判决更让民众愤怒。雷洋案后舆论再掀风暴，怒斥警方不作为，以及冷血的法律。随后山东高院、最高检查院先后发布通告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815048&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-26 22:56</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（上） 2017-03-26 20:51</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境艰难。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814773&from=ogGitn">美官员：朝鲜未来几天料将再进行核试验 2017-03-24 05:27</a><br/>了解朝鲜最新情报的美国官员告诉福克斯，朝鲜处于准备又一轮核试验的最后阶段，并可能在未来几天举行核试验。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814772&from=ogGitn">周恩来口中的〝文武全才〞干毅 文革遭迫害入狱8年 2017-03-24 05:25</a><br/>干毅被中共领导周恩来赞誉为〝文武全才〞的科学界的泰斗，但在文革中也没幸免被迫害。文革运动历时10年，就这样一位学富五车的老知识份子累计在监狱中度过了8年，右派的帽子直到1984年才摘掉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814761&from=ogGitn">【禁闻】中共〝北水南调〞贝加尔湖  评: 饮鸩止渴 2017-03-24 05:21</a><br/>据大陆媒体报导，甘肃兰州市城乡规划院最近推出了〝中国．兰州2030城市规划愿景〞计划书。其中，在远期规划中提出了〝开展俄罗斯贝加尔湖‘北水南调’工程可行性研究工作〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814814&from=ogGitn">纪录片揭大陆工人辛酸 中毒致病维权无门 2017-03-24 05:18</a><br/>“大陆的一名年轻工人，24岁时由于在工厂环境中苯中毒而患上白血病，他说好像有蚂蚁从里往外咬自己的身体。”这是纪录片《共犯》（Complicit）中的故事之一，具有相似经历的人还有很多。</td></tr>
 </table>
