@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815108&from=ogGitn">揭秘谷俊山与共军绝密工程〝军盾一号〞 2017-03-27 18:36</a><br/>谷俊山与〝军盾一号〞这项绝密工程鲜为人知的内幕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815109&from=ogGitn">慎入！南京一男子翻越轨道  只剩下半截身子 2017-03-27 18:33</a><br/>日前，南京高铁南站发生一出惨剧，一辆列车到达南京进入站台时，一年轻男子突然从对面站台跳下，横越股道，试图抢在列车前翻上站台，结果未能成功，男子被夹在列车车厢与站台之间。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815111&from=ogGitn">纽时：习近平和中国的宗教复兴 2017-03-27 17:47</a><br/>纽约时报中文网发表一篇署名文章，探讨习近平对传统宗教的看法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815107&from=ogGitn">辱母案判决引公愤  最高检称介入 2017-03-27 17:44</a><br/>中共最高检26号发通报称，山东省聊城市冠县〝辱母杀人案〞引起社会广泛关注，最高检已派人到山东阅卷审查。对于被告人于欢，因保护母亲，怒杀追债人的行为，是否是正当防卫或防卫过当，将审查认定。对媒体反映警方在执法过程中的渎职行为，将调查处理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815106&from=ogGitn">内蒙古包头市一小区发生爆炸事故 2017-03-27 17:43</a><br/>25号下午1点55分，向阳小区发生爆炸事故，导致一栋单元楼整体塌陷，楼下多辆车子被炸毁。当地村民透露，爆炸发生后，特警迅速封锁现场至今。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815103&from=ogGitn">对金钱美女来者不拒  湘官自曝9个二奶仍不够 2017-03-27 17:38</a><br/>卢武福自曝，除了对金钱来者不拒以外，对女人也是，先后与9名女性〝通奸〞。</td></tr>
@@ -12,6 +15,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815096&from=ogGitn">新疆厅官贪腐过亿 待公布案情恐更惊人 2017-03-27 15:59</a><br/>前新疆公安厅副厅长谢晖贪腐1亿多元（人民币，下同）的丑闻令人震惊。新疆已查处了大批厅局级官员，但案情尚未公布，陆媒认为，大批落马厅官案情公布的话必将是更惊人的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 15:15</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:10</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815065&from=ogGitn">【禁闻】华尔街日报编委：中共必将垮台 2017-03-27 15:10</a><br/>现在越来越多的人看到，中共垮台的日子已经不远。而中共之所以必然解体有三个原因。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815095&from=ogGitn">自曝情史的落马正部级高官到底是谁？ 2017-03-27 14:49</a><br/>在一本新出版的书中，提到一名被判刑12年的中共北京正部级金融高官的贪腐经历及其与女明星的情史。因为书中未提及此高官的名字，引发网民好奇：此人到底是谁？随后陆媒报导说，此人是前中共建设银行行长王雪冰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815071&from=ogGitn">【中国禁闻】3月26日完整版 2017-03-27 14:30</a><br/>华尔街日报编委：中共必将垮台；落马新疆监狱高官被起底 数十人涉案；判决不公 令〝辱母杀人案〞网络大热。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后代 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
@@ -28,7 +32,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815070&from=ogGitn">林辉：放弃马列的陈独秀与其逃港的女儿 2017-03-27 08:21</a><br/>在中共党史上，陈独秀是一个无法回避的名字——尽管中共刻意淡化。原因就在于他不仅是中国最早宣传马克思主义、主张〝全盘西化〞的知识份子，也是中共早期的主要创始人和首任总书记。然而，就是这样一个曾经怀着无限热忱传播马克思主义之人，却在晚年彻底进行了省思，并放弃了共产主义思想，反对苏联，支持蒋介石领导的抗日战争，认为只有民主政治才能救中国，认为英美法的民主代表人类的希望。而这亦是现今中共大力批判其之处，也是中共无法〝正面评价〞陈独秀的所在。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815066&from=ogGitn">【禁闻】百名红通犯 国际刑警网站突消失 2017-03-27 08:18</a><br/>几年前中共中纪委监察部公布的100名红色通缉外逃人员名单，至少在两天前，在原来的国际刑警组织网站上，消失不见，无法查询。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815069&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-27 08:18</a><br/>备受关注的新一届香港特首选举在3月26日这一天尘埃落定，民望极高的曾俊华落选，一直被张德江、梁振英、张晓明力捧的林郑月娥当选新一届特首。从选举前北京最高层释放的信息。以及习当局派出身边太子党特使密集接见香港众多选委，传递习近平对特首选举的四点讲话来看，这样的结果应该不是希望保持香港稳定的习当局所乐见的。选举结果彰显了江派势力在香港的控制力和未来继续乱港的信号。对此，北京最高层不会看不到。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815065&from=ogGitn">【禁闻】华尔街日报编委：中共必将垮台 2017-03-27 08:17</a><br/>现在越来越多的人看到，中共垮台的日子已经不远。而中共之所以必然解体有三个原因。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815068&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-27 08:16</a><br/>3月24日，香港挂牌的中国乳业巨头──辉山乳业，在毫无征兆的情况下股价瞬间（半小时）暴跌达85%，盘中跌幅最大达91%，造成300多亿港元的市值顷刻蒸发，形同崩盘，并刷新了当年汉能薄膜的历史记录。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815067&from=ogGitn">王友琴：七名被判死刑的北京大学〝右派份子〞（下） 2017-03-27 08:12</a><br/>沈元是上海人，1938年生，1955年从上海位育中学毕业，考入北京大学历史系。同年，位育中学另一名学生以优异成绩考入清华大学。这两名学生在1957年开始的〝反右派运动〞中，都被划为〝右派份子〞。位育中学中学1955年的925名毕业生中，有44人被定成了〝右派份子〞，包括两个考入北大清华的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815064&from=ogGitn">杨宁：末代皇帝文革中连病带吓而死 族人被抄家 2017-03-27 08:07</a><br/>1912年2月，随着大清王朝隆裕皇太后颁布《退位诏书》，清朝末代皇帝、年仅6岁的溥仪正式退位。此后他的人生被历史裹挟着，充满了悲剧的色彩。</td></tr>
@@ -207,7 +210,4 @@
 											?组图 2017-03-24 16:22</a><br/>《西游记》是中国四大名著之一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814853&from=ogGitn">“陈毅探母”涉杜撰 大陆语文教材造假多 2017-03-24 16:05</a><br/>长期以来，中国大陆的中小学语文教材中，有不少文章涉造假、杜撰，对教育读本中存在许多史实谬误民众表示不满。近日，大陆官方出版社回应称，新版教材删除了有争议的文章。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814827&from=ogGitn">中海油去年净利大跌近97% 今年形势不明 2017-03-24 15:52</a><br/>中海油23日公布2016年业绩，油气销售收入同比下降17.2%，至人民币1213亿元，净利润跌至人民币6.37亿元，同比降幅高达96.9%。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814822&from=ogGitn">嘉兴楼盘关系户资料外泄 涉172名公职人员 2017-03-24 15:43</a><br/>日前，嘉兴一高档楼盘关系户预登记资料外泄，资料显示，预约购房人多为当地政府机关官员或金融机构负责人，还记录著这些人通过何种关系预约。官方称涉172名公职人员。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814867&from=ogGitn">袁斌：西安“电缆门”事件能一跪了之吗？ 2017-03-24 15:34</a><br/>“电缆门”事件不应一跪了之，必须彻查与奥凯公司有牵连的相关企业、政府职能部门和公职人员，有无合谋参与、权钱交易、利益输送等违规问题，还原事件的全部真相，给全体西安市民一个交待。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814851&from=ogGitn">陕西高速发生重大车祸 已致6死3伤 2017-03-24 15:00</a><br/>3月24日6时35分，一辆食品专用罐车与一辆面包车，在西临高速发生碰撞。事故已造成6人死亡，3人受伤。</td></tr>
 </table>
