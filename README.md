@@ -2,12 +2,15 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815164&from=ogGitn">北京连9招遏制楼价 关66间中介 学区房或贬值 2017-03-28 06:42</a><br/>北京实行新一轮楼市调控政策的10天内，已出9招遏楼价，其中，66间房地产中介门店被关停。外界关注，北京学区房或贬值。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815163&from=ogGitn">股价暴跌发酵 辉山乳业董事长名下有多家房企 2017-03-28 06:29</a><br/>辉山乳业股价暴跌，公司董事长杨凯否认因大股东挪用巨资投资房地产引发。但陆媒调查显示，杨凯名下至少有三家房地产公司。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815166&from=ogGitn">时政段子集：辱母杀人案比雷洋案更令人绝望 2017-03-28 06:23</a><br/>时政段子集：辱母杀人案 比雷洋案更令人绝望</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815157&from=ogGitn">周晓辉：官员财产公示制度未到公布时机背后 2017-03-28 05:53</a><br/>破局之法并非没有，只要开放党禁、报禁，让人民监督官员，并进而彻底抛弃中共，现高层就可以走向光明大道，实现其依法治国的“中国梦”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815160&from=ogGitn">【禁闻】大陆货币增速第一 为何还闹钱荒？ 2017-03-28 05:46</a><br/>据大陆媒体报导，最近大陆银行〝勒紧裤带过日子〞的时间又来了。《华夏时报》的报导说，华南某银行交易员抱怨，每天上班都在借借借，跪求资金，心好累。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815153&from=ogGitn">【禁闻】港特首选举次日 政府起诉占中人士 2017-03-28 05:37</a><br/>港特首选举次日 政府起诉占中人士；国际特赦：起诉占中人士涉嫌政治打压；</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815159&from=ogGitn">【禁闻】学者也不容？居澳副教授遭中共禁离华 2017-03-28 05:36</a><br/>据多家媒体报导，从24号起，冯崇义在广州两度无法登机离境，并且在第二次得知自己被列入禁飞名单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815155&from=ogGitn">3月27日全球看中国 2017-03-28 05:33</a><br/>全球假货将大增  中国是大产家；草场被强占林权证被吊销  内蒙牧民连续五天请愿；新疆厅官贪腐过亿 待公布案情恐更惊人；中国不断发现未经官方注册的数百万人口。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815165&from=ogGitn">中国人为何大批移民马来西亚？ 2017-03-28 05:04</a><br/>中国人正掀起赴马来西亚又一波移民潮，其中有数千中国人根据马来西亚“第二家园计划”（MM2H)移民该国，成为这波移民潮的一大组成部分。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815154&from=ogGitn">渝男刑具锁妻网聊行骗 近半年骗款60多万 2017-03-28 05:03</a><br/>〝求求你们救救我吧，我被人家锁起来了，在做骗人的事情，数目高达几十万。〞一则简讯传送到了警方。根据报警的线索，任欣被营救出来，摆脱了魔掌，拘禁她的丈夫则被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815152&from=ogGitn">石涛：林郑赌命式胜选 于欢〝辱母杀人〞人性尊严被凌辱 2017-03-28 05:00</a><br/>中共上层权力对垒在香港大选中直接表现了出来。所以，大家就看到了，有党中央就没有老百姓的尊严，这就是这次香港特首选举出现的场面，没有什么可评论的。因为它们恪守的是高级动物的理念，高级动物就是吃人的，摧残人的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815162&from=ogGitn">〝坤旦皇后〞文革扫厕所 一代名伶自缢身亡 2017-03-28 04:59</a><br/>言慧珠，曾是闻名全国的京剧〝坤旦皇后〞，被梅兰芳誉为〝最得意的女弟子〞。文革中被打倒抄家，绝望中用演唱《天女散花》时使用的白腰带自缢身亡。一代名伶香消玉殒，终年47岁。</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814888&from=ogGitn">每日三退声明精选（2017/03/24） 2017-03-25 02:00</a><br/>今天观看了关于高律师的电影和器官活摘的电影，深感不能和中共这样手上沾满无辜人民鲜血的邪恶为伍，特声明退出共产党的一切组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814896&from=ogGitn">明经国并非遭遇强拆？ 网路热文揭〝美丽乡村〞残酷真相 2017-03-25 01:42</a><br/>江西省赣州市老农明经国抗拆怒杀村官，引起持续关注。日前有网文披露赣州临近地区村官为面子工程，无补偿无通知任意拆除民房的暴行，或可揭开老人一怒杀人的真相。文章指，政府任意胡作非为，已超越强拆，是向百姓宣战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814886&from=ogGitn">田露：〝就得不断碰撞抗争〞我知道的王全璋律师 2017-03-25 01:39</a><br/>在中国大陆，敢不敢为法轮功学员辩护，已经成为律师资质与人品的一种验证，因为十几年来，法轮功群体所遭受的人权灾难是最为深重的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814885&from=ogGitn">谢天奇：习亮底牌打脸张德江 港特首选举战峰回路转 2017-03-25 01:35</a><br/>多项民意调查反映曾俊华最得到香港民意支持出任下届特首之际，3月23日，香港《都市日报》头版刊登一则引述来自北京可靠消息报导，对三天后举行的香港特首选举，根本就不存在习近平〝钦点〞之说。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814890&from=ogGitn">惨不忍睹  广西货车撞学生队伍致1死3伤 2017-03-25 01:34</a><br/>一辆大货车高速撞向放学的小学生队伍，多名小学生被卷入车底，造成1人死亡，3人受伤，其中伤重的两人已经送往医院抢救。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814932&from=ogGitn">辉山乳业盘中暴跌近90%  传30亿资金被挪动 2017-03-25 01:24</a><br/>3月24日，在香港上市的辉山乳业盘中暴跌近90%，市场传其大股东挪用30亿资金引发。据报，辉山乳业债务涉23家银行。去年底，美国做空机构浑水指责辉山乳业涉多项造假。</td></tr>
 </table>
