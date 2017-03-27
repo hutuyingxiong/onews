@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815128&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（下） 2017-03-27 21:43</a><br/>尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 21:03</a><br/>随着“辱母杀人”案中的催债团伙头目的被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815123&from=ogGitn">大陆艺考黑幕频曝光 多省高校老师获刑 2017-03-27 20:25</a><br/>一直以来，大陆各大艺术类院校招生考试黑幕频被曝光，各地都有艺考腐败案被查处。近年来，湖北、江西、安徽、北京等省高校老师在艺考招生工作中，收受贿赂被判刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814924&from=ogGitn">科学家彭加木被外星人劫持？北京不敢公开的惊人内幕 2017-03-24 18:15</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814828&from=ogGitn">秦城监狱〝大老虎〞获减刑  薄周令郭除外 2017-03-24 17:55</a><br/>内蒙古自治区党委常委、统战部部长王素毅去年底获得减刑建议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814850&from=ogGitn">中国海平面上升加速 专家：或面临严重海洋灾难 2017-03-24 17:41</a><br/>中共官方最新数据显示，大陆沿海的海平面上升加速。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814849&from=ogGitn">央视打假节目〝造假〞  日本使馆发函质询 2017-03-24 17:40</a><br/>日本驻华大使馆近日向中共央视发出信函，就央视早前在〝315晚会〞误报日涉核食品进入中国大陆事件，提出书面质询，并要求调查央视记者采访经过和事实关系。据悉，目前日方仍未收到回复。</td></tr>
 </table>
