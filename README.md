@@ -19,6 +19,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815109&from=ogGitn">慎入！南京一男子翻越轨道 只剩下半截身子 2017-03-27 18:33</a><br/>日前，南京高铁南站发生一出惨剧，一辆列车到达南京进入站台时，一年轻男子突然从对面站台跳下，横越股道，试图抢在列车前翻上站台，结果未能成功，男子被夹在列车车厢与站台之间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815118&from=ogGitn">贵州9岁留守男童遭姑父火钩烫皮带抽 2017-03-27 18:20</a><br/>贵州黔西留守儿童遭遇性侵、虐待事件频频被曝光。9岁男童小守都在1岁时父母离异，后被送到姑姑家抚养。小守都控诉，8年来，小守都经常被被姑父姑母虐打，不听话，就用电线、皮带、打火机、火钩等虐待，遍体鳞伤，惨不忍睹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815111&from=ogGitn">纽时：习近平和中国的宗教复兴 2017-03-27 17:47</a><br/>纽约时报中文网发表一篇署名文章，探讨习近平对传统宗教的看法。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815138&from=ogGitn">陈思敏：山东“辱母案”有责的“关键少数” 2017-03-27 17:46</a><br/>山东聊城因高利贷讨债引发的“儿子刺死辱母者”一案，主角22岁的于欢已于今年2月一审被判无期徒刑。此一消息在日前经媒体披露后，引发了连日来的舆论海啸。在报导公开的一审判决书中，部分内容还原了11名讨债者当着于欢的面用极端手段羞辱其母亲的过程，也透露了讨债人与当地警方的“关系”：警察到现场并没有制止讨债人对于欢母子的控制，只对讨债人说了一句“要账可以，但...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815107&from=ogGitn">辱母案判决引公愤  最高检称介入 2017-03-27 17:44</a><br/>中共最高检26号发通报称，山东省聊城市冠县〝辱母杀人案〞引起社会广泛关注，最高检已派人到山东阅卷审查。对于被告人于欢，因保护母亲，怒杀追债人的行为，是否是正当防卫或防卫过当，将审查认定。对媒体反映警方在执法过程中的渎职行为，将调查处理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815106&from=ogGitn">内蒙古包头市一小区发生爆炸事故 2017-03-27 17:43</a><br/>25号下午1点55分，向阳小区发生爆炸事故，导致一栋单元楼整体塌陷，楼下多辆车子被炸毁。当地村民透露，爆炸发生后，特警迅速封锁现场至今。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815103&from=ogGitn">对金钱美女来者不拒  湘官自曝9个二奶仍不够 2017-03-27 17:38</a><br/>卢武福自曝，除了对金钱来者不拒以外，对女人也是，先后与9名女性〝通奸〞。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814862&from=ogGitn">魏谷：孔子、历史和中共（一） 2017-03-24 22:30</a><br/>〝高山仰止，景行行止。〞出自《诗经》，司马迁在《史记》中专门引用以赞美一个人，并且说：〝虽不能至，然心向往之。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814868&from=ogGitn">高级黑又现？党媒造假吹捧习近平被踢爆 2017-03-24 22:09</a><br/>日前，知情者踢爆《人民日报》冒用他人历史照片为习近平宣传。数日前，央视再报习近平插队时〝扛两百斤麦子十里山路不换肩〞，招来网友调侃与谴责。有评论指，党媒捧习连出状况，或是刘云山对习近平再施高级黑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814857&from=ogGitn">【翻墙必看】董存瑞扮演者文革中被扫地出门 2017-03-24 20:48</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814858&from=ogGitn">陆房价为何越控越高 投资者看清中共底牌？ 2017-03-24 20:43</a><br/>随着大陆楼市的再次火热，有二十多座城市再次推出或者加码了限购措施。为什么大陆越限购房价越高？为什么限购措施却成了楼市利好的工具？业界人士从不同侧面进行了分析。</td></tr>
 </table>
