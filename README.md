@@ -13,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815064&from=ogGitn">杨宁：末代皇帝文革中连病带吓而死 族人被抄家 2017-03-27 08:07</a><br/>1912年2月，随着大清王朝隆裕皇太后颁布《退位诏书》，清朝末代皇帝、年仅6岁的溥仪正式退位。此后他的人生被历史裹挟着，充满了悲剧的色彩。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815063&from=ogGitn">谢天奇：张德江捆绑中共对抗习 林郑面临四路夹击 2017-03-27 07:58</a><br/>3月26日，香港特首选举最终结果为，选举委员会1194名成员中有效票数共1163票；林郑月娥以777票当选，曾俊华获得365票；民望高企的曾俊华最终未能翻盘。这一选举结果预示香港两大分裂态势还将持续，后续博弈料将升级。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815056&from=ogGitn">【禁闻】新特首出炉 黄之锋：是选拔非选举 2017-03-27 05:56</a><br/>新特首出炉 黄之锋：是选拔非选举；澳洲学者回大陆 澳返被禁出境。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815077&from=ogGitn">湖南小学生遭军刀贯穿头部 凶手系校领导儿子 2017-03-27 05:52</a><br/>湖南隆回县横板小学一名二年级学生，被该校一保安员用军刀从头顶刺入，直达喉部，生命垂危。凶手是该校领导的儿子，有吸毒前科。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815072&from=ogGitn">一周大事解读：习王围剿江家族四代 敲打张刘 2017-03-27 05:12</a><br/>上周，围绕香港特首选举，习阵营与江泽民集团公开对决；中南海释放习近平的“不钦点论”，公开打脸江派常委张德江的“中央任命论”。江派窝点和利益地盘被密集清洗，江泽民家族四代被围剿，上海帮政法系统逾百人被调查。习当局高调释放内蒙古首虎王素毅因重大立功获减刑的消息，或暗示王素毅已供出刘云山家族贪腐。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815055&from=ogGitn">【禁闻】判决不公 令〝辱母杀人案〞网络大热 2017-03-27 04:46</a><br/>山东聊城一名女企业家，因为无法还清有黑社会背景的高利贷欠款，被11名催债人限制人身自由并凌辱，其中包括极端的性污辱。在警方不作为的情况下，同样被控制的企业家儿子用水果刀刺死了一名黑社会催债人，却被法院判无期徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815054&from=ogGitn">【禁闻】落马新疆监狱高官被起底 数十人涉案 2017-03-27 04:45</a><br/>据报，谢晖违法金额高达1亿多人民币，涉案的劳教和监狱系统官员中，有7人被移送司法处理、42人被处分。有分析认为，中共司法部门尤其是监狱系统等，沦为贪腐重地，是中共体制造成的。</td></tr>
@@ -209,7 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814778&from=ogGitn">谢天奇：港特首选举 习亮底牌 张德江被打脸 2017-03-24 07:25</a><br/>香港特首前夕，中南海透露习对香港特首选举的真实态度，将中共高层对港事务存在两个司令部的分裂状况公开化。习近平的“不钦点论”，公开打脸江派常委张德江的“中央任命论”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814759&from=ogGitn">【禁闻】足球泛政治化？ 世界杯中韩战蒙阴影 2017-03-24 07:10</a><br/>2018世界杯预选赛亚洲区12强赛，23号晚上中国队与韩国队进行对决，还没开始前，教练和队长就誓言凿凿，一定不能输。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814782&from=ogGitn">【禁闻】麦粒红了 人心黑了  粮仓硕鼠有几只 2017-03-24 06:37</a><br/>小麦受潮发红后，如不及时处理，可能会产生呕吐毒素等有害物质。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814781&from=ogGitn">巧合还是宿命？饰演党员受刑的赵丹在同地被肆意凌虐 
-										
-											?组图 2017-03-24 06:26</a><br/>赵丹入狱五年中受尽精神上和肉体上的凌辱与摧残。</td></tr>
 </table>
