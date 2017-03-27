@@ -2,7 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案发酵 政府官员涉管理牟利  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案发酵 托养中心被曝经营黑幕  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815131&from=ogGitn">挑衅〝川习会〞？ 北京消息称朝鲜或4月再度进行核试验 2017-03-27 23:03</a><br/>韩媒引述北京消息称，朝鲜或于4月进行第六次核试验，其目的或指向可能于4月进行的川习会。此前迹象显示，因习近平当局与金正恩政权关系日趋冷淡，朝鲜的核武与导弹试验已经脱离中共掌控，并开始走向与中共公开对抗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815129&from=ogGitn">香港特首选举次日 警预约拘捕占中九人 2017-03-27 22:30</a><br/>香港特首选举林郑月娥当选翌日，警方星期一（27日）早上突然通知2014年“占领行动”三名发起人、立法会议员陈淑庄、邵家臻等9人，将立案起诉他们两年前参加“占中”（雨伞运动），涉公众妨扰罪，刑期最高可达七年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 22:03</a><br/>随着“辱母杀人”案中的催债团伙头目的被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815128&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（下） 2017-03-27 21:43</a><br/>尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814855&from=ogGitn">寅吃卯粮 中共发展模式致大陆房企债务激增 2017-03-24 18:41</a><br/>大陆经济高度依赖债务，房地产市场是其主要方面。近日有分析表示，中共过度依赖房地产和债务市场，令房企负债累累，而巨额债务也令大陆房地产市场的风险上升，并引发国际金融机构担忧。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814919&from=ogGitn">寒潮突袭内蒙古 多城交通瘫痪春耕受阻 2017-03-24 18:25</a><br/>寒冬已去，春意渐浓，但内蒙古却遭遇寒流大雪袭击。3月23日，大雪天气导致部分地区交通瘫痪，由于降温仍将持续，将对春耕及春播进度造成冲击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814852&from=ogGitn">北京大货车逆行撞向公交车 15人送医 2017-03-24 18:25</a><br/>3月24日早上6时30分许，在北京大兴区伍各庄发生一起惊险车祸。一辆载有十余乘客的公交车与一辆货车迎头相撞，造成车上15人受伤送医，其中货车上俩人受重伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814924&from=ogGitn">科学家彭加木被外星人劫持？北京不敢公开的惊人内幕 2017-03-24 18:15</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
 </table>
