@@ -3,8 +3,10 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 14:34</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815071&from=ogGitn">【中国禁闻】3月26日完整版 2017-03-27 14:30</a><br/>华尔街日报编委：中共必将垮台；落马新疆监狱高官被起底 数十人涉案；判决不公 令〝辱母杀人案〞网络大热。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后代 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连   大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连 大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815094&from=ogGitn">长春男子引爆煤气罐致爆炸火灾 居民陷恐慌 2017-03-27 11:22</a><br/>吉林长春一对开土豆粉店的夫妻吵架，丈夫点燃了店里的煤气罐，引发爆炸和火灾，周边市民极度恐慌。发生爆炸、火灾的店面已面目全非，楼上六层楼均受殃及。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815087&from=ogGitn">贵州盘县山体滑坡 致民房倒塌4人死亡 2017-03-27 11:15</a><br/>26日凌晨0点左右，贵州六盘水市盘县新民镇扒噶村发生山体滑坡，一间房屋被推倒，房中5人被困，仅1人生还。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 11:03</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
@@ -12,7 +14,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815078&from=ogGitn">内蒙古一居民楼爆炸    致5死25人伤 2017-03-27 10:45</a><br/>日前，内蒙古包头市的一小区居民楼房发生爆炸，导致中间整个单元塌陷，事故造成5人死亡，25人受伤，小区83户居民房屋受损，波及259人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815080&from=ogGitn">西藏云南3月27日上午接连发生浅层地震 2017-03-27 10:41</a><br/>3月27日上午，位于中国西南的西藏和云南，接连发生6次深度为8千米至12千米的浅层地震，最大震级为5.1。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815073&from=ogGitn">何清涟：朝核威胁背后的四国演义 2017-03-27 09:48</a><br/>朝核威胁牵涉到美、韩、中三国，危及东北亚安全。目前随着美国施加的压力越来越大，朝核危机已经到了图穷匕首现的地步。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815071&from=ogGitn">【中国禁闻】3月26日完整版 2017-03-27 08:40</a><br/>华尔街日报编委：中共必将垮台；落马新疆监狱高官被起底 数十人涉案；判决不公 令〝辱母杀人案〞网络大热。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815070&from=ogGitn">林辉：放弃马列的陈独秀与其逃港的女儿 2017-03-27 08:21</a><br/>在中共党史上，陈独秀是一个无法回避的名字——尽管中共刻意淡化。原因就在于他不仅是中国最早宣传马克思主义、主张〝全盘西化〞的知识份子，也是中共早期的主要创始人和首任总书记。然而，就是这样一个曾经怀着无限热忱传播马克思主义之人，却在晚年彻底进行了省思，并放弃了共产主义思想，反对苏联，支持蒋介石领导的抗日战争，认为只有民主政治才能救中国，认为英美法的民主代表人类的希望。而这亦是现今中共大力批判其之处，也是中共无法〝正面评价〞陈独秀的所在。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815066&from=ogGitn">【禁闻】百名红通犯 国际刑警网站突消失 2017-03-27 08:18</a><br/>几年前中共中纪委监察部公布的100名红色通缉外逃人员名单，至少在两天前，在原来的国际刑警组织网站上，消失不见，无法查询。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815069&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-27 08:18</a><br/>备受关注的新一届香港特首选举在3月26日这一天尘埃落定，民望极高的曾俊华落选，一直被张德江、梁振英、张晓明力捧的林郑月娥当选新一届特首。从选举前北京最高层释放的信息。以及习当局派出身边太子党特使密集接见香港众多选委，传递习近平对特首选举的四点讲话来看，这样的结果应该不是希望保持香港稳定的习当局所乐见的。选举结果彰显了江派势力在香港的控制力和未来继续乱港的信号。对此，北京最高层不会看不到。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814805&from=ogGitn">前中国民航大学校长退休两年后被判刑 2017-03-24 11:37</a><br/>日前，前中国民航大学校长吴桐水因贪污受贿被判刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814815&from=ogGitn">逾千克冰毒扮“冰红茶” 男子深圳入境被抓 2017-03-24 11:32</a><br/>深圳福田口岸3月22日晚，一名男子将逾1千克的冰毒溶液装入饮料瓶中假扮成“冰红茶”，欲携带入境，但由于其神色紧张、行迹可疑，最终被发现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814808&from=ogGitn">陆球迷韩国队下榻处放鞭炮 中国队真赢了 2017-03-24 11:30</a><br/>23日凌晨2时起，中国球迷在韩国队下塌的酒店外彻夜放鞭炮。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814804&from=ogGitn">充电手机有危险 甘肃农妇睡梦中手掌焦黑死亡 2017-03-24 11:11</a><br/>3月21日，甘肃平凉静宁县一户农家发生悲剧。农妇在晚间睡觉时，手握著连接火牛、正在充电的手机身亡。事后发现其手掌焦黑。</td></tr>
 </table>
