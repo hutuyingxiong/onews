@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 11:03</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 10:52</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815078&from=ogGitn">内蒙古一居民楼爆炸    致5死25人伤 2017-03-27 10:45</a><br/>日前，内蒙古包头市的一小区居民楼房发生爆炸，导致中间整个单元塌陷，事故造成5人死亡，25人受伤，小区83户居民房屋受损，波及259人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815080&from=ogGitn">西藏云南3月27日上午接连发生浅层地震 2017-03-27 10:41</a><br/>3月27日上午，位于中国西南的西藏和云南，接连发生6次深度为8千米至12千米的浅层地震，最大震级为5.1。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815073&from=ogGitn">何清涟：朝核威胁背后的四国演义 2017-03-27 09:48</a><br/>朝核威胁牵涉到美、韩、中三国，危及东北亚安全。目前随着美国施加的压力越来越大，朝核危机已经到了图穷匕首现的地步。</td></tr>
@@ -207,7 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814809&from=ogGitn">浙江2百吨危废污泥被制砖 网民轰政府失职 2017-03-24 10:49</a><br/>近日，浙江一工厂将近200吨危险废物电镀污泥，偷运到安徽一建材厂制作成砖，引发舆论哗然，纷纷批评政府失职，污染产业链视人命如草芥。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814793&from=ogGitn">湖南贼王落网 操纵聋哑人盗窃 开视频会议指挥 2017-03-24 09:47</a><br/>近日，重庆市曝光一个以〝公司化管理〞聋哑人盗窃团伙,幕后老板姚某对他们洗脑培训。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814803&from=ogGitn">大陆移民资料造假 遭加国遣返案件频发 2017-03-24 09:32</a><br/>一名来自中国的华裔男子，被发现在担保母亲和姐姐移民时提供了虚假资料，将被取消身份遣返回国。经华裔无牌移民顾问，大规模伪造申请文件而取得身份的上千名中国移民，即使已经获得加拿大身份多年，也都面临着身份取消和遣返的下场。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814791&from=ogGitn">女孩西安遇黑车索603元报警 警方：我们不管 2017-03-24 09:23</a><br/>大陆许多城市黑车横行，近日，一位黑龙江女孩在遭遇黑车后，被索要600多元车费，当女孩质疑时，黑车司机又将她锁在车里，直到女孩微信转账后才放行。事后，当地交通运管处和警方互相推诿，均称：这事不归我们管。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814774&from=ogGitn">日上免税行人事股权变更 江泽民堂叔孙子双双出局 2017-03-24 09:02</a><br/>日前，上海日上免税行发布股权于人事变更信息，法定代表人和董事长江世干被撤换，江泽民孙子江志成不再是日上免税行的股东。江世干被指是江泽民的远房亲戚，外媒曾披露江家族通过日上资本腾挪将国有资产占为己有的内幕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814794&from=ogGitn">18年青春18年坎坷 包斯琴高娃控告江泽民 2017-03-24 08:59</a><br/>18年前，她还是一位不谙世事的单纯女大学生；18年后，她已历经磨难，步入中年。18年来，她经历了怎样的坎坷与辛酸？她是内蒙古法轮功学员包斯琴高娃。2015年9月30日，包斯琴高娃女士正式控告江泽民。</td></tr>
 </table>
