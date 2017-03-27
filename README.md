@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连   大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 11:03</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 10:52</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814928&from=ogGitn">“就得不断碰撞抗争” 我知道的王全璋律师 2017-03-24 11:06</a><br/>2015年，王全璋律师因“709”事件被抓。知情人透露，在监视居住期间，他遭受电击等严重酷刑，并被中共变相剥夺辩护权。王全璋律师代理了大量法轮功学员的案件，很多与他相识的人都惦念着他，本文作者田露（化名）就是其中之一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814806&from=ogGitn">中韩球赛奏韩国歌遭嘘 国际足联或处罚 2017-03-24 11:04</a><br/>港媒指，根据国际足联的章程，中国或受到罚款。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814809&from=ogGitn">浙江2百吨危废污泥被制砖 网民轰政府失职 2017-03-24 10:49</a><br/>近日，浙江一工厂将近200吨危险废物电镀污泥，偷运到安徽一建材厂制作成砖，引发舆论哗然，纷纷批评政府失职，污染产业链视人命如草芥。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814793&from=ogGitn">湖南贼王落网 操纵聋哑人盗窃 开视频会议指挥 2017-03-24 09:47</a><br/>近日，重庆市曝光一个以〝公司化管理〞聋哑人盗窃团伙,幕后老板姚某对他们洗脑培训。</td></tr>
 </table>
