@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:30</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815096&from=ogGitn">新疆厅官贪腐过亿 待公布案情恐更惊人 2017-03-27 15:59</a><br/>前新疆公安厅副厅长谢晖贪腐1亿多元（人民币，下同）的丑闻令人震惊。新疆已查处了大批厅局级官员，但案情尚未公布，陆媒认为，大批落马厅官案情公布的话必将是更惊人的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815095&from=ogGitn">自曝情史的落马正部级高官到底是谁？ 2017-03-27 14:49</a><br/>在一本新出版的书中，提到一名被判刑12年的中共北京正部级金融高官的贪腐经历及其与女明星的情史。因为书中未提及此高官的名字，引发网民好奇：此人到底是谁？随后陆媒报导说，此人是前中共建设银行行长王雪冰。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 14:34</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815071&from=ogGitn">【中国禁闻】3月26日完整版 2017-03-27 14:30</a><br/>华尔街日报编委：中共必将垮台；落马新疆监狱高官被起底 数十人涉案；判决不公 令〝辱母杀人案〞网络大热。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后代 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连 大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
@@ -28,9 +30,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815047&from=ogGitn">迫害法轮功遭厄运 明慧网记载7省约7千案例 2017-03-27 05:17</a><br/>明慧网记载了逾万起迫害法轮功遭厄运的真实案例，上至中共政治局常委，下至迫害法轮功的非法组织“610”的乡镇人员和不明真相的民众。他们中有的车祸毙命，有离奇猝死，有的自杀，有的暴病身亡，有的判刑入狱，还有的殃及家人……</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815072&from=ogGitn">一周大事解读：习王围剿江家族四代 敲打张刘 2017-03-27 05:12</a><br/>上周，围绕香港特首选举，习阵营与江泽民集团公开对决；中南海释放习近平的“不钦点论”，公开打脸江派常委张德江的“中央任命论”。江派窝点和利益地盘被密集清洗，江泽民家族四代被围剿，上海帮政法系统逾百人被调查。习当局高调释放内蒙古首虎王素毅因重大立功获减刑的消息，或暗示王素毅已供出刘云山家族贪腐。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815055&from=ogGitn">【禁闻】判决不公 令〝辱母杀人案〞网络大热 2017-03-27 04:46</a><br/>山东聊城一名女企业家，因为无法还清有黑社会背景的高利贷欠款，被11名催债人限制人身自由并凌辱，其中包括极端的性污辱。在警方不作为的情况下，同样被控制的企业家儿子用水果刀刺死了一名黑社会催债人，却被法院判无期徒刑。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815054&from=ogGitn">【禁闻】落马新疆监狱高官被起底 数十人涉案 2017-03-27 04:35</a><br/>据报，谢晖违法金额高达1亿多人民币，涉案的劳教和监狱系统官员中，有7人被移送司法处理、42人被处分。有分析认为，中共司法部门尤其是监狱系统等，沦为贪腐重地，是中共体制造成的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815054&from=ogGitn">【禁闻】落马新疆监狱高官被起底 数十人涉案 2017-03-27 04:45</a><br/>据报，谢晖违法金额高达1亿多人民币，涉案的劳教和监狱系统官员中，有7人被移送司法处理、42人被处分。有分析认为，中共司法部门尤其是监狱系统等，沦为贪腐重地，是中共体制造成的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815050&from=ogGitn">副市长对财色来者不拒 落马后与妻同台受审 2017-03-27 04:19</a><br/>被戏为“通奸党”的中共再自曝丑闻，落马的湖南常德市委前常委、副市长卢武福与妻子苗旭华同台受审；卢武福先后与9名女性“通奸”，他对女性来者不拒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815049&from=ogGitn">山东辱母杀人案引舆论海啸 逾亿评论轰警方不作为 2017-03-27 04:11</a><br/>没有公权力的保护，每个人都可能遭遇于欢一样的屈辱。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815059&from=ogGitn">楼市泡沫将破？大陆两经济学者博鳌打赌 2017-03-27 03:43</a><br/>大陆近期再次严控房价，但收效甚微。3月26日，大陆经济学者李迅雷认为2-4年内，大陆房价会普跌，但贾康不认同，为此他们打赌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815051&from=ogGitn">十亿名画要不回 中行下岗职工的辛酸路 2017-03-27 03:23</a><br/>前中国银行北京市分行职工宋军，近日向媒体投诉，在他所负责的美术协会项目上借来的名画，在美协封停后，被扣留了1800幅，价值逾10亿，他向单位要求取回，总是要他等著或去走访。10几年来他经历了被下岗、拆迁的安置房被拿走，在诉讼与漂泊中艰困的过日子。他要求中行归还属于他的物品，并且公开向他道歉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815046&from=ogGitn">港特首选举奇迹没出现 曾俊华：信好梦终成真 2017-03-27 03:22</a><br/>星期日（26日）第五届香港行政长官选举，林郑月娥以777票当选，成为香港首位女特首。民望一直遥遥领先的曾俊华，终以365票落选，胡国兴得21票。虽然奇迹最终没有发生，曾俊华哽咽感谢香港人的支持，鼓励港人不要因此而放弃香港，要继续发梦，更民主更美好的香港终有一日会成真，又希望大家给予林郑月娥机会改变香港。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815052&from=ogGitn">谢天奇：香港分裂持续 林郑面临四路夹击 2017-03-27 02:05</a><br/>受江派势力力挺的林郑当选香港下届特首，预示香港两大分裂态势还将持续，后续博弈料将升级。江派扰乱香港的势力正从上至下被解体；林郑上任首将遭遇四路夹击。林郑在不断升级的习江博弈中何去何从，在香港特首任上能走多远，还是未知数。</td></tr>
@@ -207,7 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814812&from=ogGitn">周晓辉：张德江三次被打脸 江派乱港要终结 2017-03-24 13:21</a><br/>再过两日，新的香港特首就将被选出。在选举倒计时之际，大纪元独家报导披露，据接近中南海的消息人士称，习当局目前已经派出身边太子党的特使，密集接见众多选委，传递习近平对特首选举的四点讲话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814819&from=ogGitn">吉林百名幼儿集体鼠药中毒 家长遭当局监视 2017-03-24 13:11</a><br/>近日，吉林市春芽中东幼稚园发生百名幼儿集体中毒事件，原本以为是单纯食物中毒，但是从个别幼儿血液检测结果显示为鼠药中毒，震撼了所有家长。事发后官方插手介入，22日公布调查结果，认定是吉大一院误诊！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814807&from=ogGitn">每日三退声明精选（2017/03/23） 2017-03-24 12:15</a><br/>今天，我有幸听到了1989年中共镇压学生、天安门自焚伪案等真实情况，我对共产党的邪恶有了更为深刻的认识。今天，我也知道了“天灭中共，三退保命”的喜讯。为此，我坚决退出以前加入的中国共青团和少先队组织，断绝与中共邪党及邪灵的一切关系。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814805&from=ogGitn">前中国民航大学校长退休两年后被判刑 2017-03-24 11:37</a><br/>日前，前中国民航大学校长吴桐水因贪污受贿被判刑。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814815&from=ogGitn">逾千克冰毒扮“冰红茶” 男子深圳入境被抓 2017-03-24 11:32</a><br/>深圳福田口岸3月22日晚，一名男子将逾1千克的冰毒溶液装入饮料瓶中假扮成“冰红茶”，欲携带入境，但由于其神色紧张、行迹可疑，最终被发现。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814808&from=ogGitn">陆球迷韩国队下榻处放鞭炮 中国队真赢了 2017-03-24 11:30</a><br/>23日凌晨2时起，中国球迷在韩国队下塌的酒店外彻夜放鞭炮。</td></tr>
 </table>
