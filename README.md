@@ -2,9 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案发酵 政府官员涉管理牟利  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815129&from=ogGitn">香港特首选举次日 警预约拘捕占中九人 2017-03-27 22:30</a><br/>香港特首选举林郑月娥当选翌日，警方星期一（27日）早上突然通知2014年“占领行动”三名发起人、立法会议员陈淑庄、邵家臻等9人，将立案起诉他们两年前参加“占中”（雨伞运动），涉公众妨扰罪，刑期最高可达七年。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 22:03</a><br/>随着“辱母杀人”案中的催债团伙头目的被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815128&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（下） 2017-03-27 21:43</a><br/>尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 21:03</a><br/>随着“辱母杀人”案中的催债团伙头目的被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815123&from=ogGitn">大陆艺考黑幕频曝光 多省高校老师获刑 2017-03-27 20:25</a><br/>一直以来，大陆各大艺术类院校招生考试黑幕频被曝光，各地都有艺考腐败案被查处。近年来，湖北、江西、安徽、北京等省高校老师在艺考招生工作中，收受贿赂被判刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815124&from=ogGitn">前辽宁政法委书记贪两千万 花百万升副部 2017-03-27 20:00</a><br/>3月27日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理。其被控受贿超1996万元（人民币，下同）。苏宏章被指控的罪状中包括“贿选”。去年辽宁贿选案被大幅曝光，消息称，该案令中南海高层震怒。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814919&from=ogGitn">寒潮突袭内蒙古 多城交通瘫痪春耕受阻 2017-03-24 18:25</a><br/>寒冬已去，春意渐浓，但内蒙古却遭遇寒流大雪袭击。3月23日，大雪天气导致部分地区交通瘫痪，由于降温仍将持续，将对春耕及春播进度造成冲击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814852&from=ogGitn">北京大货车逆行撞向公交车 15人送医 2017-03-24 18:25</a><br/>3月24日早上6时30分许，在北京大兴区伍各庄发生一起惊险车祸。一辆载有十余乘客的公交车与一辆货车迎头相撞，造成车上15人受伤送医，其中货车上俩人受重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814924&from=ogGitn">科学家彭加木被外星人劫持？北京不敢公开的惊人内幕 2017-03-24 18:15</a><br/>一名法医揭露，彭加木是被自己人害死，而且是是集体做案，10人涉案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814828&from=ogGitn">秦城监狱〝大老虎〞获减刑  薄周令郭除外 2017-03-24 17:55</a><br/>内蒙古自治区党委常委、统战部部长王素毅去年底获得减刑建议。</td></tr>
 </table>
