@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815137&from=ogGitn">辱母杀人案急速发酵 警匪勾结深层黑幕曝光 2017-03-28 01:31</a><br/>山东护母杀人的青年于欢被判无期徒刑，引发海内外舆论沸腾。中共最高检被迫介入调查。与此同时，案件背后警匪勾结放贷，打击报复苏银霞的黑幕遭持续揭露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815132&from=ogGitn">中国漫画开拓者丰子恺的文革遭遇 2017-03-28 00:39</a><br/>民国初年的刊物突然刊出这样一幅画：新月升空，房舍无人，唯有木桌、茶具、竹帘与大面积的留白。自这幅《人散后，一钩新月天如水》问世，一大批名为“子恺漫画”的画作风行于中国，中国也从此有了“漫画”概念。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案托养中心被曝经营黑幕  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815133&from=ogGitn">贪污近两千万 辽宁前政法委书记受审 2017-03-27 23:06</a><br/>检方指控：2004到2016年，苏宏章在担任中共沈阳市委副书记、辽宁省委常委、政法委书记、辽宁省人大代表等职务期间，利用工作便利，为单位和个人提供帮助，非法收受财物，共计折合人民币1996万8097元；2010到2011年，苏宏章为竞选辽宁省副省长、省委常委，贿赂相关人员金条、美元、购物卡等财物，共计折合人民币110万6949元。</td></tr>
@@ -142,6 +143,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814943&from=ogGitn">前党工赴中失踪 民进党吁陆切实保障人权 2017-03-25 14:19</a><br/>民主进步党前党工、台湾非政府组织工作者李明哲传出日前入境中国大陆广东省后失踪，民进党3月25日表示，中国大陆应及时回应台湾方面的协寻要求，以解家属悬念；民进党也呼吁北京当局，切实保护人权，勿增加台湾民众赴中国的风险。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814938&from=ogGitn">浙江1岁婴疑遭毒手  缝纫针从乳头插至肝脏 2017-03-25 14:01</a><br/>浙江一19个月的婴儿，日前被发现其右边乳头上长出一条线，医生检查，发现线头在该婴儿体内连着一根缝纫针，并已刺进肝脏。医生随后施手术取出针线，目前婴儿康复进度良好。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814934&from=ogGitn">海南高官披露黄岩岛计划 中共紧急辟谣 2017-03-25 13:56</a><br/>中共海南省一名高官曾透露，中共将在黄岩岛建监测站，不到半个月后，中共外交部发言人改口。外界分析黄岩岛计划生变的背后的原因。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815136&from=ogGitn">广西白虎头村强拆升级 村民以死相逼保家园 2017-03-25 13:39</a><br/>广西北海银滩镇白虎头村近日加快了强拆的步伐，自3月21日起，每天都有拆迁队入村强拆，有村民迫不得已以死相逼保卫家园。据悉，自今年1月起，村民们就为了强拆一事上访、报警，但没有任何结果。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814936&from=ogGitn">传山东高层将大变动 书记省长或换人 2017-03-25 12:21</a><br/>有消息说，中共山东省委书记、省长将换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814931&from=ogGitn">清洗张德江老巢 吉林省部级官员大换人 2017-03-25 11:31</a><br/>近期中共吉林官场高层出现人事异动，包括两名副省长辞职，一名省委常委调往异地任职。吉林是中共江派常委张德江的老巢。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评：剿江进程加快 2017-03-25 10:54</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814868&from=ogGitn">高级黑又现？党媒造假吹捧习近平被踢爆 2017-03-24 22:09</a><br/>日前，知情者踢爆《人民日报》冒用他人历史照片为习近平宣传。数日前，央视再报习近平插队时〝扛两百斤麦子十里山路不换肩〞，招来网友调侃与谴责。有评论指，党媒捧习连出状况，或是刘云山对习近平再施高级黑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814857&from=ogGitn">【翻墙必看】董存瑞扮演者文革中被扫地出门 2017-03-24 20:48</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814858&from=ogGitn">陆房价为何越控越高 投资者看清中共底牌？ 2017-03-24 20:43</a><br/>随着大陆楼市的再次火热，有二十多座城市再次推出或者加码了限购措施。为什么大陆越限购房价越高？为什么限购措施却成了楼市利好的工具？业界人士从不同侧面进行了分析。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814860&from=ogGitn">央视电视认罪造假 吴淦吁主持人出庭作证 2017-03-24 20:23</a><br/>近日被关押的知名维权人士吴淦给央视主持人董倩的公开信在网上流传，引起关注。他痛批央视造假并要求董倩出庭作证，还原当时真相。此举得到众人赞赏和支持。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814879&from=ogGitn">中共僵尸国企持续借贷 增加债务风险 2017-03-24 20:20</a><br/>大陆产能过剩导致实体经济下滑，多行业企业亏损，僵尸企业遍布。经济界人士分析，目前的突出问题是，中共不断给僵尸国有企业“输血”，致使其继续苟延残喘，增加了债务风险。彭博社3月23日报导，拉迪彼得森国际经济研究所高级研究员Nicholas Lardy表示，中共僵尸国有企业虽然已经资不抵债，但却可以持续借贷。这个情况是真正的问题所在，是大陆债务攀升的一个组...</td></tr>
 </table>
