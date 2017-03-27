@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815101&from=ogGitn">北京再加码调控 停止“商改住”项目 2017-03-27 16:15</a><br/>3月26日，北京宣布停止“商改住”项目。这是继多次调控住宅项目后，北京再次加码楼市调控，也引发了业界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815099&from=ogGitn">部级高官口述与著名影星情史  反腐新书曝贪官荒淫内情 2017-03-27 16:04</a><br/>一名昔日显赫一时的正部级官员，自述与著名女影星〝安娜〞的荒淫情史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815096&from=ogGitn">新疆厅官贪腐过亿 待公布案情恐更惊人 2017-03-27 15:59</a><br/>前新疆公安厅副厅长谢晖贪腐1亿多元（人民币，下同）的丑闻令人震惊。新疆已查处了大批厅局级官员，但案情尚未公布，陆媒认为，大批落马厅官案情公布的话必将是更惊人的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:10</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814821&from=ogGitn">陈思敏：地铁“电缆门”可能牵出哪只西安虎 2017-03-24 13:59</a><br/>连日来，西安“电缆门”满城风雨不止一座城。据最新报导，采购问题电缆的，除了西安地铁，还有四川成都、安徽合肥地铁；同时国企“中铁系”亦有多家使用同品牌电缆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814811&from=ogGitn">甘肃妇睡觉紧握手机充电　疑漏电身亡 2017-03-24 13:42</a><br/>日前，甘肃农民王先生的妻子疑在熟睡中握着手机充电被电击身亡，其右手手掌亦留下两道焦黑的伤痕。近年来，大陆频发手机事故，官方称，大量手机产品不合格，有安全隐患。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815079&from=ogGitn">刘毅：人民币今年仍看贬 不宜盲目乐观 2017-03-24 13:24</a><br/>中国黄历新年以后，人民币汇率相对稳定，市场对人民币的态度开始表现得乐观。但日前有研究显示，今年人民币仍将看贬，不应该盲目乐观。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814812&from=ogGitn">周晓辉：张德江三次被打脸 江派乱港要终结 2017-03-24 13:21</a><br/>再过两日，新的香港特首就将被选出。在选举倒计时之际，大纪元独家报导披露，据接近中南海的消息人士称，习当局目前已经派出身边太子党的特使，密集接见众多选委，传递习近平对特首选举的四点讲话。</td></tr>
 </table>
