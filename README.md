@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815117&from=ogGitn">【翻墙必看】女特首出炉后高层博弈加剧？ 2017-03-27 18:52</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815108&from=ogGitn">揭秘谷俊山与共军绝密工程〝军盾一号〞 2017-03-27 18:36</a><br/>谷俊山与〝军盾一号〞这项绝密工程鲜为人知的内幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815109&from=ogGitn">慎入！南京一男子翻越轨道  只剩下半截身子 2017-03-27 18:33</a><br/>日前，南京高铁南站发生一出惨剧，一辆列车到达南京进入站台时，一年轻男子突然从对面站台跳下，横越股道，试图抢在列车前翻上站台，结果未能成功，男子被夹在列车车厢与站台之间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815111&from=ogGitn">纽时：习近平和中国的宗教复兴 2017-03-27 17:47</a><br/>纽约时报中文网发表一篇署名文章，探讨习近平对传统宗教的看法。</td></tr>
@@ -14,7 +15,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815105&from=ogGitn">罕见怪病 浙江“透明宝宝”惊呆医生 2017-03-27 16:05</a><br/>近日，浙江温州市某院产科遇到了一名患有先天性皮肤缺损疾病的新生儿，两腿从大腿至膝盖处均无皮肤呈鲜红色，血管裸露。医生称从未见过。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815099&from=ogGitn">部级高官口述与著名影星情史  反腐新书曝贪官荒淫内情 2017-03-27 16:04</a><br/>一名昔日显赫一时的正部级官员，自述与著名女影星〝安娜〞的荒淫情史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815096&from=ogGitn">新疆厅官贪腐过亿 待公布案情恐更惊人 2017-03-27 15:59</a><br/>前新疆公安厅副厅长谢晖贪腐1亿多元（人民币，下同）的丑闻令人震惊。新疆已查处了大批厅局级官员，但案情尚未公布，陆媒认为，大批落马厅官案情公布的话必将是更惊人的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 15:15</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:10</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815065&from=ogGitn">【禁闻】华尔街日报编委：中共必将垮台 2017-03-27 15:10</a><br/>现在越来越多的人看到，中共垮台的日子已经不远。而中共之所以必然解体有三个原因。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815095&from=ogGitn">自曝情史的落马正部级高官到底是谁？ 2017-03-27 14:49</a><br/>在一本新出版的书中，提到一名被判刑12年的中共北京正部级金融高官的贪腐经历及其与女明星的情史。因为书中未提及此高官的名字，引发网民好奇：此人到底是谁？随后陆媒报导说，此人是前中共建设银行行长王雪冰。</td></tr>
@@ -25,6 +25,8 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815094&from=ogGitn">长春男子引爆煤气罐致爆炸火灾 居民陷恐慌 2017-03-27 11:22</a><br/>吉林长春一对开土豆粉店的夫妻吵架，丈夫点燃了店里的煤气罐，引发爆炸和火灾，周边市民极度恐慌。发生爆炸、火灾的店面已面目全非，楼上六层楼均受殃及。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815087&from=ogGitn">贵州盘县山体滑坡 致民房倒塌4人死亡 2017-03-27 11:15</a><br/>26日凌晨0点左右，贵州六盘水市盘县新民镇扒噶村发生山体滑坡，一间房屋被推倒，房中5人被困，仅1人生还。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815052&from=ogGitn">谢天奇：香港分裂持续 林郑面临四路夹击 2017-03-27 11:05</a><br/>受江派势力力挺的林郑当选香港下届特首，预示香港两大分裂态势还将持续，后续博弈料将升级。江派扰乱香港的势力正从上至下被解体；林郑上任首将遭遇四路夹击。林郑在不断升级的习江博弈中何去何从，在香港特首任上能走多远，还是未知数。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 11:03</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 10:52</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815078&from=ogGitn">内蒙古一居民楼爆炸    致5死25人伤 2017-03-27 10:45</a><br/>日前，内蒙古包头市的一小区居民楼房发生爆炸，导致中间整个单元塌陷，事故造成5人死亡，25人受伤，小区83户居民房屋受损，波及259人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815080&from=ogGitn">西藏云南3月27日上午接连发生浅层地震 2017-03-27 10:41</a><br/>3月27日上午，位于中国西南的西藏和云南，接连发生6次深度为8千米至12千米的浅层地震，最大震级为5.1。</td></tr>
@@ -49,7 +51,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815059&from=ogGitn">楼市泡沫将破？大陆两经济学者博鳌打赌 2017-03-27 03:43</a><br/>大陆近期再次严控房价，但收效甚微。3月26日，大陆经济学者李迅雷认为2-4年内，大陆房价会普跌，但贾康不认同，为此他们打赌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815051&from=ogGitn">十亿名画要不回 中行下岗职工的辛酸路 2017-03-27 03:23</a><br/>前中国银行北京市分行职工宋军，近日向媒体投诉，在他所负责的美术协会项目上借来的名画，在美协封停后，被扣留了1800幅，价值逾10亿，他向单位要求取回，总是要他等著或去走访。10几年来他经历了被下岗、拆迁的安置房被拿走，在诉讼与漂泊中艰困的过日子。他要求中行归还属于他的物品，并且公开向他道歉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815046&from=ogGitn">港特首选举奇迹没出现 曾俊华：信好梦终成真 2017-03-27 03:22</a><br/>星期日（26日）第五届香港行政长官选举，林郑月娥以777票当选，成为香港首位女特首。民望一直遥遥领先的曾俊华，终以365票落选，胡国兴得21票。虽然奇迹最终没有发生，曾俊华哽咽感谢香港人的支持，鼓励港人不要因此而放弃香港，要继续发梦，更民主更美好的香港终有一日会成真，又希望大家给予林郑月娥机会改变香港。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815052&from=ogGitn">谢天奇：香港分裂持续 林郑面临四路夹击 2017-03-27 02:05</a><br/>受江派势力力挺的林郑当选香港下届特首，预示香港两大分裂态势还将持续，后续博弈料将升级。江派扰乱香港的势力正从上至下被解体；林郑上任首将遭遇四路夹击。林郑在不断升级的习江博弈中何去何从，在香港特首任上能走多远，还是未知数。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815044&from=ogGitn">揭秘谷俊山其人与“军盾一号”绝密工程 2017-03-27 01:37</a><br/>中共前后勤部副部长谷俊山曾向前军委副主席徐才厚行贿、行色，得以8年连升5级。谷俊山以“军盾一号”工程名义从北京市民手中廉价征地后，却建成了“京城第一天价豪宅”的钓鱼台七号院和11套戒备森严的豪华专用别墅群“钓鱼台乙六号院”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815040&from=ogGitn">习近平旧部李书磊兼任追逃办主任要职 2017-03-27 00:48</a><br/>习近平的旧部李书磊刚刚升任中纪委副书记2个月后，日前又兼任中共中央追逃办主任这一要职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815061&from=ogGitn">“辱母杀人”案判决引众怒 舆论为何挺凶手 2017-03-27 00:40</a><br/>这个周末，朋友圈被山东“辱母杀人案”刷爆，法院一审判决更让民众愤怒。雷洋案后舆论再掀风暴，怒斥警方不作为，以及冷血的法律。随后山东高院、最高检查院先后发布通告。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814817&from=ogGitn">孙悟空〝出国〞了  老外翻译《西游记》获奖（组图） 
 										
 											?组图 2017-03-24 16:22</a><br/>《西游记》是中国四大名著之一。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814853&from=ogGitn">“陈毅探母”涉杜撰 大陆语文教材造假多 2017-03-24 16:05</a><br/>长期以来，中国大陆的中小学语文教材中，有不少文章涉造假、杜撰，对教育读本中存在许多史实谬误民众表示不满。近日，大陆官方出版社回应称，新版教材删除了有争议的文章。</td></tr>
 </table>
