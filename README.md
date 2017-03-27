@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815153&from=ogGitn">【禁闻】港特首选举次日 政府起诉占中人士 2017-03-28 05:37</a><br/>港特首选举次日 政府起诉占中人士；国际特赦：起诉占中人士涉嫌政治打压；</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815152&from=ogGitn">石涛：林郑赌命式胜选 于欢〝辱母杀人〞人性尊严被凌辱 2017-03-28 05:00</a><br/>中共上层权力对垒在香港大选中直接表现了出来。所以，大家就看到了，有党中央就没有老百姓的尊严，这就是这次香港特首选举出现的场面，没有什么可评论的。因为它们恪守的是高级动物的理念，高级动物就是吃人的，摧残人的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815151&from=ogGitn">【 石涛八方】活着的人恐惧与揣摩死亡 聪明者的愚蠢 2017-03-28 04:46</a><br/>道是什么？修炼的人就是懂得天理的人，一个修行得道者为什么能够全胜？因为他不会陷入人的利益中，他仰仗的是佛法，是他修行的大道，用他灵魂的境界看到这人间外在物质世界的一切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 04:10</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
@@ -173,8 +174,8 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814916&from=ogGitn">谢天奇：内蒙首虎立大功减刑 供出刘云山？ 2017-03-25 07:23</a><br/>连续两年的中共两会敏感期，刘云山主管的文宣系统搅局动作不断；习阵营对刘云山的文宣系统及其老巢内蒙古的清洗力度则不断加强。在此背景之下，陆媒高调报导内蒙首虎王素毅重大立功获减刑的消息，震慑刘云山的意味明显，也为清算刘云山家族腐败埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814905&from=ogGitn">【禁闻】香港特首选战前 〝不钦点论〞频曝光 2017-03-25 07:03</a><br/>目前习近平当局已经派出身边太子党的特使去香港，旋风式的秘密接见众选委，澄清习近平对特首选举的四点讲话。表明习近平一直没有〝钦点〞任何人做特首，反而希望候选人凭实力争取支持。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814917&from=ogGitn">臧山：“中央不任命”不可能出现 2017-03-25 07:00</a><br/>香港特首选举前夕，有关“中央不任命”的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814909&from=ogGitn">“58同城”数据外泄 700元可窃取全国简历 2017-03-25 06:32</a><br/>大陆网络诈骗案频发，居民隐私非常容易遭泄漏，近日陆媒报导，只需要支付700元，就可以采集58同城全国的简历信息，有很大安全隐患。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814915&from=ogGitn">【禁闻】3月24日退党精选 2017-03-25 06:26</a><br/>湖南醴陵的唐琪说：偶然的机会遇到同学的父亲，给我讲了法轮功真相，深受震撼，若不是这次机会，我根本不知道这一切，我决意退出邪恶的党、团、队组织。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814909&from=ogGitn">58同城被爆数据外泄 700元可窃取全国简历 2017-03-25 06:23</a><br/>大陆网络诈骗案频发，居民隐私非常容易遭泄漏，近日陆媒报导，只需要支付700元，就可以采集58同城全国的简历信息，有很大安全隐患。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814914&from=ogGitn">【禁闻 】3月24日维权动态 2017-03-25 06:13</a><br/>湖南访民辜湘红第15次被关精神病院；广西北海村民反强拆 挂条幅抗议；抗议牧场被占坐牢 6内蒙牧民上诉；上海20多人冒雨举牌 声援明经国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814906&from=ogGitn">3月24日全球看中国 2017-03-25 05:45</a><br/>垃圾之河：水污染威胁中国最美城市；河南商丘强拆村支书房爆警民冲突 警发射催泪弹驱散人群；共和党两议员要求美国对中国人权问题更强硬；50多位美国议员致信中共驻美大使，抱怨中国限制云计算的举措。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814912&from=ogGitn">刘士余口中〝野蛮人〞指谁？ 港媒揭晓终极答案 2017-03-25 05:44</a><br/>2015股灾被指党内针对习近平的经济政变，多名江派常委家属参与做空。之后习当局对金融领域展开清洗。近期证监会主席刘士余多次向〝野蛮人、大鳄〞宣战。港媒指，刘不便言明，〝魔鬼、妖精〞就是一些退休和现任顶级高官的家属。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814880&from=ogGitn">〝就得不断碰撞抗争〞 2017-03-25 00:48</a><br/>在中国大陆，敢不敢为法轮功学员辩护，已经成为律师资质与人品的一种验证，因为十几年来，法轮功群体所遭受的人权灾难是最为深重的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814877&from=ogGitn">林辉：京剧四大名旦1949年后的苦痛人生 2017-03-25 00:40</a><br/>京剧，是中国的〝国粹〞。京剧中的〝旦角〞，也就是女主角，通常由男人担纲，而民国时期由北京《顺天时报》评选出的〝四大名旦〞梅兰芳、程砚秋、荀慧生、尚小云更是代表了京剧旦行艺术的最高成就，他们创造了各具特色的旦角艺术流派。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814875&from=ogGitn">觅真：他们用自己的言行诠释着法轮大法的美好 2017-03-25 00:35</a><br/>前些时在明慧网看到一篇《法轮功桥》的文章，大意说的是在吉林省边远山区，村子的路被大水冲坏了，没有人管，路二米宽，三十公分深，大车小车通过非常难，我村有一辆校车拉学生四十多名，一～六年级学生，还有学前班的五～六岁，车到此路，车打滑过不去，只好学生下车，年龄大的学生帮着推车，车过去再上车，来一天就晚十几分钟。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814874&from=ogGitn">袁斌：地铁〝电缆门〞事件西安市府自打嘴巴 2017-03-25 00:31</a><br/>在中国，〝谣言〞往往被证实是〝遥遥领先的预言〞。最近发生的西安地铁〝电缆门〞事件再次证明了这一点！</td></tr>
 </table>
