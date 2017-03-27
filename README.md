@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815164&from=ogGitn">北京连9招遏制楼价 关66间中介 学区房或贬值 2017-03-28 06:42</a><br/>北京实行新一轮楼市调控政策的10天内，已出9招遏楼价，其中，66间房地产中介门店被关停。外界关注，北京学区房或贬值。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815168&from=ogGitn">【禁闻】3月27日维权动态 2017-03-28 06:40</a><br/>保护家园 河北村民成立女子敢死队；河南商丘强拆 爆警民冲突；湖北鄂州村民上访 被囚精神病院；内蒙牧民连续5天请愿 讨要草场补贴。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815163&from=ogGitn">股价暴跌发酵 辉山乳业董事长名下有多家房企 2017-03-28 06:29</a><br/>辉山乳业股价暴跌，公司董事长杨凯否认因大股东挪用巨资投资房地产引发。但陆媒调查显示，杨凯名下至少有三家房地产公司。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815166&from=ogGitn">时政段子集：辱母杀人案比雷洋案更令人绝望 2017-03-28 06:23</a><br/>时政段子集：辱母杀人案 比雷洋案更令人绝望</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815157&from=ogGitn">周晓辉：官员财产公示制度未到公布时机背后 2017-03-28 05:53</a><br/>破局之法并非没有，只要开放党禁、报禁，让人民监督官员，并进而彻底抛弃中共，现高层就可以走向光明大道，实现其依法治国的“中国梦”。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814892&from=ogGitn">林辉：真实的董存瑞与同名电影主角的遭遇 2017-03-25 03:00</a><br/>对于三十岁以上的中国人来说，一提到董存瑞这个名字，眼前马上闪现的就是其〝手托炸药包炸碉堡，与国民党同归于尽〞的形象，因为1956年的同名电影在中共的大肆宣传下，深深的影响了很多大陆人，而且被先后写入了小学课本、军史、党史。然而，真实的董存瑞和电影中的董存瑞并不一样，至于扮演董存瑞的演员张良在文革中更是被〝扫地出门〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814891&from=ogGitn">周晓辉：张德江三次被打脸 江派乱港要终结 2017-03-25 02:57</a><br/>再过两日，新的香港特首就将被选出。在选举倒计时之际，大纪元独家报导披露，据接近中南海的消息人士称，习当局目前已经派出身边太子党的特使，密集接见众多选委，传递习近平对特首选举的四点讲话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814888&from=ogGitn">每日三退声明精选（2017/03/24） 2017-03-25 02:00</a><br/>今天观看了关于高律师的电影和器官活摘的电影，深感不能和中共这样手上沾满无辜人民鲜血的邪恶为伍，特声明退出共产党的一切组织。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814896&from=ogGitn">明经国并非遭遇强拆？ 网路热文揭〝美丽乡村〞残酷真相 2017-03-25 01:42</a><br/>江西省赣州市老农明经国抗拆怒杀村官，引起持续关注。日前有网文披露赣州临近地区村官为面子工程，无补偿无通知任意拆除民房的暴行，或可揭开老人一怒杀人的真相。文章指，政府任意胡作非为，已超越强拆，是向百姓宣战。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814886&from=ogGitn">田露：〝就得不断碰撞抗争〞我知道的王全璋律师 2017-03-25 01:39</a><br/>在中国大陆，敢不敢为法轮功学员辩护，已经成为律师资质与人品的一种验证，因为十几年来，法轮功群体所遭受的人权灾难是最为深重的。</td></tr>
 </table>
