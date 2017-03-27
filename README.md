@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815123&from=ogGitn">大陆艺考黑幕频曝光 多省高校老师获刑 2017-03-27 20:25</a><br/>一直以来，大陆各大艺术类院校招生考试黑幕频被曝光，各地都有艺考腐败案被查处。近年来，湖北、江西、安徽、北京等省高校老师在艺考招生工作中，收受贿赂被判刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815117&from=ogGitn">【翻墙必看】女特首出炉后高层博弈加剧？ 2017-03-27 18:52</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815108&from=ogGitn">揭秘谷俊山与共军绝密工程〝军盾一号〞 2017-03-27 18:36</a><br/>谷俊山与〝军盾一号〞这项绝密工程鲜为人知的内幕。</td></tr>
@@ -25,6 +26,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后代 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815098&from=ogGitn">罕见事故 南京动车进站 男子被卡惨死 2017-03-27 12:12</a><br/>3月26日下午3时43分，江苏南京南站发生惨烈事故。一名约30岁男子在动车徐徐进入站台时，突然从月台跳下，横越路轨，不料被列车夹在与让台的缝隙间。男子相当痛苦，约翰2个小时后被救出，但已不治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连 大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815122&from=ogGitn">为身份“婚不择偶” 纽约华女绿卡泡汤 2017-03-27 11:55</a><br/>在移民政策收紧的情势下，加重了身份悬而未决者的恐慌，有的人把“结婚”作为解决移民身份的“捷径”，近来婚姻介绍所生意特别好，甚至好过律师所。有的华人为了办身份，仓促结婚，结果掉进另一个陷阱，落得人财两空。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815094&from=ogGitn">长春男子引爆煤气罐致爆炸火灾 居民陷恐慌 2017-03-27 11:22</a><br/>吉林长春一对开土豆粉店的夫妻吵架，丈夫点燃了店里的煤气罐，引发爆炸和火灾，周边市民极度恐慌。发生爆炸、火灾的店面已面目全非，楼上六层楼均受殃及。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815087&from=ogGitn">贵州盘县山体滑坡 致民房倒塌4人死亡 2017-03-27 11:15</a><br/>26日凌晨0点左右，贵州六盘水市盘县新民镇扒噶村发生山体滑坡，一间房屋被推倒，房中5人被困，仅1人生还。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814830&from=ogGitn">吉林一幼儿园上百儿童集体中毒 2017-03-24 17:18</a><br/>9号下午起，吉林市春芽中东幼儿园，先后有幼儿发生腹痛，呕吐，发热，个别幼儿出现便血、听不清、看不清等症状。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814854&from=ogGitn">万能险保费骤降 前海人寿等14家险企降幅90% 2017-03-24 17:17</a><br/>3月22日，大陆公布的寿险行业保户投资款新增交费（以万能险为主）数据显示，今年1月份和2月份，新增交费同比下滑约60.68%，前海人寿等14家保险企业下滑超过90%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814829&from=ogGitn">不满被指影响患者就诊  河北警官反铐医生 2017-03-24 17:09</a><br/>中国维权律师兰志学说，大陆警权滥用，已经成为一种习惯，他一天不违法好像都不正常了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814864&from=ogGitn">11国驻华大使促查酷刑案 709案代理律师被〝休息〞 2017-03-24 16:43</a><br/>陈建刚说，相关部门对他所在律所进行全面检查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814824&from=ogGitn">张三丰是韩国济州岛人？太极拳申遗再起争执 2017-03-24 16:39</a><br/>河南人大代表张立勇说：韩、日等国也都在〝抢报〞太极拳申遗。</td></tr>
 </table>
