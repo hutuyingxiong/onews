@@ -2,6 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815070&from=ogGitn">林辉：放弃马列的陈独秀与其逃港的女儿 2017-03-27 08:21</a><br/>在中共党史上，陈独秀是一个无法回避的名字——尽管中共刻意淡化。原因就在于他不仅是中国最早宣传马克思主义、主张〝全盘西化〞的知识份子，也是中共早期的主要创始人和首任总书记。然而，就是这样一个曾经怀着无限热忱传播马克思主义之人，却在晚年彻底进行了省思，并放弃了共产主义思想，反对苏联，支持蒋介石领导的抗日战争，认为只有民主政治才能救中国，认为英美法的民主代表人类的希望。而这亦是现今中共大力批判其之处，也是中共无法〝正面评价〞陈独秀的所在。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815066&from=ogGitn">【禁闻】百名红通犯 国际刑警网站突消失 2017-03-27 08:18</a><br/>几年前中共中纪委监察部公布的100名红色通缉外逃人员名单，至少在两天前，在原来的国际刑警组织网站上，消失不见，无法查询。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815069&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-27 08:18</a><br/>备受关注的新一届香港特首选举在3月26日这一天尘埃落定，民望极高的曾俊华落选，一直被张德江、梁振英、张晓明力捧的林郑月娥当选新一届特首。从选举前北京最高层释放的信息。以及习当局派出身边太子党特使密集接见香港众多选委，传递习近平对特首选举的四点讲话来看，这样的结果应该不是希望保持香港稳定的习当局所乐见的。选举结果彰显了江派势力在香港的控制力和未来继续乱港的信号。对此，北京最高层不会看不到。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815065&from=ogGitn">【禁闻】华尔街日报编委：中共必将垮台 2017-03-27 08:17</a><br/>现在越来越多的人看到，中共垮台的日子已经不远。而中共之所以必然解体有三个原因。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815068&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-27 08:16</a><br/>3月24日，香港挂牌的中国乳业巨头──辉山乳业，在毫无征兆的情况下股价瞬间（半小时）暴跌达85%，盘中跌幅最大达91%，造成300多亿港元的市值顷刻蒸发，形同崩盘，并刷新了当年汉能薄膜的历史记录。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815067&from=ogGitn">王友琴：七名被判死刑的北京大学〝右派份子〞（下） 2017-03-27 08:12</a><br/>沈元是上海人，1938年生，1955年从上海位育中学毕业，考入北京大学历史系。同年，位育中学另一名学生以优异成绩考入清华大学。这两名学生在1957年开始的〝反右派运动〞中，都被划为〝右派份子〞。位育中学中学1955年的925名毕业生中，有44人被定成了〝右派份子〞，包括两个考入北大清华的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815064&from=ogGitn">杨宁：末代皇帝文革中连病带吓而死 族人被抄家 2017-03-27 08:07</a><br/>1912年2月，随着大清王朝隆裕皇太后颁布《退位诏书》，清朝末代皇帝、年仅6岁的溥仪正式退位。此后他的人生被历史裹挟着，充满了悲剧的色彩。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815063&from=ogGitn">谢天奇：张德江捆绑中共对抗习 林郑面临四路夹击 2017-03-27 07:58</a><br/>3月26日，香港特首选举最终结果为，选举委员会1194名成员中有效票数共1163票；林郑月娥以777票当选，曾俊华获得365票；民望高企的曾俊华最终未能翻盘。这一选举结果预示香港两大分裂态势还将持续，后续博弈料将升级。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815056&from=ogGitn">【禁闻】新特首出炉 黄之锋：是选拔非选举 2017-03-27 05:56</a><br/>新特首出炉 黄之锋：是选拔非选举；澳洲学者回大陆 澳返被禁出境。</td></tr>
@@ -17,6 +23,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815061&from=ogGitn">“辱母杀人”案判决引众怒 舆论为何挺凶手 2017-03-27 00:40</a><br/>这个周末，朋友圈被山东“辱母杀人案”刷爆，法院一审判决更让民众愤怒。雷洋案后舆论再掀风暴，怒斥警方不作为，以及冷血的法律。随后山东高院、最高检查院先后发布通告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815048&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-26 22:56</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（上） 2017-03-26 20:51</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境艰难。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815024&from=ogGitn">政法系大清洗  习近平用人呈现一大特征 2017-03-26 19:05</a><br/>日前，中共中央政治局批高法高检领导班子〝软、散、疲〞。2017年两会前后，中共政法系统大换血，多名无政法工作经历的新人上位。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 17:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815041&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-26 16:55</a><br/>这次辉山乳业无端崩塌的背后之一，有指是大股东挪用30亿资金投资房地产失利的消息在市场上走漏。</td></tr>
@@ -24,7 +31,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815045&from=ogGitn">辉山乳业董事长杨凯周六现身 总部外有警车 2017-03-26 15:18</a><br/>3月25日下午，辉山乳业董事长杨凯现身位于辉山乳业大厦一楼大厅，大门外停著一辆载有多名警察的警车。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815029&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-26 15:04</a><br/>中南海若在香港采取上述大动作，虽然会起到一些成效，但乱港的根子，即乱港的始作俑者曾庆红、张德江不除，香港未来出任何状况都有可能，而这必将打乱习近平专注的如中美关系等其他重要事务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815026&from=ogGitn">辉山乳业股价暴跌 辽宁首富日损209亿 2017-03-26 14:28</a><br/>3月24日，辉山乳业实际控制人实控人杨凯、葛坤，财富蒸发折合人民币209亿元。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815024&from=ogGitn">政法系大清洗  习近平用人呈现一大特征 2017-03-26 14:05</a><br/>日前，中共中央政治局批高法高检领导班子〝软、散、疲〞。2017年两会前后，中共政法系统大换血，多名无政法工作经历的新人上位。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815020&from=ogGitn">频频骚扰上海女大学生 深圳官员被查 2017-03-26 13:51</a><br/>近日，深圳一官员在上海高校培训期间，频频骚扰女大学生被举报。目前，举报中提到的两人已被停职协助调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815039&from=ogGitn">浙江两90后女子遗体被发现 一人遭劫杀 2017-03-26 13:25</a><br/>近日，中国大陆有多名女子被杀害。有网民指，三千万光棍是个社会大问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815023&from=ogGitn">大陆房地产过剩严重 遗祸难解 2017-03-26 12:34</a><br/>大陆热点城市房价暴涨，最近半年中共推出的房地产调控措施过百，但业界发现，三四线城市却依然存在房地产过剩、“鬼城”众多的局面。</td></tr>
@@ -51,7 +57,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814979&from=ogGitn">臧山：〝中央不任命〞不可能出现 2017-03-26 00:22</a><br/>香港特首选举前夕，有关〝中央不任命〞的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。这种说法，如果真是北京最高层的意思，则将给香港未来带来巨大的不确定，对香港一国两制造成极大冲击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814977&from=ogGitn">每日三退声明精选（2017/03/25） 2017-03-26 00:21</a><br/>近一年了，接触了大量的外界资讯，深感如果中共不灭亡，大量蒙昧脑残人群还会在存在，大量五毛喉舌还会在存在，大量不公时有发生，贪腐、破坏环境、道德沦丧、国人移民等不会停止，由于中共的存在使“中国”二字成为了羞耻的代名词，在此我陈蓉向神要求解除我被入队、入团时发过誓言的封印，放还我的自由。心愿中共早日解体灭亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814978&from=ogGitn">夏小强：张德江接棒江泽民 继续图样图森破 2017-03-26 00:16</a><br/>3月26日即将产生的新一届香港特首，将在曾俊华和林郑月娥之间产生，谁将当选，其实并无太多悬念。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815025&from=ogGitn">唐映红：辱母杀人案——冷血的法律羞辱人民 2017-03-25 23:44</a><br/>山东一起辱母杀人案在朋友圈刷了屏。《南方周末》报道的这起辱母杀人，地方法院的判决在民间炸了锅，网易转载的这篇文章，截止到我写完这篇文章，读者的留言达到罕见的超过一百五十万条。这起辱母凶杀案之所以会引起群情激昂，源于地方法院对忍无可忍的杀人者判处了无期徒刑。案情大概是这样的，杀人者于欢，22岁，他母亲苏银霞因经营工厂资金周转困难而向某地产公司老板吴学占借款...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815025&from=ogGitn">唐映红：辱母杀人案——冷血的法律羞辱人民 2017-03-25 23:44</a><br/>山东一起辱母杀人案在朋友圈刷了屏。《南方周末》报道的这起辱母杀人，地方法院的判决在民间炸了锅，网易转载的这篇文章，截止到我写完这篇文章，读者的留言达到罕见的超过一百五十万条。这起辱母凶杀案之所以会引起群情激昂，源于地方法院对忍无可忍的杀人者判处了无期徒刑。案情大概是这样的，杀人者于欢，22岁，他母亲苏银霞因经营工厂资金周转困难而向某地产公司老板吴学占...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814984&from=ogGitn">独家：选情激烈 习阵营在港情报官披露内情 2017-03-25 23:42</a><br/>香港将在3月26日选出第五届特首，三位候选人中，焦点落在前财政司司长曾俊华和前政务司司长林郑月娥身上。目前在选举上，中南海出现两种声音，分别由张德江的“中央任命论”对抗习近平的“不钦点论”。同时，张德江、张晓明等江派力捧候选人林郑，全力封杀和抹黑另一位民望高的候选人曾俊华，选情非常紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814973&from=ogGitn">朝鲜拟六度核试 传中共在边境增兵七千 2017-03-25 22:35</a><br/>朝鲜当局拟第六次核试验，半岛局势再次紧张，美国不排除武力解决朝鲜核导问题，而中共近日已向中朝边境增兵七千应对。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814971&from=ogGitn">被迫认罪  吴淦吁央视主播出庭作证 2017-03-25 22:17</a><br/>709案件中在押的维权人士吴淦，致央视主持人董倩的公开信在网络热传。</td></tr>
@@ -206,10 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814802&from=ogGitn">中国城市癌症报告：每个人都有3成概率患癌 2017-03-24 06:25</a><br/>近日，2017中国城市癌症报告出炉：每个人都有三成患癌风险。大陆癌症高发及其原因再被关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814780&from=ogGitn">石涛：伦敦恐怖袭击 生命与信仰相联而非宗教 2017-03-24 06:24</a><br/>英国3月29日应该启动脱欧程序了，按照《里斯本条约》，如果成员国想离开欧盟，必须经过2年的时间，英国和欧盟其他成员国要展开单独谈判。在这个时候英国发生恐怖袭击，我相信会有很多评论。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814779&from=ogGitn">【 石涛八方】难得糊涂被红尘所扰 为欲望所思 2017-03-24 06:14</a><br/>他们看到了红尘中的龌龊，但又无奈，他们心里烦，只能糊涂。如果他们能够跳出红尘，他们的思想、情感和喜怒哀乐不被红尘所影响的话，他们不会难得糊涂的，〝糊涂〞里面有着逃避的含义。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814792&from=ogGitn">【中国禁闻】3月23日完整版 2017-03-24 06:06</a><br/>足球泛政治化？ 世界杯中韩战蒙阴影；文革中的人权先行者：遇罗克；中共〝北水南调〞贝加尔湖 评: 饮鸩止渴。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814777&from=ogGitn">【禁闻】3月23日退党精选 2017-03-24 06:00</a><br/>吴保杰说：中共执迷不悟，坚持歪理，不仅自腐而前腐后继，而且欺人而打击良善，制造无数人间悲剧，实乃邪恶组织，我们必果断与之绝裂，摒弃其邪恶主张，避免其罪恶影响，故申请即刻退出其组织！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814783&from=ogGitn">3月23日全球看中国 2017-03-24 05:50</a><br/>英媒：澳大利亚拒绝与中共一带一路接轨；智能门铃会向中国发送数据；博鳌亚洲竞争力排行 台湾维持第4、中国第9；中国封杀QQ群后挥刀微信群。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814789&from=ogGitn">江苏交管所副所长带人讨债 持刀砍断对方手指 2017-03-24 05:35</a><br/>最近，一段“交通局公职人员光天化日带刀上门砍人”的视频，在江苏建湖县网上被纷纷转发，视频中的多位身穿黑衣的男子，手持砍刀，大白天在一住宅小区叫骂，还砍伤一人。经大陆媒体披露，带头砍人的，是当地交通部门一位副所长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814775&from=ogGitn">【禁闻】吉林百余幼儿集体中毒 官方阻就医 2017-03-24 05:34</a><br/>2月份 255名法轮功学员遭非法抓捕；吉林百余幼儿集体中毒 官方阻就医；江苏男子派出所猝死 警方销毁证据。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814773&from=ogGitn">美官员：朝鲜未来几天料将再进行核试验 2017-03-24 05:27</a><br/>了解朝鲜最新情报的美国官员告诉福克斯，朝鲜处于准备又一轮核试验的最后阶段，并可能在未来几天举行核试验。</td></tr>
 </table>
