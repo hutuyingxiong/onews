@@ -2,14 +2,18 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815142&from=ogGitn">辛可：我为什么不骂美国或美国人 2017-03-28 03:23</a><br/>网友来信质问，为什么我只讲中国或中国人的种种不堪，从来不骂美国或美国人？言外之意，我多少有些美狗的嫌疑。就算我是狗，但这事真有点冤枉了我。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815141&from=ogGitn">陈克江：文革中差点被〝毒死〞的中共大将张爱萍 2017-03-28 03:13</a><br/>张爱萍在文革中两次被打倒。1977年重新出来工作后，担任过国防科委主任、国务院副总理、国防部长等。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 03:06</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815137&from=ogGitn">辱母杀人案急速发酵 警匪勾结深层黑幕曝光 2017-03-28 01:31</a><br/>山东护母杀人的青年于欢被判无期徒刑，引发海内外舆论沸腾。中共最高检被迫介入调查。与此同时，案件背后警匪勾结放贷，打击报复苏银霞的黑幕遭持续揭露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815132&from=ogGitn">中国漫画开拓者丰子恺的文革遭遇 2017-03-28 00:39</a><br/>民国初年的刊物突然刊出这样一幅画：新月升空，房舍无人，唯有木桌、茶具、竹帘与大面积的留白。自这幅《人散后，一钩新月天如水》问世，一大批名为“子恺漫画”的画作风行于中国，中国也从此有了“漫画”概念。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案托养中心被曝经营黑幕  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815133&from=ogGitn">贪污近两千万 辽宁前政法委书记受审 2017-03-27 23:06</a><br/>检方指控：2004到2016年，苏宏章在担任中共沈阳市委副书记、辽宁省委常委、政法委书记、辽宁省人大代表等职务期间，利用工作便利，为单位和个人提供帮助，非法收受财物，共计折合人民币1996万8097元；2010到2011年，苏宏章为竞选辽宁省副省长、省委常委，贿赂相关人员金条、美元、购物卡等财物，共计折合人民币110万6949元。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815139&from=ogGitn">港占中9人被捕 陈健民：对弥补社会撕裂无益 2017-03-27 23:05</a><br/>被称为小圈子选举的香港特首选举3月26日刚刚落幕、受北京“钦点”的林郑月娥未来首要任务是要弥补社会撕裂的当选感言余音未断，组织和参与2014年雨伞运动的9位主要人士，3月27日一早便接到警方致电，将以“公众妨扰罪”等罪名预约拘捕或直接起诉，引发外界广泛关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815134&from=ogGitn">华尔街日报编委：中共必将垮台 原因有三 2017-03-27 23:04</a><br/>最近，《华尔街日报》编委成员玛丽．克塞尔（Mary Kissel）在一次演说中阐释了中共必将垮台的三个原因，并强调不要相信中国经济实力强大以及中共政权可持久的说法。美国《棕榈滩日报》（Palm Beach Daily News）报导，3月21日，《华尔街日报》资深记者玛丽．克塞尔在The Society of the Four Arts做了题为“亚洲...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815131&from=ogGitn">挑衅〝川习会〞？ 北京消息称朝鲜或4月再度进行核试验 2017-03-27 23:03</a><br/>韩媒引述北京消息称，朝鲜或于4月进行第六次核试验，其目的或指向可能于4月进行的川习会。此前迹象显示，因习近平当局与金正恩政权关系日趋冷淡，朝鲜的核武与导弹试验已经脱离中共掌控，并开始走向与中共公开对抗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815129&from=ogGitn">香港特首选举次日 警预约拘捕占中九人 2017-03-27 22:30</a><br/>香港特首选举林郑月娥当选翌日，警方星期一（27日）早上突然通知2014年“占领行动”三名发起人、立法会议员陈淑庄、邵家臻等9人，将立案起诉他们两年前参加“占中”（雨伞运动），涉公众妨扰罪，刑期最高可达七年。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 22:03</a><br/>随着“辱母杀人”案中的催债团伙头目的被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 22:03</a><br/>随着“辱母杀人”案中的催债团伙头目被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815128&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（下） 2017-03-27 21:43</a><br/>尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815123&from=ogGitn">大陆艺考黑幕频曝光 多省高校老师获刑 2017-03-27 20:25</a><br/>一直以来，大陆各大艺术类院校招生考试黑幕频被曝光，各地都有艺考腐败案被查处。近年来，湖北、江西、安徽、北京等省高校老师在艺考招生工作中，收受贿赂被判刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
@@ -204,8 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814873&from=ogGitn">谢天奇：江泽民家族四代被围剿 上海帮逾百人被调查 2017-03-24 23:02</a><br/>中共两会前后三个星期内，习近平当局密集动作围剿上海帮，清洗江泽民家族政商利益地盘，触及江泽民家四代多名关键成员；迹象显示，〝十九大〞前夕，习阵营针对终极〝大老虎〞江泽民的清洗行动升级的可能性越来越大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814871&from=ogGitn">云南“兽皮娃”被母丢弃 人伦悲剧因何不断 2017-03-24 22:55</a><br/>云南一个3岁女童，身上布满大面积黑斑，就像穿上了一件兽皮，这是一种十分罕见的疾病，叫“兽皮痣”，治疗费用高昂。母亲因此弃她而去。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814861&from=ogGitn">诗人王藏一家在北京面临重大困顿需人道援助 2017-03-24 22:53</a><br/>2016年独立中文笔会自由写作奖得主，现暂居北京河北交界处宋庄的诗人王藏一家突面临重大困顿，其妻子王丽，于近日突精神异常。其情形，先是艺术家、笔会会员严正学在探望他一家之后，具文描述：“……昨有事急事去了宋庄，见王藏发现他们一家压力太大，王丽精神失常态。三个孩子，两个嗷嗷待哺，现加上失常的孩子他娘，怎么办？昨晚画家吕上、王鹏陪着，今晨也未见好转，急杀我们。追...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814863&from=ogGitn">夏小强：中国现代的〝死亡集中营〞 2017-03-24 22:52</a><br/>深圳15岁的自闭症少年雷文锋之死被媒体曝光，揭开了广东省韶关新丰县练溪托养中心的恐怖黑幕：49天，练溪托养中心向当地殡仪馆送去了20具尸体；6年内死亡近百人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814862&from=ogGitn">魏谷：孔子、历史和中共（一） 2017-03-24 22:30</a><br/>〝高山仰止，景行行止。〞出自《诗经》，司马迁在《史记》中专门引用以赞美一个人，并且说：〝虽不能至，然心向往之。〞</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814868&from=ogGitn">高级黑又现？党媒造假吹捧习近平被踢爆 2017-03-24 22:09</a><br/>日前，知情者踢爆《人民日报》冒用他人历史照片为习近平宣传。数日前，央视再报习近平插队时〝扛两百斤麦子十里山路不换肩〞，招来网友调侃与谴责。有评论指，党媒捧习连出状况，或是刘云山对习近平再施高级黑。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814857&from=ogGitn">【翻墙必看】董存瑞扮演者文革中被扫地出门 2017-03-24 20:48</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 </table>
