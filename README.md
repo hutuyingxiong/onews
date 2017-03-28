@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
 										
@@ -11,6 +12,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:39</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815183&from=ogGitn">突变失业人员 山西原平昊华职工海外寻帮助 2017-03-28 07:35</a><br/>山西原平昊华公司因政策性破产，职工在身份转换过程中利益受到严重伤害，多次向有关部门申诉无果。最近，他们希望大纪元帮助他们呼吁，维护职工正当权益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815164&from=ogGitn">北京连9招遏制楼价 关66间中介 学区房或贬值 2017-03-28 06:42</a><br/>北京实行新一轮楼市调控政策的10天内，已出9招遏楼价，其中，66间房地产中介门店被关停。外界关注，北京学区房或贬值。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815168&from=ogGitn">【禁闻】3月27日维权动态 2017-03-28 06:40</a><br/>保护家园 河北村民成立女子敢死队；河南商丘强拆 爆警民冲突；湖北鄂州村民上访 被囚精神病院；内蒙牧民连续5天请愿 讨要草场补贴。</td></tr>
@@ -68,6 +70,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815105&from=ogGitn">罕见怪病 浙江“透明宝宝”惊呆医生 2017-03-27 16:05</a><br/>近日，浙江温州市某院产科遇到了一名患有先天性皮肤缺损疾病的新生儿，两腿从大腿至膝盖处均无皮肤呈鲜红色，血管裸露。医生称从未见过。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815099&from=ogGitn">部级高官口述与著名影星情史  反腐新书曝贪官荒淫内情 2017-03-27 16:04</a><br/>一名昔日显赫一时的正部级官员，自述与著名女影星〝安娜〞的荒淫情史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815096&from=ogGitn">新疆厅官贪腐过亿 待公布案情恐更惊人 2017-03-27 15:59</a><br/>前新疆公安厅副厅长谢晖贪腐1亿多元（人民币，下同）的丑闻令人震惊。新疆已查处了大批厅局级官员，但案情尚未公布，陆媒认为，大批落马厅官案情公布的话必将是更惊人的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815184&from=ogGitn">河南4岁男童从黑校车上坠落 被轧身亡 2017-03-27 15:27</a><br/>大陆校车出事致孩子死伤事故不断。近日，河南省一名4岁男童不慎从幼儿园校车跌落，后被该车轧死。而该校车被曝是一辆未经过审批，出事时车厢内放置了23个小板凳。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 15:15</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815135&from=ogGitn">辱母案人案 律师：司法腐败已病入膏肓 2017-03-27 15:13</a><br/>近日，发生在山东的“辱母杀人案”持续发酵。逾百万网民直斥法官荒唐，警方失职对命案有助推作用。有网民说，在这样的国家，警察到底在保卫谁？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:10</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
@@ -207,7 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814907&from=ogGitn">【禁闻】红祸百年祭 《致命的列宁》港台发行 2017-03-25 05:03</a><br/>〝十月革命〞的共产主义运动，促使人类历史上首次出现一个共产主义的政权，给全世界人类最大的一个痛苦，也是一个最大的教训。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814902&from=ogGitn">银监会官员喻民间融资为少女爱骗子 惹非议 2017-03-25 04:58</a><br/>两年多前，四川民间融资理财担保行业大崩盘，导致全省33万个家庭近千亿元资金血本无归。但中共银监会主席助理杨家才将这类事件定性为非法集资。近日，大陆民众表示，杨家才歪曲事实，水平太差，应引咎辞职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814904&from=ogGitn">颜丹：说说中国最新“世界幸福指数排名” 2017-03-25 04:32</a><br/>今年的3月20日，联合国发布了最新的“世界幸福指数报告”。从第一名开始，名列前茅的国家依次为挪威、丹麦、冰岛、瑞士和芬兰，然后是荷兰、加拿大、新西兰、澳大利亚和瑞典。美国和英国分别位列第14名和第19名。望眼欲穿之后，我们或许这才发现，中国在此排名中被甩在了第79位。尽管在参与排名的150多个国家中，“第79位”的成绩不算太糟糕，更有乐观者甚至会认为...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814903&from=ogGitn">震动世界乐坛的钢琴才女 文革中全家自杀 2017-03-25 04:22</a><br/>顾圣婴，曾经在国际大赛中屡获大奖，五十年代蜚声海外，被誉为〝真正的钢琴诗人〞。在国内则是出身不好的〝杀关管子女〞，十余年积极的〝思想改造〞，仍未能让她逃脱文革中被批斗的命运。在被定性为〝反革命〞的当晚，她和母亲、弟弟选择了全家自杀。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814900&from=ogGitn">夏小强：张德江接棒江泽民 继续图样图森破 2017-03-25 03:46</a><br/>3月26日即将产生的新一届香港特首，将在曾俊华和林郑月娥之间产生，谁将当选，其实并无太多悬念。香港从1997年被中共接管后，所谓的“一国两制”，不出外界预料地成为了中共统战的口号。香港经历中共管控下的20年，基本已经沦为中共治下的一个城市，香港原有的自由和法制被破坏，包括言论自由等空间被压缩，经济持续低迷，民众不满情绪弥漫，社会严重撕裂。特别...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814898&from=ogGitn">江苏男派出所暴毙 多处外伤家属质疑死因 2017-03-25 03:20</a><br/>一名网约司机，被警方带到派出所，6个小时后突然死亡。家属表示遗体表面有多处外伤，质疑死前遭虐打。</td></tr>
 </table>
