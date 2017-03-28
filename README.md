@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815244&from=ogGitn">云南省长阮成发又读错字 〝目不识滇〞上演第三集 2017-03-28 23:50</a><br/>深陷〝错别字〞丑闻的云南省长阮成发，日前再被爆料把饮鸩止渴念成了饮（jiu）止渴。这是公开报导以来，阮成发第三次念错别字。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815243&from=ogGitn">习近平不入住 揭秘川习会马阿拉歌渡假村 2017-03-28 23:47</a><br/>此前美媒消息，中共国家主席习近平和美国总统川普将于4月初在川普私人别墅举行首次会晤。日前，美国官方又透露了一些新的细节，习近平将入住别墅附近的丽思卡尔顿酒店。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815239&from=ogGitn">川人：为何有些人对股票发行注册制万般痴迷？ 2017-03-28 23:13</a><br/>近日在2017年博鳌亚洲论坛上，众多业界红顶商人在题为“纠偏：让资本市场回归根本”的分论坛上一致认为，推行注册制是中国资本市场未来最重要的改革之一。齐鲁证券首席经济学家李迅雷明确表示：“有人认为一改肯定要乱、投资者要承担损失、市场要大跌，所以要稳中求进。但当你稳定了之后，改革就会延后，但时间成本却很少有人计算。”李迅雷还强调：“重点还是要去推行IPO改革，现...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815241&from=ogGitn">巴黎警枪杀中国男引冲突 3伤35被捕 2017-03-28 22:11</a><br/>周日（26日）晚，法国巴黎一名华人在家中与上门警察发生冲突后，遭警方击毙。周一，逾百人在警察局前表示抗议，引发暴力冲突，造成3名警察受伤，35人被捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815238&from=ogGitn">大连美食城一男子持双刀猛捅陌生食客 2017-03-28 20:52</a><br/>在辽宁大连市一家美食城，一名58岁男子只因对另一名食客看不顺眼，对他连捅5刀。</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814951&from=ogGitn">广西H7N9禽流感持续蔓延 一周3人亡 2017-03-25 16:49</a><br/>大陆各地禽流感疫情持续蔓延，死亡数字不断增加。在过去的一周里，广西共报告3宗病例，3人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814950&from=ogGitn">大陆票房欺诈曝光  300家影院受罚  年偷数十亿 2017-03-25 16:35</a><br/>近日，中国大陆有300余家电影院因瞒报票房而受到惩处，据估计，2016年影院欺诈抹掉中国大陆票房总收入的10%至20%，金额高达数十亿。业内人士认为，这只是冰山一角。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814982&from=ogGitn">上海检出全球第2例库波热病毒 2017-03-25 16:12</a><br/>全球第2次发现的库波热病毒（Ekpoma virus），2017年1月1日，由上海机场出入境检验局在1名来自安哥拉，疑似感染黄热病中国籍人员身上检出。这是大陆首宗感染库波热病毒个案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814948&from=ogGitn">大陆日均1万人患癌  肺癌成头号杀手 2017-03-25 15:47</a><br/>近几年来，中国大陆的雾霾情况不断恶化，甚至有地区出现了毒性翻倍的〝酸雾〞，伴随而来的是大陆民众对健康问题的忧虑。近日，2017年中国城市癌症报告指出，肺癌已成为大陆城市居民的头号杀手，发病率、死亡率双冠。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814949&from=ogGitn">落马高官自曝为女明星 违规操作境外钜额资金 2017-03-25 15:45</a><br/>在近期一本新出版的书中，一名被判刑12年的中共北京正部级金融高官自爆落马前与一名知名影视明星的情史。他称，为了企业家妻子、影视明星情人，其违规操作中国境外资金数十亿，造成巨大损失。</td></tr>
 </table>
