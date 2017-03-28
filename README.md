@@ -3,10 +3,12 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815200&from=ogGitn">天津官场大换血 市委常委“四进三出” 2017-03-28 14:20</a><br/>自天津大爆炸后，官场持续地震。近日，天津官场又出现大规模人事调整，市委常委现“四进三出”，被视为极其罕见。中共江派常委张高丽和落马的黄兴国曾长期把控天津，从官方的通报可见，天津官场已烂透。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815201&from=ogGitn">前辽宁〝政法王〞苏宏章受审 当年用金条买进常委 2017-03-28 14:01</a><br/>陆媒曾揭露，苏宏章在选举中搞拉票贿选、对抗组织审查，当年用金条买进常委等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815199&from=ogGitn">十九大防林彪式高级黑？中纪委“杀回马枪” 2017-03-28 13:29</a><br/>随着中共十九大临近，中纪委官网就“深化巡视”连续发文，其中一篇文章称，看看是否存在各地方嘴上喊“拥护”、行动上各行其是，而“杀回马枪”是为“十九大”相关人事把关。有文章分析认为，各地诸侯争先恐后地“效忠”，实际跟“文革”时林彪式树权威一样，这些表态实际上是“高级黑”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815194&from=ogGitn">上海虹口足球场突发火灾   浓烟滚滚（组图） 
 										
 											?组图 2017-03-28 13:18</a><br/>3月28日，网曝上海绿地申花足球队主场虹口足球场突发火灾。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815202&from=ogGitn">陆企卖9年机床亏1500万 出售12套房赚2000万 2017-03-28 12:52</a><br/>大陆一家生产经营机床的上市企业靠卖机床9年来累计亏损1500万元（人民币，下同），近来公司为了扭亏要卖掉12套房产，这12套房产预计盈利2000多万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 12:25</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815193&from=ogGitn">每日三退声明精选（2017/03/27） 2017-03-28 11:40</a><br/>且不说这个邪党给我们的民族、文化、国家造成的浩劫与迫害，单是它给我们一家人带来的痛苦，已经令我良心的每一寸土地，都没有它容身之地。郑重宣布：退出中共邪党，回归神的子民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 11:40</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
@@ -210,6 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814916&from=ogGitn">谢天奇：内蒙首虎立大功减刑 供出刘云山？ 2017-03-25 07:23</a><br/>连续两年的中共两会敏感期，刘云山主管的文宣系统搅局动作不断；习阵营对刘云山的文宣系统及其老巢内蒙古的清洗力度则不断加强。在此背景之下，陆媒高调报导内蒙首虎王素毅重大立功获减刑的消息，震慑刘云山的意味明显，也为清算刘云山家族腐败埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814905&from=ogGitn">【禁闻】香港特首选战前 〝不钦点论〞频曝光 2017-03-25 07:03</a><br/>目前习近平当局已经派出身边太子党的特使去香港，旋风式的秘密接见众选委，澄清习近平对特首选举的四点讲话。表明习近平一直没有〝钦点〞任何人做特首，反而希望候选人凭实力争取支持。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814917&from=ogGitn">臧山：“中央不任命”不可能出现 2017-03-25 07:00</a><br/>香港特首选举前夕，有关“中央不任命”的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814909&from=ogGitn">“58同城”数据外泄 700元可窃取全国简历 2017-03-25 06:32</a><br/>大陆网络诈骗案频发，居民隐私非常容易遭泄漏，近日陆媒报导，只需要支付700元，就可以采集58同城全国的简历信息，有很大安全隐患。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815161&from=ogGitn">时政段子集：中共黑暗统治手段大曝光 2017-03-25 06:28</a><br/>先鼓动农民抢地主，再集体化抢农民；以暗分股抢国企，垄断央企抢民企；高房价抢中产，高税收抢平民；造假上市抢股民，超发货币抢储户；城镇化抢土地，私有化抢国库——抢劫成果一部分转移国外，一部分收买国际支持，一部分用于维稳，一部分醉生梦死！</td></tr>
 </table>
