@@ -11,6 +11,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815206&from=ogGitn">习近平十九大如何布局？〝九大智囊〞助其闯关 2017-03-28 15:30</a><br/>2017年是换届年，习近平如何推动今秋十九大的人事布局，成为舆论关注的焦点。外界普遍认为，这次围绕着习核心的〝九大智囊〞将助其闯关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815205&from=ogGitn">陈思敏：湖南官场遭强洗 周强张春贤谁更紧张 2017-03-28 15:23</a><br/>3月27日，长沙市宣传部原部长张湘涛被查。粗略统计今年以来在中纪委官网上，这已是不到一个月内的第6名落马湘官，不到三个月内的第8个湖南反腐通告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815204&from=ogGitn">四川男童爬窗帮邻居取钥匙 坠楼生命垂危 2017-03-28 15:07</a><br/>3月25日下午，四川阆中市某小区居民赵奶奶将钥匙忘在了家里。她找到楼上邻居、8岁男孩彭康的爷爷，想让彭康帮她取出钥匙。彭爷爷用绳子拴在彭康腰间，把他从5楼外墙吊到4楼窗户，从那进去帮赵奶奶取出钥匙。谁知绳子突然断裂，彭康从4楼坠地，目前生命垂危。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815216&from=ogGitn">湖南永州前副市长被查 连续两天有高官落马 2017-03-28 14:32</a><br/>湖南永州市副市长张常明涉嫌严重“违纪”，目前正接受审查。这是湖南官场连续第二天有高官落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815200&from=ogGitn">天津官场大换血 市委常委“四进三出” 2017-03-28 14:20</a><br/>自天津大爆炸后，官场持续地震。近日，天津官场又出现大规模人事调整，市委常委现“四进三出”，被视为极其罕见。中共江派常委张高丽和落马的黄兴国曾长期把控天津，从官方的通报可见，天津官场已烂透。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815201&from=ogGitn">前辽宁〝政法王〞苏宏章受审 当年用金条买进常委 2017-03-28 14:01</a><br/>陆媒曾揭露，苏宏章在选举中搞拉票贿选、对抗组织审查，当年用金条买进常委等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815199&from=ogGitn">十九大防林彪式高级黑？中纪委“杀回马枪” 2017-03-28 13:29</a><br/>随着中共十九大临近，中纪委官网就“深化巡视”连续发文，其中一篇文章称，看看是否存在各地方嘴上喊“拥护”、行动上各行其是，而“杀回马枪”是为“十九大”相关人事把关。有文章分析认为，各地诸侯争先恐后地“效忠”，实际跟“文革”时林彪式树权威一样，这些表态实际上是“高级黑”。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814936&from=ogGitn">传山东高层将大变动 书记省长或换人 2017-03-25 12:21</a><br/>有消息说，中共山东省委书记、省长将换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814931&from=ogGitn">清洗张德江老巢 吉林省部级官员大换人 2017-03-25 11:31</a><br/>近期中共吉林官场高层出现人事异动，包括两名副省长辞职，一名省委常委调往异地任职。吉林是中共江派常委张德江的老巢。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评：剿江进程加快 2017-03-25 10:54</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814920&from=ogGitn">石涛：香港特首选举无〝钦点〞 张德江携政治局对抗 2017-03-25 10:53</a><br/>张德江做了一堆事，埋了一堆地雷，都没用，关键事情还得问习近平。例如要不要梁振英还得习近平决定，这个事情他迈不过去，问了习近平，梁振英得了一个政协副主席就回家了，没戏了。现在推林郑月娥还是那一套。但现在习核心已经在两会传递完思想了，如果张德江再对抗的话，就是跟党中央作对了。</td></tr>
 </table>
