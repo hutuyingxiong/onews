@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815199&from=ogGitn">十九大防林彪式高级黑？中纪委“杀回马枪” 2017-03-28 13:29</a><br/>随着中共十九大临近，中纪委官网就“深化巡视”连续发文，其中一篇文章称，看看是否存在各地方嘴上喊“拥护”、行动上各行其是，而“杀回马枪”是为“十九大”相关人事把关。有文章分析认为，各地诸侯争先恐后地“效忠”，实际跟“文革”时林彪式树权威一样，这些表态实际上是“高级黑”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815194&from=ogGitn">上海虹口足球场突发火灾   浓烟滚滚（组图） 
 										
 											?组图 2017-03-28 13:18</a><br/>3月28日，网曝上海绿地申花足球队主场虹口足球场突发火灾。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814909&from=ogGitn">“58同城”数据外泄 700元可窃取全国简历 2017-03-25 06:32</a><br/>大陆网络诈骗案频发，居民隐私非常容易遭泄漏，近日陆媒报导，只需要支付700元，就可以采集58同城全国的简历信息，有很大安全隐患。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815161&from=ogGitn">时政段子集：中共黑暗统治手段大曝光 2017-03-25 06:28</a><br/>先鼓动农民抢地主，再集体化抢农民；以暗分股抢国企，垄断央企抢民企；高房价抢中产，高税收抢平民；造假上市抢股民，超发货币抢储户；城镇化抢土地，私有化抢国库——抢劫成果一部分转移国外，一部分收买国际支持，一部分用于维稳，一部分醉生梦死！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814915&from=ogGitn">【禁闻】3月24日退党精选 2017-03-25 06:26</a><br/>湖南醴陵的唐琪说：偶然的机会遇到同学的父亲，给我讲了法轮功真相，深受震撼，若不是这次机会，我根本不知道这一切，我决意退出邪恶的党、团、队组织。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814914&from=ogGitn">【禁闻 】3月24日维权动态 2017-03-25 06:13</a><br/>湖南访民辜湘红第15次被关精神病院；广西北海村民反强拆 挂条幅抗议；抗议牧场被占坐牢 6内蒙牧民上诉；上海20多人冒雨举牌 声援明经国。</td></tr>
 </table>
