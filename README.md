@@ -2,7 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815194&from=ogGitn">组图：上海虹口足球场突发火灾   浓烟滚滚 
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815194&from=ogGitn">上海虹口足球场突发火灾   浓烟滚滚（组图） 
 										
 											?组图 2017-03-28 13:18</a><br/>3月28日，网曝上海绿地申花足球队主场虹口足球场突发火灾。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 12:25</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
@@ -17,6 +17,7 @@
 											?组图 2017-03-28 08:57</a><br/>贝克汉姆（David Beckham）到香港与上海参加活动，一句〝在中国很棒的48小时〞，引爆大陆和香港网友论战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815177&from=ogGitn">【中国禁闻】3月27日完整版 2017-03-28 08:50</a><br/>大陆货币增速第一 为何还闹钱荒？；辱母杀人案背后： 高利贷黑幕引关注；网传〝十秒质疑〞视频 声援维权律师。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:30</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815183&from=ogGitn">突变失业人员 山西原平昊华职工海外寻帮助 2017-03-28 07:35</a><br/>山西原平昊华公司因政策性破产，职工在身份转换过程中利益受到严重伤害，多次向有关部门申诉无果。最近，他们希望大纪元帮助他们呼吁，维护职工正当权益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
@@ -37,7 +38,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815162&from=ogGitn">〝坤旦皇后〞文革扫厕所 一代名伶自缢身亡 2017-03-28 04:59</a><br/>言慧珠，曾是闻名全国的京剧〝坤旦皇后〞，被梅兰芳誉为〝最得意的女弟子〞。文革中被打倒抄家，绝望中用演唱《天女散花》时使用的白腰带自缢身亡。一代名伶香消玉殒，终年47岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815151&from=ogGitn">【 石涛八方】活着的人恐惧与揣摩死亡 聪明者的愚蠢 2017-03-28 04:46</a><br/>道是什么？修炼的人就是懂得天理的人，一个修行得道者为什么能够全胜？因为他不会陷入人的利益中，他仰仗的是佛法，是他修行的大道，用他灵魂的境界看到这人间外在物质世界的一切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815158&from=ogGitn">姚振华被举报掠夺数百亿元土地 涉广东高官 2017-03-28 04:42</a><br/>近日大连商人陈谷嘉在网上实名举报，宝能系姚振华、姚建辉兄弟与大晟文化实际控制人周镇科、周镇宏兄弟掠夺其公司价值数百亿元的土地。早前落马的周镇宏曾任广东省委常委、统战部部长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 04:30</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815147&from=ogGitn">商店宰客逼迫游客购物  云南副省长曾中招 2017-03-28 03:37</a><br/>四季如春、风景如画的云南，在游客的眼中是旅游的首选之地。但是近些年逼迫游客购物的事件，却让不少人提心吊胆。云南省副省长陈某实地考察时，也遇到了一样的情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815156&from=ogGitn">夏小强：辱母杀人案发生在山东的政治内幕 2017-03-28 03:25</a><br/>山东聊城辱母杀人案经媒体曝光，在网络上中迅速传播发酵，引起中国社会广泛关注。民众纷纷指责一审法官对护母杀人者于欢的无期徒刑判决，并质疑当地公检法机关袒护放高利贷者和黑社会。在沸腾的舆论声中，中共最高检察院已宣布派员介入调查。一审法官的判决结果，明确地向外界传递出的信息，用网友的话就是：“他发现没有法制的时候，他拿起了刀。当他拿起了刀，法制又回来了。一...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815142&from=ogGitn">辛可：我为什么不骂美国或美国人 2017-03-28 03:23</a><br/>网友来信质问，为什么我只讲中国或中国人的种种不堪，从来不骂美国或美国人？言外之意，我多少有些美狗的嫌疑。就算我是狗，但这事真有点冤枉了我。</td></tr>
