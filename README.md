@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815164&from=ogGitn">北京连9招遏制楼价 关66间中介 学区房或贬值 2017-03-28 06:42</a><br/>北京实行新一轮楼市调控政策的10天内，已出9招遏楼价，其中，66间房地产中介门店被关停。外界关注，北京学区房或贬值。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815168&from=ogGitn">【禁闻】3月27日维权动态 2017-03-28 06:40</a><br/>保护家园 河北村民成立女子敢死队；河南商丘强拆 爆警民冲突；湖北鄂州村民上访 被囚精神病院；内蒙牧民连续5天请愿 讨要草场补贴。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814899&from=ogGitn">党媒用他人照片捧习 刘云山再“高级黑”？ 2017-03-25 03:08</a><br/>近日大陆网络爆料，《人民日报》用他人旧照，当成习近平当年在陕西插队的照片宣传。有分析认为，这或是中共宣传系统长期造假的惯性，也可能是江派常委刘云山掌控的文宣系统对习近平的“高级黑”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814894&from=ogGitn">袁斌：西安〝电缆门〞事件能一跪了之吗 2017-03-25 03:08</a><br/>3月21日晚，〝西安发布〞发布了一段对奥凯公司法定代表人王志伟的采访视频。镜头里，王志伟浑身颤抖，眼含泪水，承认奥凯公司以次充好、供应不合格电缆的行为，并向全市人民悔罪、道歉，表示愿意接受法律的制裁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814893&from=ogGitn">陈思敏：地铁〝电缆门〞可能牵出哪只西安虎 2017-03-25 03:05</a><br/>连日来，西安〝电缆门〞满城风雨不止一座城。据最新报导，采购问题电缆的，除了西安地铁，还有四川成都、安徽合肥地铁；同时国企〝中铁系〞亦有多家使用同品牌电缆。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814892&from=ogGitn">林辉：真实的董存瑞与同名电影主角的遭遇 2017-03-25 03:00</a><br/>对于三十岁以上的中国人来说，一提到董存瑞这个名字，眼前马上闪现的就是其〝手托炸药包炸碉堡，与国民党同归于尽〞的形象，因为1956年的同名电影在中共的大肆宣传下，深深的影响了很多大陆人，而且被先后写入了小学课本、军史、党史。然而，真实的董存瑞和电影中的董存瑞并不一样，至于扮演董存瑞的演员张良在文革中更是被〝扫地出门〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814891&from=ogGitn">周晓辉：张德江三次被打脸 江派乱港要终结 2017-03-25 02:57</a><br/>再过两日，新的香港特首就将被选出。在选举倒计时之际，大纪元独家报导披露，据接近中南海的消息人士称，习当局目前已经派出身边太子党的特使，密集接见众多选委，传递习近平对特首选举的四点讲话。</td></tr>
 </table>
