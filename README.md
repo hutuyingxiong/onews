@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815232&from=ogGitn">托养中心到底多少人死亡？韶关官员被一锅端 2017-03-28 20:39</a><br/>震惊外界的广东韶关新丰县练溪托养中心集体死亡事件，目前有了新的进展，包括新丰县委书记在内的4名官员免职；有9名官员被立案侦查；托养中心工作人员有10人被刑拘。该中心被指有挪用救助补助资金、虐待托养人员等问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815230&from=ogGitn">万科列出房价下跌城市名单 2017-03-28 20:12</a><br/>3月27日，大陆房企巨头万科表示，已经准备好迎接大陆房价的下跌，并列出了下跌城市的名单。对大陆房价看跌的还有融创中国董事长孙宏斌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815231&from=ogGitn">全球假货10年内将增加 中国被指是大产家 2017-03-28 19:59</a><br/>全球假冒产品和盗版活动预计在今后的10年中将有增加，而在中国假货生产泛滥，涉及各个行业领域，被指是假货的大产家。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815228&from=ogGitn">辉山乳业事件发酵 辽宁金融界成焦点 2017-03-28 19:53</a><br/>百亿规模债务的辽宁辉山乳业，近日股价暴跌又连续曝出大股东挪用资金、造假、借债减持却拖欠货款等丑闻。最近，该事件持续发酵，辽宁省金融界成为舆论焦点。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814930&from=ogGitn">股灾真相渐浮水面  港媒披露中纪委今年〝核心工作〞 2017-03-25 15:27</a><br/>随着明天系掌门人万亿富豪肖建华被北京当局调查，牵出一系列中共高层政商勾结的内幕，2015年股灾的真相也开始浮出水面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814958&from=ogGitn">为购房假结婚假离婚 在京沪形成产业链 2017-03-25 15:26</a><br/>近来，大陆热点城市频频推出对楼市的限购措施，一些民众因受限购条件限制与原配假离婚，然后再假结婚以取得购房资格，购房后再离婚。因为有这种需求的人多，为购房假结婚假离婚竟然成为产业链。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814910&from=ogGitn">【禁闻】28个国际组织发表联合声明 吁公正审判709案 2017-03-25 15:18</a><br/>华夏正道受虐待 狱中发表绝食声明；28国际组织发声明 吁公正审判709案；河南政府强拆遭抵制 上千警民互殴。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814942&from=ogGitn">广西货车冲撞小学生 致3死2伤  司机被拘（视频） 2017-03-25 15:14</a><br/>广西桂平市日前发生一起恶性交通事故，一辆货车冲向正在斑马线上过马路的一群小学生，导致3死2伤，目前，肇事司机已被警方刑事拘留。</td></tr>
 </table>
