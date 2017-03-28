@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江苏13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 06:41</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 06:15</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815283&from=ogGitn">【禁闻】不只贪腐 前辽宁政法书记苏宏章待判 2017-03-29 05:55</a><br/>中共前辽宁省政法委书记苏宏章受贿、行贿一案，3月27号在黑龙江哈尔滨市中级法院开庭，苏宏章被控受贿近2000万、行贿111万。此外，苏宏章还深度涉入〝辽宁拉票贿选案〞，并跟随中共江泽民集团迫害法轮功信仰团体。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815045&from=ogGitn">辉山乳业董事长杨凯周六现身 总部外有警车 2017-03-26 15:18</a><br/>3月25日下午，辉山乳业董事长杨凯现身位于辉山乳业大厦一楼大厅，大门外停著一辆载有多名警察的警车。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815026&from=ogGitn">辉山乳业股价暴跌 辽宁首富日损209亿 2017-03-26 14:28</a><br/>3月24日，辉山乳业实际控制人实控人杨凯、葛坤，财富蒸发折合人民币209亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815020&from=ogGitn">频频骚扰上海女大学生 深圳官员被查 2017-03-26 13:51</a><br/>近日，深圳一官员在上海高校培训期间，频频骚扰女大学生被举报。目前，举报中提到的两人已被停职协助调查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815039&from=ogGitn">浙江两90后女子遗体被发现 一人遭劫杀 2017-03-26 13:25</a><br/>近日，中国大陆有多名女子被杀害。有网民指，三千万光棍是个社会大问题。</td></tr>
 </table>
