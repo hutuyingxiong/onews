@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815200&from=ogGitn">天津官场大换血 市委常委“四进三出” 2017-03-28 14:20</a><br/>自天津大爆炸后，官场持续地震。近日，天津官场又出现大规模人事调整，市委常委现“四进三出”，被视为极其罕见。中共江派常委张高丽和落马的黄兴国曾长期把控天津，从官方的通报可见，天津官场已烂透。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815199&from=ogGitn">十九大防林彪式高级黑？中纪委“杀回马枪” 2017-03-28 13:29</a><br/>随着中共十九大临近，中纪委官网就“深化巡视”连续发文，其中一篇文章称，看看是否存在各地方嘴上喊“拥护”、行动上各行其是，而“杀回马枪”是为“十九大”相关人事把关。有文章分析认为，各地诸侯争先恐后地“效忠”，实际跟“文革”时林彪式树权威一样，这些表态实际上是“高级黑”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815194&from=ogGitn">上海虹口足球场突发火灾   浓烟滚滚（组图） 
 										
@@ -21,6 +22,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:30</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815183&from=ogGitn">突变失业人员 山西原平昊华职工海外寻帮助 2017-03-28 07:35</a><br/>山西原平昊华公司因政策性破产，职工在身份转换过程中利益受到严重伤害，多次向有关部门申诉无果。最近，他们希望大纪元帮助他们呼吁，维护职工正当权益。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815165&from=ogGitn">中国人为何大批移民马来西亚？ 2017-03-28 07:30</a><br/>中国人正掀起赴马来西亚又一波移民潮，其中有数千中国人根据马来西亚“第二家园计划”（MM2H)移民该国，成为这波移民潮的一大组成部分。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815195&from=ogGitn">上海中介小伙为卖房四次结婚 含70岁老妪 2017-03-28 07:15</a><br/>虽然大陆楼市购房限令不断收紧，但开发商、中介的各种规避和破解招数也随之“升级”。最近陆媒爆出，上海一家房屋中介工作员工，为了卖方，竟然与客户四次结婚，其中岁数最大的已经70多岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815163&from=ogGitn">股价暴跌发酵 辉山乳业董事长名下有多家房企 2017-03-28 06:53</a><br/>辉山乳业股价暴跌，公司董事长杨凯否认因大股东挪用巨资投资房地产引发。但陆媒调查显示，杨凯名下至少有三家房地产公司。</td></tr>
@@ -34,7 +36,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815153&from=ogGitn">【禁闻】港特首选举次日 政府起诉占中人士 2017-03-28 05:37</a><br/>港特首选举次日 政府起诉占中人士；国际特赦：起诉占中人士涉嫌政治打压；</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815159&from=ogGitn">【禁闻】学者也不容？居澳副教授遭中共禁离华 2017-03-28 05:36</a><br/>据多家媒体报导，从24号起，冯崇义在广州两度无法登机离境，并且在第二次得知自己被列入禁飞名单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815155&from=ogGitn">3月27日全球看中国 2017-03-28 05:33</a><br/>全球假货将大增  中国是大产家；草场被强占林权证被吊销  内蒙牧民连续五天请愿；新疆厅官贪腐过亿 待公布案情恐更惊人；中国不断发现未经官方注册的数百万人口。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815165&from=ogGitn">中国人为何大批移民马来西亚？ 2017-03-28 05:04</a><br/>中国人正掀起赴马来西亚又一波移民潮，其中有数千中国人根据马来西亚“第二家园计划”（MM2H)移民该国，成为这波移民潮的一大组成部分。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815154&from=ogGitn">渝男刑具锁妻网聊行骗 近半年骗款60多万 2017-03-28 05:03</a><br/>〝求求你们救救我吧，我被人家锁起来了，在做骗人的事情，数目高达几十万。〞一则简讯传送到了警方。根据报警的线索，任欣被营救出来，摆脱了魔掌，拘禁她的丈夫则被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815152&from=ogGitn">石涛：林郑赌命式胜选 于欢〝辱母杀人〞人性尊严被凌辱 2017-03-28 05:00</a><br/>中共上层权力对垒在香港大选中直接表现了出来。所以，大家就看到了，有党中央就没有老百姓的尊严，这就是这次香港特首选举出现的场面，没有什么可评论的。因为它们恪守的是高级动物的理念，高级动物就是吃人的，摧残人的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815162&from=ogGitn">〝坤旦皇后〞文革扫厕所 一代名伶自缢身亡 2017-03-28 04:59</a><br/>言慧珠，曾是闻名全国的京剧〝坤旦皇后〞，被梅兰芳誉为〝最得意的女弟子〞。文革中被打倒抄家，绝望中用演唱《天女散花》时使用的白腰带自缢身亡。一代名伶香消玉殒，终年47岁。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814917&from=ogGitn">臧山：“中央不任命”不可能出现 2017-03-25 07:00</a><br/>香港特首选举前夕，有关“中央不任命”的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814909&from=ogGitn">“58同城”数据外泄 700元可窃取全国简历 2017-03-25 06:32</a><br/>大陆网络诈骗案频发，居民隐私非常容易遭泄漏，近日陆媒报导，只需要支付700元，就可以采集58同城全国的简历信息，有很大安全隐患。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815161&from=ogGitn">时政段子集：中共黑暗统治手段大曝光 2017-03-25 06:28</a><br/>先鼓动农民抢地主，再集体化抢农民；以暗分股抢国企，垄断央企抢民企；高房价抢中产，高税收抢平民；造假上市抢股民，超发货币抢储户；城镇化抢土地，私有化抢国库——抢劫成果一部分转移国外，一部分收买国际支持，一部分用于维稳，一部分醉生梦死！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814915&from=ogGitn">【禁闻】3月24日退党精选 2017-03-25 06:26</a><br/>湖南醴陵的唐琪说：偶然的机会遇到同学的父亲，给我讲了法轮功真相，深受震撼，若不是这次机会，我根本不知道这一切，我决意退出邪恶的党、团、队组织。</td></tr>
 </table>
