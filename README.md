@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815204&from=ogGitn">四川男童爬窗帮邻居取钥匙 坠楼生命垂危 2017-03-28 15:07</a><br/>3月25日下午，四川阆中市某小区居民赵奶奶将钥匙忘在了家里。她找到楼上邻居、8岁男孩彭康的爷爷，想让彭康帮她取出钥匙。彭爷爷用绳子拴在彭康腰间，把他从5楼外墙吊到4楼窗户，从那进去帮赵奶奶取出钥匙。谁知绳子突然断裂，彭康从4楼坠地，目前生命垂危。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815200&from=ogGitn">天津官场大换血 市委常委“四进三出” 2017-03-28 14:20</a><br/>自天津大爆炸后，官场持续地震。近日，天津官场又出现大规模人事调整，市委常委现“四进三出”，被视为极其罕见。中共江派常委张高丽和落马的黄兴国曾长期把控天津，从官方的通报可见，天津官场已烂透。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815201&from=ogGitn">前辽宁〝政法王〞苏宏章受审 当年用金条买进常委 2017-03-28 14:01</a><br/>陆媒曾揭露，苏宏章在选举中搞拉票贿选、对抗组织审查，当年用金条买进常委等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815199&from=ogGitn">十九大防林彪式高级黑？中纪委“杀回马枪” 2017-03-28 13:29</a><br/>随着中共十九大临近，中纪委官网就“深化巡视”连续发文，其中一篇文章称，看看是否存在各地方嘴上喊“拥护”、行动上各行其是，而“杀回马枪”是为“十九大”相关人事把关。有文章分析认为，各地诸侯争先恐后地“效忠”，实际跟“文革”时林彪式树权威一样，这些表态实际上是“高级黑”。</td></tr>
@@ -16,6 +17,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815192&from=ogGitn">陕西纪检组长被查处 曾糊弄国务院 2017-03-28 11:13</a><br/>日前，中共陕西省纪委派驻的纪检组组长因带头违反“习八条”规定被查处，该官员被扒出几年前就曾糊弄国务院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815203&from=ogGitn">上海虹口足球场着火 浓烟滚滚 火势迅猛 2017-03-28 11:02</a><br/>3月28日早上8时30分许，上海虹口足球场突然发生大火，火势凶猛，伴随着滚滚浓烟弥漫天际。官媒称无人员伤亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815187&from=ogGitn">袁斌：警察充当了辱母杀人案中的罪恶帮凶 2017-03-28 10:31</a><br/>警察充当了“辱母杀人案”中的罪恶帮凶，他们应该和暴力逼债的黑社会团伙一道站在被告席上。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
 										
@@ -210,6 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814922&from=ogGitn">【中国禁闻】3月24日完整版 2017-03-25 08:23</a><br/>华夏正道受虐待 狱中发表绝食声明；香港特首选战前 〝不钦点论〞频曝光；日上行换董事长 评: 剿江进程加快；红祸百年祭 《致命的列宁》港台发行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814925&from=ogGitn">特首选举倒计时 大陆各界看香港选举 2017-03-25 07:59</a><br/>香港特首“选举”投票进入倒计时，为最后的冲刺，不仅候选人四处拉选票，媒体攻势也日趋猛烈。曾俊华回应大公报指其对抗中央是抹黑。他自信选举将有奇迹发生。大陆的一些专家学者向大纪元表达他们对特首选举的看法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814918&from=ogGitn">江派窝点再被清洗 江西两官员被查处 2017-03-25 07:27</a><br/>近两日大陆官网传出，江西、吉林、广东、海南、湖南等5省有8名官员被查处。这5省都是江派窝点。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814916&from=ogGitn">谢天奇：内蒙首虎立大功减刑 供出刘云山？ 2017-03-25 07:23</a><br/>连续两年的中共两会敏感期，刘云山主管的文宣系统搅局动作不断；习阵营对刘云山的文宣系统及其老巢内蒙古的清洗力度则不断加强。在此背景之下，陆媒高调报导内蒙首虎王素毅重大立功获减刑的消息，震慑刘云山的意味明显，也为清算刘云山家族腐败埋下伏笔。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814905&from=ogGitn">【禁闻】香港特首选战前 〝不钦点论〞频曝光 2017-03-25 07:03</a><br/>目前习近平当局已经派出身边太子党的特使去香港，旋风式的秘密接见众选委，澄清习近平对特首选举的四点讲话。表明习近平一直没有〝钦点〞任何人做特首，反而希望候选人凭实力争取支持。</td></tr>
 </table>
