@@ -2,12 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 11:11</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
 										
 											?组图 2017-03-28 08:57</a><br/>贝克汉姆（David Beckham）到香港与上海参加活动，一句〝在中国很棒的48小时〞，引爆大陆和香港网友论战。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 08:54</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815177&from=ogGitn">【中国禁闻】3月27日完整版 2017-03-28 08:50</a><br/>大陆货币增速第一 为何还闹钱荒？；辱母杀人案背后： 高利贷黑幕引关注；网传〝十秒质疑〞视频 声援维权律师。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:39</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
@@ -40,6 +40,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815137&from=ogGitn">辱母杀人案急速发酵 警匪勾结深层黑幕曝光 2017-03-28 01:31</a><br/>山东护母杀人的青年于欢被判无期徒刑，引发海内外舆论沸腾。中共最高检被迫介入调查。与此同时，案件背后警匪勾结放贷，打击报复苏银霞的黑幕遭持续揭露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815148&from=ogGitn">云南省长阮成发“目不识滇”再升级 2017-03-28 01:08</a><br/>近日，云南省长阮成发又被曝读错字，把饮鸩止渴念成饮（jiu）止渴。此前，其因两次读错字陷舆论风波。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815132&from=ogGitn">中国漫画开拓者丰子恺的文革遭遇 2017-03-28 00:39</a><br/>民国初年的刊物突然刊出这样一幅画：新月升空，房舍无人，唯有木桌、茶具、竹帘与大面积的留白。自这幅《人散后，一钩新月天如水》问世，一大批名为“子恺漫画”的画作风行于中国，中国也从此有了“漫画”概念。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815117&from=ogGitn">【翻墙必看】女特首出炉后高层博弈加剧？ 2017-03-27 23:55</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案托养中心被曝经营黑幕  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815133&from=ogGitn">贪污近两千万 辽宁前政法委书记受审 2017-03-27 23:06</a><br/>检方指控：2004到2016年，苏宏章在担任中共沈阳市委副书记、辽宁省委常委、政法委书记、辽宁省人大代表等职务期间，利用工作便利，为单位和个人提供帮助，非法收受财物，共计折合人民币1996万8097元；2010到2011年，苏宏章为竞选辽宁省副省长、省委常委，贿赂相关人员金条、美元、购物卡等财物，共计折合人民币110万6949元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815139&from=ogGitn">港占中9人被捕 陈健民：对弥补社会撕裂无益 2017-03-27 23:05</a><br/>被称为小圈子选举的香港特首选举3月26日刚刚落幕、受北京“钦点”的林郑月娥未来首要任务是要弥补社会撕裂的当选感言余音未断，组织和参与2014年雨伞运动的9位主要人士，3月27日一早便接到警方致电，将以“公众妨扰罪”等罪名预约拘捕或直接起诉，引发外界广泛关注。</td></tr>
@@ -53,7 +54,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815124&from=ogGitn">前辽宁政法委书记贪两千万 花百万升副部 2017-03-27 20:00</a><br/>3月27日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理。其被控受贿超1996万元（人民币，下同）。苏宏章被指控的罪状中包括“贿选”。去年辽宁贿选案被大幅曝光，消息称，该案令中南海高层震怒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 19:52</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815117&from=ogGitn">【翻墙必看】女特首出炉后高层博弈加剧？ 2017-03-27 18:52</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815108&from=ogGitn">揭秘谷俊山与共军绝密工程〝军盾一号〞 2017-03-27 18:36</a><br/>谷俊山与〝军盾一号〞这项绝密工程鲜为人知的内幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815109&from=ogGitn">慎入！南京一男子翻越轨道 只剩下半截身子 2017-03-27 18:33</a><br/>日前，南京高铁南站发生一出惨剧，一辆列车到达南京进入站台时，一年轻男子突然从对面站台跳下，横越股道，试图抢在列车前翻上站台，结果未能成功，男子被夹在列车车厢与站台之间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815145&from=ogGitn">俄全国大规模反腐示威 数百人被捕 华府谴责 2017-03-27 18:29</a><br/>俄罗斯周日（26日）多个大城市爆发大规模反腐败示威，成千上万的俄罗斯人不顾禁令走上街头抗议政府贪污，其中有数百抗议者遭拘捕，仅在莫斯科就有约500人被捕，包括俄国反对党领袖领袖纳尔瓦尼（Alexei Navalny）。美国政府谴责俄国官方拘捕抗议者。</td></tr>
