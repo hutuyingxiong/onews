@@ -5,10 +5,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815232&from=ogGitn">托养中心到底多少人死亡？韶关官员被一锅端 2017-03-28 20:39</a><br/>震惊外界的广东韶关新丰县练溪托养中心集体死亡事件，目前有了新的进展，包括新丰县委书记在内的4名官员免职；有9名官员被立案侦查；托养中心工作人员有10人被刑拘。该中心被指有挪用救助补助资金、虐待托养人员等问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815230&from=ogGitn">万科列出房价下跌城市名单 2017-03-28 20:12</a><br/>3月27日，大陆房企巨头万科表示，已经准备好迎接大陆房价的下跌，并列出了下跌城市的名单。对大陆房价看跌的还有融创中国董事长孙宏斌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815231&from=ogGitn">全球假货10年内将增加 中国被指是大产家 2017-03-28 19:59</a><br/>全球假冒产品和盗版活动预计在今后的10年中将有增加，而在中国假货生产泛滥，涉及各个行业领域，被指是假货的大产家。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815228&from=ogGitn">辉山乳业事件发酵 辽宁金融界成焦点 2017-03-28 19:53</a><br/>百亿规模债务的辽宁辉山乳业，近日股价暴跌又连续曝出大股东挪用资金、造假、借债减持却拖欠货款等丑闻。最近，该事件持续发酵，辽宁省金融界成为舆论焦点。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815228&from=ogGitn">辉山乳业事件发酵 辽宁金融界成舆论焦点 2017-03-28 19:53</a><br/>百亿规模债务的辽宁辉山乳业，近日股价暴跌又连续曝出大股东挪用资金、造假、借债减持却拖欠货款等丑闻。最近，该事件持续发酵，辽宁省金融界成为舆论焦点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815227&from=ogGitn">北京空军参谋部警卫营岗哨传抢枪事件 2017-03-28 19:19</a><br/>北京巴士公司一名钟姓男乘务员，于3月12日早上，直到北京空参警卫营西门外，蹿上执勤岗台欲抢夺哨兵手中的配枪未果，被制服后移交警方处理。网民热议，这如果他带着凶器袭击怎么办？配枪据报，事件发生于12日早上6时55分，</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815218&from=ogGitn">假货遍全球 中国被指假货生产中心 2017-03-28 18:28</a><br/>中国制造的假货遍布全球，一项最新报告指，中国是全球假货生产的中心。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 18:26</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815223&from=ogGitn">青岛法院秘判信仰案 同一案出两份判决 2017-03-28 18:17</a><br/>青岛市市南区法院主审法官王丽卿，对三名法轮功学员张红茹、李秀君、王瑾，进行非法秘密判刑。奇怪的是，同一个案件，三位辩护律师竟然收到了两份内容不同的判决书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815224&from=ogGitn">【翻墙必看】江泽民一再被点死穴 2017-03-28 18:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815220&from=ogGitn">河南上千村民抗议强拆 多人被捕 2017-03-28 18:02</a><br/>23号，包括城管、防暴警察等数百名强拆人员到徐堂村强拆房子，遭到上千村民阻拦，双方爆发激烈冲突，26号，当地政府调动近百名城管，数十辆警车进村强行清理抗议的横幅。目前，警察禁止村民聚集。</td></tr>
@@ -33,6 +32,7 @@
 										
 											?组图 2017-03-28 13:18</a><br/>3月28日，网曝上海绿地申花足球队主场虹口足球场突发火灾。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815202&from=ogGitn">陆企卖9年机床亏1500万 出售12套房赚2000万 2017-03-28 12:52</a><br/>大陆一家生产经营机床的上市企业靠卖机床9年来累计亏损1500万元（人民币，下同），近来公司为了扭亏要卖掉12套房产，这12套房产预计盈利2000多万元。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 12:25</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815193&from=ogGitn">每日三退声明精选（2017/03/27） 2017-03-28 11:40</a><br/>且不说这个邪党给我们的民族、文化、国家造成的浩劫与迫害，单是它给我们一家人带来的痛苦，已经令我良心的每一寸土地，都没有它容身之地。郑重宣布：退出中共邪党，回归神的子民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 11:40</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815186&from=ogGitn">打造反腐利器有玄机？习近平〝文胆〞执掌追赃办 2017-03-28 11:20</a><br/>习近平推行的反腐风暴在2017年将再掀高潮。</td></tr>
