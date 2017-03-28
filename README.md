@@ -2,12 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 11:11</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
 										
 											?组图 2017-03-28 08:57</a><br/>贝克汉姆（David Beckham）到香港与上海参加活动，一句〝在中国很棒的48小时〞，引爆大陆和香港网友论战。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 08:54</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815177&from=ogGitn">【中国禁闻】3月27日完整版 2017-03-28 08:50</a><br/>大陆货币增速第一 为何还闹钱荒？；辱母杀人案背后： 高利贷黑幕引关注；网传〝十秒质疑〞视频 声援维权律师。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:39</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
