@@ -2,12 +2,17 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815269&from=ogGitn">天津四川江苏官场大调整 四川省秘书长去职 2017-03-29 05:14</a><br/>近期大陆地方省份再现新一轮调整。天津市委常委“四进三出”，因天津港爆炸事故受处分的宗国英转任云南，新常委中3人为外地调入。四川省委常委“二进二出”，省委秘书长吴靖平去职。江苏省副省长张雷调任辽宁省委常委，近一年江苏省六名副省长履新。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815267&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-29 04:50</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>美国之音：中国新规定：互联网〝翻墙〞有罪；自由亚洲电台：李明哲人在何处? 其妻辗转送药；大纪元时报：广东武警少将蔡广辽获刑八年；英国《金融时报》：辉山乳业承认资金链断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强被情敌办公室捅死 2017-03-29 04:16</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 03:57</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815258&from=ogGitn">内蒙古两官员落马 习王两路夹击刘云山老巢 2017-03-29 03:24</a><br/>王岐山派巡视组杀“回马枪”之际，内蒙古日前又有两官员落马。内蒙古是江派常委刘云山的老巢，去年下半年以来，内蒙古官场人事大变动，习近平的“大内总管”栗战书的旧部刘奇凡出任内蒙纪委书记。刘云山老巢正被习阵营两路人马加速清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815263&from=ogGitn">山西男子持刀混入幼儿园 砍死3岁男童 2017-03-29 03:20</a><br/>山西省运城发生一起校园凶杀案，一名幼儿被砍死，伤者人数官民说法不一。警方称嫌疑人患有间歇性精神病。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815268&from=ogGitn">近期胡锦涛频繁露面 2017-03-29 03:06</a><br/>近日，中共全国政协前副主席万国权病亡，中共六常委和胡锦涛等到公墓送别。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815256&from=ogGitn">暴毙后终止审理裁定流出 王林诈骗奸幼犯罪史曝光 2017-03-29 02:24</a><br/>有〝江泽民国师〞之称的江西〝气功大师〞王林上月在医院身亡。今日江西抚州中院裁定王林案终止审理，但裁定书揭发王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815238&from=ogGitn">大连美食城一男子持双刀猛捅陌生食客 2017-03-29 02:23</a><br/>在辽宁大连市一家美食城，一名58岁男子只因对另一名食客看不顺眼，对他连捅5刀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815259&from=ogGitn">“辱母杀人案”持续发酵，司法腐败问题受到讨论 2017-03-29 02:14</a><br/>中国的律师都很羡慕正常国家的律师特别是美国的律师，中国律师们的尊严和满足感何在？是律师们错了，还是行业错了，还是制度错了？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815260&from=ogGitn">达瓦才仁评“辱母案”：没道理可讲的社会 2017-03-29 02:13</a><br/>发生在山东的“辱母杀人案”，最近因法院判决被告于欢无期徒刑消息曝光，受到舆论的广泛关注。该案凸显了中国社会长期来存在的一些问题，比如黑道的嚣张、警察的不作为、人民的无力感、司法严重瘫痪以及道德的低下等等。西藏流亡政府驻台代表达瓦才仁一针见血指出问题所在，他说，没有信仰就没有道德的规范，这样的社会是没有道理可讲的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815254&from=ogGitn">王健林之子车库曝光 10多辆豪车一字排开 2017-03-29 02:12</a><br/>3月28日，大陆首富王健林独子王思聪在上海某地的一处车库被网民曝光，车库停满法拉利、蓝宝坚尼等众多豪华车辆，“好似车展令人眼花”。</td></tr>
@@ -24,7 +29,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815241&from=ogGitn">巴黎警枪杀中国男引冲突 3伤35被捕 2017-03-28 22:11</a><br/>周日（26日）晚，一名旅居法国巴黎的中国男子与上门的警察发生冲突，遭警方枪杀。事件于周一引发暴力冲突，造成3名警察受伤，35名抗议者被捕。目前对于死者是否袭警，警方与死者家人各执一词。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815197&from=ogGitn">维护中国人知情权 真相电视插播者生死遭遇 2017-03-28 22:08</a><br/>他们是在中国大陆参与真相电视插播的法轮功学员们。从跨出这一步开始，他们就以生命和勇气，化作一道道穿越心灵的电波。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815265&from=ogGitn">大陆A股连续两个交易日下跌 成交量续降 2017-03-28 21:35</a><br/>截至3月28日，大陆A股连续两个交易日走跌，且成交量持续减少。近日备受市场关注的辉山乳业个股继续停牌。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815238&from=ogGitn">大连美食城一男子持双刀猛捅陌生食客 2017-03-28 20:52</a><br/>在辽宁大连市一家美食城，一名58岁男子只因对另一名食客看不顺眼，对他连捅5刀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815232&from=ogGitn">托养中心多少人死亡？韶关官员被一锅端 2017-03-28 20:39</a><br/>震惊外界的广东韶关新丰县练溪托养中心集体死亡事件，目前有了新的进展，包括新丰县委书记在内的4名官员免职；有9名官员被立案侦查；托养中心工作人员有10人被刑拘。该中心被指有挪用救助补助资金、虐待托养人员等问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815230&from=ogGitn">万科列出房价下跌城市名单 2017-03-28 20:12</a><br/>3月27日，大陆房企巨头万科表示，已经准备好迎接大陆房价的下跌，并列出了下跌城市的名单。对大陆房价看跌的还有融创中国董事长孙宏斌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815231&from=ogGitn">全球假货10年内将增加 中国被指是大产家 2017-03-28 19:59</a><br/>全球假冒产品和盗版活动预计在今后的10年中将有增加，而在中国假货生产泛滥，涉及各个行业领域，被指是假货的大产家。</td></tr>
@@ -206,8 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815005&from=ogGitn">美拟严格审查签证 或影响中港澳申请人 2017-03-26 01:41</a><br/>移民律师及顾问表示，美国严格审查签证后，未来申请美签的程序将拉长，拒签的比例将更高，华人也会受到某种程度的影响。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814981&from=ogGitn">陈思敏：中纪委罕批吴爱英 再聚焦司法腐败 2017-03-26 00:30</a><br/>3月23日，中纪委机关报《纪检监察报》披露〝谢晖案〞诸多腐败细节，并评价说他是新疆历史上罕见的贪官。其实，中纪委如此点名一个地方官员，还是狱官，这才是罕见。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814980&from=ogGitn">谢天奇：内蒙首虎重大立功获减刑 供出刘云山 2017-03-26 00:25</a><br/>3月23日，大陆媒体纷纷报导，北京市高级法院官网2016年12月19日曾发布过一份〝关于审理罪犯王素毅减刑案件的公示〞，公示显示：〝2016年10月21日，刑罚执行机关以罪犯王素毅在服刑期间能认罪悔罪，……确有悔改表现，2015年度获得监狱改造积极份子奖励，2016年3月获得重大立功单项奖励为由，建议将其刑期减为有期徒刑二十年一个月。〞</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814979&from=ogGitn">臧山：〝中央不任命〞不可能出现 2017-03-26 00:22</a><br/>香港特首选举前夕，有关〝中央不任命〞的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。这种说法，如果真是北京最高层的意思，则将给香港未来带来巨大的不确定，对香港一国两制造成极大冲击。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814977&from=ogGitn">每日三退声明精选（2017/03/25） 2017-03-26 00:21</a><br/>近一年了，接触了大量的外界资讯，深感如果中共不灭亡，大量蒙昧脑残人群还会在存在，大量五毛喉舌还会在存在，大量不公时有发生，贪腐、破坏环境、道德沦丧、国人移民等不会停止，由于中共的存在使“中国”二字成为了羞耻的代名词，在此我陈蓉向神要求解除我被入队、入团时发过誓言的封印，放还我的自由。心愿中共早日解体灭亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814978&from=ogGitn">夏小强：张德江接棒江泽民 继续图样图森破 2017-03-26 00:16</a><br/>3月26日即将产生的新一届香港特首，将在曾俊华和林郑月娥之间产生，谁将当选，其实并无太多悬念。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815025&from=ogGitn">唐映红：辱母杀人案——冷血的法律羞辱人民 2017-03-25 23:44</a><br/>山东一起辱母杀人案在朋友圈刷了屏。《南方周末》报道的这起辱母杀人，地方法院的判决在民间炸了锅，网易转载的这篇文章，截止到我写完这篇文章，读者的留言达到罕见的超过一百五十万条。这起辱母凶杀案之所以会引起群情激昂，源于地方法院对忍无可忍的杀人者判处了无期徒刑。案情大概是这样的，杀人者于欢，22岁，他母亲苏银霞因经营工厂资金周转困难而向某地产公司老板吴学占...</td></tr>
 </table>
