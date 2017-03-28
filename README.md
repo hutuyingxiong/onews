@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815227&from=ogGitn">北京空军参谋部警卫营岗哨传抢枪事件 2017-03-28 19:19</a><br/>北京巴士公司一名钟姓男乘务员，于3月12日早上，直到北京空参警卫营西门外，蹿上执勤岗台欲抢夺哨兵手中的配枪未果，被制服后移交警方处理。网民热议，这如果他带着凶器袭击怎么办？配枪据报，事件发生于12日早上6时55分，</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815218&from=ogGitn">假货遍全球 中国被指假货生产中心 2017-03-28 18:28</a><br/>中国制造的假货遍布全球，一项最新报告指，中国是全球假货生产的中心。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815223&from=ogGitn">青岛法院秘判信仰案 同一案出两份判决 2017-03-28 18:17</a><br/>青岛市市南区法院主审法官王丽卿，对三名法轮功学员张红茹、李秀君、王瑾，进行非法秘密判刑。奇怪的是，同一个案件，三位辩护律师竟然收到了两份内容不同的判决书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815224&from=ogGitn">【翻墙必看】江泽民一再被点死穴 2017-03-28 18:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
@@ -18,6 +19,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815206&from=ogGitn">习近平十九大如何布局？〝九大智囊〞助其闯关 2017-03-28 15:30</a><br/>2017年是换届年，习近平如何推动今秋十九大的人事布局，成为舆论关注的焦点。外界普遍认为，这次围绕着习核心的〝九大智囊〞将助其闯关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815205&from=ogGitn">陈思敏：湖南官场遭强洗 周强张春贤谁更紧张 2017-03-28 15:23</a><br/>3月27日，长沙市宣传部原部长张湘涛被查。粗略统计今年以来在中纪委官网上，这已是不到一个月内的第6名落马湘官，不到三个月内的第8个湖南反腐通告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815204&from=ogGitn">四川男童爬窗帮邻居取钥匙 坠楼生命垂危 2017-03-28 15:07</a><br/>3月25日下午，四川阆中市某小区居民赵奶奶将钥匙忘在了家里。她找到楼上邻居、8岁男孩彭康的爷爷，想让彭康帮她取出钥匙。彭爷爷用绳子拴在彭康腰间，把他从5楼外墙吊到4楼窗户，从那进去帮赵奶奶取出钥匙。谁知绳子突然断裂，彭康从4楼坠地，目前生命垂危。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815226&from=ogGitn">杭州土地拍卖 无预警现场被叫停 2017-03-28 15:01</a><br/>3月27日，杭州举行黄历新年后第一场土地拍卖会，待开发商落座准备竞拍后，官方突然宣布土地暂停出让，令开发商大感惊讶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815216&from=ogGitn">湖南永州前副市长被查 连续两天有高官落马 2017-03-28 14:32</a><br/>湖南永州市副市长张常明涉嫌严重“违纪”，目前正接受审查。这是湖南官场连续第二天有高官落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815200&from=ogGitn">天津官场大换血 市委常委“四进三出” 2017-03-28 14:20</a><br/>自天津大爆炸后，官场持续地震。近日，天津官场又出现大规模人事调整，市委常委现“四进三出”，被视为极其罕见。中共江派常委张高丽和落马的黄兴国曾长期把控天津，从官方的通报可见，天津官场已烂透。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815201&from=ogGitn">前辽宁〝政法王〞苏宏章受审 当年用金条买进常委 2017-03-28 14:01</a><br/>陆媒曾揭露，苏宏章在选举中搞拉票贿选、对抗组织审查，当年用金条买进常委等。</td></tr>
@@ -210,6 +212,4 @@
 											?组图 2017-03-25 15:03</a><br/>河南商丘梁园区村民抗强拆，警方施放催泪弹镇压，事件中造成8人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814960&from=ogGitn">浙江一幼儿乳头被扎进缝衣针 针尾深入肝脏 2017-03-25 14:59</a><br/>3月19日，浙江省金华东阳市民邵女士给19个月大的孩子洗澡时，发现其右胸有根“线”。到医院检查才发现，那根线连着体内一根5厘米左右的缝衣针。手术时，医生在孩子的肝部找到了针尾。目前，孩子恢复良好，邵女士已报警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814940&from=ogGitn">广州一在建电厂发生坍塌事故 已致9死2伤 2017-03-25 14:55</a><br/>3月25日上午8时许，广州从化鳌头潭口在建广州第七热力发电厂发生作业平台坍塌事故。事故目前已造成9人死亡、2人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814944&from=ogGitn">双开通报字数超令计划 山西奢靡女厅官只喝韩国空运奶 2017-03-25 14:45</a><br/>3月23日，中共高检网消息称，上官永清涉嫌〝受贿、贪污、职务侵占、挪用资金〞四宗罪，被提起公诉。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814946&from=ogGitn">H7N9禽流感疫情持续 广西一周3人亡 2017-03-25 14:23</a><br/>大陆禽流感疫情在各地持续蔓延，且不断出现死亡个案。在过去的一周里，广西共报告3宗病例，3人死亡。</td></tr>
 </table>
