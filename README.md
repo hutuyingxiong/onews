@@ -2,15 +2,21 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
+										
+											?组图 2017-03-28 08:57</a><br/>贝克汉姆（David Beckham）到香港与上海参加活动，一句〝在中国很棒的48小时〞，引爆大陆和香港网友论战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 08:54</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815177&from=ogGitn">【中国禁闻】3月27日完整版 2017-03-28 08:50</a><br/>大陆货币增速第一 为何还闹钱荒？；辱母杀人案背后： 高利贷黑幕引关注；网传〝十秒质疑〞视频 声援维权律师。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:39</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815164&from=ogGitn">北京连9招遏制楼价 关66间中介 学区房或贬值 2017-03-28 06:42</a><br/>北京实行新一轮楼市调控政策的10天内，已出9招遏楼价，其中，66间房地产中介门店被关停。外界关注，北京学区房或贬值。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815168&from=ogGitn">【禁闻】3月27日维权动态 2017-03-28 06:40</a><br/>保护家园 河北村民成立女子敢死队；河南商丘强拆 爆警民冲突；湖北鄂州村民上访 被囚精神病院；内蒙牧民连续5天请愿 讨要草场补贴。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815163&from=ogGitn">股价暴跌发酵 辉山乳业董事长名下有多家房企 2017-03-28 06:29</a><br/>辉山乳业股价暴跌，公司董事长杨凯否认因大股东挪用巨资投资房地产引发。但陆媒调查显示，杨凯名下至少有三家房地产公司。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815166&from=ogGitn">时政段子集：辱母杀人案比雷洋案更令人绝望 2017-03-28 06:23</a><br/>时政段子集：辱母杀人案 比雷洋案更令人绝望</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815181&from=ogGitn">广东武警少将蔡广辽获刑八年 2017-03-28 06:11</a><br/>日前中共广东省委办公厅前副主任、省公安厅前党委副书记、武警少将蔡广辽，以受贿近500万元一审被判刑8年 。蔡广辽因具有军、政双层背景，备受外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815170&from=ogGitn">颜丹：取缔“过道学区房”的背后 2017-03-28 05:55</a><br/>最近，北京市教委突然高调宣称，“‘过道学区房’不能作为入学资格条件”。而之所以发出这样的“一声吼”，则是因为近期出现了“过道学区房可作为入学资格”的报道。逢此良机，大陆有不少媒体便开始了“顺杆儿爬”。其中有文章说道，“北京市教委明确‘过道学区房’不具备入学资格，是一种主动作为、完善政策的表现，对于遏制学区房乱象有立竿见影之效”。“顺杆儿爬”的除了媒体...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815157&from=ogGitn">周晓辉：官员财产公示制度未到公布时机背后 2017-03-28 05:53</a><br/>破局之法并非没有，只要开放党禁、报禁，让人民监督官员，并进而彻底抛弃中共，现高层就可以走向光明大道，实现其依法治国的“中国梦”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815160&from=ogGitn">【禁闻】大陆货币增速第一 为何还闹钱荒？ 2017-03-28 05:46</a><br/>据大陆媒体报导，最近大陆银行〝勒紧裤带过日子〞的时间又来了。《华夏时报》的报导说，华南某银行交易员抱怨，每天上班都在借借借，跪求资金，心好累。</td></tr>
@@ -23,7 +29,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815162&from=ogGitn">〝坤旦皇后〞文革扫厕所 一代名伶自缢身亡 2017-03-28 04:59</a><br/>言慧珠，曾是闻名全国的京剧〝坤旦皇后〞，被梅兰芳誉为〝最得意的女弟子〞。文革中被打倒抄家，绝望中用演唱《天女散花》时使用的白腰带自缢身亡。一代名伶香消玉殒，终年47岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815151&from=ogGitn">【 石涛八方】活着的人恐惧与揣摩死亡 聪明者的愚蠢 2017-03-28 04:46</a><br/>道是什么？修炼的人就是懂得天理的人，一个修行得道者为什么能够全胜？因为他不会陷入人的利益中，他仰仗的是佛法，是他修行的大道，用他灵魂的境界看到这人间外在物质世界的一切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815158&from=ogGitn">姚振华被举报掠夺数百亿元土地 涉广东高官 2017-03-28 04:42</a><br/>近日大连商人陈谷嘉在网上实名举报，宝能系姚振华、姚建辉兄弟与大晟文化实际控制人周镇科、周镇宏兄弟掠夺其公司价值数百亿元的土地。早前落马的周镇宏曾任广东省委常委、统战部部长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 04:10</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815147&from=ogGitn">商店宰客逼迫游客购物  云南副省长曾中招 2017-03-28 03:37</a><br/>四季如春、风景如画的云南，在游客的眼中是旅游的首选之地。但是近些年逼迫游客购物的事件，却让不少人提心吊胆。云南省副省长陈某实地考察时，也遇到了一样的情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815156&from=ogGitn">夏小强：辱母杀人案发生在山东的政治内幕 2017-03-28 03:25</a><br/>山东聊城辱母杀人案经媒体曝光，在网络上中迅速传播发酵，引起中国社会广泛关注。民众纷纷指责一审法官对护母杀人者于欢的无期徒刑判决，并质疑当地公检法机关袒护放高利贷者和黑社会。在沸腾的舆论声中，中共最高检察院已宣布派员介入调查。一审法官的判决结果，明确地向外界传递出的信息，用网友的话就是：“他发现没有法制的时候，他拿起了刀。当他拿起了刀，法制又回来了。一...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815142&from=ogGitn">辛可：我为什么不骂美国或美国人 2017-03-28 03:23</a><br/>网友来信质问，为什么我只讲中国或中国人的种种不堪，从来不骂美国或美国人？言外之意，我多少有些美狗的嫌疑。就算我是狗，但这事真有点冤枉了我。</td></tr>
@@ -205,7 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814903&from=ogGitn">震动世界乐坛的钢琴才女 文革中全家自杀 2017-03-25 04:22</a><br/>顾圣婴，曾经在国际大赛中屡获大奖，五十年代蜚声海外，被誉为〝真正的钢琴诗人〞。在国内则是出身不好的〝杀关管子女〞，十余年积极的〝思想改造〞，仍未能让她逃脱文革中被批斗的命运。在被定性为〝反革命〞的当晚，她和母亲、弟弟选择了全家自杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814900&from=ogGitn">夏小强：张德江接棒江泽民 继续图样图森破 2017-03-25 03:46</a><br/>3月26日即将产生的新一届香港特首，将在曾俊华和林郑月娥之间产生，谁将当选，其实并无太多悬念。香港从1997年被中共接管后，所谓的“一国两制”，不出外界预料地成为了中共统战的口号。香港经历中共管控下的20年，基本已经沦为中共治下的一个城市，香港原有的自由和法制被破坏，包括言论自由等空间被压缩，经济持续低迷，民众不满情绪弥漫，社会严重撕裂。特别...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814898&from=ogGitn">江苏男派出所暴毙 多处外伤家属质疑死因 2017-03-25 03:20</a><br/>一名网约司机，被警方带到派出所，6个小时后突然死亡。家属表示遗体表面有多处外伤，质疑死前遭虐打。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814895&from=ogGitn">魏谷：孔子、历史和中共（二） 2017-03-25 03:11</a><br/>1948年是曲阜等各地孔庙最后一次祭孔，蒋介石先生将祭孔的礼制带到了台湾，台湾仍沿用诞辰日祭祀的惯例。共产党篡权之后，大陆的祭祀活动被禁止。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814899&from=ogGitn">党媒用他人照片捧习 刘云山再“高级黑”？ 2017-03-25 03:08</a><br/>近日大陆网络爆料，《人民日报》用他人旧照，当成习近平当年在陕西插队的照片宣传。有分析认为，这或是中共宣传系统长期造假的惯性，也可能是江派常委刘云山掌控的文宣系统对习近平的“高级黑”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814894&from=ogGitn">袁斌：西安〝电缆门〞事件能一跪了之吗 2017-03-25 03:08</a><br/>3月21日晚，〝西安发布〞发布了一段对奥凯公司法定代表人王志伟的采访视频。镜头里，王志伟浑身颤抖，眼含泪水，承认奥凯公司以次充好、供应不合格电缆的行为，并向全市人民悔罪、道歉，表示愿意接受法律的制裁。</td></tr>
 </table>
