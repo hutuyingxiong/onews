@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强被情敌办公室捅死 2017-03-29 04:16</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">王林裁定书曝光：曾因奸淫幼女获刑20年 2017-03-29 03:57</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815258&from=ogGitn">内蒙古两官员落马 习王两路夹击刘云山老巢 2017-03-29 03:24</a><br/>王岐山派巡视组杀“回马枪”之际，内蒙古日前又有两官员落马。内蒙古是江派常委刘云山的老巢，去年下半年以来，内蒙古官场人事大变动，习近平的“大内总管”栗战书的旧部刘奇凡出任内蒙纪委书记。刘云山老巢正被习阵营两路人马加速清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815256&from=ogGitn">暴毙后终止审理裁定流出 王林诈骗奸幼犯罪史曝光 2017-03-29 02:24</a><br/>有〝江泽民国师〞之称的江西〝气功大师〞王林上月在医院身亡。今日江西抚州中院裁定王林案终止审理，但裁定书揭发王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815259&from=ogGitn">“辱母杀人案”持续发酵，司法腐败问题受到讨论 2017-03-29 02:14</a><br/>中国的律师都很羡慕正常国家的律师特别是美国的律师，中国律师们的尊严和满足感何在？是律师们错了，还是行业错了，还是制度错了？</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814984&from=ogGitn">独家：选情激烈 习阵营在港情报官披露内情 2017-03-25 23:42</a><br/>香港将在3月26日选出第五届特首，三位候选人中，焦点落在前财政司司长曾俊华和前政务司司长林郑月娥身上。目前在选举上，中南海出现两种声音，分别由张德江的“中央任命论”对抗习近平的“不钦点论”。同时，张德江、张晓明等江派力捧候选人林郑，全力封杀和抹黑另一位民望高的候选人曾俊华，选情非常紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814973&from=ogGitn">朝鲜拟六度核试 传中共在边境增兵七千 2017-03-25 22:35</a><br/>朝鲜当局拟第六次核试验，半岛局势再次紧张，美国不排除武力解决朝鲜核导问题，而中共近日已向中朝边境增兵七千应对。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814971&from=ogGitn">被迫认罪  吴淦吁央视主播出庭作证 2017-03-25 22:17</a><br/>709案件中在押的维权人士吴淦，致央视主持人董倩的公开信在网络热传。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814972&from=ogGitn">湖北天门仙北工业园强征数百亩地 2017-03-25 22:14</a><br/>村书记、妇女主任、园区工作人员、派出所人员、特警、还有统一戴着红色帽子的一伙人进入谢家湾村，动用三台推土机强行推地，前来护地的村民遭到拦阻、恐吓，眼看农田被毁，很多村民都哭了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814970&from=ogGitn">内蒙古银行前高管获刑18年 刘云山老巢被清洗 2017-03-25 22:04</a><br/>近日，内蒙古银行原董事长姚永平（副厅级）涉四宗罪被判刑18年。内蒙古银行腐败窝案曾轰动金融界，该行已有多名高官被查。内蒙古是中共江派常委刘云山的政治老巢，近年来，内蒙古官场被深度清洗。</td></tr>
 </table>
