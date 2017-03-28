@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815239&from=ogGitn">川人：为何有些人对股票发行注册制万般痴迷？ 2017-03-28 23:13</a><br/>近日在2017年博鳌亚洲论坛上，众多业界红顶商人在题为“纠偏：让资本市场回归根本”的分论坛上一致认为，推行注册制是中国资本市场未来最重要的改革之一。齐鲁证券首席经济学家李迅雷明确表示：“有人认为一改肯定要乱、投资者要承担损失、市场要大跌，所以要稳中求进。但当你稳定了之后，改革就会延后，但时间成本却很少有人计算。”李迅雷还强调：“重点还是要去推行IPO改革，现...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815241&from=ogGitn">巴黎警枪杀中国男引冲突 3伤35被捕 2017-03-28 22:11</a><br/>周日（26日）晚，法国巴黎一名华人在家中与上门警察发生冲突后，遭警方击毙。周一，逾百人在警察局前表示抗议，引发暴力冲突，造成3名警察受伤，35人被捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815238&from=ogGitn">大连美食城一男子持双刀猛捅陌生食客 2017-03-28 20:52</a><br/>在辽宁大连市一家美食城，一名58岁男子只因对另一名食客看不顺眼，对他连捅5刀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815232&from=ogGitn">托养中心多少人死亡？韶关官员被一锅端 2017-03-28 20:39</a><br/>震惊外界的广东韶关新丰县练溪托养中心集体死亡事件，目前有了新的进展，包括新丰县委书记在内的4名官员免职；有9名官员被立案侦查；托养中心工作人员有10人被刑拘。该中心被指有挪用救助补助资金、虐待托养人员等问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815230&from=ogGitn">万科列出房价下跌城市名单 2017-03-28 20:12</a><br/>3月27日，大陆房企巨头万科表示，已经准备好迎接大陆房价的下跌，并列出了下跌城市的名单。对大陆房价看跌的还有融创中国董事长孙宏斌。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814982&from=ogGitn">上海检出全球第2例库波热病毒 2017-03-25 16:12</a><br/>全球第2次发现的库波热病毒（Ekpoma virus），2017年1月1日，由上海机场出入境检验局在1名来自安哥拉，疑似感染黄热病中国籍人员身上检出。这是大陆首宗感染库波热病毒个案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814948&from=ogGitn">大陆日均1万人患癌  肺癌成头号杀手 2017-03-25 15:47</a><br/>近几年来，中国大陆的雾霾情况不断恶化，甚至有地区出现了毒性翻倍的〝酸雾〞，伴随而来的是大陆民众对健康问题的忧虑。近日，2017年中国城市癌症报告指出，肺癌已成为大陆城市居民的头号杀手，发病率、死亡率双冠。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814949&from=ogGitn">落马高官自曝为女明星 违规操作境外钜额资金 2017-03-25 15:45</a><br/>在近期一本新出版的书中，一名被判刑12年的中共北京正部级金融高官自爆落马前与一名知名影视明星的情史。他称，为了企业家妻子、影视明星情人，其违规操作中国境外资金数十亿，造成巨大损失。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814930&from=ogGitn">股灾真相渐浮水面  港媒披露中纪委今年〝核心工作〞 2017-03-25 15:27</a><br/>随着明天系掌门人万亿富豪肖建华被北京当局调查，牵出一系列中共高层政商勾结的内幕，2015年股灾的真相也开始浮出水面。</td></tr>
 </table>
