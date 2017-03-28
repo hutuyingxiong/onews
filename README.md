@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815177&from=ogGitn">【中国禁闻】3月27日完整版 2017-03-28 09:05</a><br/>大陆货币增速第一 为何还闹钱荒？；辱母杀人案背后： 高利贷黑幕引关注；网传〝十秒质疑〞视频 声援维权律师。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 08:54</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
@@ -27,7 +29,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815142&from=ogGitn">辛可：我为什么不骂美国或美国人 2017-03-28 03:23</a><br/>网友来信质问，为什么我只讲中国或中国人的种种不堪，从来不骂美国或美国人？言外之意，我多少有些美狗的嫌疑。就算我是狗，但这事真有点冤枉了我。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815149&from=ogGitn">小圈子选举？老外现场直击香港特首选举 2017-03-28 03:22</a><br/>香港特首选举结果26日揭晓，老外郝毅博也特地从纽约飞赴香港报导，香港特首究竟是怎么选出来的？现场情况如何？一起来看看！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815141&from=ogGitn">陈克江：文革中差点被〝毒死〞的中共大将张爱萍 2017-03-28 03:13</a><br/>张爱萍在文革中两次被打倒。1977年重新出来工作后，担任过国防科委主任、国务院副总理、国防部长等。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 03:06</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815143&from=ogGitn">于欢〝辱母杀人案〞细节：被〝杵〞后防卫反击 2017-03-28 02:32</a><br/>儿子为了保护受辱的母亲，在6个小时的煎熬侮辱后，于欢拿起了水果刀进行反抗。纠缠的逼债者1死3伤，于欢被判处无期徒刑，聊城中级法院认定其犯了故意伤害罪。目前于欢已经提起上诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815137&from=ogGitn">辱母杀人案急速发酵 警匪勾结深层黑幕曝光 2017-03-28 01:31</a><br/>山东护母杀人的青年于欢被判无期徒刑，引发海内外舆论沸腾。中共最高检被迫介入调查。与此同时，案件背后警匪勾结放贷，打击报复苏银霞的黑幕遭持续揭露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815148&from=ogGitn">云南省长阮成发“目不识滇”再升级 2017-03-28 01:08</a><br/>近日，云南省长阮成发又被曝读错字，把饮鸩止渴念成饮（jiu）止渴。此前，其因两次读错字陷舆论风波。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814895&from=ogGitn">魏谷：孔子、历史和中共（二） 2017-03-25 03:11</a><br/>1948年是曲阜等各地孔庙最后一次祭孔，蒋介石先生将祭孔的礼制带到了台湾，台湾仍沿用诞辰日祭祀的惯例。共产党篡权之后，大陆的祭祀活动被禁止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814899&from=ogGitn">党媒用他人照片捧习 刘云山再“高级黑”？ 2017-03-25 03:08</a><br/>近日大陆网络爆料，《人民日报》用他人旧照，当成习近平当年在陕西插队的照片宣传。有分析认为，这或是中共宣传系统长期造假的惯性，也可能是江派常委刘云山掌控的文宣系统对习近平的“高级黑”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814894&from=ogGitn">袁斌：西安〝电缆门〞事件能一跪了之吗 2017-03-25 03:08</a><br/>3月21日晚，〝西安发布〞发布了一段对奥凯公司法定代表人王志伟的采访视频。镜头里，王志伟浑身颤抖，眼含泪水，承认奥凯公司以次充好、供应不合格电缆的行为，并向全市人民悔罪、道歉，表示愿意接受法律的制裁。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814893&from=ogGitn">陈思敏：地铁〝电缆门〞可能牵出哪只西安虎 2017-03-25 03:05</a><br/>连日来，西安〝电缆门〞满城风雨不止一座城。据最新报导，采购问题电缆的，除了西安地铁，还有四川成都、安徽合肥地铁；同时国企〝中铁系〞亦有多家使用同品牌电缆。</td></tr>
 </table>
