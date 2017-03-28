@@ -7,6 +7,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815168&from=ogGitn">【禁闻】3月27日维权动态 2017-03-28 06:40</a><br/>保护家园 河北村民成立女子敢死队；河南商丘强拆 爆警民冲突；湖北鄂州村民上访 被囚精神病院；内蒙牧民连续5天请愿 讨要草场补贴。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815163&from=ogGitn">股价暴跌发酵 辉山乳业董事长名下有多家房企 2017-03-28 06:29</a><br/>辉山乳业股价暴跌，公司董事长杨凯否认因大股东挪用巨资投资房地产引发。但陆媒调查显示，杨凯名下至少有三家房地产公司。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815166&from=ogGitn">时政段子集：辱母杀人案比雷洋案更令人绝望 2017-03-28 06:23</a><br/>时政段子集：辱母杀人案 比雷洋案更令人绝望</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815170&from=ogGitn">颜丹：取缔“过道学区房”的背后 2017-03-28 05:55</a><br/>最近，北京市教委突然高调宣称，“‘过道学区房’不能作为入学资格条件”。而之所以发出这样的“一声吼”，则是因为近期出现了“过道学区房可作为入学资格”的报道。逢此良机，大陆有不少媒体便开始了“顺杆儿爬”。其中有文章说道，“北京市教委明确‘过道学区房’不具备入学资格，是一种主动作为、完善政策的表现，对于遏制学区房乱象有立竿见影之效”。“顺杆儿爬”的除了媒体...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815157&from=ogGitn">周晓辉：官员财产公示制度未到公布时机背后 2017-03-28 05:53</a><br/>破局之法并非没有，只要开放党禁、报禁，让人民监督官员，并进而彻底抛弃中共，现高层就可以走向光明大道，实现其依法治国的“中国梦”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815160&from=ogGitn">【禁闻】大陆货币增速第一 为何还闹钱荒？ 2017-03-28 05:46</a><br/>据大陆媒体报导，最近大陆银行〝勒紧裤带过日子〞的时间又来了。《华夏时报》的报导说，华南某银行交易员抱怨，每天上班都在借借借，跪求资金，心好累。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815153&from=ogGitn">【禁闻】港特首选举次日 政府起诉占中人士 2017-03-28 05:37</a><br/>港特首选举次日 政府起诉占中人士；国际特赦：起诉占中人士涉嫌政治打压；</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814893&from=ogGitn">陈思敏：地铁〝电缆门〞可能牵出哪只西安虎 2017-03-25 03:05</a><br/>连日来，西安〝电缆门〞满城风雨不止一座城。据最新报导，采购问题电缆的，除了西安地铁，还有四川成都、安徽合肥地铁；同时国企〝中铁系〞亦有多家使用同品牌电缆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814892&from=ogGitn">林辉：真实的董存瑞与同名电影主角的遭遇 2017-03-25 03:00</a><br/>对于三十岁以上的中国人来说，一提到董存瑞这个名字，眼前马上闪现的就是其〝手托炸药包炸碉堡，与国民党同归于尽〞的形象，因为1956年的同名电影在中共的大肆宣传下，深深的影响了很多大陆人，而且被先后写入了小学课本、军史、党史。然而，真实的董存瑞和电影中的董存瑞并不一样，至于扮演董存瑞的演员张良在文革中更是被〝扫地出门〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814891&from=ogGitn">周晓辉：张德江三次被打脸 江派乱港要终结 2017-03-25 02:57</a><br/>再过两日，新的香港特首就将被选出。在选举倒计时之际，大纪元独家报导披露，据接近中南海的消息人士称，习当局目前已经派出身边太子党的特使，密集接见众多选委，传递习近平对特首选举的四点讲话。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814888&from=ogGitn">每日三退声明精选（2017/03/24） 2017-03-25 02:00</a><br/>今天观看了关于高律师的电影和器官活摘的电影，深感不能和中共这样手上沾满无辜人民鲜血的邪恶为伍，特声明退出共产党的一切组织。</td></tr>
 </table>
