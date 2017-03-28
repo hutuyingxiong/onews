@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 06:41</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 06:15</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815283&from=ogGitn">【禁闻】不只贪腐 前辽宁政法书记苏宏章待判 2017-03-29 05:55</a><br/>中共前辽宁省政法委书记苏宏章受贿、行贿一案，3月27号在黑龙江哈尔滨市中级法院开庭，苏宏章被控受贿近2000万、行贿111万。此外，苏宏章还深度涉入〝辽宁拉票贿选案〞，并跟随中共江泽民集团迫害法轮功信仰团体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815282&from=ogGitn">袁斌：央视要球迷去南韩队饭店门口放炮 2017-03-29 05:52</a><br/>3月23日晚的中韩大战，吸引了成千上万国人的目光。尽管大家的出发点不同，但期盼国足取胜的心情却并无二致。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815278&from=ogGitn">【禁闻】3月28日退党精选 2017-03-29 05:51</a><br/>中共的腐败，和潜规则，让很多人反感，他们都在退党网站声明退出中共，来看今天的退党精选。</td></tr>
@@ -23,7 +25,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强被情敌办公室捅死 2017-03-29 04:16</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815272&from=ogGitn">口头效忠习近平成风 地方官员大摆高级黑 2017-03-29 04:07</a><br/>日前港媒文章指，各地诸侯表态拥护〝习核心〞成风，有些口号匪夷所思，实际上是对习近平的〝高级黑〞。他们口头效忠，背地里却拉帮结派，对习中央阳奉阴违。中纪委表态，中央巡视重点是各地方〝嘴上喊拥护、行动搞派性〞的问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 03:57</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815263&from=ogGitn">山西男子持刀混入幼儿园 砍死3岁男童 2017-03-29 03:20</a><br/>山西省运城发生一起校园凶杀案，一名幼儿被砍死，伤者人数官民说法不一。警方称嫌疑人患有间歇性精神病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815268&from=ogGitn">近期胡锦涛频繁露面 2017-03-29 03:06</a><br/>近日，中共全国政协前副主席万国权病亡，中共六常委和胡锦涛等到公墓送别。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815256&from=ogGitn">暴毙后终止审理裁定流出 王林诈骗奸幼犯罪史曝光 2017-03-29 02:24</a><br/>有〝江泽民国师〞之称的江西〝气功大师〞王林上月在医院身亡。今日江西抚州中院裁定王林案终止审理，但裁定书揭发王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
@@ -31,6 +32,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815259&from=ogGitn">“辱母杀人案”持续发酵，司法腐败问题受到讨论 2017-03-29 02:14</a><br/>中国的律师都很羡慕正常国家的律师特别是美国的律师，中国律师们的尊严和满足感何在？是律师们错了，还是行业错了，还是制度错了？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815260&from=ogGitn">达瓦才仁评“辱母案”：没道理可讲的社会 2017-03-29 02:13</a><br/>发生在山东的“辱母杀人案”，最近因法院判决被告于欢无期徒刑消息曝光，受到舆论的广泛关注。该案凸显了中国社会长期来存在的一些问题，比如黑道的嚣张、警察的不作为、人民的无力感、司法严重瘫痪以及道德的低下等等。西藏流亡政府驻台代表达瓦才仁一针见血指出问题所在，他说，没有信仰就没有道德的规范，这样的社会是没有道理可讲的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815254&from=ogGitn">王健林之子车库曝光 10多辆豪车一字排开 2017-03-29 02:12</a><br/>3月28日，大陆首富王健林独子王思聪在上海某地的一处车库被网民曝光，车库停满法拉利、蓝宝坚尼等众多豪华车辆，“好似车展令人眼花”。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815285&from=ogGitn">昆明市政府成立泛亚交易所 内部文件曝光 2017-03-29 02:02</a><br/>轰动一时的泛亚事件至今未有一个了结，数十万受害者仍然在坚持不懈地进行维权，在无望中度日如年。近日，一位不愿透露姓名的知情人士向大纪元记者曝光了一份当时昆明市政府成立泛亚有色金属交易所的文件影印件，揭露了政府参与 “非法集资”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815253&from=ogGitn">重庆男铁链锁妻网聊骗钱 半年骗款60万 2017-03-29 01:44</a><br/>近日有媒体爆料，重庆20多岁男子陈强（化名），竟用手铐、铁链将妻子任欣（化名）锁在电脑桌前，迫其与网上交友聊天诈骗，单是近半年便骗取60多万元（人民币）。事迹恶劣引媒体关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815257&from=ogGitn">辽宁瞒报重大伤亡事件 陈政高情况不妙 2017-03-29 01:39</a><br/>陈政高任辽宁省长期间，2012年8月的一场台风造成辽宁省两县至少40多人死亡，多人失踪。但官方瞒报死伤人数，还说“辽阳县人创造了奇迹”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815249&from=ogGitn">女医生指错路 遭“有背景”病人家属打伤 2017-03-29 01:21</a><br/>最近，重庆一条“彭水县医生因指错路，被病人家属打骨折”的帖子在网上传开。据爆料者称，因为打人者颇有“背景”，目前各方面施压要求该医生私了，引发了不少网民的热议。</td></tr>
@@ -204,8 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815026&from=ogGitn">辉山乳业股价暴跌 辽宁首富日损209亿 2017-03-26 14:28</a><br/>3月24日，辉山乳业实际控制人实控人杨凯、葛坤，财富蒸发折合人民币209亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815020&from=ogGitn">频频骚扰上海女大学生 深圳官员被查 2017-03-26 13:51</a><br/>近日，深圳一官员在上海高校培训期间，频频骚扰女大学生被举报。目前，举报中提到的两人已被停职协助调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815039&from=ogGitn">浙江两90后女子遗体被发现 一人遭劫杀 2017-03-26 13:25</a><br/>近日，中国大陆有多名女子被杀害。有网民指，三千万光棍是个社会大问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815023&from=ogGitn">大陆房地产过剩严重 遗祸难解 2017-03-26 12:34</a><br/>大陆热点城市房价暴涨，最近半年中共推出的房地产调控措施过百，但业界发现，三四线城市却依然存在房地产过剩、“鬼城”众多的局面。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815015&from=ogGitn">计生迫害藉口不灵了？广东女多伦多申请难民被拒 
-										
-											?组图 2017-03-26 11:40</a><br/>遭到中共计划生育部门的迫害，广东女多伦多申请难民被拒。</td></tr>
 </table>
