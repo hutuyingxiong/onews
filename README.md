@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815283&from=ogGitn">【禁闻】不只贪腐 前辽宁政法书记苏宏章待判 2017-03-29 05:55</a><br/>中共前辽宁省政法委书记苏宏章受贿、行贿一案，3月27号在黑龙江哈尔滨市中级法院开庭，苏宏章被控受贿近2000万、行贿111万。此外，苏宏章还深度涉入〝辽宁拉票贿选案〞，并跟随中共江泽民集团迫害法轮功信仰团体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815282&from=ogGitn">袁斌：央视要球迷去南韩队饭店门口放炮 2017-03-29 05:52</a><br/>3月23日晚的中韩大战，吸引了成千上万国人的目光。尽管大家的出发点不同，但期盼国足取胜的心情却并无二致。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815278&from=ogGitn">【禁闻】3月28日退党精选 2017-03-29 05:51</a><br/>中共的腐败，和潜规则，让很多人反感，他们都在退党网站声明退出中共，来看今天的退党精选。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815284&from=ogGitn">【禁闻】3月28日维权动态 2017-03-29 05:51</a><br/>上海20多人举牌 吁当局释放唐荆陵；妻子遭逼疯 王藏将起诉当局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815281&from=ogGitn">陈思敏：山东〝辱母案〞有责的〝关键少数〞 2017-03-29 05:50</a><br/>山东聊城因高利贷讨债引发的〝儿子刺死辱母者〞一案，主角22岁的于欢已于今年2月一审被判无期徒刑。此一消息在日前经媒体披露后，引发了连日来的舆论海啸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815280&from=ogGitn">唐风：与〝爱国贼〞说点心里话 2017-03-29 05:47</a><br/>说到〝爱国贼〞，人们都知道，就是以爱国的名义，行爱党之事，唯中共马首是瞻，在各种场合以〝饱满〞的〝政治热情〞摇旗呐喊，不厌其烦的高唱爱国的陈词滥调，实在令人匪夷所思的这些人。因为他们被认为并不是真爱国，故被称作〝爱国贼〞。当然，这些人并不是都那么可恨，有些是稀里糊涂地上了〝贼船〞。我也有个别朋友和网友就属这一类的，故想与之说点心里话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815279&from=ogGitn">夏小强：辱母杀人案发生在山东的政治内幕 2017-03-29 05:41</a><br/>山东聊城辱母杀人案经媒体曝光，在网路上中迅速传播发酵，引起中国社会广泛关注。民众纷纷指责一审法官对护母杀人者于欢的无期徒刑判决，并质疑当地公检法机关袒护放高利贷者和黑社会。在沸腾的舆论声中，中共最高检察院已宣布派员介入调查。</td></tr>
@@ -206,8 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815015&from=ogGitn">计生迫害藉口不灵了？广东女多伦多申请难民被拒 
 										
 											?组图 2017-03-26 11:40</a><br/>遭到中共计划生育部门的迫害，广东女多伦多申请难民被拒。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815014&from=ogGitn">孕妇租儿童盗窃成产业链 150女贼上海落网 
-										
-											?组图 2017-03-26 11:20</a><br/>一些家庭甚至为获取5万元1年的租金超生孩子，然后租给犯罪团伙去实施盗窃。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815021&from=ogGitn">助朝鲜伊朗研发武器 大陆6企业3人遭美制裁 2017-03-26 10:59</a><br/>美国国务院发表声明，决定对违反禁令向伊朗、朝鲜和叙利亚出售大规模杀伤性武器相关设备与技术的11个单位和个人实施制裁，其中包括6家中国公司和3名中国公民。</td></tr>
 </table>
