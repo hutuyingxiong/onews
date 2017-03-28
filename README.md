@@ -25,6 +25,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815220&from=ogGitn">河南上千村民抗议强拆 多人被捕 2017-03-28 18:02</a><br/>23号，包括城管、防暴警察等数百名强拆人员到徐堂村强拆房子，遭到上千村民阻拦，双方爆发激烈冲突，26号，当地政府调动近百名城管，数十辆警车进村强行清理抗议的横幅。目前，警察禁止村民聚集。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815217&from=ogGitn">四川〝黑老大〞刘汉遗产被拍卖   起价逾2.5亿 2017-03-28 17:51</a><br/>周永康的马仔四川〝黑老大〞刘汉两年前已被执行死刑，今天（3月28日）他留下的部分遗产在网路上公开拍卖。从拍卖交易平台上看到，这部分涉案资产起拍价超过2.5亿元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815222&from=ogGitn">阿富汗鸦片产量激增 源于中国转基因种子 2017-03-28 17:39</a><br/>国际社会几十年来一直试图根除阿富汗的鸦片种植活动，但这个问题却越来越严重，去年阿富汗的鸦片产量激增了43%，其中主要是所谓的“中国种子”作出的“贡献”。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815205&from=ogGitn">陈思敏：湖南官场遭清洗 周强张春贤谁更紧张 2017-03-28 17:23</a><br/>3月27日，长沙市宣传部原部长张湘涛被查。粗略统计今年以来在中纪委官网上，这已是不到一个月内的第6名落马湘官，不到三个月内的第8个湖南反腐通告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815214&from=ogGitn">儿媳太漂亮担心是〝妖精〞 山东老妇索〝正经工作证明〞 2017-03-28 17:18</a><br/>山东省高青县小伙南方打工，带回来一个女朋友，因长得太漂亮了惹祸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815213&from=ogGitn">上海中介小伙卖房又卖身    结4次婚年龄最大的70岁 2017-03-28 17:12</a><br/>上海一中介小伙为卖房，已和客户结了4次婚，包括70岁老太太，每次〝离婚〞后均能得到6-8万酬金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815211&from=ogGitn">上海虹口足球场火灾  伤亡情况不明 2017-03-28 17:10</a><br/>周二（3月28日）上午，中超球队上海申花位于虹口的足球场发生火灾，猛烈的火势夹带大量浓烟。目前伤亡情况不明。</td></tr>
@@ -32,8 +33,8 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815225&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-28 15:53</a><br/>不解体中共，什么振兴经济，依法治国，民主宪治，强国富民，一切都无从谈起。解体中共，一个民主、自由、富强的中国才会到来！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815207&from=ogGitn">大陆新娘李英蕾离奇失踪  疑遭德国丈夫抛尸大海 2017-03-28 15:44</a><br/>意大利海岸发现一个被遗弃的行李箱，里面装着一具高度腐烂的女尸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815212&from=ogGitn">湖南留守男童砍杀七旬老妪 顺走700元逃逸 2017-03-28 15:34</a><br/>3月26日下午，湖南隆回一名13岁留守男童，因不满被73岁老妇骂，将其砍杀并顺手拿走妇人身上的700元现金逃跑后被抓捕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815252&from=ogGitn">湖北建筑脚手架垮塌致2死6伤 7人仍被困 2017-03-28 15:30</a><br/>3月27日晚，湖北麻城一建筑工地发生一起脚手架垮塌事故, 已经造成2人死亡，6人受伤，还有7人仍被困。8名涉事责任人被公安机关控制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815206&from=ogGitn">习近平十九大如何布局？〝九大智囊〞助其闯关 2017-03-28 15:30</a><br/>2017年是换届年，习近平如何推动今秋十九大的人事布局，成为舆论关注的焦点。外界普遍认为，这次围绕着习核心的〝九大智囊〞将助其闯关。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815205&from=ogGitn">陈思敏：湖南官场遭强洗 周强张春贤谁更紧张 2017-03-28 15:23</a><br/>3月27日，长沙市宣传部原部长张湘涛被查。粗略统计今年以来在中纪委官网上，这已是不到一个月内的第6名落马湘官，不到三个月内的第8个湖南反腐通告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815204&from=ogGitn">四川男童爬窗帮邻居取钥匙 坠楼生命垂危 2017-03-28 15:07</a><br/>3月25日下午，四川阆中市某小区居民赵奶奶将钥匙忘在了家里。她找到楼上邻居、8岁男孩彭康的爷爷，想让彭康帮她取出钥匙。彭爷爷用绳子拴在彭康腰间，把他从5楼外墙吊到4楼窗户，从那进去帮赵奶奶取出钥匙。谁知绳子突然断裂，彭康从4楼坠地，目前生命垂危。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815226&from=ogGitn">杭州土地拍卖 无预警现场被叫停 2017-03-28 15:01</a><br/>3月27日，杭州举行黄历新年后第一场土地拍卖会，待开发商落座准备竞拍后，官方突然宣布土地暂停出让，令开发商大感惊讶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815216&from=ogGitn">湖南永州前副市长被查 连续两天有高官落马 2017-03-28 14:32</a><br/>湖南永州市副市长张常明涉嫌严重“违纪”，目前正接受审查。这是湖南官场连续第二天有高官落马。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814954&from=ogGitn">北京收〝网〞？ 〝百名红通人员〞国际刑警网上消失 2017-03-25 17:49</a><br/>北京追缉的〝百名红通人员〞名单从国际刑警组织网站的公开查询系统中消失。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814993&from=ogGitn">妻子被恐吓后患精神分裂 王藏将起诉作恶者 2017-03-25 17:43</a><br/>近日，自由诗人王藏的妻子王利芹被确认患有精神分裂幻想症。王藏表示妻子目前的情况就是中共造成的，他将提起诉讼维护自己的合法权益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814953&from=ogGitn">【翻墙必看】朝鲜央视惊现异常状况 2017-03-25 17:22</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814927&from=ogGitn">美传奇式臭鼬工厂 如何击败中共航母杀手？ 2017-03-25 17:14</a><br/>美国海军10艘尼米兹级航母（Nimitz Class Aircraft Carrier）具有向全球任何海岸投射力量的无与伦比的能力，因而成为世界艳羡的目标。但美国的对手也特意研发了名为“航母杀手”的超远程导弹，这种导弹航程超过尼米兹级航母300多英里左右。</td></tr>
 </table>
