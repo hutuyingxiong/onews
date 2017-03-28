@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815214&from=ogGitn">儿媳太漂亮担心是〝妖精〞 山东老妇索〝正经工作证明〞 2017-03-28 17:18</a><br/>山东省高青县小伙南方打工，带回来一个女朋友，因长得太漂亮了惹祸。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815213&from=ogGitn">上海中介小伙卖房又卖身    结4次婚年龄最大的70岁 2017-03-28 17:12</a><br/>上海一中介小伙为卖房，已和客户结了4次婚，包括70岁老太太，每次〝离婚〞后均能得到6-8万酬金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815211&from=ogGitn">上海虹口足球场火灾  伤亡情况不明 2017-03-28 17:10</a><br/>周二（3月28日）上午，中超球队上海申花位于虹口的足球场发生火灾，猛烈的火势夹带大量浓烟。目前伤亡情况不明。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815210&from=ogGitn">福建男铁链锁妻逼上网诈骗  每天骗5000元不够数就打 2017-03-28 17:04</a><br/>重庆女子小英发简讯向警方求救：说自己被人锁起来了，在做骗人的事情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815207&from=ogGitn">大陆新娘李英蕾离奇失踪  疑遭德国丈夫抛尸大海 2017-03-28 15:44</a><br/>意大利海岸发现一个被遗弃的行李箱，里面装着一具高度腐烂的女尸。</td></tr>
@@ -210,6 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814931&from=ogGitn">清洗张德江老巢 吉林省部级官员大换人 2017-03-25 11:31</a><br/>近期中共吉林官场高层出现人事异动，包括两名副省长辞职，一名省委常委调往异地任职。吉林是中共江派常委张德江的老巢。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814921&from=ogGitn">【禁闻】日上行换董事长 评：剿江进程加快 2017-03-25 10:54</a><br/>正值中共两会期间的3月14日号，总部位于上海的〝日上免税行〞更换了董事长，由中共前党魁江泽民的亲戚江世干, 变更为中国免税品（集团）的党委书记王轩。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814920&from=ogGitn">石涛：香港特首选举无〝钦点〞 张德江携政治局对抗 2017-03-25 10:53</a><br/>张德江做了一堆事，埋了一堆地雷，都没用，关键事情还得问习近平。例如要不要梁振英还得习近平决定，这个事情他迈不过去，问了习近平，梁振英得了一个政协副主席就回家了，没戏了。现在推林郑月娥还是那一套。但现在习核心已经在两会传递完思想了，如果张德江再对抗的话，就是跟党中央作对了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814933&from=ogGitn">豫商丘强拆爆警民冲突 警发催泪弹引众怒 2017-03-25 10:42</a><br/>河南商丘梁园区一处村庄因征地强拆，3月24日城管与村民爆发冲突，警方发射催泪弹平息事件。村民说，政府以每平方米800多元的补偿价要求村民异地安置，被拒绝。当天被强拆的是村支书的房屋，但村民担心稍后还会拆他们的住宅，于是上前阻挠。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814908&from=ogGitn">【禁闻】大陆新媒体〝搬运号〞 有益还是有害？ 2017-03-25 09:26</a><br/>在中共的新闻审查制度下，一个庞大的〝搬运号〞产业，正蓬勃起来。</td></tr>
 </table>
