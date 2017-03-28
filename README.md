@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815218&from=ogGitn">假货遍全球 中国被指假货生产中心 2017-03-28 18:28</a><br/>中国制造的假货遍布全球，一项最新报告指，中国是全球假货生产的中心。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815217&from=ogGitn">四川〝黑老大〞刘汉遗产被拍卖   起价逾2.5亿 2017-03-28 17:51</a><br/>周永康的马仔四川〝黑老大〞刘汉两年前已被执行死刑，今天（3月28日）他留下的部分遗产在网路上公开拍卖。从拍卖交易平台上看到，这部分涉案资产起拍价超过2.5亿元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815214&from=ogGitn">儿媳太漂亮担心是〝妖精〞 山东老妇索〝正经工作证明〞 2017-03-28 17:18</a><br/>山东省高青县小伙南方打工，带回来一个女朋友，因长得太漂亮了惹祸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815213&from=ogGitn">上海中介小伙卖房又卖身    结4次婚年龄最大的70岁 2017-03-28 17:12</a><br/>上海一中介小伙为卖房，已和客户结了4次婚，包括70岁老太太，每次〝离婚〞后均能得到6-8万酬金。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814934&from=ogGitn">海南高官披露黄岩岛计划 中共紧急辟谣 2017-03-25 13:56</a><br/>中共海南省一名高官曾透露，中共将在黄岩岛建监测站，不到半个月后，中共外交部发言人改口。外界分析黄岩岛计划生变的背后的原因。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815136&from=ogGitn">广西白虎头村强拆升级 村民以死相逼保家园 2017-03-25 13:39</a><br/>广西北海银滩镇白虎头村近日加快了强拆的步伐，自3月21日起，每天都有拆迁队入村强拆，有村民迫不得已以死相逼保卫家园。据悉，自今年1月起，村民们就为了强拆一事上访、报警，但没有任何结果。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814936&from=ogGitn">传山东高层将大变动 书记省长或换人 2017-03-25 12:21</a><br/>有消息说，中共山东省委书记、省长将换人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814931&from=ogGitn">清洗张德江老巢 吉林省部级官员大换人 2017-03-25 11:31</a><br/>近期中共吉林官场高层出现人事异动，包括两名副省长辞职，一名省委常委调往异地任职。吉林是中共江派常委张德江的老巢。</td></tr>
 </table>
