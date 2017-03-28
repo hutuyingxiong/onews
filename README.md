@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815249&from=ogGitn">女医生指错路 遭“有背景”病人家属打伤 2017-03-29 01:21</a><br/>最近，重庆一条“彭水县医生因指错路，被病人家属打骨折”的帖子在网上传开。据爆料者称，因为打人者颇有“背景”，目前各方面施压要求该医生私了，引发了不少网民的热议。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815250&from=ogGitn">欲报复社会？北京空军某部警卫营发生抢枪事件（组图） 2017-03-28 23:56</a><br/>北京某公交公司一名临时保安欲报复社会而抢枪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815244&from=ogGitn">云南省长阮成发又读错字 〝目不识滇〞上演第三集 2017-03-28 23:50</a><br/>深陷〝错别字〞丑闻的云南省长阮成发，日前再被爆料把饮鸩止渴念成了饮（jiu）止渴。这是公开报导以来，阮成发第三次念错别字。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815243&from=ogGitn">习近平不入住 揭秘川习会马阿拉歌渡假村 2017-03-28 23:47</a><br/>此前美媒消息，中共国家主席习近平和美国总统川普将于4月初在川普私人别墅举行首次会晤。日前，美国官方又透露了一些新的细节，习近平将入住别墅附近的丽思卡尔顿酒店。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815239&from=ogGitn">川人：为何有些人对股票发行注册制万般痴迷？ 2017-03-28 23:13</a><br/>近日在2017年博鳌亚洲论坛上，众多业界红顶商人在题为“纠偏：让资本市场回归根本”的分论坛上一致认为，推行注册制是中国资本市场未来最重要的改革之一。齐鲁证券首席经济学家李迅雷明确表示：“有人认为一改肯定要乱、投资者要承担损失、市场要大跌，所以要稳中求进。但当你稳定了之后，改革就会延后，但时间成本却很少有人计算。”李迅雷还强调：“重点还是要去推行IPO改革，现...</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814927&from=ogGitn">美传奇式臭鼬工厂 如何击败中共航母杀手？ 2017-03-25 17:14</a><br/>美国海军10艘尼米兹级航母（Nimitz Class Aircraft Carrier）具有向全球任何海岸投射力量的无与伦比的能力，因而成为世界艳羡的目标。但美国的对手也特意研发了名为“航母杀手”的超远程导弹，这种导弹航程超过尼米兹级航母300多英里左右。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814947&from=ogGitn">美制裁9家中国公司 疑向朝鲜等国走私导弹部件 2017-03-25 17:11</a><br/>美国国务院3月24日对外宣布，对30个外国公司或个体进行了制裁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814974&from=ogGitn">陈思敏：中纪委罕批吴爱英 再聚焦司法腐败 2017-03-25 16:58</a><br/>3月23日，中纪委机关报《纪检监察报》披露“谢晖案”诸多腐败细节，并评价说他是新疆历史上罕见的贪官。其实，中纪委如此点名一个地方官员，还是狱官，这才是罕见。谢晖2015年7月在新疆公安厅副厅长的任上落马时，首先引发强震的是当地的劳教、监狱系统，因为他曾经在这两大系统主政17年之久（1996年至2013年，期间2004年4月起兼任司法厅副厅长）。...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814952&from=ogGitn">广州在建电厂坍塌   已致9死2伤 2017-03-25 16:55</a><br/>今天（3月25日）上午8时许，广州从化在建中的广州第七热力发电厂，发生作业平台坍塌事故。事故目前已造成9人死亡、2人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814951&from=ogGitn">广西H7N9禽流感持续蔓延 一周3人亡 2017-03-25 16:49</a><br/>大陆各地禽流感疫情持续蔓延，死亡数字不断增加。在过去的一周里，广西共报告3宗病例，3人死亡。</td></tr>
 </table>
