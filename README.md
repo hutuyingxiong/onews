@@ -3,12 +3,14 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815249&from=ogGitn">女医生指错路 遭“有背景”病人家属打伤 2017-03-29 01:21</a><br/>最近，重庆一条“彭水县医生因指错路，被病人家属打骨折”的帖子在网上传开。据爆料者称，因为打人者颇有“背景”，目前各方面施压要求该医生私了，引发了不少网民的热议。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815251&from=ogGitn">耗资数百亿的长沙地铁被爆渗漏 前董事长神秘失踪 2017-03-29 00:34</a><br/>长沙轨道集团接连爆出丑闻，先是投资上百亿的地铁二号线，仅仅营运两年，主题结构就出现渗漏问题；近日，该集团前党委书记、前董事长彭旭峰又失去联系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815250&from=ogGitn">欲报复社会？北京空军某部警卫营发生抢枪事件（组图） 2017-03-28 23:56</a><br/>北京某公交公司一名临时保安欲报复社会而抢枪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815244&from=ogGitn">云南省长阮成发又读错字 〝目不识滇〞上演第三集 2017-03-28 23:50</a><br/>深陷〝错别字〞丑闻的云南省长阮成发，日前再被爆料把饮鸩止渴念成了饮（jiu）止渴。这是公开报导以来，阮成发第三次念错别字。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815243&from=ogGitn">习近平不入住 揭秘川习会马阿拉歌渡假村 2017-03-28 23:47</a><br/>此前美媒消息，中共国家主席习近平和美国总统川普将于4月初在川普私人别墅举行首次会晤。日前，美国官方又透露了一些新的细节，习近平将入住别墅附近的丽思卡尔顿酒店。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815239&from=ogGitn">川人：为何有些人对股票发行注册制万般痴迷？ 2017-03-28 23:13</a><br/>近日在2017年博鳌亚洲论坛上，众多业界红顶商人在题为“纠偏：让资本市场回归根本”的分论坛上一致认为，推行注册制是中国资本市场未来最重要的改革之一。齐鲁证券首席经济学家李迅雷明确表示：“有人认为一改肯定要乱、投资者要承担损失、市场要大跌，所以要稳中求进。但当你稳定了之后，改革就会延后，但时间成本却很少有人计算。”李迅雷还强调：“重点还是要去推行IPO改革，现...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815248&from=ogGitn">恢复民国旧规 清华大学规定会游泳才可毕业 2017-03-28 22:44</a><br/>大陆知名高等学府清华大学推出新校规，从今年开始入学的新生须先经过游泳测试，不合格者在4年的学习中必须学会游泳，否则不能毕业。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815241&from=ogGitn">巴黎警枪杀中国男引冲突 3伤35被捕 2017-03-28 22:11</a><br/>周日（26日）晚，一名旅居法国巴黎的中国男子与上门的警察发生冲突，遭警方枪杀。事件于周一引发暴力冲突，造成3名警察受伤，35名抗议者被捕。目前对于死者是否袭警，警方与死者家人各执一词。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815197&from=ogGitn">维护中国人知情权 真相电视插播者生死遭遇 2017-03-28 22:08</a><br/>他们是在中国大陆参与真相电视插播的法轮功学员们。从跨出这一步开始，他们就以生命和勇气，化作一道道穿越心灵的电波。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815238&from=ogGitn">大连美食城一男子持双刀猛捅陌生食客 2017-03-28 20:52</a><br/>在辽宁大连市一家美食城，一名58岁男子只因对另一名食客看不顺眼，对他连捅5刀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815232&from=ogGitn">托养中心多少人死亡？韶关官员被一锅端 2017-03-28 20:39</a><br/>震惊外界的广东韶关新丰县练溪托养中心集体死亡事件，目前有了新的进展，包括新丰县委书记在内的4名官员免职；有9名官员被立案侦查；托养中心工作人员有10人被刑拘。该中心被指有挪用救助补助资金、虐待托养人员等问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815230&from=ogGitn">万科列出房价下跌城市名单 2017-03-28 20:12</a><br/>3月27日，大陆房企巨头万科表示，已经准备好迎接大陆房价的下跌，并列出了下跌城市的名单。对大陆房价看跌的还有融创中国董事长孙宏斌。</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814993&from=ogGitn">妻子被恐吓后患精神分裂 王藏将起诉作恶者 2017-03-25 17:43</a><br/>近日，自由诗人王藏的妻子王利芹被确认患有精神分裂幻想症。王藏表示妻子目前的情况就是中共造成的，他将提起诉讼维护自己的合法权益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814953&from=ogGitn">【翻墙必看】朝鲜央视惊现异常状况 2017-03-25 17:22</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814927&from=ogGitn">美传奇式臭鼬工厂 如何击败中共航母杀手？ 2017-03-25 17:14</a><br/>美国海军10艘尼米兹级航母（Nimitz Class Aircraft Carrier）具有向全球任何海岸投射力量的无与伦比的能力，因而成为世界艳羡的目标。但美国的对手也特意研发了名为“航母杀手”的超远程导弹，这种导弹航程超过尼米兹级航母300多英里左右。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814947&from=ogGitn">美制裁9家中国公司 疑向朝鲜等国走私导弹部件 2017-03-25 17:11</a><br/>美国国务院3月24日对外宣布，对30个外国公司或个体进行了制裁。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814974&from=ogGitn">陈思敏：中纪委罕批吴爱英 再聚焦司法腐败 2017-03-25 16:58</a><br/>3月23日，中纪委机关报《纪检监察报》披露“谢晖案”诸多腐败细节，并评价说他是新疆历史上罕见的贪官。其实，中纪委如此点名一个地方官员，还是狱官，这才是罕见。谢晖2015年7月在新疆公安厅副厅长的任上落马时，首先引发强震的是当地的劳教、监狱系统，因为他曾经在这两大系统主政17年之久（1996年至2013年，期间2004年4月起兼任司法厅副厅长）。...</td></tr>
 </table>
