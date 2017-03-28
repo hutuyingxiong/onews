@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815256&from=ogGitn">暴毙后终止审理裁定流出 王林诈骗奸幼犯罪史曝光 2017-03-29 02:24</a><br/>有〝江泽民国师〞之称的江西〝气功大师〞王林上月在医院身亡。今日江西抚州中院裁定王林案终止审理，但裁定书揭发王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815254&from=ogGitn">王健林之子车库曝光 10多辆豪车一字排开 2017-03-29 02:12</a><br/>3月28日，大陆首富王健林独子王思聪在上海某地的一处车库被网民曝光，车库停满法拉利、蓝宝坚尼等众多豪华车辆，“好似车展令人眼花”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815253&from=ogGitn">重庆男铁链锁妻网聊骗钱 半年骗款60万 2017-03-29 01:44</a><br/>近日有媒体爆料，重庆20多岁男子陈强（化名），竟用手铐、铁链将妻子任欣（化名）锁在电脑桌前，迫其与网上交友聊天诈骗，单是近半年便骗取60多万元（人民币）。事迹恶劣引媒体关注。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815257&from=ogGitn">辽宁瞒报重大伤亡事件 陈政高情况不妙 2017-03-29 01:39</a><br/>陈政高任辽宁省长期间，2012年8月的一场台风造成辽宁省两县至少40多人死亡，多人失踪。但官方瞒报死伤人数，还说“辽阳县人创造了奇迹”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815249&from=ogGitn">女医生指错路 遭“有背景”病人家属打伤 2017-03-29 01:21</a><br/>最近，重庆一条“彭水县医生因指错路，被病人家属打骨折”的帖子在网上传开。据爆料者称，因为打人者颇有“背景”，目前各方面施压要求该医生私了，引发了不少网民的热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815251&from=ogGitn">耗资数百亿的长沙地铁被爆渗漏 前董事长神秘失踪 2017-03-29 00:34</a><br/>长沙轨道集团接连爆出丑闻，先是投资上百亿的地铁二号线，仅仅营运两年，主题结构就出现渗漏问题；近日，该集团前党委书记、前董事长彭旭峰又失去联系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815250&from=ogGitn">欲报复社会？北京空军某部警卫营发生抢枪事件（组图） 2017-03-28 23:56</a><br/>北京某公交公司一名临时保安欲报复社会而抢枪。</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814968&from=ogGitn">网传中联办干预香港特首选举密令曝光 2017-03-25 21:16</a><br/>3月26日举行的香港特首选举前夕，林郑月娥竞选团队的高级顾问、中共统战组织——中国和平统一促进会（简称和统会）香港总会理事长，24日在亲共报章全版发文抹黑候选人曾俊华，同时公开挑战“习核心”领导权，以习核心是集体领导制、张德江已明确表明支持林郑、是政治局集体决定为由，倒逼习近平接受江派选定的候选人。同时中联办恐吓选委捆绑式投票给林郑的密令曝光，令香港特首选举...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815053&from=ogGitn">内蒙古一小区爆炸 单元楼坍塌致3死25伤 2017-03-25 20:07</a><br/>3月25日14时许，内蒙古自治区包头市土右旗沟门镇北只图村向阳小区一栋居民楼，突然发生天然气管道爆炸。其中一个一个单元整体塌陷。官方尚未公布伤亡人数。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815018&from=ogGitn">北京限购再升级 对离婚买房者贷款有限制 2017-03-25 20:04</a><br/>3月24日，北京再次升级楼市限购措施，规定离婚不足一年的房贷申请人均按二套房信贷政策执行。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814957&from=ogGitn">川人：中国经济去杠杆其实是一个伪命题？ 2017-03-25 18:34</a><br/>近日中共中央政治局常委张高丽在出席中国发展高层论坛2017年年会时指出，把防控金融风险放到更加重要的位置，妥善处置银行不良资产、债券违约、房地产泡沫、网际网路金融等一批风险点，确保不发生系统性金融风险。可见中国经济现在仍处于高杠杆时代，尤其是中国金融业表现的更为突出，2016年中国金融业增加值占GDP的比重达到8.3%，已超过发达国家，2016年中国金融业的利润与全国所有国企利润的总和相当，在2万亿至2.3万亿左右，这表明中国金融业含有杠杆，存在以钱炒钱的现象。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814956&from=ogGitn">中共机关食堂价格便宜浪费惊人　饭菜没动就倒掉 2017-03-25 18:28</a><br/>陆媒近日走访几家国家机关单位食堂，发现浪费之风仍然猖獗。</td></tr>
 </table>
