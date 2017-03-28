@@ -12,6 +12,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815213&from=ogGitn">上海中介小伙卖房又卖身    结4次婚年龄最大的70岁 2017-03-28 17:12</a><br/>上海一中介小伙为卖房，已和客户结了4次婚，包括70岁老太太，每次〝离婚〞后均能得到6-8万酬金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815211&from=ogGitn">上海虹口足球场火灾  伤亡情况不明 2017-03-28 17:10</a><br/>周二（3月28日）上午，中超球队上海申花位于虹口的足球场发生火灾，猛烈的火势夹带大量浓烟。目前伤亡情况不明。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815210&from=ogGitn">福建男铁链锁妻逼上网诈骗  每天骗5000元不够数就打 2017-03-28 17:04</a><br/>重庆女子小英发简讯向警方求救：说自己被人锁起来了，在做骗人的事情。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815225&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-28 15:53</a><br/>不解体中共，什么振兴经济，依法治国，民主宪治，强国富民，一切都无从谈起。解体中共，一个民主、自由、富强的中国才会到来！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815207&from=ogGitn">大陆新娘李英蕾离奇失踪  疑遭德国丈夫抛尸大海 2017-03-28 15:44</a><br/>意大利海岸发现一个被遗弃的行李箱，里面装着一具高度腐烂的女尸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815212&from=ogGitn">湖南留守男童砍杀七旬老妪 顺走700元逃逸 2017-03-28 15:34</a><br/>3月26日下午，湖南隆回一名13岁留守男童，因不满被73岁老妇骂，将其砍杀并顺手拿走妇人身上的700元现金逃跑后被抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815206&from=ogGitn">习近平十九大如何布局？〝九大智囊〞助其闯关 2017-03-28 15:30</a><br/>2017年是换届年，习近平如何推动今秋十九大的人事布局，成为舆论关注的焦点。外界普遍认为，这次围绕着习核心的〝九大智囊〞将助其闯关。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814940&from=ogGitn">广州一在建电厂发生坍塌事故 已致9死2伤 2017-03-25 14:55</a><br/>3月25日上午8时许，广州从化鳌头潭口在建广州第七热力发电厂发生作业平台坍塌事故。事故目前已造成9人死亡、2人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814944&from=ogGitn">双开通报字数超令计划 山西奢靡女厅官只喝韩国空运奶 2017-03-25 14:45</a><br/>3月23日，中共高检网消息称，上官永清涉嫌〝受贿、贪污、职务侵占、挪用资金〞四宗罪，被提起公诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814946&from=ogGitn">H7N9禽流感疫情持续 广西一周3人亡 2017-03-25 14:23</a><br/>大陆禽流感疫情在各地持续蔓延，且不断出现死亡个案。在过去的一周里，广西共报告3宗病例，3人死亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814943&from=ogGitn">前党工赴中失踪 民进党吁陆切实保障人权 2017-03-25 14:19</a><br/>民主进步党前党工、台湾非政府组织工作者李明哲传出日前入境中国大陆广东省后失踪，民进党3月25日表示，中国大陆应及时回应台湾方面的协寻要求，以解家属悬念；民进党也呼吁北京当局，切实保护人权，勿增加台湾民众赴中国的风险。</td></tr>
 </table>
