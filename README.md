@@ -3,8 +3,11 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815218&from=ogGitn">假货遍全球 中国被指假货生产中心 2017-03-28 18:28</a><br/>中国制造的假货遍布全球，一项最新报告指，中国是全球假货生产的中心。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815223&from=ogGitn">青岛法院秘判信仰案 同一案出两份判决 2017-03-28 18:17</a><br/>青岛市市南区法院主审法官王丽卿，对三名法轮功学员张红茹、李秀君、王瑾，进行非法秘密判刑。奇怪的是，同一个案件，三位辩护律师竟然收到了两份内容不同的判决书。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815224&from=ogGitn">【翻墙必看】江泽民一再被点死穴 2017-03-28 18:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815220&from=ogGitn">河南上千村民抗议强拆 多人被捕 2017-03-28 18:02</a><br/>23号，包括城管、防暴警察等数百名强拆人员到徐堂村强拆房子，遭到上千村民阻拦，双方爆发激烈冲突，26号，当地政府调动近百名城管，数十辆警车进村强行清理抗议的横幅。目前，警察禁止村民聚集。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815217&from=ogGitn">四川〝黑老大〞刘汉遗产被拍卖   起价逾2.5亿 2017-03-28 17:51</a><br/>周永康的马仔四川〝黑老大〞刘汉两年前已被执行死刑，今天（3月28日）他留下的部分遗产在网路上公开拍卖。从拍卖交易平台上看到，这部分涉案资产起拍价超过2.5亿元人民币。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815222&from=ogGitn">阿富汗鸦片产量激增 源于中国转基因种子 2017-03-28 17:39</a><br/>国际社会几十年来一直试图根除阿富汗的鸦片种植活动，但这个问题却越来越严重，去年阿富汗的鸦片产量激增了43%，其中主要是所谓的“中国种子”作出的“贡献”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815214&from=ogGitn">儿媳太漂亮担心是〝妖精〞 山东老妇索〝正经工作证明〞 2017-03-28 17:18</a><br/>山东省高青县小伙南方打工，带回来一个女朋友，因长得太漂亮了惹祸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815213&from=ogGitn">上海中介小伙卖房又卖身    结4次婚年龄最大的70岁 2017-03-28 17:12</a><br/>上海一中介小伙为卖房，已和客户结了4次婚，包括70岁老太太，每次〝离婚〞后均能得到6-8万酬金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815211&from=ogGitn">上海虹口足球场火灾  伤亡情况不明 2017-03-28 17:10</a><br/>周二（3月28日）上午，中超球队上海申花位于虹口的足球场发生火灾，猛烈的火势夹带大量浓烟。目前伤亡情况不明。</td></tr>
@@ -209,7 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814944&from=ogGitn">双开通报字数超令计划 山西奢靡女厅官只喝韩国空运奶 2017-03-25 14:45</a><br/>3月23日，中共高检网消息称，上官永清涉嫌〝受贿、贪污、职务侵占、挪用资金〞四宗罪，被提起公诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814946&from=ogGitn">H7N9禽流感疫情持续 广西一周3人亡 2017-03-25 14:23</a><br/>大陆禽流感疫情在各地持续蔓延，且不断出现死亡个案。在过去的一周里，广西共报告3宗病例，3人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814943&from=ogGitn">前党工赴中失踪 民进党吁陆切实保障人权 2017-03-25 14:19</a><br/>民主进步党前党工、台湾非政府组织工作者李明哲传出日前入境中国大陆广东省后失踪，民进党3月25日表示，中国大陆应及时回应台湾方面的协寻要求，以解家属悬念；民进党也呼吁北京当局，切实保护人权，勿增加台湾民众赴中国的风险。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814938&from=ogGitn">浙江1岁婴疑遭毒手  缝纫针从乳头插至肝脏 2017-03-25 14:01</a><br/>浙江一19个月的婴儿，日前被发现其右边乳头上长出一条线，医生检查，发现线头在该婴儿体内连着一根缝纫针，并已刺进肝脏。医生随后施手术取出针线，目前婴儿康复进度良好。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814934&from=ogGitn">海南高官披露黄岩岛计划 中共紧急辟谣 2017-03-25 13:56</a><br/>中共海南省一名高官曾透露，中共将在黄岩岛建监测站，不到半个月后，中共外交部发言人改口。外界分析黄岩岛计划生变的背后的原因。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815136&from=ogGitn">广西白虎头村强拆升级 村民以死相逼保家园 2017-03-25 13:39</a><br/>广西北海银滩镇白虎头村近日加快了强拆的步伐，自3月21日起，每天都有拆迁队入村强拆，有村民迫不得已以死相逼保卫家园。据悉，自今年1月起，村民们就为了强拆一事上访、报警，但没有任何结果。</td></tr>
 </table>
