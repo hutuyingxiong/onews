@@ -20,6 +20,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:30</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815183&from=ogGitn">突变失业人员 山西原平昊华职工海外寻帮助 2017-03-28 07:35</a><br/>山西原平昊华公司因政策性破产，职工在身份转换过程中利益受到严重伤害，多次向有关部门申诉无果。最近，他们希望大纪元帮助他们呼吁，维护职工正当权益。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815195&from=ogGitn">上海中介小伙为卖房四次结婚 含70岁老妪 2017-03-28 07:15</a><br/>虽然大陆楼市购房限令不断收紧，但开发商、中介的各种规避和破解招数也随之“升级”。最近陆媒爆出，上海一家房屋中介工作员工，为了卖方，竟然与客户四次结婚，其中岁数最大的已经70多岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815163&from=ogGitn">股价暴跌发酵 辉山乳业董事长名下有多家房企 2017-03-28 06:53</a><br/>辉山乳业股价暴跌，公司董事长杨凯否认因大股东挪用巨资投资房地产引发。但陆媒调查显示，杨凯名下至少有三家房地产公司。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815164&from=ogGitn">北京连9招遏制楼价 关66间中介 学区房或贬值 2017-03-28 06:42</a><br/>北京实行新一轮楼市调控政策的10天内，已出9招遏楼价，其中，66间房地产中介门店被关停。外界关注，北京学区房或贬值。</td></tr>
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815161&from=ogGitn">时政段子集：中共黑暗统治手段大曝光 2017-03-25 06:28</a><br/>先鼓动农民抢地主，再集体化抢农民；以暗分股抢国企，垄断央企抢民企；高房价抢中产，高税收抢平民；造假上市抢股民，超发货币抢储户；城镇化抢土地，私有化抢国库——抢劫成果一部分转移国外，一部分收买国际支持，一部分用于维稳，一部分醉生梦死！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814915&from=ogGitn">【禁闻】3月24日退党精选 2017-03-25 06:26</a><br/>湖南醴陵的唐琪说：偶然的机会遇到同学的父亲，给我讲了法轮功真相，深受震撼，若不是这次机会，我根本不知道这一切，我决意退出邪恶的党、团、队组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814914&from=ogGitn">【禁闻 】3月24日维权动态 2017-03-25 06:13</a><br/>湖南访民辜湘红第15次被关精神病院；广西北海村民反强拆 挂条幅抗议；抗议牧场被占坐牢 6内蒙牧民上诉；上海20多人冒雨举牌 声援明经国。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814906&from=ogGitn">3月24日全球看中国 2017-03-25 05:45</a><br/>垃圾之河：水污染威胁中国最美城市；河南商丘强拆村支书房爆警民冲突 警发射催泪弹驱散人群；共和党两议员要求美国对中国人权问题更强硬；50多位美国议员致信中共驻美大使，抱怨中国限制云计算的举措。</td></tr>
 </table>
