@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815228&from=ogGitn">辉山乳业事件发酵 辽宁金融界成焦点 2017-03-28 19:53</a><br/>百亿规模债务的辽宁辉山乳业，近日股价暴跌又连续曝出大股东挪用资金、造假、借债减持却拖欠货款等丑闻。最近，该事件持续发酵，辽宁省金融界成为舆论焦点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815227&from=ogGitn">北京空军参谋部警卫营岗哨传抢枪事件 2017-03-28 19:19</a><br/>北京巴士公司一名钟姓男乘务员，于3月12日早上，直到北京空参警卫营西门外，蹿上执勤岗台欲抢夺哨兵手中的配枪未果，被制服后移交警方处理。网民热议，这如果他带着凶器袭击怎么办？配枪据报，事件发生于12日早上6时55分，</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815218&from=ogGitn">假货遍全球 中国被指假货生产中心 2017-03-28 18:28</a><br/>中国制造的假货遍布全球，一项最新报告指，中国是全球假货生产的中心。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815223&from=ogGitn">青岛法院秘判信仰案 同一案出两份判决 2017-03-28 18:17</a><br/>青岛市市南区法院主审法官王丽卿，对三名法轮功学员张红茹、李秀君、王瑾，进行非法秘密判刑。奇怪的是，同一个案件，三位辩护律师竟然收到了两份内容不同的判决书。</td></tr>
@@ -211,5 +212,4 @@
 										
 											?组图 2017-03-25 15:03</a><br/>河南商丘梁园区村民抗强拆，警方施放催泪弹镇压，事件中造成8人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814960&from=ogGitn">浙江一幼儿乳头被扎进缝衣针 针尾深入肝脏 2017-03-25 14:59</a><br/>3月19日，浙江省金华东阳市民邵女士给19个月大的孩子洗澡时，发现其右胸有根“线”。到医院检查才发现，那根线连着体内一根5厘米左右的缝衣针。手术时，医生在孩子的肝部找到了针尾。目前，孩子恢复良好，邵女士已报警。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814940&from=ogGitn">广州一在建电厂发生坍塌事故 已致9死2伤 2017-03-25 14:55</a><br/>3月25日上午8时许，广州从化鳌头潭口在建广州第七热力发电厂发生作业平台坍塌事故。事故目前已造成9人死亡、2人受伤。</td></tr>
 </table>
