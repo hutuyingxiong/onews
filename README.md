@@ -14,6 +14,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 11:40</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815186&from=ogGitn">打造反腐利器有玄机？习近平〝文胆〞执掌追赃办 2017-03-28 11:20</a><br/>习近平推行的反腐风暴在2017年将再掀高潮。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815192&from=ogGitn">陕西纪检组长被查处 曾糊弄国务院 2017-03-28 11:13</a><br/>日前，中共陕西省纪委派驻的纪检组组长因带头违反“习八条”规定被查处，该官员被扒出几年前就曾糊弄国务院。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815203&from=ogGitn">上海虹口足球场着火 浓烟滚滚 火势迅猛 2017-03-28 11:02</a><br/>3月28日早上8时30分许，上海虹口足球场突然发生大火，火势凶猛，伴随着滚滚浓烟弥漫天际。官媒称无人员伤亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
@@ -211,5 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814918&from=ogGitn">江派窝点再被清洗 江西两官员被查处 2017-03-25 07:27</a><br/>近两日大陆官网传出，江西、吉林、广东、海南、湖南等5省有8名官员被查处。这5省都是江派窝点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814916&from=ogGitn">谢天奇：内蒙首虎立大功减刑 供出刘云山？ 2017-03-25 07:23</a><br/>连续两年的中共两会敏感期，刘云山主管的文宣系统搅局动作不断；习阵营对刘云山的文宣系统及其老巢内蒙古的清洗力度则不断加强。在此背景之下，陆媒高调报导内蒙首虎王素毅重大立功获减刑的消息，震慑刘云山的意味明显，也为清算刘云山家族腐败埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814905&from=ogGitn">【禁闻】香港特首选战前 〝不钦点论〞频曝光 2017-03-25 07:03</a><br/>目前习近平当局已经派出身边太子党的特使去香港，旋风式的秘密接见众选委，澄清习近平对特首选举的四点讲话。表明习近平一直没有〝钦点〞任何人做特首，反而希望候选人凭实力争取支持。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814917&from=ogGitn">臧山：“中央不任命”不可能出现 2017-03-25 07:00</a><br/>香港特首选举前夕，有关“中央不任命”的各种说法甚嚣尘上，并且直接针对具体的候选人，有名有姓。</td></tr>
 </table>
