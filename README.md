@@ -2,12 +2,15 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815254&from=ogGitn">王健林之子车库曝光 10多辆豪车一字排开 2017-03-29 02:12</a><br/>3月28日，大陆首富王健林独子王思聪在上海某地的一处车库被网民曝光，车库停满法拉利、蓝宝坚尼等众多豪华车辆，“好似车展令人眼花”。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815253&from=ogGitn">重庆男铁链锁妻网聊骗钱 半年骗款60万 2017-03-29 01:44</a><br/>近日有媒体爆料，重庆20多岁男子陈强（化名），竟用手铐、铁链将妻子任欣（化名）锁在电脑桌前，迫其与网上交友聊天诈骗，单是近半年便骗取60多万元（人民币）。事迹恶劣引媒体关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815249&from=ogGitn">女医生指错路 遭“有背景”病人家属打伤 2017-03-29 01:21</a><br/>最近，重庆一条“彭水县医生因指错路，被病人家属打骨折”的帖子在网上传开。据爆料者称，因为打人者颇有“背景”，目前各方面施压要求该医生私了，引发了不少网民的热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815251&from=ogGitn">耗资数百亿的长沙地铁被爆渗漏 前董事长神秘失踪 2017-03-29 00:34</a><br/>长沙轨道集团接连爆出丑闻，先是投资上百亿的地铁二号线，仅仅营运两年，主题结构就出现渗漏问题；近日，该集团前党委书记、前董事长彭旭峰又失去联系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815250&from=ogGitn">欲报复社会？北京空军某部警卫营发生抢枪事件（组图） 2017-03-28 23:56</a><br/>北京某公交公司一名临时保安欲报复社会而抢枪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815244&from=ogGitn">云南省长阮成发又读错字 〝目不识滇〞上演第三集 2017-03-28 23:50</a><br/>深陷〝错别字〞丑闻的云南省长阮成发，日前再被爆料把饮鸩止渴念成了饮（jiu）止渴。这是公开报导以来，阮成发第三次念错别字。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815243&from=ogGitn">习近平不入住 揭秘川习会马阿拉歌渡假村 2017-03-28 23:47</a><br/>此前美媒消息，中共国家主席习近平和美国总统川普将于4月初在川普私人别墅举行首次会晤。日前，美国官方又透露了一些新的细节，习近平将入住别墅附近的丽思卡尔顿酒店。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815239&from=ogGitn">川人：为何有些人对股票发行注册制万般痴迷？ 2017-03-28 23:13</a><br/>近日在2017年博鳌亚洲论坛上，众多业界红顶商人在题为“纠偏：让资本市场回归根本”的分论坛上一致认为，推行注册制是中国资本市场未来最重要的改革之一。齐鲁证券首席经济学家李迅雷明确表示：“有人认为一改肯定要乱、投资者要承担损失、市场要大跌，所以要稳中求进。但当你稳定了之后，改革就会延后，但时间成本却很少有人计算。”李迅雷还强调：“重点还是要去推行IPO改革，现...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815255&from=ogGitn">闽县官率众饮用水源裸泳小便　网友：你喝洗澡水吗？ 2017-03-28 22:54</a><br/>为避免污染，作为水源的水库都是严禁游泳的。然而福建泉州的一名纪委人员竟然经常带人裸泳、洗澡，甚至小便。网友质问，你自己喝洗澡水吗？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815248&from=ogGitn">恢复民国旧规 清华大学规定会游泳才可毕业 2017-03-28 22:44</a><br/>大陆知名高等学府清华大学推出新校规，从今年开始入学的新生须先经过游泳测试，不合格者在4年的学习中必须学会游泳，否则不能毕业。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815241&from=ogGitn">巴黎警枪杀中国男引冲突 3伤35被捕 2017-03-28 22:11</a><br/>周日（26日）晚，一名旅居法国巴黎的中国男子与上门的警察发生冲突，遭警方枪杀。事件于周一引发暴力冲突，造成3名警察受伤，35名抗议者被捕。目前对于死者是否袭警，警方与死者家人各执一词。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815197&from=ogGitn">维护中国人知情权 真相电视插播者生死遭遇 2017-03-28 22:08</a><br/>他们是在中国大陆参与真相电视插播的法轮功学员们。从跨出这一步开始，他们就以生命和勇气，化作一道道穿越心灵的电波。</td></tr>
@@ -207,7 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815018&from=ogGitn">北京限购再升级 对离婚买房者贷款有限制 2017-03-25 20:04</a><br/>3月24日，北京再次升级楼市限购措施，规定离婚不足一年的房贷申请人均按二套房信贷政策执行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814957&from=ogGitn">川人：中国经济去杠杆其实是一个伪命题？ 2017-03-25 18:34</a><br/>近日中共中央政治局常委张高丽在出席中国发展高层论坛2017年年会时指出，把防控金融风险放到更加重要的位置，妥善处置银行不良资产、债券违约、房地产泡沫、网际网路金融等一批风险点，确保不发生系统性金融风险。可见中国经济现在仍处于高杠杆时代，尤其是中国金融业表现的更为突出，2016年中国金融业增加值占GDP的比重达到8.3%，已超过发达国家，2016年中国金融业的利润与全国所有国企利润的总和相当，在2万亿至2.3万亿左右，这表明中国金融业含有杠杆，存在以钱炒钱的现象。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814956&from=ogGitn">中共机关食堂价格便宜浪费惊人　饭菜没动就倒掉 2017-03-25 18:28</a><br/>陆媒近日走访几家国家机关单位食堂，发现浪费之风仍然猖獗。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814954&from=ogGitn">北京收〝网〞？ 〝百名红通人员〞国际刑警网上消失 2017-03-25 17:49</a><br/>北京追缉的〝百名红通人员〞名单从国际刑警组织网站的公开查询系统中消失。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814993&from=ogGitn">妻子被恐吓后患精神分裂 王藏将起诉作恶者 2017-03-25 17:43</a><br/>近日，自由诗人王藏的妻子王利芹被确认患有精神分裂幻想症。王藏表示妻子目前的情况就是中共造成的，他将提起诉讼维护自己的合法权益。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814953&from=ogGitn">【翻墙必看】朝鲜央视惊现异常状况 2017-03-25 17:22</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
 </table>
