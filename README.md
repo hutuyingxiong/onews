@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 12:25</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 11:40</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815186&from=ogGitn">打造反腐利器有玄机？习近平〝文胆〞执掌追赃办 2017-03-28 11:20</a><br/>习近平推行的反腐风暴在2017年将再掀高潮。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815192&from=ogGitn">陕西纪检组长被查处 曾糊弄国务院 2017-03-28 11:13</a><br/>日前，中共陕西省纪委派驻的纪检组组长因带头违反“习八条”规定被查处，该官员被扒出几年前就曾糊弄国务院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
@@ -51,9 +53,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 22:03</a><br/>随着“辱母杀人”案中的催债团伙头目被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815128&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（下） 2017-03-27 21:43</a><br/>尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815123&from=ogGitn">大陆艺考黑幕频曝光 多省高校老师获刑 2017-03-27 20:25</a><br/>一直以来，大陆各大艺术类院校招生考试黑幕频被曝光，各地都有艺考腐败案被查处。近年来，湖北、江西、安徽、北京等省高校老师在艺考招生工作中，收受贿赂被判刑。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 20:20</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815124&from=ogGitn">前辽宁政法委书记贪两千万 花百万升副部 2017-03-27 20:00</a><br/>3月27日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理。其被控受贿超1996万元（人民币，下同）。苏宏章被指控的罪状中包括“贿选”。去年辽宁贿选案被大幅曝光，消息称，该案令中南海高层震怒。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 19:52</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815131&from=ogGitn">挑衅〝川习会〞？北京消息称朝鲜或4月再度进行核试验 2017-03-27 19:50</a><br/>韩媒引述北京消息称，朝鲜或于4月进行第六次核试验，其目的或指向可能于4月进行的川习会。此前迹象显示，因习近平当局与金正恩政权关系日趋冷淡，朝鲜的核武与导弹试验已经脱离中共掌控，并开始走向与中共公开对抗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815108&from=ogGitn">揭秘谷俊山与共军绝密工程〝军盾一号〞 2017-03-27 18:36</a><br/>谷俊山与〝军盾一号〞这项绝密工程鲜为人知的内幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815109&from=ogGitn">慎入！南京一男子翻越轨道 只剩下半截身子 2017-03-27 18:33</a><br/>日前，南京高铁南站发生一出惨剧，一辆列车到达南京进入站台时，一年轻男子突然从对面站台跳下，横越股道，试图抢在列车前翻上站台，结果未能成功，男子被夹在列车车厢与站台之间。</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814906&from=ogGitn">3月24日全球看中国 2017-03-25 05:45</a><br/>垃圾之河：水污染威胁中国最美城市；河南商丘强拆村支书房爆警民冲突 警发射催泪弹驱散人群；共和党两议员要求美国对中国人权问题更强硬；50多位美国议员致信中共驻美大使，抱怨中国限制云计算的举措。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814912&from=ogGitn">刘士余口中〝野蛮人〞指谁？ 港媒揭晓终极答案 2017-03-25 05:44</a><br/>2015股灾被指党内针对习近平的经济政变，多名江派常委家属参与做空。之后习当局对金融领域展开清洗。近期证监会主席刘士余多次向〝野蛮人、大鳄〞宣战。港媒指，刘不便言明，〝魔鬼、妖精〞就是一些退休和现任顶级高官的家属。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814901&from=ogGitn">大陆学者：朝鲜是中国潜在的敌人 2017-03-25 05:12</a><br/>近日，大陆学者沈志华在公开演讲中表示，中朝关系已经发生根本变化，朝鲜已是中国潜在的敌人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814907&from=ogGitn">【禁闻】红祸百年祭 《致命的列宁》港台发行 2017-03-25 05:03</a><br/>〝十月革命〞的共产主义运动，促使人类历史上首次出现一个共产主义的政权，给全世界人类最大的一个痛苦，也是一个最大的教训。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c814902&from=ogGitn">银监会官员喻民间融资为少女爱骗子 惹非议 2017-03-25 04:58</a><br/>两年多前，四川民间融资理财担保行业大崩盘，导致全省33万个家庭近千亿元资金血本无归。但中共银监会主席助理杨家才将这类事件定性为非法集资。近日，大陆民众表示，杨家才歪曲事实，水平太差，应引咎辞职。</td></tr>
 </table>
