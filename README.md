@@ -2,6 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815360&from=ogGitn">中国女排集训名单出炉 郎平任总教练 2017-03-29 22:37</a><br/>中国女排2017年集训名单3月29日出炉，郎平仍任总教练，其助手安家杰出任执行教练。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815363&from=ogGitn">贪腐五亿多 天津前公安局长武长顺受审 2017-03-29 22:33</a><br/>检方指控：武长顺在担任天津市公安交通管理局局长、天津市公安局副局长、局长、市政协副主席等职务期间，便利工作便利，非法占有公款共计人民币3亿4200余万元；为他人谋取利益，收受他人财物共计8440万余元；挪用公款1亿余元，行贿1057万元。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">河南律师被谈话 质疑视频声援江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815358&from=ogGitn">中共军方批郭徐搞一家两制 揭江干政内幕 2017-03-29 20:20</a><br/>近期，中共军方高官撰文痛批，郭伯雄徐才厚“严重违反军委主席负责制”，表面一套背后一套，搞“一家两制、脚踏两条船”，并称要求彻底清除郭徐流毒影响。上述文章的说法，也从侧面佐证了当年中共前党魁江泽民利用亲信郭、徐架空时任军委主席胡锦涛的事实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">贪腐5亿多创纪录 武长顺为何多年不倒 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815351&from=ogGitn">长沙地铁主体开裂 董事长外逃扯幕后高官 2017-03-29 20:06</a><br/>耗资逾100亿（人民币，下同）的湖南长沙地铁2号线，营运仅3年，于近日惊爆主体结构出现裂痕及渗漏。此时，上任仅一个月的董事长彭旭峰失联，疑已举家外逃。</td></tr>
@@ -24,10 +28,12 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815341&from=ogGitn">民进党前党工疑使用微信遭中共国安监控 2017-03-29 15:32</a><br/>台湾民主活动人士李明哲据称被中国国安单位拘留，他的同事称，李明哲或因使用中国社交媒体“微信”（WeChat）讨论中国与台湾关系而引起中国国安部门的注意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815361&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-29 15:11</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815325&from=ogGitn">民众听谣言去抢菜 河南菜农13亩菠菜被挖光 2017-03-29 14:32</a><br/>3月23日，一条仅10秒的虚假视频在河南济源市民的威信朋友圈中疯转。视频中，一女子称：“酒务村东头菠菜地里的菠菜不要了，抓紧来整。”该信息导致菜农孙先生承包的13亩菠菜被闻风赶来的民众基本挖光，孙先生无奈报警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815336&from=ogGitn">辉山乳业深陷财务危机 银行业绩受累 2017-03-29 14:11</a><br/>大陆辉山乳业股价崩盘后，3月27日，中国平安银行承认间接持有辉山乳业大笔股份。有业界人士表示受辉山乳业所累，数家持有该企业股份的银行利润将下降。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 14:10</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815322&from=ogGitn">央企老总被撤政协委员 年薪曾近千万元 2017-03-29 14:07</a><br/>日前，中共全国政协主席俞正声主持召开政协会议。该会议通过了撤销孔庆平的全国政协委员的资格。作为央企老总出事，此消息在业界引起不小震动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815359&from=ogGitn">江西女孩被多所美国名校录取 获高额奖学金 2017-03-29 13:35</a><br/>江西南昌有一名18岁的高三女生申请出国留学，不仅收到美国十余所大学的录取通知书，其中包括排名前15名的高校，还有大学愿提供每年3万余美元的奖学金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815330&from=ogGitn">反右运动受难者聚集香港 “中共无药可救” 2017-03-29 13:19</a><br/>在香港举办的“反右运动60周年国际研讨会”上，老右派及其后人回顾中共反右运动中对中国知识分子精英的残酷打压和迫害，表示已看透中共邪恶本质，其已无可救药。</td></tr>
@@ -40,7 +46,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815293&from=ogGitn">石涛：诸侯口头效忠成风 恢复人性方有中华民族复兴 2017-03-29 10:52</a><br/>如果一个环境缺失了这样的认知，那么人缺失的就是信任，用自我欲望彰显的绝对自由，代替一个人本该拥有的责任。那样的环境，个个都是极端自私者。就算是宗教人士，也是让神服务于自己。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815297&from=ogGitn">萨德风波继续升级 韩外交部称遭来自中方网路攻击 2017-03-29 10:30</a><br/>韩外交部称其官网遭到来自中国的分散式阻断服务攻击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815309&from=ogGitn">换马甲？天津大爆炸被处分官员转任云南要职 2017-03-29 10:30</a><br/>天津大爆炸被处分官员、中共原天津滨海新区区委书记宗国英转任云南要职。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 10:10</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815296&from=ogGitn">法警察枪杀华人引热议 华裔：让司法公正处理 2017-03-29 09:09</a><br/>“法国警察破门打死华人”事件惊动之大，华人网友都在热议。在法国，面对众多华文媒体和法国媒体不一致的消息，不少华人迷茫了。3月27日，一位留法中国学生截屏微信朋友圈的消息问道：“朋友圈的消息，求证一下，有人知道吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815310&from=ogGitn">横河：从雷文锋之死看民政腐败、维稳和器官 2017-03-29 09:01</a><br/>江西赣州的老人明经国，他因为反强拆，用锄头，另外一种说法是用一个镰铲杀死了带队的副乡长被抓，引起了民间的热议。另外一个是15岁的自闭少年雷文锋，离家40多天，结果死于政府的救助系统，那么我们今天就主要先讨论一下雷文锋案件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815355&from=ogGitn">中共官员公然撒谎 越战目的不可告人 2017-03-29 08:20</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
@@ -201,9 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815103&from=ogGitn">对金钱美女来者不拒  湘官自曝9个二奶仍不够 2017-03-27 17:38</a><br/>卢武福自曝，除了对金钱来者不拒以外，对女人也是，先后与9名女性〝通奸〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815112&from=ogGitn">蒲公菊与蒲公英撞脸　山东民众闯公园疯挖 2017-03-27 17:36</a><br/>山东济南市泉城公园裁种的观赏植物蒲公菊,被当地民众误以为是蒲公英挖走。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815126&from=ogGitn">周小川再释紧缩信号 钱紧引发市场担忧 2017-03-27 16:37</a><br/>3月26日，中共央行行长周小川在博鳌论坛表示，货币宽松周期已到尾声，释放了货币政策将不再宽松的信号，但有媒体表示，中共近来去杠杆造成钱紧引发市场担忧。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815101&from=ogGitn">北京再加码调控 停止“商改住”项目 2017-03-27 16:15</a><br/>3月26日，北京宣布停止“商改住”项目。这是继多次调控住宅项目后，北京再次加码楼市调控，也引发了业界关注。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815102&from=ogGitn">湖南官场持续震荡 省委市委宣传部长都出事 2017-03-27 16:10</a><br/>中共湖南、广东官场持续震荡。自湖南省宣传部长张文雄落马后，3月27日，湖南前长沙市委常委、宣传部部长张湘涛被接受审查；此外，前广东前肇庆市委常委、宣传部长陈定坤被逮捕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815105&from=ogGitn">罕见怪病 浙江“透明宝宝”惊呆医生 2017-03-27 16:05</a><br/>近日，浙江温州市某院产科遇到了一名患有先天性皮肤缺损疾病的新生儿，两腿从大腿至膝盖处均无皮肤呈鲜红色，血管裸露。医生称从未见过。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815099&from=ogGitn">部级高官口述与著名影星情史  反腐新书曝贪官荒淫内情 2017-03-27 16:04</a><br/>一名昔日显赫一时的正部级官员，自述与著名女影星〝安娜〞的荒淫情史。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815096&from=ogGitn">新疆厅官贪腐过亿 待公布案情恐更惊人 2017-03-27 15:59</a><br/>前新疆公安厅副厅长谢晖贪腐1亿多元（人民币，下同）的丑闻令人震惊。新疆已查处了大批厅局级官员，但案情尚未公布，陆媒认为，大批落马厅官案情公布的话必将是更惊人的。</td></tr>
 </table>
