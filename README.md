@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815351&from=ogGitn">长沙地铁主体开裂 董事长外逃扯幕后高官 2017-03-29 20:06</a><br/>耗资逾100亿（人民币，下同）的湖南长沙地铁2号线，营运仅3年，于近日惊爆主体结构出现裂痕及渗漏。此时，上任仅一个月的董事长彭旭峰失联，疑已举家外逃。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815350&from=ogGitn">【史海】毛泽东听到周恩来的意见大骂一通 2017-03-29 19:12</a><br/>1973年6月，美国总统尼克松（Richard Nixon）与苏共总书记勃列日涅夫（Leonid Brezhnev）举行了会谈，两国达成了《关于防止核战争协议》等十三个文件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815348&from=ogGitn">大陆女生卖卵子差点虚脱  只为换一部苹果手机 2017-03-29 17:56</a><br/>上海23岁的女大学生小雨，为购买了一部iPhone7 Plus卖卵子。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815349&from=ogGitn">【翻墙必看】王雪冰情妇“安娜”到底是谁 2017-03-29 17:53</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815347&from=ogGitn">网传山西国企高层嫁孙女　陪价3千万招来纪委 2017-03-29 17:49</a><br/>网路爆料，山西大型国企太原钢铁集团公司的工会主席嫁孙女，附送总值逾3000万元人民币的嫁妆。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815065&from=ogGitn">【禁闻】华尔街日报编委：中共必将垮台 2017-03-27 15:10</a><br/>现在越来越多的人看到，中共垮台的日子已经不远。而中共之所以必然解体有三个原因。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815095&from=ogGitn">自曝情史的落马正部级高官到底是谁？ 2017-03-27 14:49</a><br/>在一本新出版的书中，提到一名被判刑12年的中共北京正部级金融高官的贪腐经历及其与女明星的情史。因为书中未提及此高官的名字，引发网民好奇：此人到底是谁？随后陆媒报导说，此人是前中共建设银行行长王雪冰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815071&from=ogGitn">【中国禁闻】3月26日完整版 2017-03-27 14:30</a><br/>华尔街日报编委：中共必将垮台；落马新疆监狱高官被起底 数十人涉案；判决不公 令〝辱母杀人案〞网络大热。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后代 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815098&from=ogGitn">罕见事故 南京动车进站 男子被卡惨死 2017-03-27 12:12</a><br/>3月26日下午3时43分，江苏南京南站发生惨烈事故。一名约30岁男子在动车徐徐进入站台时，突然从月台跳下，横越路轨，不料被列车夹在与让台的缝隙间。男子相当痛苦，约翰2个小时后被救出，但已不治。</td></tr>
 </table>
