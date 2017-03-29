@@ -2,9 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815383&from=ogGitn">陈达：从“辱母杀人”案看红毒之剧 2017-03-30 03:30</a><br/>当面辱亲母，男儿能含糊？孝为百善先，辱母最大辱。警匪一家逼，自卫惩恶徒。替天行道义，雪耻责自负。谁知红衙门，无期判过度。悍然犯众怒，最高检介入。介入怎么弄，不外擦屁股。不管怎么擦，无碍浑身毒。党妈就那货，嗜血集百毒。红毒最剧烈，人给变动物。名虽标高级，实比兽残酷。即使甩坏蛋，亦只把党护。衣法党治国，流氓乱棍杵。法制党妈手，欺侮...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，保护自身及家族的经济利益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">上海“电老虎”冯军一审获刑无期 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815381&from=ogGitn">中国人为何弃EB-5绿卡转向其它美签？ 2017-03-30 02:17</a><br/>中国人最想要的美签是“确定性最高、等待时间最短、及成本最低”，已对EB-5失去兴趣，转而申请L-1或EB-1签证。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815381&from=ogGitn">中国人为何弃EB-5绿卡转向其它美签？ 2017-03-30 02:17</a><br/>中国人最想要的美签是“确定性最高、等待时间最短及成本最低”，已对EB-5失去兴趣，转而申请L-1或EB-1签证。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815376&from=ogGitn">复旦大学实验室爆炸 一学生双手炸伤 2017-03-30 02:12</a><br/>上海复旦大学邯郸校区的化学西楼209实验室3月27日发生爆炸，事故中一名20岁大三男学生双手受伤被送院治理。事发时该男生正进行高温高压反应化学实验，期间未知何故发生爆炸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815378&from=ogGitn">湖南落马官员李亿龙享乐奢靡细节曝光 2017-03-30 01:56</a><br/>3月29日，湖南省纪委通报6起省管干部违反“习八条”问题，其中第一个就是省委农村工作领导小组原副组长李亿龙，引人关注的是，通报中透露了他享乐奢靡的细节，还特别提到了“保姆”问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815382&from=ogGitn">官方承认器官捐献〝少得可怜〞 牵出中共活摘器官黑幕 2017-03-30 01:51</a><br/>日前，英媒采访报导指，中共近两年建立的器官捐献系统才刚刚起步，一线推行器官捐赠的工作绝大部分〝都是徒劳〞。中共官员承认器官捐献〝少得可怜〞。而海外调查显示，大陆每年器官移植手术数量惊人，那么大量供体从何而来？</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815129&from=ogGitn">香港特首选举次日 警预约拘捕占中九人 2017-03-27 22:30</a><br/>香港特首选举林郑月娥当选翌日，警方星期一（27日）早上突然通知2014年“占领行动”三名发起人、立法会议员陈淑庄、邵家臻等9人，将立案起诉他们两年前参加“占中”（雨伞运动），涉公众妨扰罪，刑期最高可达七年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815146&from=ogGitn">大陆市场资金紧张 业界预计局面持续 2017-03-27 22:10</a><br/>最近大陆市场资金面波动较大，中共央行上周投放流动性的情况忽松忽紧。市场分析，最近市场资金紧张，这种状况可能会持续。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 22:03</a><br/>随着“辱母杀人”案中的催债团伙头目被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815128&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（下） 2017-03-27 21:43</a><br/>尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。</td></tr>
 </table>
