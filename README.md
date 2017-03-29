@@ -4,6 +4,9 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江苏13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 06:41</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815294&from=ogGitn">【石涛八方 】智慧者乃境界中的生命 2017-03-29 06:40</a><br/>人们讨论最多的是人有形的肉体，很少讨论无形的那一部分，物质形态有三种，但我们只注重这块肉，而这块肉能受钱色诱惑，走向堕落，走向物质形式的最低档，透过物质形式的最低档来刺激自己，寻求快乐。但你永远抓不住这个快乐。为什么？因为它能毁了你，要你永远追寻。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815293&from=ogGitn">石涛：诸侯口头效忠成风 恢复人性方有中华民族复兴 2017-03-29 06:33</a><br/>如果一个环境缺失了这样的认知，那么人缺失的就是信任，用自我欲望彰显的绝对自由，代替一个人本该拥有的责任。那样的环境，个个都是极端自私者。就算是宗教人士，也是让神服务于自己。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815292&from=ogGitn">警方野蛮动粗 山东潍坊老太太肋骨断4根 2017-03-29 06:31</a><br/>山东省潍坊市高新区67岁的戴秀芳女士近日遭当地公安警察绑架。由于受到虐待，老太太肋骨断了4根，锁骨、手腕骨严重断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 06:15</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815283&from=ogGitn">【禁闻】不只贪腐 前辽宁政法书记苏宏章待判 2017-03-29 05:55</a><br/>中共前辽宁省政法委书记苏宏章受贿、行贿一案，3月27号在黑龙江哈尔滨市中级法院开庭，苏宏章被控受贿近2000万、行贿111万。此外，苏宏章还深度涉入〝辽宁拉票贿选案〞，并跟随中共江泽民集团迫害法轮功信仰团体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815282&from=ogGitn">袁斌：央视要球迷去南韩队饭店门口放炮 2017-03-29 05:52</a><br/>3月23日晚的中韩大战，吸引了成千上万国人的目光。尽管大家的出发点不同，但期盼国足取胜的心情却并无二致。</td></tr>
@@ -26,6 +29,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强被情敌办公室捅死 2017-03-29 04:16</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815272&from=ogGitn">口头效忠习近平成风 地方官员大摆高级黑 2017-03-29 04:07</a><br/>日前港媒文章指，各地诸侯表态拥护〝习核心〞成风，有些口号匪夷所思，实际上是对习近平的〝高级黑〞。他们口头效忠，背地里却拉帮结派，对习中央阳奉阴违。中纪委表态，中央巡视重点是各地方〝嘴上喊拥护、行动搞派性〞的问题。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815295&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-29 03:34</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和“真善忍”的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。所以当时中共迫害法轮功，根本不得人...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815263&from=ogGitn">山西男子持刀混入幼儿园 砍死3岁男童 2017-03-29 03:20</a><br/>山西省运城发生一起校园凶杀案，一名幼儿被砍死，伤者人数官民说法不一。警方称嫌疑人患有间歇性精神病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815268&from=ogGitn">近期胡锦涛频繁露面 2017-03-29 03:06</a><br/>近日，中共全国政协前副主席万国权病亡，中共六常委和胡锦涛等到公墓送别。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815256&from=ogGitn">暴毙后终止审理裁定流出 王林诈骗奸幼犯罪史曝光 2017-03-29 02:24</a><br/>有〝江泽民国师〞之称的江西〝气功大师〞王林上月在医院身亡。今日江西抚州中院裁定王林案终止审理，但裁定书揭发王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
@@ -202,8 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815024&from=ogGitn">政法系大清洗  习近平用人呈现一大特征 2017-03-26 19:05</a><br/>日前，中共中央政治局批高法高检领导班子〝软、散、疲〞。2017年两会前后，中共政法系统大换血，多名无政法工作经历的新人上位。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815041&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-26 16:55</a><br/>这次辉山乳业无端崩塌的背后之一，有指是大股东挪用30亿资金投资房地产失利的消息在市场上走漏。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815027&from=ogGitn">【翻墙必看】有预测中共将很快垮台 2017-03-26 16:04</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815045&from=ogGitn">辉山乳业董事长杨凯周六现身 总部外有警车 2017-03-26 15:18</a><br/>3月25日下午，辉山乳业董事长杨凯现身位于辉山乳业大厦一楼大厅，大门外停著一辆载有多名警察的警车。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815026&from=ogGitn">辉山乳业股价暴跌 辽宁首富日损209亿 2017-03-26 14:28</a><br/>3月24日，辉山乳业实际控制人实控人杨凯、葛坤，财富蒸发折合人民币209亿元。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815020&from=ogGitn">频频骚扰上海女大学生 深圳官员被查 2017-03-26 13:51</a><br/>近日，深圳一官员在上海高校培训期间，频频骚扰女大学生被举报。目前，举报中提到的两人已被停职协助调查。</td></tr>
 </table>
