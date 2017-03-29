@@ -2,7 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815376&from=ogGitn">复旦大学实验室爆炸 一学生双手炸伤 2017-03-30 02:12</a><br/>上海复旦大学邯郸校区的化学西楼209实验室3月27日发生爆炸，事故中一名20岁大三男学生双手受伤被送院治理。事发时该男生正进行高温高压反应化学实验，期间未知何故发生爆炸。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815378&from=ogGitn">湖南落马官员李亿龙享乐奢靡细节曝光 2017-03-30 01:56</a><br/>3月29日，湖南省纪委通报6起省管干部违反“习八条”问题，其中第一个就是省委农村工作领导小组原副组长李亿龙，引人关注的是，通报中透露了他享乐奢靡的细节，还特别提到了“保姆”问题。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815377&from=ogGitn">江苏户主起诉强拆 当局趁开庭当天偷拆住房 2017-03-30 01:35</a><br/>因为强拆民房，江苏南通港闸区政府被告上了法庭。而就在村民到法院开庭时，当地政府却将村民的房子偷偷拆掉了，村民谴责当局的行为无耻。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815374&from=ogGitn">习布局十九大 2天调整20多名省级高官 2017-03-30 01:23</a><br/>中共十九大前夕，习近平当局加速调整地方大员，其中仅3月28、29日两天就调整重庆、山东、陕西、安徽等8省21名省级高官。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815375&from=ogGitn">中国人为何不断涌入澳洲抢房？ 2017-03-30 01:03</a><br/>据澳洲媒体近日报导，中国人正大举涌入澳洲抢购房产，中国人的需求占海外需求的80%。在这些中国人看来，澳洲房产有其独特的吸引力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815372&from=ogGitn">川普童年故居高价成交 神秘买主或来自中国 2017-03-30 00:49</a><br/>美国总统川普（特朗普）4岁前的童年故居，上周四（3月23日）以拍卖价214万美元成交，买家身份保密，据说是一名中国女士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815373&from=ogGitn">柯文哲：出访国外强烈感受中共封杀 2017-03-30 00:38</a><br/>台北市长柯文哲在结束马来西亚、泰国访问的行程后3月29日表示，出访就可以感受到中共在外交上的封杀，不过仍要努力，他更以“天行健，君子以自强不息”来共同勉励。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815370&from=ogGitn">中国多家金融机构帮朝鲜洗钱 躲避制裁 2017-03-29 23:26</a><br/>最新权威报告显示，中国多家金融机构帮助朝鲜银行洗钱，躲避制裁。有媒体判断，朝鲜涉嫌窃取美联储巨款，有可能得到中国人的帮助。</td></tr>
@@ -202,8 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 20:20</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815124&from=ogGitn">前辽宁政法委书记贪两千万 花百万升副部 2017-03-27 20:00</a><br/>3月27日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理。其被控受贿超1996万元（人民币，下同）。苏宏章被指控的罪状中包括“贿选”。去年辽宁贿选案被大幅曝光，消息称，该案令中南海高层震怒。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815131&from=ogGitn">挑衅〝川习会〞？北京消息称朝鲜或4月再度进行核试验 2017-03-27 19:50</a><br/>韩媒引述北京消息称，朝鲜或于4月进行第六次核试验，其目的或指向可能于4月进行的川习会。此前迹象显示，因习近平当局与金正恩政权关系日趋冷淡，朝鲜的核武与导弹试验已经脱离中共掌控，并开始走向与中共公开对抗。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815108&from=ogGitn">揭秘谷俊山与共军绝密工程〝军盾一号〞 2017-03-27 18:36</a><br/>谷俊山与〝军盾一号〞这项绝密工程鲜为人知的内幕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815109&from=ogGitn">慎入！南京一男子翻越轨道 只剩下半截身子 2017-03-27 18:33</a><br/>日前，南京高铁南站发生一出惨剧，一辆列车到达南京进入站台时，一年轻男子突然从对面站台跳下，横越股道，试图抢在列车前翻上站台，结果未能成功，男子被夹在列车车厢与站台之间。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815145&from=ogGitn">俄全国大规模反腐示威 数百人被捕 华府谴责 2017-03-27 18:29</a><br/>俄罗斯周日（26日）多个大城市爆发大规模反腐败示威，成千上万的俄罗斯人不顾禁令走上街头抗议政府贪污，其中有数百抗议者遭拘捕，仅在莫斯科就有约500人被捕，包括俄国反对党领袖领袖纳尔瓦尼（Alexei Navalny）。美国政府谴责俄国官方拘捕抗议者。</td></tr>
 </table>
