@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">港媒：习近平开打上海战役 江泽民毫无还手之力 2017-03-29 10:47</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815297&from=ogGitn">萨德风波继续升级 韩外交部称遭来自中方网路攻击 2017-03-29 10:30</a><br/>韩外交部称其官网遭到来自中国的分散式阻断服务攻击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815309&from=ogGitn">换马甲？天津大爆炸被处分官员转任云南要职 2017-03-29 10:30</a><br/>天津大爆炸被处分官员、中共原天津滨海新区区委书记宗国英转任云南要职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815310&from=ogGitn">横河：从雷文锋之死看民政腐败、维稳和器官 2017-03-29 09:01</a><br/>江西赣州的老人明经国，他因为反强拆，用锄头，另外一种说法是用一个镰铲杀死了带队的副乡长被抓，引起了民间的热议。另外一个是15岁的自闭少年雷文锋，离家40多天，结果死于政府的救助系统，那么我们今天就主要先讨论一下雷文锋案件。</td></tr>
@@ -9,7 +10,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815272&from=ogGitn">口头效忠习近平成风 地方官员大摆高级黑 2017-03-29 07:50</a><br/>日前港媒文章指，各地诸侯表态拥护〝习核心〞成风，有些口号匪夷所思，实际上是对习近平的〝高级黑〞。他们口头效忠，背地里却拉帮结派，对习中央阳奉阴违。中纪委表态，中央巡视重点是各地方〝嘴上喊拥护、行动搞派性〞的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815306&from=ogGitn">传山西太钢前高管嫁孙女 土豪嫁妆超千万 2017-03-29 07:43</a><br/>大陆多名网民日前在微博上披露一段“太钢原工会主席嫁孙女”的视频，并称嫁妆价值惊人。据估价，陪嫁跑车、豪宅的价值至少在千万元以上。此外司仪提到的“金条500个”总价值超过1600万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815307&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-29 07:10</a><br/>如今，彭旭峰的跑路牵出的是长沙轨道公司的腐败，牵出的是腐败的大后台陈鲁青，而陈鲁青背后的陈润儿，陈润儿背后的张春贤、周强也都一一浮出水面。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江苏13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江西13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815298&from=ogGitn">焚尸灭迹 万元封口 央媒罕见揭辽宁洪灾瞒报 2017-03-29 06:53</a><br/>2012年8月，辽宁省辽阳县遭遇颱风洪灾。大陆官媒央广网今天披露，这场5年前的灾害，至少造成4人死亡3人失踪，有死者家属表示，当地政府没有发布洪水预警，才让灾民来不及逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 06:41</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815294&from=ogGitn">【石涛八方 】智慧者乃境界中的生命 2017-03-29 06:40</a><br/>人们讨论最多的是人有形的肉体，很少讨论无形的那一部分，物质形态有三种，但我们只注重这块肉，而这块肉能受钱色诱惑，走向堕落，走向物质形式的最低档，透过物质形式的最低档来刺激自己，寻求快乐。但你永远抓不住这个快乐。为什么？因为它能毁了你，要你永远追寻。</td></tr>
@@ -34,6 +35,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815270&from=ogGitn">李宇明：大饥荒时期的红色画家 2017-03-29 05:00</a><br/>大跃进时期，一批红色画家为了配合中共的宣传，创作了一大批歌颂大跃进、歌颂中共、歌颂毛泽东的画作。就是在大饥荒时期，大批饿死人的时候，这些红色画家还在继续为中共歌功颂德。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815296&from=ogGitn">法警察枪杀华人引热议 华裔：让司法公正处理 2017-03-29 04:56</a><br/>“法国警察破门打死华人”事件惊动之大，华人网友都在热议。在法国，面对众多华文媒体和法国媒体不一致的消息，不少华人迷茫了。3月27日，一位留法中国学生截屏微信朋友圈的消息问道：“朋友圈的消息，求证一下，有人知道吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815267&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-29 04:50</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815312&from=ogGitn">楼市调控不断加码 更多人或“逃离”北京 2017-03-29 04:48</a><br/>北京楼市调控加码措施不断，二手房周均交易量下滑约30%左右。外界关注，这或导致更多人“逃离”北京。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>美国之音：中国新规定：互联网〝翻墙〞有罪；自由亚洲电台：李明哲人在何处? 其妻辗转送药；大纪元时报：广东武警少将蔡广辽获刑八年；英国《金融时报》：辉山乳业承认资金链断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强被情敌办公室捅死 2017-03-29 04:16</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815049&from=ogGitn">山东辱母杀人案引舆论海啸 逾亿评论轰警方不作为 2017-03-27 04:11</a><br/>没有公权力的保护，每个人都可能遭遇于欢一样的屈辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815059&from=ogGitn">楼市泡沫将破？大陆两经济学者博鳌打赌 2017-03-27 03:43</a><br/>大陆近期再次严控房价，但收效甚微。3月26日，大陆经济学者李迅雷认为2-4年内，大陆房价会普跌，但贾康不认同，为此他们打赌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815051&from=ogGitn">十亿名画要不回 中行下岗职工的辛酸路 2017-03-27 03:23</a><br/>前中国银行北京市分行职工宋军，近日向媒体投诉，在他所负责的美术协会项目上借来的名画，在美协封停后，被扣留了1800幅，价值逾10亿，他向单位要求取回，总是要他等著或去走访。10几年来他经历了被下岗、拆迁的安置房被拿走，在诉讼与漂泊中艰困的过日子。他要求中行归还属于他的物品，并且公开向他道歉。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815046&from=ogGitn">港特首选举奇迹没出现 曾俊华：信好梦终成真 2017-03-27 03:22</a><br/>星期日（26日）第五届香港行政长官选举，林郑月娥以777票当选，成为香港首位女特首。民望一直遥遥领先的曾俊华，终以365票落选，胡国兴得21票。虽然奇迹最终没有发生，曾俊华哽咽感谢香港人的支持，鼓励港人不要因此而放弃香港，要继续发梦，更民主更美好的香港终有一日会成真，又希望大家给予林郑月娥机会改变香港。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815044&from=ogGitn">揭秘谷俊山其人与“军盾一号”绝密工程 2017-03-27 01:37</a><br/>中共前后勤部副部长谷俊山曾向前军委副主席徐才厚行贿、行色，得以8年连升5级。谷俊山以“军盾一号”工程名义从北京市民手中廉价征地后，却建成了“京城第一天价豪宅”的钓鱼台七号院和11套戒备森严的豪华专用别墅群“钓鱼台乙六号院”。</td></tr>
 </table>
