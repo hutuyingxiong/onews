@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815325&from=ogGitn">民众听谣言去抢菜 河南菜农13亩菠菜被挖光 2017-03-29 14:32</a><br/>3月23日，一条仅10秒的虚假视频在河南济源市民的威信朋友圈中疯转。视频中，一女子称：“酒务村东头菠菜地里的菠菜不要了，抓紧来整。”该信息导致菜农孙先生承包的13亩菠菜被闻风赶来的民众基本挖光，孙先生无奈报警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815322&from=ogGitn">央企老总被撤政协委员 年薪曾近千万元 2017-03-29 14:07</a><br/>日前，中共全国政协主席俞正声主持召开政协会议。该会议通过了撤销孔庆平的全国政协委员的资格。作为央企老总出事，此消息在业界引起不小震动。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815330&from=ogGitn">反右运动受难者聚集香港 “中共无药可救” 2017-03-29 13:19</a><br/>在香港举办的“反右运动60周年国际研讨会”上，老右派及其后人回顾中共反右运动中对中国知识分子精英的残酷打压和迫害，表示已看透中共邪恶本质，其已无可救药。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815324&from=ogGitn">乌鲁木齐一煤矿采空区塌陷 已致4死3伤 2017-03-29 13:03</a><br/>3月28日4时30分许，乌鲁木齐市水磨沟区八道湾煤矿（已停产）附近一采空区发生塌陷，造成警备室内的7人，有4人死亡，3人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815318&from=ogGitn">上海整治商住房 业主上百万购房款打水漂 2017-03-29 11:51</a><br/>今年2月上海闵行、嘉定两区决定3月底前，彻底废除商住房的居住属性，3月派出大批保安特勤带强拆商住房，许多居民对此感到绝望。江苏苏恒房地产开发有限公司兴建的阳光东都大批安置房被开发商偷卖，老百姓冤情无出诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815067&from=ogGitn">王友琴：七名被判死刑的北京大学〝右派份子〞（下） 2017-03-27 08:12</a><br/>沈元是上海人，1938年生，1955年从上海位育中学毕业，考入北京大学历史系。同年，位育中学另一名学生以优异成绩考入清华大学。这两名学生在1957年开始的〝反右派运动〞中，都被划为〝右派份子〞。位育中学中学1955年的925名毕业生中，有44人被定成了〝右派份子〞，包括两个考入北大清华的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815064&from=ogGitn">杨宁：末代皇帝文革中连病带吓而死 族人被抄家 2017-03-27 08:07</a><br/>1912年2月，随着大清王朝隆裕皇太后颁布《退位诏书》，清朝末代皇帝、年仅6岁的溥仪正式退位。此后他的人生被历史裹挟着，充满了悲剧的色彩。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815063&from=ogGitn">谢天奇：张德江捆绑中共对抗习 林郑面临四路夹击 2017-03-27 07:58</a><br/>3月26日，香港特首选举最终结果为，选举委员会1194名成员中有效票数共1163票；林郑月娥以777票当选，曾俊华获得365票；民望高企的曾俊华最终未能翻盘。这一选举结果预示香港两大分裂态势还将持续，后续博弈料将升级。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815085&from=ogGitn">辱母杀人案曝黑幕 传放高利贷者涉官商勾结 2017-03-27 07:52</a><br/>山东法院近期以故意伤害罪判处于欢无期徒刑，却引起社会舆论一边倒地力挺被告人。随着此事件持续发酵，该催款团伙涉及的官方背景以及当地官场黑幕不断被网民揭露出来。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815056&from=ogGitn">【禁闻】新特首出炉 黄之锋：是选拔非选举 2017-03-27 05:56</a><br/>新特首出炉 黄之锋：是选拔非选举；澳洲学者回大陆 澳返被禁出境。</td></tr>
 </table>
