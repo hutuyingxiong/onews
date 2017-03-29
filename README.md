@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">港媒：习近平开打上海战役 江泽民毫无还手之力 2017-03-29 15:30</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815332&from=ogGitn">反腐〝打虎〞前景如何？专家：习近平面临4大挑战 2017-03-29 15:17</a><br/>日前，专门研究中共贪腐问题的美国教授说，反腐并不是一场〝运动〞，而是中国的〝新常态〞。他同时指出，江泽民制造了腐败文化，习近平今后的反腐运动至少面临4大挑战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
@@ -12,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815324&from=ogGitn">乌鲁木齐一煤矿采空区塌陷 已致4死3伤 2017-03-29 13:03</a><br/>3月28日4时30分许，乌鲁木齐市水磨沟区八道湾煤矿（已停产）附近一采空区发生塌陷，造成警备室内的7人，有4人死亡，3人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815318&from=ogGitn">上海整治商住房 业主上百万购房款打水漂 2017-03-29 11:51</a><br/>今年2月上海闵行、嘉定两区决定3月底前，彻底废除商住房的居住属性，3月派出大批保安特勤带强拆商住房，许多居民对此感到绝望。江苏苏恒房地产开发有限公司兴建的阳光东都大批安置房被开发商偷卖，老百姓冤情无出诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815334&from=ogGitn">袁斌：“辱母杀人案”与中国基层乱象 2017-03-29 11:22</a><br/>中共一党专政下当今基层社会的乱象，而“辱母杀人案”所折射的充其量也只不过是其中的冰山一角罢了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815321&from=ogGitn">每日三退声明精选（2017/03/28） 2017-03-29 10:59</a><br/>我是一个一直在追求人生真谛的人，我2004年去部队服役，06年在部队入邪党，但是对我来说对部队看到的腐败和潜规则总是心中很奇怪，后来渐渐发觉这是一个由谎言和邪恶组成的组织，现在我深感懊悔，发誓退出邪恶之党不与邪恶为伍，去寻求那份真正属于我们内心深处的愿望！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815319&from=ogGitn">周小川一月两提资产泡沫 被指承认楼市泡沫 2017-03-29 10:54</a><br/>近日，大陆央行行长周小川再提资产泡沫。外界认为，这等于官方确认楼市泡沫，金融风险凸显。最近，北京金融界拉警报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815293&from=ogGitn">石涛：诸侯口头效忠成风 恢复人性方有中华民族复兴 2017-03-29 10:52</a><br/>如果一个环境缺失了这样的认知，那么人缺失的就是信任，用自我欲望彰显的绝对自由，代替一个人本该拥有的责任。那样的环境，个个都是极端自私者。就算是宗教人士，也是让神服务于自己。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815073&from=ogGitn">何清涟：朝核威胁背后的四国演义 2017-03-27 09:48</a><br/>朝核威胁牵涉到美、韩、中三国，危及东北亚安全。目前随着美国施加的压力越来越大，朝核危机已经到了图穷匕首现的地步。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815070&from=ogGitn">林辉：放弃马列的陈独秀与其逃港的女儿 2017-03-27 08:21</a><br/>在中共党史上，陈独秀是一个无法回避的名字——尽管中共刻意淡化。原因就在于他不仅是中国最早宣传马克思主义、主张〝全盘西化〞的知识份子，也是中共早期的主要创始人和首任总书记。然而，就是这样一个曾经怀着无限热忱传播马克思主义之人，却在晚年彻底进行了省思，并放弃了共产主义思想，反对苏联，支持蒋介石领导的抗日战争，认为只有民主政治才能救中国，认为英美法的民主代表人类的希望。而这亦是现今中共大力批判其之处，也是中共无法〝正面评价〞陈独秀的所在。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815066&from=ogGitn">【禁闻】百名红通犯 国际刑警网站突消失 2017-03-27 08:18</a><br/>几年前中共中纪委监察部公布的100名红色通缉外逃人员名单，至少在两天前，在原来的国际刑警组织网站上，消失不见，无法查询。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815069&from=ogGitn">周晓辉：林郑当选香港新特首 中南海要有大动作 2017-03-27 08:18</a><br/>备受关注的新一届香港特首选举在3月26日这一天尘埃落定，民望极高的曾俊华落选，一直被张德江、梁振英、张晓明力捧的林郑月娥当选新一届特首。从选举前北京最高层释放的信息。以及习当局派出身边太子党特使密集接见香港众多选委，传递习近平对特首选举的四点讲话来看，这样的结果应该不是希望保持香港稳定的习当局所乐见的。选举结果彰显了江派势力在香港的控制力和未来继续乱港的信号。对此，北京最高层不会看不到。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815068&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-27 08:16</a><br/>3月24日，香港挂牌的中国乳业巨头──辉山乳业，在毫无征兆的情况下股价瞬间（半小时）暴跌达85%，盘中跌幅最大达91%，造成300多亿港元的市值顷刻蒸发，形同崩盘，并刷新了当年汉能薄膜的历史记录。</td></tr>
 </table>
