@@ -2,10 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815392&from=ogGitn">夏小强：香港的社会撕裂如何修补？ 2017-03-30 04:15</a><br/>自从当选下任香港特首几天以来，林郑月娥多次声称要修补香港社会裂痕，重建和谐。这也说明，修补香港社会撕裂的现状，已经成为香港稳定发展的前提。香港特首选举人曾俊华以高民望、低得票落败，是香港社会撕裂现状在政治层面的体现；表现在社会和民众层面，则是几年来不断出现的、以雨伞运动为代表的大规模民众抗议运动。造成香港社会撕裂的主要原因是什么？原因有二。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815385&from=ogGitn">姚文元回忆录曝毛晚年多起重大政治事件 2017-03-30 03:59</a><br/>姚文元1996年出狱后，曾撰写了42万字的回忆录，但被中共当局封杀。随后，姚文元在2002年底开始用8个月的时间，撰写了5万多字的文章《回顾与反思》，其中包括毛泽东晚年时的多起重大的政治事件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815391&from=ogGitn">终于能用了！ Google翻译App向中国用户开放 2017-03-30 03:58</a><br/>日前，Google翻译App版本更新，允许中国用户下载使用。但有报导指，此事与Google重返中国无关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 03:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815387&from=ogGitn">【微视频】辉山乳业崩盘带给香港的冲击和启示 2017-03-30 03:39</a><br/>媒体说，3月20号，债权人突然接到辉山乳业通知，无法偿还本息。几天之后，辉山的股票就崩盘了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815383&from=ogGitn">陈达：从“辱母杀人”案看红毒之剧 2017-03-30 03:30</a><br/>当面辱亲母，男儿能含糊？孝为百善先，辱母最大辱。警匪一家逼，自卫惩恶徒。替天行道义，雪耻责自负。谁知红衙门，无期判过度。悍然犯众怒，最高检介入。介入怎么弄，不外擦屁股。不管怎么擦，无碍浑身毒。党妈就那货，嗜血集百毒。红毒最剧烈，人给变动物。名虽标高级，实比兽残酷。即使甩坏蛋，亦只把党护。衣法党治国，流氓乱棍杵。法制党妈手，欺侮...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815390&from=ogGitn">香港反右60周年研讨会 与会者：中共无可救药 2017-03-30 03:16</a><br/>〝反右运动〞60周年研讨会一连两日于香港召开。40名大陆参加者被禁来港。活动负责人回深圳时一度被扣留问话。与会人士回忆了被打成右派的悲惨经历。有右派老人称，不要期盼中共〝恩赐民主〞，中共〝执迷不悟，已无可救药〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815384&from=ogGitn">数千越战老兵集体扫墓 中共内部发紧急通知 2017-03-30 03:02</a><br/>今年是越战38周年纪念，每年清明，各地老兵们都会前往广西扫墓，而地方政府也严阵以待。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，保护自身及家族的经济利益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">上海“电老虎”冯军一审获刑无期 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
@@ -203,7 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815143&from=ogGitn">于欢〝辱母杀人案〞细节：被〝杵〞后防卫反击 2017-03-28 02:32</a><br/>儿子为了保护受辱的母亲，在6个小时的煎熬侮辱后，于欢拿起了水果刀进行反抗。纠缠的逼债者1死3伤，于欢被判处无期徒刑，聊城中级法院认定其犯了故意伤害罪。目前于欢已经提起上诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815137&from=ogGitn">辱母杀人案急速发酵 警匪勾结深层黑幕曝光 2017-03-28 01:31</a><br/>山东护母杀人的青年于欢被判无期徒刑，引发海内外舆论沸腾。中共最高检被迫介入调查。与此同时，案件背后警匪勾结放贷，打击报复苏银霞的黑幕遭持续揭露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815148&from=ogGitn">云南省长阮成发“目不识滇”再升级 2017-03-28 01:08</a><br/>近日，云南省长阮成发又被曝读错字，把饮鸩止渴念成饮（jiu）止渴。此前，其因两次读错字陷舆论风波。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815132&from=ogGitn">中国漫画开拓者丰子恺的文革遭遇 2017-03-28 00:39</a><br/>民国初年的刊物突然刊出这样一幅画：新月升空，房舍无人，唯有木桌、茶具、竹帘与大面积的留白。自这幅《人散后，一钩新月天如水》问世，一大批名为“子恺漫画”的画作风行于中国，中国也从此有了“漫画”概念。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815117&from=ogGitn">【翻墙必看】女特首出炉后高层博弈加剧？ 2017-03-27 23:55</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案托养中心被曝经营黑幕  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
 </table>
