@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，以便保护自身及家族的经济利益。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">上海“电老虎”冯军一审获刑无期 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815376&from=ogGitn">复旦大学实验室爆炸 一学生双手炸伤 2017-03-30 02:12</a><br/>上海复旦大学邯郸校区的化学西楼209实验室3月27日发生爆炸，事故中一名20岁大三男学生双手受伤被送院治理。事发时该男生正进行高温高压反应化学实验，期间未知何故发生爆炸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815378&from=ogGitn">湖南落马官员李亿龙享乐奢靡细节曝光 2017-03-30 01:56</a><br/>3月29日，湖南省纪委通报6起省管干部违反“习八条”问题，其中第一个就是省委农村工作领导小组原副组长李亿龙，引人关注的是，通报中透露了他享乐奢靡的细节，还特别提到了“保姆”问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815377&from=ogGitn">江苏户主起诉强拆 当局趁开庭当天偷拆住房 2017-03-30 01:35</a><br/>因为强拆民房，江苏南通港闸区政府被告上了法庭。而就在村民到法院开庭时，当地政府却将村民的房子偷偷拆掉了，村民谴责当局的行为无耻。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815128&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（下） 2017-03-27 21:43</a><br/>尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815123&from=ogGitn">大陆艺考黑幕频曝光 多省高校老师获刑 2017-03-27 20:25</a><br/>一直以来，大陆各大艺术类院校招生考试黑幕频被曝光，各地都有艺考腐败案被查处。近年来，湖北、江西、安徽、北京等省高校老师在艺考招生工作中，收受贿赂被判刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815082&from=ogGitn">大陆外汇储备高速失血 贪官洗钱手法叹为观止 2017-03-27 20:20</a><br/>不少失势的中共官员惶惶不可终日，纷纷对外转移资产。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815120&from=ogGitn">美媒：中国人离婚不仅为买房还为车牌 2017-03-27 20:13</a><br/>日前，有一位在北京居住已婚的男子在网上发帖表示，愿意为了车牌花钱买假结婚。该男子透露因为摇中车牌的概率非常低，很多人都通过离婚、假结婚的方式搞到车牌号。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815124&from=ogGitn">前辽宁政法委书记贪两千万 花百万升副部 2017-03-27 20:00</a><br/>3月27日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理。其被控受贿超1996万元（人民币，下同）。苏宏章被指控的罪状中包括“贿选”。去年辽宁贿选案被大幅曝光，消息称，该案令中南海高层震怒。</td></tr>
 </table>
