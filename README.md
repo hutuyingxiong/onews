@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815348&from=ogGitn">大陆女生卖卵子差点虚脱  只为换一部苹果手机 2017-03-29 17:56</a><br/>上海23岁的女大学生小雨，为购买了一部iPhone7 Plus卖卵子。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815347&from=ogGitn">网传山西国企高层嫁孙女　陪价3千万招来纪委 2017-03-29 17:49</a><br/>网路爆料，山西大型国企太原钢铁集团公司的工会主席嫁孙女，附送总值逾3000万元人民币的嫁妆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815346&from=ogGitn">万人签名维权 指地方政府涉泛亚案 2017-03-29 17:02</a><br/>泛亚投资受害人表示，每天都有人去相关部门维权，但目前维权没有任何进展，中院也迟迟不开庭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815345&from=ogGitn">中共部级金融高官王雪冰的情史被深度揭秘 2017-03-29 16:59</a><br/>近日，中共部级金融高官自曝与影星“安娜”（化名）的情史事件持续发酵，该高官被曝是王雪冰，而王雪冰与“安娜”的情史也被深度揭秘。最近，被称作反腐纪实文学的书籍《追问》公开出版发行，书中记述的8名正部级官员中有一人自曝了与影视女明星情人“安娜”的情史。书中描述，这名正部级高官，为了企业家妻子、影视明星情人，动用了公权力，违规操作中国境外资金数十亿...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815344&from=ogGitn">〝收听敌台罪〞翻版？重庆新规〝翻墙〞有罪 2017-03-29 16:47</a><br/>40年前，中国有所谓的〝收听敌台〞罪，现在中共与时俱进规定了网际网路〝翻墙〞罪。日前，重庆市公安局官网上发布一则关于网路监管的新规定，"翻墙"上海外网站有罪，可处以罚款或追究刑事责任。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815088&from=ogGitn">河南挖出古墓干尸  明朝清官后代 2017-03-27 13:04</a><br/>墓主名叫顾朴，官至右都御史，是明朝〝包青天〞顾佐后人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815098&from=ogGitn">罕见事故 南京动车进站 男子被卡惨死 2017-03-27 12:12</a><br/>3月26日下午3时43分，江苏南京南站发生惨烈事故。一名约30岁男子在动车徐徐进入站台时，突然从月台跳下，横越路轨，不料被列车夹在与让台的缝隙间。男子相当痛苦，约翰2个小时后被救出，但已不治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连 大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815122&from=ogGitn">为身份“婚不择偶” 纽约华女绿卡泡汤 2017-03-27 11:55</a><br/>在移民政策收紧的情势下，加重了身份悬而未决者的恐慌，有的人把“结婚”作为解决移民身份的“捷径”，近来婚姻介绍所生意特别好，甚至好过律师所。有的华人为了办身份，仓促结婚，结果掉进另一个陷阱，落得人财两空。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815094&from=ogGitn">长春男子引爆煤气罐致爆炸火灾 居民陷恐慌 2017-03-27 11:22</a><br/>吉林长春一对开土豆粉店的夫妻吵架，丈夫点燃了店里的煤气罐，引发爆炸和火灾，周边市民极度恐慌。发生爆炸、火灾的店面已面目全非，楼上六层楼均受殃及。</td></tr>
 </table>
