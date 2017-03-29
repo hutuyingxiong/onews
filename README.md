@@ -37,6 +37,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>美国之音：中国新规定：互联网〝翻墙〞有罪；自由亚洲电台：李明哲人在何处? 其妻辗转送药；大纪元时报：广东武警少将蔡广辽获刑八年；英国《金融时报》：辉山乳业承认资金链断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强被情敌办公室捅死 2017-03-29 04:16</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815311&from=ogGitn">丽江被打毁容女孩?136天后公开近照和遗书 2017-03-29 04:07</a><br/>3月27日，丽江被打女孩小董在广东省人民医院内，首次披露了自己的遗书，同时，她治疗期间的伤情照片和被打136天后的近照也首度曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815295&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-29 03:34</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和“真善忍”的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。所以当时中共迫害法轮功，根本不得人...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815263&from=ogGitn">山西男子持刀混入幼儿园 砍死3岁男童 2017-03-29 03:20</a><br/>山西省运城发生一起校园凶杀案，一名幼儿被砍死，伤者人数官民说法不一。警方称嫌疑人患有间歇性精神病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815268&from=ogGitn">近期胡锦涛频繁露面 2017-03-29 03:06</a><br/>近日，中共全国政协前副主席万国权病亡，中共六常委和胡锦涛等到公墓送别。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815051&from=ogGitn">十亿名画要不回 中行下岗职工的辛酸路 2017-03-27 03:23</a><br/>前中国银行北京市分行职工宋军，近日向媒体投诉，在他所负责的美术协会项目上借来的名画，在美协封停后，被扣留了1800幅，价值逾10亿，他向单位要求取回，总是要他等著或去走访。10几年来他经历了被下岗、拆迁的安置房被拿走，在诉讼与漂泊中艰困的过日子。他要求中行归还属于他的物品，并且公开向他道歉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815046&from=ogGitn">港特首选举奇迹没出现 曾俊华：信好梦终成真 2017-03-27 03:22</a><br/>星期日（26日）第五届香港行政长官选举，林郑月娥以777票当选，成为香港首位女特首。民望一直遥遥领先的曾俊华，终以365票落选，胡国兴得21票。虽然奇迹最终没有发生，曾俊华哽咽感谢香港人的支持，鼓励港人不要因此而放弃香港，要继续发梦，更民主更美好的香港终有一日会成真，又希望大家给予林郑月娥机会改变香港。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815044&from=ogGitn">揭秘谷俊山其人与“军盾一号”绝密工程 2017-03-27 01:37</a><br/>中共前后勤部副部长谷俊山曾向前军委副主席徐才厚行贿、行色，得以8年连升5级。谷俊山以“军盾一号”工程名义从北京市民手中廉价征地后，却建成了“京城第一天价豪宅”的钓鱼台七号院和11套戒备森严的豪华专用别墅群“钓鱼台乙六号院”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815040&from=ogGitn">习近平旧部李书磊兼任追逃办主任要职 2017-03-27 00:48</a><br/>习近平的旧部李书磊刚刚升任中纪委副书记2个月后，日前又兼任中共中央追逃办主任这一要职。</td></tr>
 </table>
