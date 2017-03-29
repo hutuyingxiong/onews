@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815385&from=ogGitn">姚文元回忆录曝毛晚年多起重大政治事件 2017-03-30 03:59</a><br/>姚文元1996年出狱后，曾撰写了42万字的回忆录，但被中共当局封杀。随后，姚文元在2002年底开始用8个月的时间，撰写了5万多字的文章《回顾与反思》，其中包括毛泽东晚年时的多起重大的政治事件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 03:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815387&from=ogGitn">【微视频】辉山乳业崩盘带给香港的冲击和启示 2017-03-30 03:39</a><br/>媒体说，3月20号，债权人突然接到辉山乳业通知，无法偿还本息。几天之后，辉山的股票就崩盘了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815383&from=ogGitn">陈达：从“辱母杀人”案看红毒之剧 2017-03-30 03:30</a><br/>当面辱亲母，男儿能含糊？孝为百善先，辱母最大辱。警匪一家逼，自卫惩恶徒。替天行道义，雪耻责自负。谁知红衙门，无期判过度。悍然犯众怒，最高检介入。介入怎么弄，不外擦屁股。不管怎么擦，无碍浑身毒。党妈就那货，嗜血集百毒。红毒最剧烈，人给变动物。名虽标高级，实比兽残酷。即使甩坏蛋，亦只把党护。衣法党治国，流氓乱棍杵。法制党妈手，欺侮...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815384&from=ogGitn">数千越战老兵集体扫墓 中共内部发紧急通知 2017-03-30 03:02</a><br/>今年是越战38周年纪念，每年清明，各地老兵们都会前往广西扫墓，而地方政府也严阵以待。</td></tr>
@@ -45,6 +46,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815339&from=ogGitn">江苏户主法院出庭 家遭拆 财物被埋 2017-03-29 16:32</a><br/>现场视频和图片显示，众多警察在拆迁现场拉起警戒线，不准围观者进入，两台挖机正拆除周永红家的楼房。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">习近平开打上海战役 江泽民毫无还手之力 2017-03-29 16:30</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815332&from=ogGitn">反腐〝打虎〞前景如何？专家：习近平面临4大挑战 2017-03-29 16:17</a><br/>日前，专门研究中共贪腐问题的美国教授说，反腐并不是一场〝运动〞，而是中国的〝新常态〞。他同时指出，江泽民制造了腐败文化，习近平今后的反腐运动至少面临4大挑战。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815389&from=ogGitn">陈思敏：复星高层异动 涉上海官场腐败 2017-03-29 16:11</a><br/>复星直接和间接控股的公司已经超过100家，郭广昌圈子里充斥形形色色的官员。既然是上海特大集团，既然是上海首富，从以前到现在都一样，就是不能没有韩正及江泽民家族的关系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815335&from=ogGitn">山东发现最大金矿  价值千亿可开采40年 2017-03-29 15:44</a><br/>〝西岭金矿〞潜在价值超过1500亿人民币，可连续开采40年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815341&from=ogGitn">民进党前党工疑使用微信遭中共国安监控 2017-03-29 15:32</a><br/>台湾民主活动人士李明哲据称被中国国安单位拘留，他的同事称，李明哲或因使用中国社交媒体“微信”（WeChat）讨论中国与台湾关系而引起中国国安部门的注意。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815132&from=ogGitn">中国漫画开拓者丰子恺的文革遭遇 2017-03-28 00:39</a><br/>民国初年的刊物突然刊出这样一幅画：新月升空，房舍无人，唯有木桌、茶具、竹帘与大面积的留白。自这幅《人散后，一钩新月天如水》问世，一大批名为“子恺漫画”的画作风行于中国，中国也从此有了“漫画”概念。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815117&from=ogGitn">【翻墙必看】女特首出炉后高层博弈加剧？ 2017-03-27 23:55</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案托养中心被曝经营黑幕  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815133&from=ogGitn">贪污近两千万 辽宁前政法委书记受审 2017-03-27 23:06</a><br/>检方指控：2004到2016年，苏宏章在担任中共沈阳市委副书记、辽宁省委常委、政法委书记、辽宁省人大代表等职务期间，利用工作便利，为单位和个人提供帮助，非法收受财物，共计折合人民币1996万8097元；2010到2011年，苏宏章为竞选辽宁省副省长、省委常委，贿赂相关人员金条、美元、购物卡等财物，共计折合人民币110万6949元。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815139&from=ogGitn">港占中9人被捕 陈健民：对弥补社会撕裂无益 2017-03-27 23:05</a><br/>被称为小圈子选举的香港特首选举3月26日刚刚落幕、受北京“钦点”的林郑月娥未来首要任务是要弥补社会撕裂的当选感言余音未断，组织和参与2014年雨伞运动的9位主要人士，3月27日一早便接到警方致电，将以“公众妨扰罪”等罪名预约拘捕或直接起诉，引发外界广泛关注。</td></tr>
 </table>
