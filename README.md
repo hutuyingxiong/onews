@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">武长顺案开审 涉六宗罪贪腐金额高达5亿多 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815351&from=ogGitn">长沙地铁主体开裂 董事长外逃扯幕后高官 2017-03-29 20:06</a><br/>耗资逾100亿（人民币，下同）的湖南长沙地铁2号线，营运仅3年，于近日惊爆主体结构出现裂痕及渗漏。此时，上任仅一个月的董事长彭旭峰失联，疑已举家外逃。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815352&from=ogGitn">十九大人事工作启动  中纪委划出〝一条线〞 2017-03-29 20:02</a><br/>在中共十九大人事布局中，由王岐山领导的中纪委提出的要求，都是围绕着是否遵守〝政治规矩〞，这将成为考核官员最关键的〝一条线〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815350&from=ogGitn">【史海】毛泽东听到周恩来的意见大骂一通 2017-03-29 19:12</a><br/>1973年6月，美国总统尼克松（Richard Nixon）与苏共总书记勃列日涅夫（Leonid Brezhnev）举行了会谈，两国达成了《关于防止核战争协议》等十三个文件。</td></tr>
@@ -11,14 +12,15 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815346&from=ogGitn">万人签名维权 指地方政府涉泛亚案 2017-03-29 17:02</a><br/>泛亚投资受害人表示，每天都有人去相关部门维权，但目前维权没有任何进展，中院也迟迟不开庭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815345&from=ogGitn">中共部级金融高官王雪冰的情史被深度揭秘 2017-03-29 16:59</a><br/>近日，中共部级金融高官自曝与影星“安娜”（化名）的情史事件持续发酵，该高官被曝是王雪冰，而王雪冰与“安娜”的情史也被深度揭秘。最近，被称作反腐纪实文学的书籍《追问》公开出版发行，书中记述的8名正部级官员中有一人自曝了与影视女明星情人“安娜”的情史。书中描述，这名正部级高官，为了企业家妻子、影视明星情人，动用了公权力，违规操作中国境外资金数十亿...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815344&from=ogGitn">〝收听敌台罪〞翻版？重庆新规〝翻墙〞有罪 2017-03-29 16:47</a><br/>40年前，中国有所谓的〝收听敌台〞罪，现在中共与时俱进规定了网际网路〝翻墙〞罪。日前，重庆市公安局官网上发布一则关于网路监管的新规定，"翻墙"上海外网站有罪，可处以罚款或追究刑事责任。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815354&from=ogGitn">齐星集团欠债百亿 大陆再现区域金融风险 2017-03-29 16:44</a><br/>3月27日，山东省滨州市邹平县就该县齐星集团债务问题召集债权人开会，据悉，齐星集团上百亿元的债务使得邹平县面临区域性金融风险。齐星集团目前已经基本停产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815343&from=ogGitn">〝辱母杀人案〞点燃百姓怒火   山东官黑勾结黑幕曝光 2017-03-29 16:38</a><br/>山东辱母杀人事件还在持续发酵，近日该案被告人于欢被判无期，亿万网民纷纷为他鸣不平，质疑法院裁决不公，官黑勾结。与此同时，有消息人士曝光山东官黑勾结黑幕，指当地政法系官员与涉案高利贷主联合放贷，警方助纣为虐。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815338&from=ogGitn">中国民建高层去世  胡锦涛高调现身破〝病重〞谣言 2017-03-29 16:38</a><br/>中共著名的社会活动家、民主建国会领导人万国权病亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815339&from=ogGitn">江苏户主法院出庭 家遭拆 财物被埋 2017-03-29 16:32</a><br/>现场视频和图片显示，众多警察在拆迁现场拉起警戒线，不准围观者进入，两台挖机正拆除周永红家的楼房。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815332&from=ogGitn">反腐〝打虎〞前景如何？专家：习近平面临4大挑战 2017-03-29 16:17</a><br/>日前，专门研究中共贪腐问题的美国教授说，反腐并不是一场〝运动〞，而是中国的〝新常态〞。他同时指出，江泽民制造了腐败文化，习近平今后的反腐运动至少面临4大挑战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815335&from=ogGitn">山东发现最大金矿  价值千亿可开采40年 2017-03-29 15:44</a><br/>〝西岭金矿〞潜在价值超过1500亿人民币，可连续开采40年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815341&from=ogGitn">民进党前党工疑使用微信遭中共国安监控 2017-03-29 15:32</a><br/>台湾民主活动人士李明哲据称被中国国安单位拘留，他的同事称，李明哲或因使用中国社交媒体“微信”（WeChat）讨论中国与台湾关系而引起中国国安部门的注意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">习近平开打上海战役 江泽民毫无还手之力 2017-03-29 15:30</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815332&from=ogGitn">反腐〝打虎〞前景如何？专家：习近平面临4大挑战 2017-03-29 15:17</a><br/>日前，专门研究中共贪腐问题的美国教授说，反腐并不是一场〝运动〞，而是中国的〝新常态〞。他同时指出，江泽民制造了腐败文化，习近平今后的反腐运动至少面临4大挑战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
@@ -38,6 +40,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 10:10</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815296&from=ogGitn">法警察枪杀华人引热议 华裔：让司法公正处理 2017-03-29 09:09</a><br/>“法国警察破门打死华人”事件惊动之大，华人网友都在热议。在法国，面对众多华文媒体和法国媒体不一致的消息，不少华人迷茫了。3月27日，一位留法中国学生截屏微信朋友圈的消息问道：“朋友圈的消息，求证一下，有人知道吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815310&from=ogGitn">横河：从雷文锋之死看民政腐败、维稳和器官 2017-03-29 09:01</a><br/>江西赣州的老人明经国，他因为反强拆，用锄头，另外一种说法是用一个镰铲杀死了带队的副乡长被抓，引起了民间的热议。另外一个是15岁的自闭少年雷文锋，离家40多天，结果死于政府的救助系统，那么我们今天就主要先讨论一下雷文锋案件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815355&from=ogGitn">中共官员公然撒谎 越战目的不可告人 2017-03-29 08:20</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815299&from=ogGitn">【中国禁闻】3月28日完整版 2017-03-29 07:57</a><br/>辱母杀人案 黑老大身后的公权力；房价高 博鳌论坛吵翻天 会降吗？长春围困战 共军不血刃 百姓成饿殍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815272&from=ogGitn">口头效忠习近平成风 地方官员大摆高级黑 2017-03-29 07:50</a><br/>日前港媒文章指，各地诸侯表态拥护〝习核心〞成风，有些口号匪夷所思，实际上是对习近平的〝高级黑〞。他们口头效忠，背地里却拉帮结派，对习中央阳奉阴违。中纪委表态，中央巡视重点是各地方〝嘴上喊拥护、行动搞派性〞的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815306&from=ogGitn">传山西太钢前高管嫁孙女 土豪嫁妆超千万 2017-03-29 07:43</a><br/>大陆多名网民日前在微博上披露一段“太钢原工会主席嫁孙女”的视频，并称嫁妆价值惊人。据估价，陪嫁跑车、豪宅的价值至少在千万元以上。此外司仪提到的“金条500个”总价值超过1600万元。</td></tr>
@@ -203,7 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815184&from=ogGitn">河南4岁男童从黑校车上坠落 被轧身亡 2017-03-27 15:27</a><br/>大陆校车出事致孩子死伤事故不断。近日，河南省一名4岁男童不慎从幼儿园校车跌落，后被该车轧死。而该校车被曝是一辆未经过审批，出事时车厢内放置了23个小板凳。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815083&from=ogGitn">辱母杀人案细节曝光 母被按马桶迫吃屎儿激愤自卫 2017-03-27 15:15</a><br/>26日，陆媒曝光受辱母亲苏银霞的陈情书称，死者曾对她母子二人百般凌辱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815135&from=ogGitn">辱母案人案 律师：司法腐败已病入膏肓 2017-03-27 15:13</a><br/>近日，发生在山东的“辱母杀人案”持续发酵。逾百万网民直斥法官荒唐，警方失职对命案有助推作用。有网民说，在这样的国家，警察到底在保卫谁？</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815093&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-27 15:10</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815065&from=ogGitn">【禁闻】华尔街日报编委：中共必将垮台 2017-03-27 15:10</a><br/>现在越来越多的人看到，中共垮台的日子已经不远。而中共之所以必然解体有三个原因。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815095&from=ogGitn">自曝情史的落马正部级高官到底是谁？ 2017-03-27 14:49</a><br/>在一本新出版的书中，提到一名被判刑12年的中共北京正部级金融高官的贪腐经历及其与女明星的情史。因为书中未提及此高官的名字，引发网民好奇：此人到底是谁？随后陆媒报导说，此人是前中共建设银行行长王雪冰。</td></tr>
 </table>
