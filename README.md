@@ -35,6 +35,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815361&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-29 15:11</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815371&from=ogGitn">山西疯汉持刀混入幼儿园 砍死一幼童 2017-03-29 14:40</a><br/>3月28日上午8时许，山西平陆县常乐镇双语幼儿园内发生一起恶性凶杀案。一名患有精神病男子持刀混入幼儿园内，将一名3岁幼儿砍伤身亡。犯罪嫌疑人已被抓获。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815325&from=ogGitn">民众听谣言去抢菜 河南菜农13亩菠菜被挖光 2017-03-29 14:32</a><br/>3月23日，一条仅10秒的虚假视频在河南济源市民的威信朋友圈中疯转。视频中，一女子称：“酒务村东头菠菜地里的菠菜不要了，抓紧来整。”该信息导致菜农孙先生承包的13亩菠菜被闻风赶来的民众基本挖光，孙先生无奈报警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815336&from=ogGitn">辉山乳业深陷财务危机 银行业绩受累 2017-03-29 14:11</a><br/>大陆辉山乳业股价崩盘后，3月27日，中国平安银行承认间接持有辉山乳业大笔股份。有业界人士表示受辉山乳业所累，数家持有该企业股份的银行利润将下降。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815118&from=ogGitn">贵州9岁留守男童遭姑父火钩烫皮带抽 2017-03-27 18:20</a><br/>贵州黔西留守儿童遭遇性侵、虐待事件频频被曝光。9岁男童小守都在1岁时父母离异，后被送到姑姑家抚养。小守都控诉，8年来，小守都经常被被姑父姑母虐打，不听话，就用电线、皮带、打火机、火钩等虐待，遍体鳞伤，惨不忍睹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815111&from=ogGitn">纽时：习近平和中国的宗教复兴 2017-03-27 17:47</a><br/>纽约时报中文网发表一篇署名文章，探讨习近平对传统宗教的看法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815138&from=ogGitn">陈思敏：山东“辱母案”有责的“关键少数” 2017-03-27 17:46</a><br/>山东聊城因高利贷讨债引发的“儿子刺死辱母者”一案，主角22岁的于欢已于今年2月一审被判无期徒刑。此一消息在日前经媒体披露后，引发了连日来的舆论海啸。在报导公开的一审判决书中，部分内容还原了11名讨债者当着于欢的面用极端手段羞辱其母亲的过程，也透露了讨债人与当地警方的“关系”：警察到现场并没有制止讨债人对于欢母子的控制，只对讨债人说了一句“要账可以，但...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815107&from=ogGitn">辱母案判决引公愤  最高检称介入 2017-03-27 17:44</a><br/>中共最高检26号发通报称，山东省聊城市冠县〝辱母杀人案〞引起社会广泛关注，最高检已派人到山东阅卷审查。对于被告人于欢，因保护母亲，怒杀追债人的行为，是否是正当防卫或防卫过当，将审查认定。对媒体反映警方在执法过程中的渎职行为，将调查处理。</td></tr>
 </table>
