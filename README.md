@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815318&from=ogGitn">上海整治商住房 业主上百万购房款打水漂 2017-03-29 11:51</a><br/>今年2月上海闵行、嘉定两区决定3月底前，彻底废除商住房的居住属性，3月派出大批保安特勤带强拆商住房，许多居民对此感到绝望。江苏苏恒房地产开发有限公司兴建的阳光东都大批安置房被开发商偷卖，老百姓冤情无出诉。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815293&from=ogGitn">石涛：诸侯口头效忠成风 恢复人性方有中华民族复兴 2017-03-29 10:52</a><br/>如果一个环境缺失了这样的认知，那么人缺失的就是信任，用自我欲望彰显的绝对自由，代替一个人本该拥有的责任。那样的环境，个个都是极端自私者。就算是宗教人士，也是让神服务于自己。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">港媒：习近平开打上海战役 江泽民毫无还手之力 2017-03-29 10:47</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815297&from=ogGitn">萨德风波继续升级 韩外交部称遭来自中方网路攻击 2017-03-29 10:30</a><br/>韩外交部称其官网遭到来自中国的分散式阻断服务攻击。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815054&from=ogGitn">【禁闻】落马新疆监狱高官被起底 数十人涉案 2017-03-27 04:35</a><br/>据报，谢晖违法金额高达1亿多人民币，涉案的劳教和监狱系统官员中，有7人被移送司法处理、42人被处分。有分析认为，中共司法部门尤其是监狱系统等，沦为贪腐重地，是中共体制造成的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815050&from=ogGitn">副市长对财色来者不拒 落马后与妻同台受审 2017-03-27 04:19</a><br/>被戏为“通奸党”的中共再自曝丑闻，落马的湖南常德市委前常委、副市长卢武福与妻子苗旭华同台受审；卢武福先后与9名女性“通奸”，他对女性来者不拒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815049&from=ogGitn">山东辱母杀人案引舆论海啸 逾亿评论轰警方不作为 2017-03-27 04:11</a><br/>没有公权力的保护，每个人都可能遭遇于欢一样的屈辱。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815059&from=ogGitn">楼市泡沫将破？大陆两经济学者博鳌打赌 2017-03-27 03:43</a><br/>大陆近期再次严控房价，但收效甚微。3月26日，大陆经济学者李迅雷认为2-4年内，大陆房价会普跌，但贾康不认同，为此他们打赌。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815051&from=ogGitn">十亿名画要不回 中行下岗职工的辛酸路 2017-03-27 03:23</a><br/>前中国银行北京市分行职工宋军，近日向媒体投诉，在他所负责的美术协会项目上借来的名画，在美协封停后，被扣留了1800幅，价值逾10亿，他向单位要求取回，总是要他等著或去走访。10几年来他经历了被下岗、拆迁的安置房被拿走，在诉讼与漂泊中艰困的过日子。他要求中行归还属于他的物品，并且公开向他道歉。</td></tr>
 </table>
