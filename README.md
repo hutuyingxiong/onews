@@ -2,7 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815385&from=ogGitn">姚文元回忆录曝毛晚年多起重大政治事件 2017-03-30 03:59</a><br/>姚文元1996年出狱后，曾撰写了42万字的回忆录，但被中共当局封杀。随后，姚文元在2002年底开始用8个月的时间，撰写了5万多字的文章《回顾与反思》，其中包括毛泽东晚年时的多起重大的政治事件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815387&from=ogGitn">【微视频】辉山乳业崩盘带给香港的冲击和启示 2017-03-30 03:39</a><br/>媒体说，3月20号，债权人突然接到辉山乳业通知，无法偿还本息。几天之后，辉山的股票就崩盘了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815383&from=ogGitn">陈达：从“辱母杀人”案看红毒之剧 2017-03-30 03:30</a><br/>当面辱亲母，男儿能含糊？孝为百善先，辱母最大辱。警匪一家逼，自卫惩恶徒。替天行道义，雪耻责自负。谁知红衙门，无期判过度。悍然犯众怒，最高检介入。介入怎么弄，不外擦屁股。不管怎么擦，无碍浑身毒。党妈就那货，嗜血集百毒。红毒最剧烈，人给变动物。名虽标高级，实比兽残酷。即使甩坏蛋，亦只把党护。衣法党治国，流氓乱棍杵。法制党妈手，欺侮...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815384&from=ogGitn">数千越战老兵集体扫墓 中共内部发紧急通知 2017-03-30 03:02</a><br/>今年是越战38周年纪念，每年清明，各地老兵们都会前往广西扫墓，而地方政府也严阵以待。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，保护自身及家族的经济利益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">上海“电老虎”冯军一审获刑无期 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815381&from=ogGitn">中国人为何弃EB-5绿卡转向其它美签？ 2017-03-30 02:17</a><br/>中国人最想要的美签是“确定性最高、等待时间最短及成本最低”，已对EB-5失去兴趣，转而申请L-1或EB-1签证。</td></tr>
@@ -23,6 +26,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815366&from=ogGitn">近3年河北保定8名县级一把手落马 2017-03-29 22:28</a><br/>3月28日，河北保定市雄县前县委书记吴亚飞落马，吴卸任该职务才3个多月。近3年保定市至少有8个县级党政一把手或原一把手落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">专案组有动作 数十律师发视频挺江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815386&from=ogGitn">分析：大陆高利贷暴利与暴力横行的背后 2017-03-29 20:29</a><br/>近日媒体曝出的由高利贷引发的山东“辱母杀人案”、中共官员直接放高利贷等消息，引发民间热议。近日有分析认为，高利贷是暴利与暴力的结合体，在大陆横行的背后原因涉及中共治下的各种经济乱像，以及中共的黑帮本质。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815358&from=ogGitn">中共军方批郭徐搞一家两制 揭江干政内幕 2017-03-29 20:20</a><br/>近期，中共军方高官撰文痛批，郭伯雄徐才厚“严重违反军委主席负责制”，表面一套背后一套，搞“一家两制、脚踏两条船”，并称要求彻底清除郭徐流毒影响。上述文章的说法，也从侧面佐证了当年中共前党魁江泽民利用亲信郭、徐架空时任军委主席胡锦涛的事实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">贪腐5亿多创纪录 武长顺为何多年不倒 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815351&from=ogGitn">长沙地铁主体开裂 董事长外逃扯幕后高官 2017-03-29 20:06</a><br/>耗资逾100亿（人民币，下同）的湖南长沙地铁2号线，营运仅3年，于近日惊爆主体结构出现裂痕及渗漏。此时，上任仅一个月的董事长彭旭峰失联，疑已举家外逃。</td></tr>
@@ -202,8 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815130&from=ogGitn">雷文锋案托养中心被曝经营黑幕  县委书记被免职 2017-03-27 23:11</a><br/>广东韶关发生的雷文锋死亡案持续发酵，新丰县县委书记陈景辉和相关责任人被免职，涉嫌虐待托养人员的工作人员被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815133&from=ogGitn">贪污近两千万 辽宁前政法委书记受审 2017-03-27 23:06</a><br/>检方指控：2004到2016年，苏宏章在担任中共沈阳市委副书记、辽宁省委常委、政法委书记、辽宁省人大代表等职务期间，利用工作便利，为单位和个人提供帮助，非法收受财物，共计折合人民币1996万8097元；2010到2011年，苏宏章为竞选辽宁省副省长、省委常委，贿赂相关人员金条、美元、购物卡等财物，共计折合人民币110万6949元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815139&from=ogGitn">港占中9人被捕 陈健民：对弥补社会撕裂无益 2017-03-27 23:05</a><br/>被称为小圈子选举的香港特首选举3月26日刚刚落幕、受北京“钦点”的林郑月娥未来首要任务是要弥补社会撕裂的当选感言余音未断，组织和参与2014年雨伞运动的9位主要人士，3月27日一早便接到警方致电，将以“公众妨扰罪”等罪名预约拘捕或直接起诉，引发外界广泛关注。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815134&from=ogGitn">华尔街日报编委：中共必将垮台 原因有三 2017-03-27 23:04</a><br/>最近，《华尔街日报》编委成员玛丽．克塞尔（Mary Kissel）在一次演说中阐释了中共必将垮台的三个原因，并强调不要相信中国经济实力强大以及中共政权可持久的说法。美国《棕榈滩日报》（Palm Beach Daily News）报导，3月21日，《华尔街日报》资深记者玛丽．克塞尔在The Society of the Four Arts做了题为“亚洲...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815129&from=ogGitn">香港特首选举次日 警预约拘捕占中九人 2017-03-27 22:30</a><br/>香港特首选举林郑月娥当选翌日，警方星期一（27日）早上突然通知2014年“占领行动”三名发起人、立法会议员陈淑庄、邵家臻等9人，将立案起诉他们两年前参加“占中”（雨伞运动），涉公众妨扰罪，刑期最高可达七年。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815146&from=ogGitn">大陆市场资金紧张 业界预计局面持续 2017-03-27 22:10</a><br/>最近大陆市场资金面波动较大，中共央行上周投放流动性的情况忽松忽紧。市场分析，最近市场资金紧张，这种状况可能会持续。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815127&from=ogGitn">辱母案中讨债公司被起底 中共官员黑影憧憧 2017-03-27 22:03</a><br/>随着“辱母杀人”案中的催债团伙头目被媒体起底，舆论逐渐将焦点转向高利贷与黑社会背后的保护伞。有评论称，警察不作为是因为高利贷已是地方权贵与黑恶势力的粘合剂。</td></tr>
 </table>
