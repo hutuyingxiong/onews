@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815412&from=ogGitn">【禁闻】3月29日维权动态 2017-03-30 07:01</a><br/>农保金遭截留 内蒙逾千农牧民抗议；湖南强拆户阻当局宅基地施工 遭行拘；多起维权案件近日集中审理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815409&from=ogGitn">德媒：坏事又变好事？ 辱母杀人案引发〝被准许的愤怒〞 2017-03-30 06:22</a><br/>山东辱母杀人案引发大陆网民声讨，中共最高检随即宣布介入调查。时评人长平认为，这是当局默许下的又一次〝被准许的愤怒〞，中共或再次〝将坏事变好事〞，导演又一个〝法治的胜利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815410&from=ogGitn">梁京：中国的房地产泡沫已近临界点 2017-03-30 05:59</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。做出这一判断其实不难，因为所谓一线城市，即北京、上海、广州、深圳等大都市，两年之间，房价在所谓“天价”水平之上，又翻了一番。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815408&from=ogGitn">【禁闻】反人类杀人 前罗共官员获刑20年 2017-03-30 05:59</a><br/>反人类杀人 前罗共官员获刑20年；反人类杀人 前罗共官员获刑20年；中共违反联合国决议 续进朝鲜矿产。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815168&from=ogGitn">【禁闻】3月27日维权动态 2017-03-28 06:40</a><br/>保护家园 河北村民成立女子敢死队；河南商丘强拆 爆警民冲突；湖北鄂州村民上访 被囚精神病院；内蒙牧民连续5天请愿 讨要草场补贴。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815166&from=ogGitn">时政段子集：辱母杀人案比雷洋案更令人绝望 2017-03-28 06:23</a><br/>时政段子集：辱母杀人案 比雷洋案更令人绝望</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815181&from=ogGitn">广东武警少将蔡广辽获刑八年 2017-03-28 06:11</a><br/>日前中共广东省委办公厅前副主任、省公安厅前党委副书记、武警少将蔡广辽，以受贿近500万元一审被判刑8年 。蔡广辽因具有军、政双层背景，备受外界关注。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815170&from=ogGitn">颜丹：取缔“过道学区房”的背后 2017-03-28 05:55</a><br/>最近，北京市教委突然高调宣称，“‘过道学区房’不能作为入学资格条件”。而之所以发出这样的“一声吼”，则是因为近期出现了“过道学区房可作为入学资格”的报道。逢此良机，大陆有不少媒体便开始了“顺杆儿爬”。其中有文章说道，“北京市教委明确‘过道学区房’不具备入学资格，是一种主动作为、完善政策的表现，对于遏制学区房乱象有立竿见影之效”。“顺杆儿爬”的除了媒体...</td></tr>
 </table>
