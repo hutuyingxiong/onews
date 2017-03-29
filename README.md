@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815338&from=ogGitn">中国民建高层去世  胡锦涛高调现身破〝病重〞谣言 2017-03-29 16:38</a><br/>中共著名的社会活动家、民主建国会领导人万国权病亡。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815339&from=ogGitn">江苏户主法院出庭 家遭拆 财物被埋 2017-03-29 16:32</a><br/>现场视频和图片显示，众多警察在拆迁现场拉起警戒线，不准围观者进入，两台挖机正拆除周永红家的楼房。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815335&from=ogGitn">山东发现最大金矿  价值千亿可开采40年 2017-03-29 15:44</a><br/>〝西岭金矿〞潜在价值超过1500亿人民币，可连续开采40年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">港媒：习近平开打上海战役 江泽民毫无还手之力 2017-03-29 15:30</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
@@ -37,7 +39,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815292&from=ogGitn">警方野蛮动粗 山东潍坊老太太肋骨断4根 2017-03-29 06:31</a><br/>山东省潍坊市高新区67岁的戴秀芳女士近日遭当地公安警察绑架。由于受到虐待，老太太肋骨断了4根，锁骨、手腕骨严重断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 06:15</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815283&from=ogGitn">【禁闻】不只贪腐 前辽宁政法书记苏宏章待判 2017-03-29 05:55</a><br/>中共前辽宁省政法委书记苏宏章受贿、行贿一案，3月27号在黑龙江哈尔滨市中级法院开庭，苏宏章被控受贿近2000万、行贿111万。此外，苏宏章还深度涉入〝辽宁拉票贿选案〞，并跟随中共江泽民集团迫害法轮功信仰团体。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815282&from=ogGitn">袁斌：央视要球迷去韩国队饭店门口放炮 2017-03-29 05:52</a><br/>3月23日晚的中韩大战，吸引了成千上万国人的目光。尽管大家的出发点不同，但期盼国足取胜的心情却并无二致。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815282&from=ogGitn">袁斌：央视要球迷去南韩队饭店门口放炮 2017-03-29 05:52</a><br/>3月23日晚的中韩大战，吸引了成千上万国人的目光。尽管大家的出发点不同，但期盼国足取胜的心情却并无二致。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815278&from=ogGitn">【禁闻】3月28日退党精选 2017-03-29 05:51</a><br/>中共的腐败，和潜规则，让很多人反感，他们都在退党网站声明退出中共，来看今天的退党精选。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815284&from=ogGitn">【禁闻】3月28日维权动态 2017-03-29 05:51</a><br/>上海20多人举牌 吁当局释放唐荆陵；妻子遭逼疯 王藏将起诉当局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815281&from=ogGitn">陈思敏：山东〝辱母案〞有责的〝关键少数〞 2017-03-29 05:50</a><br/>山东聊城因高利贷讨债引发的〝儿子刺死辱母者〞一案，主角22岁的于欢已于今年2月一审被判无期徒刑。此一消息在日前经媒体披露后，引发了连日来的舆论海啸。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815052&from=ogGitn">谢天奇：香港分裂持续 林郑面临四路夹击 2017-03-27 11:05</a><br/>受江派势力力挺的林郑当选香港下届特首，预示香港两大分裂态势还将持续，后续博弈料将升级。江派扰乱香港的势力正从上至下被解体；林郑上任首将遭遇四路夹击。林郑在不断升级的习江博弈中何去何从，在香港特首任上能走多远，还是未知数。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815078&from=ogGitn">内蒙古一居民楼爆炸    致5死25人伤 2017-03-27 10:45</a><br/>日前，内蒙古包头市的一小区居民楼房发生爆炸，导致中间整个单元塌陷，事故造成5人死亡，25人受伤，小区83户居民房屋受损，波及259人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815080&from=ogGitn">西藏云南3月27日上午接连发生浅层地震 2017-03-27 10:41</a><br/>3月27日上午，位于中国西南的西藏和云南，接连发生6次深度为8千米至12千米的浅层地震，最大震级为5.1。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815323&from=ogGitn">中共把股市办成了掠夺人民财富的赌场 2017-03-27 10:10</a><br/>中国的股票市场实际上就是中共操控的一个掠夺人民财产的大赌场，中共当局是赌头，而广大的各式各样的股东则是赌客，中共当局开赌场是坐收渔利</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815104&from=ogGitn">袁斌：央视要球迷去南韩队饭店门口放炮！ 2017-03-27 09:56</a><br/>央视在直播韩国队踩场训练时，著名足球解说员刘嘉远竟然在接受采访时号召大家去去韩国队入住的酒店放鞭炮，就当过年了。</td></tr>
 </table>
