@@ -2,10 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815367&from=ogGitn">石铭：由中共高层对反腐的绝望谈起 2017-03-29 23:26</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。在习阵营紧锣密鼓的反腐打虎中，“小官巨贪案”也如雨后春笋不断冒头。此前的陆媒消息称，西安市一社区居委会主任于凡，利用社区拆迁改造项目牟利，单笔受贿就达5,000万，涉...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815360&from=ogGitn">中国女排集训名单出炉 郎平任总教练 2017-03-29 22:37</a><br/>中国女排2017年集训名单3月29日出炉，郎平仍任总教练，其助手安家杰出任执行教练。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815363&from=ogGitn">贪腐五亿多 天津前公安局长武长顺受审 2017-03-29 22:33</a><br/>检方指控：武长顺在担任天津市公安交通管理局局长、天津市公安局副局长、局长、市政协副主席等职务期间，便利工作便利，非法占有公款共计人民币3亿4200余万元；为他人谋取利益，收受他人财物共计8440万余元；挪用公款1亿余元，行贿1057万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">河南律师被谈话 质疑视频声援江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815366&from=ogGitn">近3年河北保定8名县级一把手落马 2017-03-29 22:28</a><br/>3月28日，河北保定市雄县前县委书记吴亚飞落马，吴卸任该职务才3个多月。近3年保定市至少有8个县级党政一把手或原一把手落马。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">专案组有动作 数十律师传视频声援江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815358&from=ogGitn">中共军方批郭徐搞一家两制 揭江干政内幕 2017-03-29 20:20</a><br/>近期，中共军方高官撰文痛批，郭伯雄徐才厚“严重违反军委主席负责制”，表面一套背后一套，搞“一家两制、脚踏两条船”，并称要求彻底清除郭徐流毒影响。上述文章的说法，也从侧面佐证了当年中共前党魁江泽民利用亲信郭、徐架空时任军委主席胡锦涛的事实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">贪腐5亿多创纪录 武长顺为何多年不倒 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815351&from=ogGitn">长沙地铁主体开裂 董事长外逃扯幕后高官 2017-03-29 20:06</a><br/>耗资逾100亿（人民币，下同）的湖南长沙地铁2号线，营运仅3年，于近日惊爆主体结构出现裂痕及渗漏。此时，上任仅一个月的董事长彭旭峰失联，疑已举家外逃。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815107&from=ogGitn">辱母案判决引公愤  最高检称介入 2017-03-27 17:44</a><br/>中共最高检26号发通报称，山东省聊城市冠县〝辱母杀人案〞引起社会广泛关注，最高检已派人到山东阅卷审查。对于被告人于欢，因保护母亲，怒杀追债人的行为，是否是正当防卫或防卫过当，将审查认定。对媒体反映警方在执法过程中的渎职行为，将调查处理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815106&from=ogGitn">内蒙古包头市一小区发生爆炸事故 2017-03-27 17:43</a><br/>25号下午1点55分，向阳小区发生爆炸事故，导致一栋单元楼整体塌陷，楼下多辆车子被炸毁。当地村民透露，爆炸发生后，特警迅速封锁现场至今。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815103&from=ogGitn">对金钱美女来者不拒  湘官自曝9个二奶仍不够 2017-03-27 17:38</a><br/>卢武福自曝，除了对金钱来者不拒以外，对女人也是，先后与9名女性〝通奸〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815112&from=ogGitn">蒲公菊与蒲公英撞脸　山东民众闯公园疯挖 2017-03-27 17:36</a><br/>山东济南市泉城公园裁种的观赏植物蒲公菊,被当地民众误以为是蒲公英挖走。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815126&from=ogGitn">周小川再释紧缩信号 钱紧引发市场担忧 2017-03-27 16:37</a><br/>3月26日，中共央行行长周小川在博鳌论坛表示，货币宽松周期已到尾声，释放了货币政策将不再宽松的信号，但有媒体表示，中共近来去杠杆造成钱紧引发市场担忧。</td></tr>
 </table>
