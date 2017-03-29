@@ -2,7 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">武长顺案开审 涉六宗罪贪腐金额高达5亿多 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">涉六宗罪贪腐5亿多 武长顺为何多年不倒 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815351&from=ogGitn">长沙地铁主体开裂 董事长外逃扯幕后高官 2017-03-29 20:06</a><br/>耗资逾100亿（人民币，下同）的湖南长沙地铁2号线，营运仅3年，于近日惊爆主体结构出现裂痕及渗漏。此时，上任仅一个月的董事长彭旭峰失联，疑已举家外逃。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815352&from=ogGitn">十九大人事工作启动  中纪委划出〝一条线〞 2017-03-29 20:02</a><br/>在中共十九大人事布局中，由王岐山领导的中纪委提出的要求，都是围绕着是否遵守〝政治规矩〞，这将成为考核官员最关键的〝一条线〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815350&from=ogGitn">【史海】毛泽东听到周恩来的意见大骂一通 2017-03-29 19:12</a><br/>1973年6月，美国总统尼克松（Richard Nixon）与苏共总书记勃列日涅夫（Leonid Brezhnev）举行了会谈，两国达成了《关于防止核战争协议》等十三个文件。</td></tr>
