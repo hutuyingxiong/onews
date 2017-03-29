@@ -2,9 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815272&from=ogGitn">口头效忠习近平成风 地方官员大摆高级黑 2017-03-29 08:07</a><br/>日前港媒文章指，各地诸侯表态拥护〝习核心〞成风，有些口号匪夷所思，实际上是对习近平的〝高级黑〞。他们口头效忠，背地里却拉帮结派，对习中央阳奉阴违。中纪委表态，中央巡视重点是各地方〝嘴上喊拥护、行动搞派性〞的问题。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815299&from=ogGitn">【中国禁闻】3月28日完整版 2017-03-29 07:57</a><br/>辱母杀人案 黑老大身后的公权力；房价高 博鳌论坛吵翻天 会降吗？长春围困战 共军不血刃 百姓成饿殍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815306&from=ogGitn">传山西太钢前高管嫁孙女 土豪嫁妆超千万 2017-03-29 07:43</a><br/>大陆多名网民日前在微博上披露一段“太钢原工会主席嫁孙女”的视频，并称嫁妆价值惊人。据估价，陪嫁跑车、豪宅的价值至少在千万元以上。此外司仪提到的“金条500个”总价值超过1600万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815307&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-29 07:10</a><br/>如今，彭旭峰的跑路牵出的是长沙轨道公司的腐败，牵出的是腐败的大后台陈鲁青，而陈鲁青背后的陈润儿，陈润儿背后的张春贤、周强也都一一浮出水面。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815299&from=ogGitn">【中国禁闻】3月28日完整版 2017-03-29 06:57</a><br/>辱母杀人案 黑老大身后的公权力；房价高 博鳌论坛吵翻天 会降吗？长春围困战 共军不血刃 百姓成饿殍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江苏13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815298&from=ogGitn">焚尸灭迹 万元封口 央媒罕见揭辽宁洪灾瞒报 2017-03-29 06:53</a><br/>2012年8月，辽宁省辽阳县遭遇颱风洪灾。大陆官媒央广网今天披露，这场5年前的灾害，至少造成4人死亡3人失踪，有死者家属表示，当地政府没有发布洪水预警，才让灾民来不及逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 06:41</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
@@ -34,7 +35,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>美国之音：中国新规定：互联网〝翻墙〞有罪；自由亚洲电台：李明哲人在何处? 其妻辗转送药；大纪元时报：广东武警少将蔡广辽获刑八年；英国《金融时报》：辉山乳业承认资金链断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强被情敌办公室捅死 2017-03-29 04:16</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815272&from=ogGitn">口头效忠习近平成风 地方官员大摆高级黑 2017-03-29 04:07</a><br/>日前港媒文章指，各地诸侯表态拥护〝习核心〞成风，有些口号匪夷所思，实际上是对习近平的〝高级黑〞。他们口头效忠，背地里却拉帮结派，对习中央阳奉阴违。中纪委表态，中央巡视重点是各地方〝嘴上喊拥护、行动搞派性〞的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815295&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-29 03:34</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和“真善忍”的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。所以当时中共迫害法轮功，根本不得人...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815263&from=ogGitn">山西男子持刀混入幼儿园 砍死3岁男童 2017-03-29 03:20</a><br/>山西省运城发生一起校园凶杀案，一名幼儿被砍死，伤者人数官民说法不一。警方称嫌疑人患有间歇性精神病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815268&from=ogGitn">近期胡锦涛频繁露面 2017-03-29 03:06</a><br/>近日，中共全国政协前副主席万国权病亡，中共六常委和胡锦涛等到公墓送别。</td></tr>
