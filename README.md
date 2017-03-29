@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815374&from=ogGitn">习布局十九大 2天调整20多名省级高官 2017-03-30 01:23</a><br/>中共十九大前夕，习近平当局加速调整地方大员，其中仅3月28、29日两天就调整重庆、山东、陕西、安徽等8省21名省级高官。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815372&from=ogGitn">川普童年故居高价成交 神秘买主或来自中国 2017-03-30 00:49</a><br/>美国总统川普（特朗普）4岁前的童年故居，上周四（3月23日）以拍卖价214万美元成交，买家身份保密，据说是一名中国女士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815373&from=ogGitn">柯文哲：出访国外强烈感受中共封杀 2017-03-30 00:38</a><br/>台北市长柯文哲在结束马来西亚、泰国访问的行程后3月29日表示，出访就可以感受到中共在外交上的封杀，不过仍要努力，他更以“天行健，君子以自强不息”来共同勉励。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815370&from=ogGitn">中国多家金融机构帮朝鲜洗钱 躲避制裁 2017-03-29 23:26</a><br/>最新权威报告显示，中国多家金融机构帮助朝鲜银行洗钱，躲避制裁。有媒体判断，朝鲜涉嫌窃取美联储巨款，有可能得到中国人的帮助。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815108&from=ogGitn">揭秘谷俊山与共军绝密工程〝军盾一号〞 2017-03-27 18:36</a><br/>谷俊山与〝军盾一号〞这项绝密工程鲜为人知的内幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815109&from=ogGitn">慎入！南京一男子翻越轨道 只剩下半截身子 2017-03-27 18:33</a><br/>日前，南京高铁南站发生一出惨剧，一辆列车到达南京进入站台时，一年轻男子突然从对面站台跳下，横越股道，试图抢在列车前翻上站台，结果未能成功，男子被夹在列车车厢与站台之间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815145&from=ogGitn">俄全国大规模反腐示威 数百人被捕 华府谴责 2017-03-27 18:29</a><br/>俄罗斯周日（26日）多个大城市爆发大规模反腐败示威，成千上万的俄罗斯人不顾禁令走上街头抗议政府贪污，其中有数百抗议者遭拘捕，仅在莫斯科就有约500人被捕，包括俄国反对党领袖领袖纳尔瓦尼（Alexei Navalny）。美国政府谴责俄国官方拘捕抗议者。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815118&from=ogGitn">贵州9岁留守男童遭姑父火钩烫皮带抽 2017-03-27 18:20</a><br/>贵州黔西留守儿童遭遇性侵、虐待事件频频被曝光。9岁男童小守都在1岁时父母离异，后被送到姑姑家抚养。小守都控诉，8年来，小守都经常被被姑父姑母虐打，不听话，就用电线、皮带、打火机、火钩等虐待，遍体鳞伤，惨不忍睹。</td></tr>
 </table>
