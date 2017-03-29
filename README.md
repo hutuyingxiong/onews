@@ -3,10 +3,12 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江苏13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815298&from=ogGitn">焚尸灭迹 万元封口 央媒罕见揭辽宁洪灾瞒报 2017-03-29 06:53</a><br/>2012年8月，辽宁省辽阳县遭遇颱风洪灾。大陆官媒央广网今天披露，这场5年前的灾害，至少造成4人死亡3人失踪，有死者家属表示，当地政府没有发布洪水预警，才让灾民来不及逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 06:41</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815294&from=ogGitn">【石涛八方 】智慧者乃境界中的生命 2017-03-29 06:40</a><br/>人们讨论最多的是人有形的肉体，很少讨论无形的那一部分，物质形态有三种，但我们只注重这块肉，而这块肉能受钱色诱惑，走向堕落，走向物质形式的最低档，透过物质形式的最低档来刺激自己，寻求快乐。但你永远抓不住这个快乐。为什么？因为它能毁了你，要你永远追寻。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815293&from=ogGitn">石涛：诸侯口头效忠成风 恢复人性方有中华民族复兴 2017-03-29 06:33</a><br/>如果一个环境缺失了这样的认知，那么人缺失的就是信任，用自我欲望彰显的绝对自由，代替一个人本该拥有的责任。那样的环境，个个都是极端自私者。就算是宗教人士，也是让神服务于自己。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815292&from=ogGitn">警方野蛮动粗 山东潍坊老太太肋骨断4根 2017-03-29 06:31</a><br/>山东省潍坊市高新区67岁的戴秀芳女士近日遭当地公安警察绑架。由于受到虐待，老太太肋骨断了4根，锁骨、手腕骨严重断裂。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815297&from=ogGitn">萨德风波继续升级 韩外交部称遭来自中方网路攻击 2017-03-29 06:26</a><br/>韩外交部称其官网遭到来自中国的分散式阻断服务攻击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 06:15</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815283&from=ogGitn">【禁闻】不只贪腐 前辽宁政法书记苏宏章待判 2017-03-29 05:55</a><br/>中共前辽宁省政法委书记苏宏章受贿、行贿一案，3月27号在黑龙江哈尔滨市中级法院开庭，苏宏章被控受贿近2000万、行贿111万。此外，苏宏章还深度涉入〝辽宁拉票贿选案〞，并跟随中共江泽民集团迫害法轮功信仰团体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815282&from=ogGitn">袁斌：央视要球迷去南韩队饭店门口放炮 2017-03-29 05:52</a><br/>3月23日晚的中韩大战，吸引了成千上万国人的目光。尽管大家的出发点不同，但期盼国足取胜的心情却并无二致。</td></tr>
@@ -24,6 +26,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815275&from=ogGitn">玉清心：中共元老李立三一家的生死劫难 2017-03-29 05:09</a><br/>上世纪六十年代初，北京东单北大街，从第二条胡同北极阁三条往北到灯市东口，两站路程的行人便道上，常见一位提着真皮书包、冬天也穿短裙的洋姑娘。她白肤色、黑头发，轻盈姣美，像天鹅湖畔的一只天鹅飘然而过。在那个物质菲薄，精神枯燥，封闭禁锢的年代，〝洋美人〞成了这条街上的一道风景线。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815271&from=ogGitn">林辉：同仁堂传人自杀 母亲和夫人被打死 2017-03-29 05:04</a><br/>北京有一家赫赫有名的〝老字号〞药店：同仁堂，不仅享誉北京，而且享誉全国。其创始人乐显，曾是清康熙年间太医院的吏目。其子乐凤鸣恪守父训，接续祖业，在北京前门外大栅栏路南开设同仁堂药铺，并提出〝遵肘后，辨地产，炮制虽繁必不敢省人工、品味虽贵必不敢减物力〞，为同仁堂树立起良好的信誉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815270&from=ogGitn">李宇明：大饥荒时期的红色画家 2017-03-29 05:00</a><br/>大跃进时期，一批红色画家为了配合中共的宣传，创作了一大批歌颂大跃进、歌颂中共、歌颂毛泽东的画作。就是在大饥荒时期，大批饿死人的时候，这些红色画家还在继续为中共歌功颂德。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815296&from=ogGitn">法警察枪杀华人引热议 华裔：让司法公正处理 2017-03-29 04:56</a><br/>“法国警察破门打死华人”事件惊动之大，华人网友都在热议。在法国，面对众多华文媒体和法国媒体不一致的消息，不少华人迷茫了。3月27日，一位留法中国学生截屏微信朋友圈的消息问道：“朋友圈的消息，求证一下，有人知道吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815267&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-29 04:50</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>美国之音：中国新规定：互联网〝翻墙〞有罪；自由亚洲电台：李明哲人在何处? 其妻辗转送药；大纪元时报：广东武警少将蔡广辽获刑八年；英国《金融时报》：辉山乳业承认资金链断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
@@ -203,7 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815048&from=ogGitn">传肖建华被关押上海 由正规军队看守 2017-03-26 22:56</a><br/>港媒称肖建华已为当局清理金融大鰐提供了〝联络图〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815022&from=ogGitn">习清洗公安部 郭声琨多个旧部落马（上） 2017-03-26 20:51</a><br/>中共“十八大”后，反腐风暴席卷整个官场，号称“刀把子”的中共公安系统成为重灾区。尽管公安部“一把手”郭声琨在公开场合频频向习近平表衷，但其“两面人”的表现却引来噩运。近来郭声琨的旧部接连落马，公安系统持续遭到清洗，多方信息显示郭的处境艰难。郭声琨的广西旧部余远辉受审3月21日，中共前广西南宁市委书记余远辉受贿案在湖南法院开庭审理，其被指控受贿逾900...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815030&from=ogGitn">传肖建华供出〝联络图〞 两会期间已秘密抓人 2017-03-26 20:02</a><br/>据最新消息，肖建华供出了至少10名高官钜贾，根据肖提供的〝联络图〞，在3月〝两会〞期间已经有人被秘密抓捕。接下来相信北京当局会有更大的动作。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815024&from=ogGitn">政法系大清洗  习近平用人呈现一大特征 2017-03-26 19:05</a><br/>日前，中共中央政治局批高法高检领导班子〝软、散、疲〞。2017年两会前后，中共政法系统大换血，多名无政法工作经历的新人上位。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815012&from=ogGitn">香港特首选举 林郑月娥777票当选 2017-03-26 17:20</a><br/>3月26日是香港五年一度的特首选举日。数百个海内外媒体已经在场外等候，排了有50米长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815041&from=ogGitn">陈思敏：辉山乳业股价闪崩背后旧闻涉部级高官 2017-03-26 16:55</a><br/>这次辉山乳业无端崩塌的背后之一，有指是大股东挪用30亿资金投资房地产失利的消息在市场上走漏。</td></tr>
 </table>
