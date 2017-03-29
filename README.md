@@ -2,9 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815409&from=ogGitn">德媒：坏事又变好事？ 辱母杀人案引发〝被准许的愤怒〞 2017-03-30 06:22</a><br/>山东辱母杀人案引发大陆网民声讨，中共最高检随即宣布介入调查。时评人长平认为，这是当局默许下的又一次〝被准许的愤怒〞，中共或再次〝将坏事变好事〞，导演又一个〝法治的胜利〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815410&from=ogGitn">梁京：中国的房地产泡沫已近临界点 2017-03-30 05:59</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。做出这一判断其实不难，因为所谓一线城市，即北京、上海、广州、深圳等大都市，两年之间，房价在所谓“天价”水平之上，又翻了一番。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815408&from=ogGitn">【禁闻】反人类杀人 前罗共官员获刑20年 2017-03-30 05:59</a><br/>反人类杀人 前罗共官员获刑20年；反人类杀人 前罗共官员获刑20年；中共违反联合国决议 续进朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815402&from=ogGitn">楼市新一轮调控来袭 房价下降的拐点来临？ 2017-03-30 05:49</a><br/>在大陆开启新一轮楼市调控之际，近日又有多地发布楼市调控新政。外界关注，房价下降的拐点或要到来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815395&from=ogGitn">谢天奇：习王围剿江家族 胡锦涛露面释两信号 2017-03-30 05:48</a><br/>习阵营连番动作围剿上海帮江泽民家族之际，胡锦涛、温家宝、朱镕基等习阵营元老密集露面，一方面，反衬江泽民被封杀的异常，印证其处境不妙的现状；另一方面，展示与习的政治联盟，震慑江派势力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815406&from=ogGitn">武长顺受审 他手上沾了多少生命的血？ 2017-03-30 05:31</a><br/>王忆，男，天津法轮功学员。2002年1月24日，他到天安门广场请愿，被天津公安局南开分局关押；1月31日凌晨死亡。李文霞，女，2000年，在天津公安局辖下的塘沽拘留所被关押。释放时，李文霞气若游丝，身体像一具骷髅。2006年12月，她含冤离世。程科，女，天津法轮功学员，华北建材公司离休老干部。2004年10月，她在天津市河西区公安分局看守所被...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815407&from=ogGitn">陆学者：朝鲜是潜在敌人 韩统一半岛有利无弊 2017-03-30 05:22</a><br/>朝鲜核武发展在导致半岛危机升级的同时，让中朝关系也走向对立。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815404&from=ogGitn">【禁闻】重庆新规 翻墙有罪 评：自砸脚 2017-03-30 05:21</a><br/>3月27号，重庆市公安局发布了《网络监管行政处罚裁量基准》修订稿，规定对于擅自建立、使用所谓的非法定信道进行国际联网；接入网络未通过互联网络接入国际联网；未经许可从事国际联网经营业务；未经批准进行国际联网等翻墙行为，将予以处罚。对所谓构成犯罪的，还要追究刑事责任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815403&from=ogGitn">【禁闻】反右研讨会受阻 疑中共施压与会者 2017-03-30 05:19</a><br/>香港〝五七学社〞成立于2007年，宗旨是致力于收集、整理和研究一切有关中国大陆反右运动的资料、文献，包括各种各样的回忆录，并将之整理、传播或出版。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815399&from=ogGitn">网传江苏副省长杨岳跳楼 2017-03-30 05:14</a><br/>3月29日，报社记者“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”目前，官方对此还没有相关报导。</td></tr>
@@ -23,6 +27,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815383&from=ogGitn">陈达：从“辱母杀人”案看红毒之剧 2017-03-30 03:30</a><br/>当面辱亲母，男儿能含糊？孝为百善先，辱母最大辱。警匪一家逼，自卫惩恶徒。替天行道义，雪耻责自负。谁知红衙门，无期判过度。悍然犯众怒，最高检介入。介入怎么弄，不外擦屁股。不管怎么擦，无碍浑身毒。党妈就那货，嗜血集百毒。红毒最剧烈，人给变动物。名虽标高级，实比兽残酷。即使甩坏蛋，亦只把党护。衣法党治国，流氓乱棍杵。法制党妈手，欺侮...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815390&from=ogGitn">香港反右60周年研讨会 与会者：中共无可救药 2017-03-30 03:16</a><br/>〝反右运动〞60周年研讨会一连两日于香港召开。40名大陆参加者被禁来港。活动负责人回深圳时一度被扣留问话。与会人士回忆了被打成右派的悲惨经历。有右派老人称，不要期盼中共〝恩赐民主〞，中共〝执迷不悟，已无可救药〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815384&from=ogGitn">数千越战老兵集体扫墓 中共内部发紧急通知 2017-03-30 03:02</a><br/>今年是越战38周年纪念，每年清明，各地老兵们都会前往广西扫墓，而地方政府也严阵以待。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815349&from=ogGitn">【翻墙必看】王雪冰情妇“安娜”到底是谁 2017-03-30 02:53</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，保护自身及家族的经济利益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">“电老虎”冯军被判无期 曾供出上海两老虎 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815381&from=ogGitn">中国人为何弃EB-5绿卡转向其它美签？ 2017-03-30 02:17</a><br/>中国人最想要的美签是“确定性最高、等待时间最短及成本最低”，已对EB-5失去兴趣，转而申请L-1或EB-1签证。</td></tr>
@@ -51,7 +56,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815352&from=ogGitn">十九大人事工作启动  中纪委划出〝一条线〞 2017-03-29 20:02</a><br/>在中共十九大人事布局中，由王岐山领导的中纪委提出的要求，都是围绕着是否遵守〝政治规矩〞，这将成为考核官员最关键的〝一条线〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815350&from=ogGitn">【史海】毛泽东听到周恩来的意见大骂一通 2017-03-29 19:12</a><br/>1973年6月，美国总统尼克松（Richard Nixon）与苏共总书记勃列日涅夫（Leonid Brezhnev）举行了会谈，两国达成了《关于防止核战争协议》等十三个文件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815348&from=ogGitn">大陆女生卖卵子差点虚脱  只为换一部苹果手机 2017-03-29 17:56</a><br/>上海23岁的女大学生小雨，为购买了一部iPhone7 Plus卖卵子。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815349&from=ogGitn">【翻墙必看】王雪冰情妇“安娜”到底是谁 2017-03-29 17:53</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815347&from=ogGitn">网传山西国企高层嫁孙女　陪嫁3千万招来纪委 2017-03-29 17:49</a><br/>网路爆料，山西大型国企太原钢铁集团公司的工会主席嫁孙女，附送总值逾3000万元人民币的嫁妆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815356&from=ogGitn">709案家属又被禁足 辩护律师微信遭封杀 2017-03-29 17:30</a><br/>近日，709案王全璋律师的妻子李文足又被北京市石景山区国保警察“跟随”，恢复中共“两会”时期的禁足状态。另外，709案谢阳的辩护律师陈建刚最近因参与转发“十秒质疑”视频活动，其微信号被封杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815346&from=ogGitn">万人签名维权 指地方政府涉泛亚案 2017-03-29 17:02</a><br/>泛亚投资受害人表示，每天都有人去相关部门维权，但目前维权没有任何进展，中院也迟迟不开庭。</td></tr>
@@ -202,8 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815181&from=ogGitn">广东武警少将蔡广辽获刑八年 2017-03-28 06:11</a><br/>日前中共广东省委办公厅前副主任、省公安厅前党委副书记、武警少将蔡广辽，以受贿近500万元一审被判刑8年 。蔡广辽因具有军、政双层背景，备受外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815170&from=ogGitn">颜丹：取缔“过道学区房”的背后 2017-03-28 05:55</a><br/>最近，北京市教委突然高调宣称，“‘过道学区房’不能作为入学资格条件”。而之所以发出这样的“一声吼”，则是因为近期出现了“过道学区房可作为入学资格”的报道。逢此良机，大陆有不少媒体便开始了“顺杆儿爬”。其中有文章说道，“北京市教委明确‘过道学区房’不具备入学资格，是一种主动作为、完善政策的表现，对于遏制学区房乱象有立竿见影之效”。“顺杆儿爬”的除了媒体...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815157&from=ogGitn">周晓辉：官员财产公示制度未到公布时机背后 2017-03-28 05:53</a><br/>破局之法并非没有，只要开放党禁、报禁，让人民监督官员，并进而彻底抛弃中共，现高层就可以走向光明大道，实现其依法治国的“中国梦”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815320&from=ogGitn">可口可乐曾叫蝌蚪啃蜡？大陆译名搞笑历史 2017-03-28 05:46</a><br/>Airbnb日前宣布中文名字为“爱彼迎”，大陆人却不买账。为进军华人市场，国外品牌常会取中文名，但取不好却会有反效果，可口可乐就曾经取名“蝌蚪啃蜡”，成为翻译界里的经典失败案例。国际民宿网路平台Airbnb遍布全球190个国家，但在中国大陆却远落后于本土企业“途家”和“小猪短租”。为了加深中国大陆民众能对品牌的熟悉度，Airbnb日前宣布品牌的中文名...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815160&from=ogGitn">【禁闻】大陆货币增速第一 为何还闹钱荒？ 2017-03-28 05:46</a><br/>据大陆媒体报导，最近大陆银行〝勒紧裤带过日子〞的时间又来了。《华夏时报》的报导说，华南某银行交易员抱怨，每天上班都在借借借，跪求资金，心好累。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815153&from=ogGitn">【禁闻】港特首选举次日 政府起诉占中人士 2017-03-28 05:37</a><br/>港特首选举次日 政府起诉占中人士；国际特赦：起诉占中人士涉嫌政治打压；</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815159&from=ogGitn">【禁闻】学者也不容？居澳副教授遭中共禁离华 2017-03-28 05:36</a><br/>据多家媒体报导，从24号起，冯崇义在广州两度无法登机离境，并且在第二次得知自己被列入禁飞名单。</td></tr>
 </table>
