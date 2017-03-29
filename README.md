@@ -3,7 +3,9 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815367&from=ogGitn">石铭：由中共高层对反腐的绝望谈起 2017-03-29 23:26</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。在习阵营紧锣密鼓的反腐打虎中，“小官巨贪案”也如雨后春笋不断冒头。此前的陆媒消息称，西安市一社区居委会主任于凡，利用社区拆迁改造项目牟利，单笔受贿就达5,000万，涉...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815318&from=ogGitn">上海整治商住房 业主上百万购房款打水漂 2017-03-29 23:09</a><br/>今年2月上海闵行、嘉定两区决定3月底前，彻底废除商住房的居住属性，3月派出大批保安特勤带强拆商住房，许多居民对此感到绝望。江苏苏恒房地产开发有限公司兴建的阳光东都大批安置房被开发商偷卖，老百姓冤情无出诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815360&from=ogGitn">中国女排集训名单出炉 郎平任总教练 2017-03-29 22:37</a><br/>中国女排2017年集训名单3月29日出炉，郎平仍任总教练，其助手安家杰出任执行教练。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815368&from=ogGitn">王林弟子被绑架谋杀案开审 5名被告当庭认罪 2017-03-29 22:36</a><br/>3月29日，江西抚州中院对〝江泽民国师〞王林弟子邹勇被绑架谋杀案一审开庭。五名被告当庭表示认罪，因王林上月病亡，对其审理已终止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815363&from=ogGitn">贪腐五亿多 天津前公安局长武长顺受审 2017-03-29 22:33</a><br/>检方指控：武长顺在担任天津市公安交通管理局局长、天津市公安局副局长、局长、市政协副主席等职务期间，便利工作便利，非法占有公款共计人民币3亿4200余万元；为他人谋取利益，收受他人财物共计8440万余元；挪用公款1亿余元，行贿1057万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815366&from=ogGitn">近3年河北保定8名县级一把手落马 2017-03-29 22:28</a><br/>3月28日，河北保定市雄县前县委书记吴亚飞落马，吴卸任该职务才3个多月。近3年保定市至少有8个县级党政一把手或原一把手落马。</td></tr>
@@ -40,7 +42,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815359&from=ogGitn">江西女孩被多所美国名校录取 获高额奖学金 2017-03-29 13:35</a><br/>江西南昌有一名18岁的高三女生申请出国留学，不仅收到美国十余所大学的录取通知书，其中包括排名前15名的高校，还有大学愿提供每年3万余美元的奖学金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815330&from=ogGitn">反右运动受难者聚集香港 “中共无药可救” 2017-03-29 13:19</a><br/>在香港举办的“反右运动60周年国际研讨会”上，老右派及其后人回顾中共反右运动中对中国知识分子精英的残酷打压和迫害，表示已看透中共邪恶本质，其已无可救药。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815324&from=ogGitn">乌鲁木齐一煤矿采空区塌陷 已致4死3伤 2017-03-29 13:03</a><br/>3月28日4时30分许，乌鲁木齐市水磨沟区八道湾煤矿（已停产）附近一采空区发生塌陷，造成警备室内的7人，有4人死亡，3人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815318&from=ogGitn">上海整治商住房 业主上百万购房款打水漂 2017-03-29 11:51</a><br/>今年2月上海闵行、嘉定两区决定3月底前，彻底废除商住房的居住属性，3月派出大批保安特勤带强拆商住房，许多居民对此感到绝望。江苏苏恒房地产开发有限公司兴建的阳光东都大批安置房被开发商偷卖，老百姓冤情无出诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815334&from=ogGitn">袁斌：“辱母杀人案”与中国基层乱象 2017-03-29 11:22</a><br/>中共一党专政下当今基层社会的乱象，而“辱母杀人案”所折射的充其量也只不过是其中的冰山一角罢了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815321&from=ogGitn">每日三退声明精选（2017/03/28） 2017-03-29 10:59</a><br/>我是一个一直在追求人生真谛的人，我2004年去部队服役，06年在部队入邪党，但是对我来说对部队看到的腐败和潜规则总是心中很奇怪，后来渐渐发觉这是一个由谎言和邪恶组成的组织，现在我深感懊悔，发誓退出邪恶之党不与邪恶为伍，去寻求那份真正属于我们内心深处的愿望！</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815138&from=ogGitn">陈思敏：山东“辱母案”有责的“关键少数” 2017-03-27 17:46</a><br/>山东聊城因高利贷讨债引发的“儿子刺死辱母者”一案，主角22岁的于欢已于今年2月一审被判无期徒刑。此一消息在日前经媒体披露后，引发了连日来的舆论海啸。在报导公开的一审判决书中，部分内容还原了11名讨债者当着于欢的面用极端手段羞辱其母亲的过程，也透露了讨债人与当地警方的“关系”：警察到现场并没有制止讨债人对于欢母子的控制，只对讨债人说了一句“要账可以，但...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815107&from=ogGitn">辱母案判决引公愤  最高检称介入 2017-03-27 17:44</a><br/>中共最高检26号发通报称，山东省聊城市冠县〝辱母杀人案〞引起社会广泛关注，最高检已派人到山东阅卷审查。对于被告人于欢，因保护母亲，怒杀追债人的行为，是否是正当防卫或防卫过当，将审查认定。对媒体反映警方在执法过程中的渎职行为，将调查处理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815106&from=ogGitn">内蒙古包头市一小区发生爆炸事故 2017-03-27 17:43</a><br/>25号下午1点55分，向阳小区发生爆炸事故，导致一栋单元楼整体塌陷，楼下多辆车子被炸毁。当地村民透露，爆炸发生后，特警迅速封锁现场至今。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815103&from=ogGitn">对金钱美女来者不拒  湘官自曝9个二奶仍不够 2017-03-27 17:38</a><br/>卢武福自曝，除了对金钱来者不拒以外，对女人也是，先后与9名女性〝通奸〞。</td></tr>
 </table>
