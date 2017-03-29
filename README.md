@@ -2,12 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815335&from=ogGitn">山东发现最大金矿  价值千亿可开采40年 2017-03-29 15:44</a><br/>〝西岭金矿〞潜在价值超过1500亿人民币，可连续开采40年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">港媒：习近平开打上海战役 江泽民毫无还手之力 2017-03-29 15:30</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815332&from=ogGitn">反腐〝打虎〞前景如何？专家：习近平面临4大挑战 2017-03-29 15:17</a><br/>日前，专门研究中共贪腐问题的美国教授说，反腐并不是一场〝运动〞，而是中国的〝新常态〞。他同时指出，江泽民制造了腐败文化，习近平今后的反腐运动至少面临4大挑战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815325&from=ogGitn">民众听谣言去抢菜 河南菜农13亩菠菜被挖光 2017-03-29 14:32</a><br/>3月23日，一条仅10秒的虚假视频在河南济源市民的威信朋友圈中疯转。视频中，一女子称：“酒务村东头菠菜地里的菠菜不要了，抓紧来整。”该信息导致菜农孙先生承包的13亩菠菜被闻风赶来的民众基本挖光，孙先生无奈报警。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815336&from=ogGitn">辉山乳业深陷财务危机 银行业绩受累 2017-03-29 14:11</a><br/>大陆辉山乳业股价崩盘后，3月27日，中国平安银行承认间接持有辉山乳业大笔股份。有业界人士表示受辉山乳业所累，数家持有该企业股份的银行利润将下降。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815322&from=ogGitn">央企老总被撤政协委员 年薪曾近千万元 2017-03-29 14:07</a><br/>日前，中共全国政协主席俞正声主持召开政协会议。该会议通过了撤销孔庆平的全国政协委员的资格。作为央企老总出事，此消息在业界引起不小震动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815330&from=ogGitn">反右运动受难者聚集香港 “中共无药可救” 2017-03-29 13:19</a><br/>在香港举办的“反右运动60周年国际研讨会”上，老右派及其后人回顾中共反右运动中对中国知识分子精英的残酷打压和迫害，表示已看透中共邪恶本质，其已无可救药。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815324&from=ogGitn">乌鲁木齐一煤矿采空区塌陷 已致4死3伤 2017-03-29 13:03</a><br/>3月28日4时30分许，乌鲁木齐市水磨沟区八道湾煤矿（已停产）附近一采空区发生塌陷，造成警备室内的7人，有4人死亡，3人受伤。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815323&from=ogGitn">中共把股市办成了掠夺人民财富的赌场 2017-03-27 10:10</a><br/>中国的股票市场实际上就是中共操控的一个掠夺人民财产的大赌场，中共当局是赌头，而广大的各式各样的股东则是赌客，中共当局开赌场是坐收渔利</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815104&from=ogGitn">袁斌：央视要球迷去南韩队饭店门口放炮！ 2017-03-27 09:56</a><br/>央视在直播韩国队踩场训练时，著名足球解说员刘嘉远竟然在接受采访时号召大家去去韩国队入住的酒店放鞭炮，就当过年了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815073&from=ogGitn">何清涟：朝核威胁背后的四国演义 2017-03-27 09:48</a><br/>朝核威胁牵涉到美、韩、中三国，危及东北亚安全。目前随着美国施加的压力越来越大，朝核危机已经到了图穷匕首现的地步。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815070&from=ogGitn">林辉：放弃马列的陈独秀与其逃港的女儿 2017-03-27 08:21</a><br/>在中共党史上，陈独秀是一个无法回避的名字——尽管中共刻意淡化。原因就在于他不仅是中国最早宣传马克思主义、主张〝全盘西化〞的知识份子，也是中共早期的主要创始人和首任总书记。然而，就是这样一个曾经怀着无限热忱传播马克思主义之人，却在晚年彻底进行了省思，并放弃了共产主义思想，反对苏联，支持蒋介石领导的抗日战争，认为只有民主政治才能救中国，认为英美法的民主代表人类的希望。而这亦是现今中共大力批判其之处，也是中共无法〝正面评价〞陈独秀的所在。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815066&from=ogGitn">【禁闻】百名红通犯 国际刑警网站突消失 2017-03-27 08:18</a><br/>几年前中共中纪委监察部公布的100名红色通缉外逃人员名单，至少在两天前，在原来的国际刑警组织网站上，消失不见，无法查询。</td></tr>
 </table>
