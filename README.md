@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815399&from=ogGitn">网传江苏副省长杨岳跳楼 2017-03-30 05:14</a><br/>3月29日，报社记者“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”目前，官方对此还没有相关报导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815395&from=ogGitn">谢天奇：习王围剿江家族 胡锦涛露面释两信号 2017-03-30 05:08</a><br/>习阵营连番动作围剿上海帮江泽民家族之际，胡锦涛、温家宝、朱镕基等习阵营元老密集露面，一方面，反衬江泽民被封杀的异常，印证其处境不妙的现状；另一方面，展示与习的政治联盟，震慑江派势力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815394&from=ogGitn">理悟：良知复苏 2017-03-30 04:40</a><br/>仁义礼智信为先，炎黄古道赖神传。以德治国朝纲振，法彰邪遁万民欢。共产邪说乱纲纪，邪灵入侵嚣百年。末日红魔犹可恶，无法无天任狂癫。打压正信人性泯，邪毒恶狠祸中原。蟾妖兴风遮日月，邪党作浪鼓层澜。公安不安成凶手，法官枉法天平偏。草菅人命害法徒，酷刑活摘卖器官。腥风血雨漫天飞，法制无存造奇冤。大法崇尚真善忍，遭此不公人神...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815392&from=ogGitn">夏小强：香港的社会撕裂如何修补？ 2017-03-30 04:15</a><br/>自从当选下任香港特首几天以来，林郑月娥多次声称要修补香港社会裂痕，重建和谐。这也说明，修补香港社会撕裂的现状，已经成为香港稳定发展的前提。香港特首选举人曾俊华以高民望、低得票落败，是香港社会撕裂现状在政治层面的体现；表现在社会和民众层面，则是几年来不断出现的、以雨伞运动为代表的大规模民众抗议运动。造成香港社会撕裂的主要原因是什么？原因有二。...</td></tr>
@@ -16,7 +17,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815390&from=ogGitn">香港反右60周年研讨会 与会者：中共无可救药 2017-03-30 03:16</a><br/>〝反右运动〞60周年研讨会一连两日于香港召开。40名大陆参加者被禁来港。活动负责人回深圳时一度被扣留问话。与会人士回忆了被打成右派的悲惨经历。有右派老人称，不要期盼中共〝恩赐民主〞，中共〝执迷不悟，已无可救药〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815384&from=ogGitn">数千越战老兵集体扫墓 中共内部发紧急通知 2017-03-30 03:02</a><br/>今年是越战38周年纪念，每年清明，各地老兵们都会前往广西扫墓，而地方政府也严阵以待。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，保护自身及家族的经济利益。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">上海“电老虎”冯军一审获刑无期 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">“电老虎”冯军被判无期 曾供出上海两大“老虎” 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815381&from=ogGitn">中国人为何弃EB-5绿卡转向其它美签？ 2017-03-30 02:17</a><br/>中国人最想要的美签是“确定性最高、等待时间最短及成本最低”，已对EB-5失去兴趣，转而申请L-1或EB-1签证。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815376&from=ogGitn">复旦大学实验室爆炸 一学生双手炸伤 2017-03-30 02:12</a><br/>上海复旦大学邯郸校区的化学西楼209实验室3月27日发生爆炸，事故中一名20岁大三男学生双手受伤被送院治理。事发时该男生正进行高温高压反应化学实验，期间未知何故发生爆炸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815378&from=ogGitn">湖南落马官员李亿龙享乐奢靡细节曝光 2017-03-30 01:56</a><br/>3月29日，湖南省纪委通报6起省管干部违反“习八条”问题，其中第一个就是省委农村工作领导小组原副组长李亿龙，引人关注的是，通报中透露了他享乐奢靡的细节，还特别提到了“保姆”问题。</td></tr>
@@ -26,6 +27,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815375&from=ogGitn">中国人为何不断涌入澳洲抢房？ 2017-03-30 01:03</a><br/>据澳洲媒体近日报导，中国人正大举涌入澳洲抢购房产，中国人的需求占海外需求的80%。在这些中国人看来，澳洲房产有其独特的吸引力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815372&from=ogGitn">川普童年故居高价成交 神秘买主或来自中国 2017-03-30 00:49</a><br/>美国总统川普（特朗普）4岁前的童年故居，上周四（3月23日）以拍卖价214万美元成交，买家身份保密，据说是一名中国女士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815373&from=ogGitn">柯文哲：出访国外强烈感受中共封杀 2017-03-30 00:38</a><br/>台北市长柯文哲在结束马来西亚、泰国访问的行程后3月29日表示，出访就可以感受到中共在外交上的封杀，不过仍要努力，他更以“天行健，君子以自强不息”来共同勉励。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815398&from=ogGitn">组图：大陆各地民众纷纷举报江泽民 2017-03-29 23:52</a><br/>河北唐山45,193举报江泽民，辽宁抚顺37,523人，四川成都某区26,119人……举报迫害法轮功元凶江泽民和支持诉江的浪潮正在席卷大陆各地。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815370&from=ogGitn">中国多家金融机构帮朝鲜洗钱 躲避制裁 2017-03-29 23:26</a><br/>最新权威报告显示，中国多家金融机构帮助朝鲜银行洗钱，躲避制裁。有媒体判断，朝鲜涉嫌窃取美联储巨款，有可能得到中国人的帮助。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815367&from=ogGitn">石铭：由中共高层对反腐的绝望谈起 2017-03-29 23:26</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。在习阵营紧锣密鼓的反腐打虎中，“小官巨贪案”也如雨后春笋不断冒头。此前的陆媒消息称，西安市一社区居委会主任于凡，利用社区拆迁改造项目牟利，单笔受贿就达5,000万，涉...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815318&from=ogGitn">上海整治商住房 业主上百万购房款打水漂 2017-03-29 23:09</a><br/>今年2月上海闵行、嘉定两区决定3月底前，彻底废除商住房的居住属性，3月派出大批保安特勤带强拆商住房，许多居民对此感到绝望。江苏苏恒房地产开发有限公司兴建的阳光东都大批安置房被开发商偷卖，老百姓冤情无出诉。</td></tr>
@@ -114,7 +116,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815311&from=ogGitn">丽江被打毁容女孩 136天后公开近照和遗书 2017-03-29 04:07</a><br/>3月27日，丽江被打女孩小董在广东省人民医院内，首次披露了自己的遗书，同时，她治疗期间的伤情照片和被打136天后的近照也首度曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815295&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-29 03:34</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和“真善忍”的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。所以当时中共迫害法轮功，根本不得人...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815263&from=ogGitn">山西男子持刀混入幼儿园 砍死3岁男童 2017-03-29 03:20</a><br/>山西省运城发生一起校园凶杀案，一名幼儿被砍死，伤者人数官民说法不一。警方称嫌疑人患有间歇性精神病。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815268&from=ogGitn">近期胡锦涛频繁露面 2017-03-29 03:06</a><br/>近日，中共全国政协前副主席万国权病亡，中共六常委和胡锦涛等到公墓送别。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815268&from=ogGitn">胡锦涛近期频繁露面 引关注 2017-03-29 03:06</a><br/>近日，中共全国政协前副主席万国权病亡，中共六常委和胡锦涛等到公墓送别。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815256&from=ogGitn">暴毙后终止审理裁定流出 王林诈骗奸幼犯罪史曝光 2017-03-29 02:24</a><br/>有〝江泽民国师〞之称的江西〝气功大师〞王林上月在医院身亡。今日江西抚州中院裁定王林案终止审理，但裁定书揭发王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815238&from=ogGitn">大连美食城一男子持双刀猛捅陌生食客 2017-03-29 02:23</a><br/>在辽宁大连市一家美食城，一名58岁男子只因对另一名食客看不顺眼，对他连捅5刀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815259&from=ogGitn">“辱母杀人案”持续发酵，司法腐败问题受到讨论 2017-03-29 02:14</a><br/>中国的律师都很羡慕正常国家的律师特别是美国的律师，中国律师们的尊严和满足感何在？是律师们错了，还是行业错了，还是制度错了？</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815151&from=ogGitn">【 石涛八方】活着的人恐惧与揣摩死亡 聪明者的愚蠢 2017-03-28 04:46</a><br/>道是什么？修炼的人就是懂得天理的人，一个修行得道者为什么能够全胜？因为他不会陷入人的利益中，他仰仗的是佛法，是他修行的大道，用他灵魂的境界看到这人间外在物质世界的一切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815158&from=ogGitn">姚振华被举报掠夺数百亿元土地 涉广东高官 2017-03-28 04:42</a><br/>近日大连商人陈谷嘉在网上实名举报，宝能系姚振华、姚建辉兄弟与大晟文化实际控制人周镇科、周镇宏兄弟掠夺其公司价值数百亿元的土地。早前落马的周镇宏曾任广东省委常委、统战部部长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815147&from=ogGitn">商店宰客逼迫游客购物  云南副省长曾中招 2017-03-28 03:37</a><br/>四季如春、风景如画的云南，在游客的眼中是旅游的首选之地。但是近些年逼迫游客购物的事件，却让不少人提心吊胆。云南省副省长陈某实地考察时，也遇到了一样的情况。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815156&from=ogGitn">夏小强：辱母杀人案发生在山东的政治内幕 2017-03-28 03:25</a><br/>山东聊城辱母杀人案经媒体曝光，在网络上中迅速传播发酵，引起中国社会广泛关注。民众纷纷指责一审法官对护母杀人者于欢的无期徒刑判决，并质疑当地公检法机关袒护放高利贷者和黑社会。在沸腾的舆论声中，中共最高检察院已宣布派员介入调查。一审法官的判决结果，明确地向外界传递出的信息，用网友的话就是：“他发现没有法制的时候，他拿起了刀。当他拿起了刀，法制又回来了。一...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815142&from=ogGitn">辛可：我为什么不骂美国或美国人 2017-03-28 03:23</a><br/>网友来信质问，为什么我只讲中国或中国人的种种不堪，从来不骂美国或美国人？言外之意，我多少有些美狗的嫌疑。就算我是狗，但这事真有点冤枉了我。</td></tr>
 </table>
