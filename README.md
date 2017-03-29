@@ -73,6 +73,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815341&from=ogGitn">民进党前党工疑使用微信遭中共国安监控 2017-03-29 15:32</a><br/>台湾民主活动人士李明哲据称被中国国安单位拘留，他的同事称，李明哲或因使用中国社交媒体“微信”（WeChat）讨论中国与台湾关系而引起中国国安部门的注意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815361&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-29 15:11</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815411&from=ogGitn">鲁高速突发5起事故至少12死伤 现场惨烈 2017-03-29 15:09</a><br/>3月29日6时50分左右，泰新高速相继发生5起交通事故，涉及22辆车，其中2起已经造成2人死亡，10人受伤，另外3起事故正在处理中，伤亡情况不明。网民微博发帖称，现场惨烈，太瘆人了。据报，事发时泰新高速56一77km路段突发团雾，涉事的22辆车中，有大货车20辆，小货车2辆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815371&from=ogGitn">山西疯汉持刀混入幼儿园 砍死一幼童 2017-03-29 14:40</a><br/>3月28日上午8时许，山西平陆县常乐镇双语幼儿园内发生一起恶性凶杀案。一名患有精神病男子持刀混入幼儿园内，将一名3岁幼儿砍伤身亡。犯罪嫌疑人已被抓获。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815166&from=ogGitn">时政段子集：辱母杀人案比雷洋案更令人绝望 2017-03-28 06:23</a><br/>时政段子集：辱母杀人案 比雷洋案更令人绝望</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815181&from=ogGitn">广东武警少将蔡广辽获刑八年 2017-03-28 06:11</a><br/>日前中共广东省委办公厅前副主任、省公安厅前党委副书记、武警少将蔡广辽，以受贿近500万元一审被判刑8年 。蔡广辽因具有军、政双层背景，备受外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815170&from=ogGitn">颜丹：取缔“过道学区房”的背后 2017-03-28 05:55</a><br/>最近，北京市教委突然高调宣称，“‘过道学区房’不能作为入学资格条件”。而之所以发出这样的“一声吼”，则是因为近期出现了“过道学区房可作为入学资格”的报道。逢此良机，大陆有不少媒体便开始了“顺杆儿爬”。其中有文章说道，“北京市教委明确‘过道学区房’不具备入学资格，是一种主动作为、完善政策的表现，对于遏制学区房乱象有立竿见影之效”。“顺杆儿爬”的除了媒体...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815157&from=ogGitn">周晓辉：官员财产公示制度未到公布时机背后 2017-03-28 05:53</a><br/>破局之法并非没有，只要开放党禁、报禁，让人民监督官员，并进而彻底抛弃中共，现高层就可以走向光明大道，实现其依法治国的“中国梦”。</td></tr>
 </table>
