@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815346&from=ogGitn">万人签名维权 指地方政府涉泛亚案 2017-03-29 17:02</a><br/>泛亚投资受害人表示，每天都有人去相关部门维权，但目前维权没有任何进展，中院也迟迟不开庭。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815345&from=ogGitn">中共部级金融高官王雪冰的情史被深度揭秘 2017-03-29 16:59</a><br/>近日，中共部级金融高官自曝与影星“安娜”（化名）的情史事件持续发酵，该高官被曝是王雪冰，而王雪冰与“安娜”的情史也被深度揭秘。最近，被称作反腐纪实文学的书籍《追问》公开出版发行，书中记述的8名正部级官员中有一人自曝了与影视女明星情人“安娜”的情史。书中描述，这名正部级高官，为了企业家妻子、影视明星情人，动用了公权力，违规操作中国境外资金数十亿...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815344&from=ogGitn">〝收听敌台罪〞翻版？重庆新规〝翻墙〞有罪 2017-03-29 16:47</a><br/>40年前，中国有所谓的〝收听敌台〞罪，现在中共与时俱进规定了网际网路〝翻墙〞罪。日前，重庆市公安局官网上发布一则关于网路监管的新规定，"翻墙"上海外网站有罪，可处以罚款或追究刑事责任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815343&from=ogGitn">〝辱母杀人案〞点燃百姓怒火   山东官黑勾结黑幕曝光 2017-03-29 16:38</a><br/>山东辱母杀人事件还在持续发酵，近日该案被告人于欢被判无期，亿万网民纷纷为他鸣不平，质疑法院裁决不公，官黑勾结。与此同时，有消息人士曝光山东官黑勾结黑幕，指当地政法系官员与涉案高利贷主联合放贷，警方助纣为虐。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815338&from=ogGitn">中国民建高层去世  胡锦涛高调现身破〝病重〞谣言 2017-03-29 16:38</a><br/>中共著名的社会活动家、民主建国会领导人万国权病亡。</td></tr>
@@ -9,6 +11,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815335&from=ogGitn">山东发现最大金矿  价值千亿可开采40年 2017-03-29 15:44</a><br/>〝西岭金矿〞潜在价值超过1500亿人民币，可连续开采40年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815341&from=ogGitn">民进党前党工疑使用微信遭中共国安监控 2017-03-29 15:32</a><br/>台湾民主活动人士李明哲据称被中国国安单位拘留，他的同事称，李明哲或因使用中国社交媒体“微信”（WeChat）讨论中国与台湾关系而引起中国国安部门的注意。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">港媒：习近平开打上海战役 江泽民毫无还手之力 2017-03-29 15:30</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815332&from=ogGitn">反腐〝打虎〞前景如何？专家：习近平面临4大挑战 2017-03-29 15:17</a><br/>日前，专门研究中共贪腐问题的美国教授说，反腐并不是一场〝运动〞，而是中国的〝新常态〞。他同时指出，江泽民制造了腐败文化，习近平今后的反腐运动至少面临4大挑战。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
@@ -24,7 +27,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815321&from=ogGitn">每日三退声明精选（2017/03/28） 2017-03-29 10:59</a><br/>我是一个一直在追求人生真谛的人，我2004年去部队服役，06年在部队入邪党，但是对我来说对部队看到的腐败和潜规则总是心中很奇怪，后来渐渐发觉这是一个由谎言和邪恶组成的组织，现在我深感懊悔，发誓退出邪恶之党不与邪恶为伍，去寻求那份真正属于我们内心深处的愿望！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815319&from=ogGitn">周小川一月两提资产泡沫 被指承认楼市泡沫 2017-03-29 10:54</a><br/>近日，大陆央行行长周小川再提资产泡沫。外界认为，这等于官方确认楼市泡沫，金融风险凸显。最近，北京金融界拉警报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815293&from=ogGitn">石涛：诸侯口头效忠成风 恢复人性方有中华民族复兴 2017-03-29 10:52</a><br/>如果一个环境缺失了这样的认知，那么人缺失的就是信任，用自我欲望彰显的绝对自由，代替一个人本该拥有的责任。那样的环境，个个都是极端自私者。就算是宗教人士，也是让神服务于自己。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">港媒：习近平开打上海战役 江泽民毫无还手之力 2017-03-29 10:47</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815297&from=ogGitn">萨德风波继续升级 韩外交部称遭来自中方网路攻击 2017-03-29 10:30</a><br/>韩外交部称其官网遭到来自中国的分散式阻断服务攻击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815309&from=ogGitn">换马甲？天津大爆炸被处分官员转任云南要职 2017-03-29 10:30</a><br/>天津大爆炸被处分官员、中共原天津滨海新区区委书记宗国英转任云南要职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 10:10</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815086&from=ogGitn">猝死暴病车祸连连 大陆7省7千官员横遭厄运 2017-03-27 12:10</a><br/>中共自1999年迫害信仰群体法轮功修炼者以来，据明慧网的记载，在中国大陆7个省内，约有7千起积极参与迫害者遭受恶报的案例，其中还有些因遭恶报而殃及到家人的案例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815122&from=ogGitn">为身份“婚不择偶” 纽约华女绿卡泡汤 2017-03-27 11:55</a><br/>在移民政策收紧的情势下，加重了身份悬而未决者的恐慌，有的人把“结婚”作为解决移民身份的“捷径”，近来婚姻介绍所生意特别好，甚至好过律师所。有的华人为了办身份，仓促结婚，结果掉进另一个陷阱，落得人财两空。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815094&from=ogGitn">长春男子引爆煤气罐致爆炸火灾 居民陷恐慌 2017-03-27 11:22</a><br/>吉林长春一对开土豆粉店的夫妻吵架，丈夫点燃了店里的煤气罐，引发爆炸和火灾，周边市民极度恐慌。发生爆炸、火灾的店面已面目全非，楼上六层楼均受殃及。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815087&from=ogGitn">贵州盘县山体滑坡 致民房倒塌4人死亡 2017-03-27 11:15</a><br/>26日凌晨0点左右，贵州六盘水市盘县新民镇扒噶村发生山体滑坡，一间房屋被推倒，房中5人被困，仅1人生还。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815081&from=ogGitn">每日三退声明精选（2017/03/26） 2017-03-27 11:13</a><br/>我们了解了中共历来迫害中国民众，欺压我同村的兄弟姐妹。很多公检法人员并不能维护正义，只是为保住自己的工作，对公民的利益与合法权益弃之而不顾。我们在此郑重声明，退出中共邪党邪团，退出共产党邪教的一切组织，迎接光明的未来！</td></tr>
 </table>
