@@ -92,6 +92,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815359&from=ogGitn">江西女孩被多所美国名校录取 获高额奖学金 2017-03-29 13:35</a><br/>江西南昌有一名18岁的高三女生申请出国留学，不仅收到美国十余所大学的录取通知书，其中包括排名前15名的高校，还有大学愿提供每年3万余美元的奖学金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815330&from=ogGitn">反右运动受难者聚集香港 “中共无药可救” 2017-03-29 13:19</a><br/>在香港举办的“反右运动60周年国际研讨会”上，老右派及其后人回顾中共反右运动中对中国知识分子精英的残酷打压和迫害，表示已看透中共邪恶本质，其已无可救药。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815324&from=ogGitn">乌鲁木齐一煤矿采空区塌陷 已致4死3伤 2017-03-29 13:03</a><br/>3月28日4时30分许，乌鲁木齐市水磨沟区八道湾煤矿（已停产）附近一采空区发生塌陷，造成警备室内的7人，有4人死亡，3人受伤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815423&from=ogGitn">评论：中共集权导致房地产泡沫难解 2017-03-29 12:37</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815334&from=ogGitn">袁斌：“辱母杀人案”与中国基层乱象 2017-03-29 11:22</a><br/>中共一党专政下当今基层社会的乱象，而“辱母杀人案”所折射的充其量也只不过是其中的冰山一角罢了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815321&from=ogGitn">每日三退声明精选（2017/03/28） 2017-03-29 10:59</a><br/>我是一个一直在追求人生真谛的人，我2004年去部队服役，06年在部队入邪党，但是对我来说对部队看到的腐败和潜规则总是心中很奇怪，后来渐渐发觉这是一个由谎言和邪恶组成的组织，现在我深感懊悔，发誓退出邪恶之党不与邪恶为伍，去寻求那份真正属于我们内心深处的愿望！</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:30</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815183&from=ogGitn">突变失业人员 山西原平昊华职工海外寻帮助 2017-03-28 07:35</a><br/>山西原平昊华公司因政策性破产，职工在身份转换过程中利益受到严重伤害，多次向有关部门申诉无果。最近，他们希望大纪元帮助他们呼吁，维护职工正当权益。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815165&from=ogGitn">中国人为何大批移民马来西亚？ 2017-03-28 07:30</a><br/>中国人正掀起赴马来西亚又一波移民潮，其中有数千中国人根据马来西亚“第二家园计划”（MM2H)移民该国，成为这波移民潮的一大组成部分。</td></tr>
 </table>
