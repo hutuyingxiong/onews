@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 05:27</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 05:03</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">墓地比地产还火？苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815522&from=ogGitn">强拆人员入屋打死人 河南逾百村民抬尸抗议 2017-03-31 04:59</a><br/>河南省商丘市多条村庄陆续被政府强拆，有强拆人员强闯入屋活活打死1名村民，逾百名村民连日抬尸游行到区政府抗议，要求给予村民交代。而在近期的强拆事件中，已经造成4人死亡。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815298&from=ogGitn">焚尸灭迹 万元封口 央媒罕见揭辽宁洪灾瞒报 2017-03-29 06:53</a><br/>2012年8月，辽宁省辽阳县遭遇颱风洪灾。大陆官媒央广网今天披露，这场5年前的灾害，至少造成4人死亡3人失踪，有死者家属表示，当地政府没有发布洪水预警，才让灾民来不及逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强在办公室被情敌捅死 2017-03-29 06:42</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815294&from=ogGitn">【石涛八方 】智慧者乃境界中的生命 2017-03-29 06:40</a><br/>人们讨论最多的是人有形的肉体，很少讨论无形的那一部分，物质形态有三种，但我们只注重这块肉，而这块肉能受钱色诱惑，走向堕落，走向物质形式的最低档，透过物质形式的最低档来刺激自己，寻求快乐。但你永远抓不住这个快乐。为什么？因为它能毁了你，要你永远追寻。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815292&from=ogGitn">警方野蛮动粗 山东潍坊老太太肋骨断4根 2017-03-29 06:31</a><br/>山东省潍坊市高新区67岁的戴秀芳女士近日遭当地公安警察绑架。由于受到虐待，老太太肋骨断了4根，锁骨、手腕骨严重断裂。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815261&from=ogGitn">“江泽民国师”王林奸淫幼女曾获刑20年 2017-03-29 06:15</a><br/>与江派高官关系密切的所谓“气功大师”王林在取保候审期间死亡后，他的裁定书披露，王林曾有诈骗、奸淫幼女等犯罪经历。</td></tr>
 </table>
