@@ -7,6 +7,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815464&from=ogGitn">宋庄艺术家遭强拆 数十艺术家声援 2017-03-30 17:12</a><br/>北京宋庄的独立艺术家持续受到当局打压，29号，沈敬东正在兴建中的房子突然被强拆，他本人也被强拆人员用钢叉叉倒在地，受到轻伤。数十名艺术家到场拉横幅抗议，双方发生冲突，混乱中有人被打伤，2人被警方带走。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815460&from=ogGitn">伦敦客：是什么让台湾远离大陆？ 2017-03-30 16:50</a><br/>喜欢一样东西会靠近它，讨厌一样东西会远离它。是什么让台湾远离大陆？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815458&from=ogGitn">向北京卖情报 美国务院女官遭FBI逮捕 2017-03-30 16:46</a><br/>美国国务院一名掌握敏感资料的资深女雇员遭到司法部门起诉。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815465&from=ogGitn">传中共外交部或兼并港澳办 2017-03-30 16:42</a><br/>日前，中共外交系统官员空降教育部任职引发关注。有消息传，明年国务院港澳办等机构或被外交部兼并。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815454&from=ogGitn">研究：受中国阴霾影响 日韩2007年3万人早死 2017-03-30 16:11</a><br/>韩联社30日报导，一项研究结果表明，仅2007年，从中国漂洋过海的阴霾导致韩日两国非自然死亡人数就达3.09万人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815462&from=ogGitn">陆流动留守儿童达1亿 教育成问题 2017-03-30 16:10</a><br/>3月28号，中共相关部门联合发布的《中国流动儿童教育发展报告（2016）》蓝皮书指出，截至2015年10月1号，中国流动儿童和留守儿童总数高达1亿人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815456&from=ogGitn">福建男网购小米手机   收到一包大米 2017-03-30 15:55</a><br/>江某学校学生，花了800块在网上买了一只小米5手机，却收到一包大米。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 18:26</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815223&from=ogGitn">青岛法院秘判信仰案 同一案出两份判决 2017-03-28 18:17</a><br/>青岛市市南区法院主审法官王丽卿，对三名法轮功学员张红茹、李秀君、王瑾，进行非法秘密判刑。奇怪的是，同一个案件，三位辩护律师竟然收到了两份内容不同的判决书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815224&from=ogGitn">【翻墙必看】江泽民一再被点死穴 2017-03-28 18:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815220&from=ogGitn">河南上千村民抗议强拆 多人被捕 2017-03-28 18:02</a><br/>23号，包括城管、防暴警察等数百名强拆人员到徐堂村强拆房子，遭到上千村民阻拦，双方爆发激烈冲突，26号，当地政府调动近百名城管，数十辆警车进村强行清理抗议的横幅。目前，警察禁止村民聚集。</td></tr>
 </table>
