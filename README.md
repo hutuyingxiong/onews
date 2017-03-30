@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815422&from=ogGitn">【石涛八方 】天地人合一生命真实与境界 2017-03-30 09:50</a><br/>无论动物也好，人也好，当处在危险当中的时候，很希望别人能伸出一只手，但有多少人事先知道自己处在危险当中呢？</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815421&from=ogGitn">苦胆：中国为什么总是〝对者出局〞？ 2017-03-30 09:46</a><br/>有个段子说：〝在北京市政建设中，历史证明梁思成是对的，但老北京还是消失了；三门峡工程该不该上，黄万里是对的，但三门峡水库还是造起来了……中国的吊诡之处在于：对者出局。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815420&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-30 08:23</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 07:07</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815183&from=ogGitn">突变失业人员 山西原平昊华职工海外寻帮助 2017-03-28 07:35</a><br/>山西原平昊华公司因政策性破产，职工在身份转换过程中利益受到严重伤害，多次向有关部门申诉无果。最近，他们希望大纪元帮助他们呼吁，维护职工正当权益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815165&from=ogGitn">中国人为何大批移民马来西亚？ 2017-03-28 07:30</a><br/>中国人正掀起赴马来西亚又一波移民潮，其中有数千中国人根据马来西亚“第二家园计划”（MM2H)移民该国，成为这波移民潮的一大组成部分。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815195&from=ogGitn">上海中介小伙为卖房四次结婚 含70岁老妪 2017-03-28 07:15</a><br/>虽然大陆楼市购房限令不断收紧，但开发商、中介的各种规避和破解招数也随之“升级”。最近陆媒爆出，上海一家房屋中介工作员工，为了卖方，竟然与客户四次结婚，其中岁数最大的已经70多岁。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 </table>
