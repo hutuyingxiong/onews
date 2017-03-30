@@ -2,10 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815463&from=ogGitn">沉冤20余年 聂树斌父母获赔268万 2017-03-30 17:36</a><br/>聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815461&from=ogGitn">彪海洋：从辱母案看合议庭对案件的操控 2017-03-30 17:19</a><br/>近几天，辱母案在全国发酵，成为最为热点的事件，这客观反映出人们对中国法制状况的普遍不满，也同样反映出人们普遍对公平正义的强烈渴望。至目前为止，已有很多的评论文章分析该案，但笔者注意到，这些文章极少揭示出合议庭在本案中对案件的操控手法，大多数认为这是法律与道德要求的矛盾所致，而忽视了法官故意扭曲法律适用这个关键，而该问题，在中国的法律界中，实际上是一个已泛滥成灾的普遍现象，已成为极其突出的问题，如果不立即纠正，将成为全面依法治国之灾。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815464&from=ogGitn">宋庄艺术家遭强拆 数十艺术家声援 2017-03-30 17:12</a><br/>北京宋庄的独立艺术家持续受到当局打压，29号，沈敬东正在兴建中的房子突然被强拆，他本人也被强拆人员用钢叉叉倒在地，受到轻伤。数十名艺术家到场拉横幅抗议，双方发生冲突，混乱中有人被打伤，2人被警方带走。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815460&from=ogGitn">伦敦客：是什么让台湾远离大陆？ 2017-03-30 16:50</a><br/>喜欢一样东西会靠近它，讨厌一样东西会远离它。是什么让台湾远离大陆？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815458&from=ogGitn">向北京卖情报 美国务院女官遭FBI逮捕 2017-03-30 16:46</a><br/>美国国务院一名掌握敏感资料的资深女雇员遭到司法部门起诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815454&from=ogGitn">研究：受中国阴霾影响 日韩2007年3万人早死 2017-03-30 16:11</a><br/>韩联社30日报导，一项研究结果表明，仅2007年，从中国漂洋过海的阴霾导致韩日两国非自然死亡人数就达3.09万人。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815462&from=ogGitn">陆流动留守儿童达1亿 教育成问题 2017-03-30 16:10</a><br/>3月28号，中共相关部门联合发布的《中国流动儿童教育发展报告（2016）》蓝皮书指出，截至2015年10月1号，中国流动儿童和留守儿童总数高达1亿人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815456&from=ogGitn">福建男网购小米手机   收到一包大米 2017-03-30 15:55</a><br/>江某学校学生，花了800块在网上买了一只小米5手机，却收到一包大米。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815457&from=ogGitn">重庆两厅官收受礼金被处理 2017-03-30 15:53</a><br/>3月30日，中共重庆国际投资咨询集团有限公司原总经理、董事贾建国及重庆南川区委原常委、区政府党组原副书记王元开因违反“习八条”，收受下属礼金被“双开”，并移送司法处理。自去年底以来，重庆官场持续震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815453&from=ogGitn">“毛骨悚然”国企巨贪自述夺权和贪腐黑幕 2017-03-30 15:34</a><br/>“怎么独裁，你要会弄”——一名在狱中的“国企巨贪”自述在国企中如何采用阴损的手段操弄人事、夺取实权及其贪腐奢靡的内幕。他解剖了自己在权力巅峰时的癫狂，以“毛骨悚然”来形容国企高管的腐败。</td></tr>
@@ -201,7 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815223&from=ogGitn">青岛法院秘判信仰案 同一案出两份判决 2017-03-28 18:17</a><br/>青岛市市南区法院主审法官王丽卿，对三名法轮功学员张红茹、李秀君、王瑾，进行非法秘密判刑。奇怪的是，同一个案件，三位辩护律师竟然收到了两份内容不同的判决书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815224&from=ogGitn">【翻墙必看】江泽民一再被点死穴 2017-03-28 18:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815220&from=ogGitn">河南上千村民抗议强拆 多人被捕 2017-03-28 18:02</a><br/>23号，包括城管、防暴警察等数百名强拆人员到徐堂村强拆房子，遭到上千村民阻拦，双方爆发激烈冲突，26号，当地政府调动近百名城管，数十辆警车进村强行清理抗议的横幅。目前，警察禁止村民聚集。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815217&from=ogGitn">四川〝黑老大〞刘汉遗产被拍卖   起价逾2.5亿 2017-03-28 17:51</a><br/>周永康的马仔四川〝黑老大〞刘汉两年前已被执行死刑，今天（3月28日）他留下的部分遗产在网路上公开拍卖。从拍卖交易平台上看到，这部分涉案资产起拍价超过2.5亿元人民币。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815222&from=ogGitn">阿富汗鸦片产量激增 源于中国转基因种子 2017-03-28 17:39</a><br/>国际社会几十年来一直试图根除阿富汗的鸦片种植活动，但这个问题却越来越严重，去年阿富汗的鸦片产量激增了43%，其中主要是所谓的“中国种子”作出的“贡献”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815205&from=ogGitn">陈思敏：湖南官场遭清洗 周强张春贤谁更紧张 2017-03-28 17:23</a><br/>3月27日，长沙市宣传部原部长张湘涛被查。粗略统计今年以来在中纪委官网上，这已是不到一个月内的第6名落马湘官，不到三个月内的第8个湖南反腐通告。</td></tr>
 </table>
