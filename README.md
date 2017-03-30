@@ -9,10 +9,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815408&from=ogGitn">【禁闻】检察院退卷江苏句容 法轮功学员获释 2017-03-30 09:47</a><br/>反人类杀人 前罗共官员获刑20年；反人类杀人 前罗共官员获刑20年；中共违反联合国决议 续进朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815421&from=ogGitn">苦胆：中国为什么总是〝对者出局〞？ 2017-03-30 09:46</a><br/>有个段子说：〝在北京市政建设中，历史证明梁思成是对的，但老北京还是消失了；三门峡工程该不该上，黄万里是对的，但三门峡水库还是造起来了……中国的吊诡之处在于：对者出局。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点辱母案现罕见一幕 2017-03-30 09:22</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815433&from=ogGitn">“收听敌台”罪再现？重庆定“翻墙上网”罪 2017-03-30 08:30</a><br/>近日，重庆市公安规定擅自接入国际联网属违法行为，将被停网和处罚。评论指，荒妙可笑。“自由门”等是摧毁中共网络长城以及世界上其它专制国家的网络控制与封锁的最佳利器。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815420&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-30 08:23</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815429&from=ogGitn">新疆一周传两袭击案 又千名武警从辽宁入疆 2017-03-30 08:07</a><br/>新疆局势持续紧张。海外消息披露，伊犁的昭苏县和霍城县上周发生两起严重的暴力袭击事件，当局近日紧急从辽宁武警机动师再调派1000名武警至伊犁，加强搜查及戒备。此前当局已派5000名武警到新疆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 07:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 07:07</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815402&from=ogGitn">楼市新一轮调控来袭 房价下降的拐点来临？ 2017-03-30 07:01</a><br/>在大陆开启新一轮楼市调控之际，近日又有多地发布楼市调控新政。外界关注，房价下降的拐点或要到来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815412&from=ogGitn">【禁闻】3月29日维权动态 2017-03-30 07:01</a><br/>农保金遭截留 内蒙逾千农牧民抗议；湖南强拆户阻当局宅基地施工 遭行拘；多起维权案件近日集中审理。</td></tr>
@@ -34,6 +34,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815385&from=ogGitn">姚文元回忆录曝毛晚年多起重大政治事件 2017-03-30 03:59</a><br/>姚文元1996年出狱后，曾撰写了42万字的回忆录，但被中共当局封杀。随后，姚文元在2002年底开始用8个月的时间，撰写了5万多字的文章《回顾与反思》，其中包括毛泽东晚年时的多起重大的政治事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815391&from=ogGitn">终于能用了！ Google翻译App向中国用户开放 2017-03-30 03:58</a><br/>日前，Google翻译App版本更新，允许中国用户下载使用。但有报导指，此事与Google重返中国无关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815396&from=ogGitn">“神秘人物”施克辉出掌中纪委办公厅 2017-03-30 03:51</a><br/>中纪委官方消息显示，浙江系高官施克辉已出任中纪委办公厅主任。“神秘人物”施克辉曾多次跟随中纪委书记王岐山到地方调研。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 03:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815387&from=ogGitn">【微视频】辉山乳业崩盘带给香港的冲击和启示 2017-03-30 03:39</a><br/>媒体说，3月20号，债权人突然接到辉山乳业通知，无法偿还本息。几天之后，辉山的股票就崩盘了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815383&from=ogGitn">陈达：从“辱母杀人”案看红毒之剧 2017-03-30 03:30</a><br/>当面辱亲母，男儿能含糊？孝为百善先，辱母最大辱。警匪一家逼，自卫惩恶徒。替天行道义，雪耻责自负。谁知红衙门，无期判过度。悍然犯众怒，最高检介入。介入怎么弄，不外擦屁股。不管怎么擦，无碍浑身毒。党妈就那货，嗜血集百毒。红毒最剧烈，人给变动物。名虽标高级，实比兽残酷。即使甩坏蛋，亦只把党护。衣法党治国，流氓乱棍杵。法制党妈手，欺侮...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815390&from=ogGitn">香港反右60周年研讨会 与会者：中共无可救药 2017-03-30 03:16</a><br/>〝反右运动〞60周年研讨会一连两日于香港召开。40名大陆参加者被禁来港。活动负责人回深圳时一度被扣留问话。与会人士回忆了被打成右派的悲惨经历。有右派老人称，不要期盼中共〝恩赐民主〞，中共〝执迷不悟，已无可救药〞。</td></tr>
@@ -70,7 +71,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815348&from=ogGitn">大陆女生卖卵子差点虚脱  只为换一部苹果手机 2017-03-29 17:56</a><br/>上海23岁的女大学生小雨，为购买了一部iPhone7 Plus卖卵子。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815347&from=ogGitn">网传山西国企高层嫁孙女　陪嫁3千万招来纪委 2017-03-29 17:49</a><br/>网路爆料，山西大型国企太原钢铁集团公司的工会主席嫁孙女，附送总值逾3000万元人民币的嫁妆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815356&from=ogGitn">709案家属又被禁足 辩护律师微信遭封杀 2017-03-29 17:30</a><br/>近日，709案王全璋律师的妻子李文足又被北京市石景山区国保警察“跟随”，恢复中共“两会”时期的禁足状态。另外，709案谢阳的辩护律师陈建刚最近因参与转发“十秒质疑”视频活动，其微信号被封杀。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 17:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815346&from=ogGitn">万人签名维权 指地方政府涉泛亚案 2017-03-29 17:02</a><br/>泛亚投资受害人表示，每天都有人去相关部门维权，但目前维权没有任何进展，中院也迟迟不开庭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815345&from=ogGitn">中共部级金融高官王雪冰的情史被深度揭秘 2017-03-29 16:59</a><br/>近日，中共部级金融高官自曝与影星“安娜”（化名）的情史事件持续发酵，该高官被曝是王雪冰，而王雪冰与“安娜”的情史也被深度揭秘。最近，被称作反腐纪实文学的书籍《追问》公开出版发行，书中记述的8名正部级官员中有一人自曝了与影视女明星情人“安娜”的情史。书中描述，这名正部级高官，为了企业家妻子、影视明星情人，动用了公权力，违规操作中国境外资金数十亿...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815344&from=ogGitn">〝收听敌台罪〞翻版？重庆新规〝翻墙〞有罪 2017-03-29 16:47</a><br/>40年前，中国有所谓的〝收听敌台〞罪，现在中共与时俱进规定了网际网路〝翻墙〞罪。日前，重庆市公安局官网上发布一则关于网路监管的新规定，"翻墙"上海外网站有罪，可处以罚款或追究刑事责任。</td></tr>
@@ -84,6 +84,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815335&from=ogGitn">山东发现最大金矿  价值千亿可开采40年 2017-03-29 15:44</a><br/>〝西岭金矿〞潜在价值超过1500亿人民币，可连续开采40年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815341&from=ogGitn">民进党前党工疑使用微信遭中共国安监控 2017-03-29 15:32</a><br/>台湾民主活动人士李明哲据称被中国国安单位拘留，他的同事称，李明哲或因使用中国社交媒体“微信”（WeChat）讨论中国与台湾关系而引起中国国安部门的注意。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 15:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815361&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-29 15:11</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815411&from=ogGitn">鲁高速突发5起事故至少12死伤 现场惨烈 2017-03-29 15:09</a><br/>3月29日6时50分左右，泰新高速相继发生5起交通事故，涉及22辆车，其中2起已经造成2人死亡，10人受伤，另外3起事故正在处理中，伤亡情况不明。网民微博发帖称，现场惨烈，太瘆人了。据报，事发时泰新高速56一77km路段突发团雾，涉事的22辆车中，有大货车20辆，小货车2辆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815179&from=ogGitn">贝克汉姆脸书一句话 意外引爆中港网友骂战 
 										
 											?组图 2017-03-28 08:57</a><br/>贝克汉姆（David Beckham）到香港与上海参加活动，一句〝在中国很棒的48小时〞，引爆大陆和香港网友论战。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815177&from=ogGitn">【中国禁闻】3月27日完整版 2017-03-28 08:50</a><br/>大陆货币增速第一 为何还闹钱荒？；辱母杀人案背后： 高利贷黑幕引关注；网传〝十秒质疑〞视频 声援维权律师。</td></tr>
 </table>
