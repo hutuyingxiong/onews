@@ -2,8 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点 辱母案现罕见一幕 2017-03-30 12:22</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815442&from=ogGitn">【热点互动】辱母杀人案为何引爆舆论？ 2017-03-30 11:41</a><br/>近日，山东的一桩辱母杀人案引发舆论狂潮，青年于欢在长时间目睹追债人侮辱母亲，警察不作为的情况下，愤而刺杀主犯，今年二月被判处无期徒刑。媒体曝光后引起民情激愤，微博上150万条评论，几乎一边倒的力挺于欢，斥责判决不公。那么这个案件揭示出了中国社会哪些层面的不公和黑幕？舆论对于欢的支持是以感情代替法律吗？今天我们就对这个热点事件做一些解读和分析。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815436&from=ogGitn">辱母杀人案成习近平孝治天下的试金石 2017-03-30 11:12</a><br/>有评论表示，山东聊城发生的辱母案已成为习近平孝治天下的试金石。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815435&from=ogGitn">8千老兵集体扫墓    当局严控防再演包围北京事件 2017-03-30 11:11</a><br/>2017年是越战38周年纪念，日前各地8千名越战老兵在广西凭祥举行了一年一度的扫墓活动，哀悼在越战中逝去的战友。当局对此高度关注，有通知显示，地方政府严防老兵在扫墓后前往北京集体上访。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815440&from=ogGitn">习近平先访芬兰再赴美 不住川普私人庄园 2017-03-30 10:22</a><br/>在美中双方还没有正式宣布两国首脑将于4月初举行会晤的消息之际，芬兰总统府星期三宣布，中国国家主席习近平将</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815434&from=ogGitn">北京宋庄艺术家房屋遭强拆　警用钢叉制服抗议者 
 										
 											?组图 2017-03-30 10:14</a><br/>艺术家们阻止强拆时遭遇保安用钢叉制服在地，过程中有人受伤。</td></tr>
@@ -14,7 +17,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815408&from=ogGitn">【禁闻】检察院退卷江苏句容 法轮功学员获释 2017-03-30 09:47</a><br/>反人类杀人 前罗共官员获刑20年；反人类杀人 前罗共官员获刑20年；中共违反联合国决议 续进朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815421&from=ogGitn">苦胆：中国为什么总是〝对者出局〞？ 2017-03-30 09:46</a><br/>有个段子说：〝在北京市政建设中，历史证明梁思成是对的，但老北京还是消失了；三门峡工程该不该上，黄万里是对的，但三门峡水库还是造起来了……中国的吊诡之处在于：对者出局。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815437&from=ogGitn">大陆A股三连跌 房地产板块持续走弱 2017-03-30 09:32</a><br/>大陆A股3月29日连续第三个交易日下跌，盘中沪指一度跌幅为0.6%，房地产板块继续走弱，市场分析预计A股将持续震荡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点 辱母案现罕见一幕 2017-03-30 09:22</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815433&from=ogGitn">“收听敌台”罪再现？重庆定“翻墙上网”罪 2017-03-30 08:30</a><br/>近日，重庆市公安规定擅自接入国际联网属违法行为，将被停网和处罚。评论指，荒妙可笑。“自由门”等是摧毁中共网络长城以及世界上其它专制国家的网络控制与封锁的最佳利器。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815420&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-30 08:23</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815429&from=ogGitn">新疆一周传两袭击案 又千名武警从辽宁入疆 2017-03-30 08:07</a><br/>新疆局势持续紧张。海外消息披露，伊犁的昭苏县和霍城县上周发生两起严重的暴力袭击事件，当局近日紧急从辽宁武警机动师再调派1000名武警至伊犁，加强搜查及戒备。此前当局已派5000名武警到新疆。</td></tr>
@@ -62,6 +64,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815370&from=ogGitn">中国多家金融机构帮朝鲜洗钱 躲避制裁 2017-03-29 23:26</a><br/>最新权威报告显示，中国多家金融机构帮助朝鲜银行洗钱，躲避制裁。有媒体判断，朝鲜涉嫌窃取美联储巨款，有可能得到中国人的帮助。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815367&from=ogGitn">石铭：由中共高层对反腐的绝望谈起 2017-03-29 23:26</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。在习阵营紧锣密鼓的反腐打虎中，“小官巨贪案”也如雨后春笋不断冒头。此前的陆媒消息称，西安市一社区居委会主任于凡，利用社区拆迁改造项目牟利，单笔受贿就达5,000万，涉...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815318&from=ogGitn">上海整治商住房 业主上百万购房款打水漂 2017-03-29 23:09</a><br/>今年2月上海闵行、嘉定两区决定3月底前，彻底废除商住房的居住属性，3月派出大批保安特勤带强拆商住房，许多居民对此感到绝望。江苏苏恒房地产开发有限公司兴建的阳光东都大批安置房被开发商偷卖，老百姓冤情无出诉。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815441&from=ogGitn">祖先来自台湾 黑龙江人黄斌访屏东寻根 2017-03-29 23:09</a><br/>4月5日是清明节，扫墓祭祖不仅表现了慎终追远，还有缅怀先人、饮水思源之意。清明节前夕，祖先300年前因朱一贵事件被流放至宁古塔的黑龙江人黄斌，因族谱记载祖先来自台湾，近日来台寻根，台湾屏东文化处特别邀请学者与文史工作者带领黄斌寻访先民英雄事迹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815360&from=ogGitn">中国女排集训名单出炉 郎平任总教练 2017-03-29 22:37</a><br/>中国女排2017年集训名单3月29日出炉，郎平仍任总教练，其助手安家杰出任执行教练。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815368&from=ogGitn">王林弟子被绑架谋杀案开审 5名被告当庭认罪 2017-03-29 22:36</a><br/>3月29日，江西抚州中院对〝江泽民国师〞王林弟子邹勇被绑架谋杀案一审开庭。五名被告当庭表示认罪，因王林上月病亡，对其审理已终止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815363&from=ogGitn">贪腐五亿多 天津前公安局长武长顺受审 2017-03-29 22:33</a><br/>检方指控：武长顺在担任天津市公安交通管理局局长、天津市公安局副局长、局长、市政协副主席等职务期间，便利工作便利，非法占有公款共计人民币3亿4200余万元；为他人谋取利益，收受他人财物共计8440万余元；挪用公款1亿余元，行贿1057万元。</td></tr>
@@ -203,7 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815202&from=ogGitn">陆企卖9年机床亏1500万 出售12套房赚2000万 2017-03-28 12:52</a><br/>大陆一家生产经营机床的上市企业靠卖机床9年来累计亏损1500万元（人民币，下同），近来公司为了扭亏要卖掉12套房产，这12套房产预计盈利2000多万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815193&from=ogGitn">每日三退声明精选（2017/03/27） 2017-03-28 11:40</a><br/>且不说这个邪党给我们的民族、文化、国家造成的浩劫与迫害，单是它给我们一家人带来的痛苦，已经令我良心的每一寸土地，都没有它容身之地。郑重宣布：退出中共邪党，回归神的子民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815140&from=ogGitn">港媒：中共官员公然撒谎 越战目的不可告人 2017-03-28 11:40</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815186&from=ogGitn">打造反腐利器有玄机？习近平〝文胆〞执掌追赃办 2017-03-28 11:20</a><br/>习近平推行的反腐风暴在2017年将再掀高潮。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815192&from=ogGitn">陕西纪检组长被查处 曾糊弄国务院 2017-03-28 11:13</a><br/>日前，中共陕西省纪委派驻的纪检组组长因带头违反“习八条”规定被查处，该官员被扒出几年前就曾糊弄国务院。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815203&from=ogGitn">上海虹口足球场着火 浓烟滚滚 火势迅猛 2017-03-28 11:02</a><br/>3月28日早上8时30分许，上海虹口足球场突然发生大火，火势凶猛，伴随着滚滚浓烟弥漫天际。官媒称无人员伤亡。</td></tr>
 </table>
