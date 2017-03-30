@@ -8,8 +8,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815443&from=ogGitn">每日三退声明精选（2017/03/29） 2017-03-30 13:43</a><br/>我是一名个体经商户，眼下大陆个体经营很困难，中共邪党的贪腐问题得不到解决，老百姓看不到希望。在此，我声明退出中共邪党的共青团组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815447&from=ogGitn">北京平壤暗通款曲？调查：中国还有多个〝马晓红〞 2017-03-30 13:31</a><br/>中国被指继续违反联合国决议进口朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815446&from=ogGitn">王岐山的〝神秘随从〞变身中纪委大管家 2017-03-30 13:23</a><br/>习近平上台后，多名习的浙江旧部获得重用，日前，被外界称为王岐山〝神秘随从〞的浙江系高官施克辉变身中共中纪委大管家，据中纪委官方消息，施克辉已出任中纪委办公厅主任。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815451&from=ogGitn">湖南一大学学生会主席诈骗27同学逾百万元 2017-03-30 12:46</a><br/>湖南工学院大四学生、学生会主席涉诈骗27名同学逾百万元（人民币，下同），在毕业前4个月时被拘捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点 辱母案现罕见一幕 2017-03-30 12:22</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815442&from=ogGitn">【热点互动】辱母杀人案为何引爆舆论？ 2017-03-30 11:41</a><br/>近日，山东的一桩辱母杀人案引发舆论狂潮，青年于欢在长时间目睹追债人侮辱母亲，警察不作为的情况下，愤而刺杀主犯，今年二月被判处无期徒刑。媒体曝光后引起民情激愤，微博上150万条评论，几乎一边倒的力挺于欢，斥责判决不公。那么这个案件揭示出了中国社会哪些层面的不公和黑幕？舆论对于欢的支持是以感情代替法律吗？今天我们就对这个热点事件做一些解读和分析。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 11:35</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815436&from=ogGitn">辱母杀人案成习近平孝治天下的试金石 2017-03-30 11:12</a><br/>有评论表示，山东聊城发生的辱母案已成为习近平孝治天下的试金石。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815435&from=ogGitn">8千老兵集体扫墓    当局严控防再演包围北京事件 2017-03-30 11:11</a><br/>2017年是越战38周年纪念，日前各地8千名越战老兵在广西凭祥举行了一年一度的扫墓活动，哀悼在越战中逝去的战友。当局对此高度关注，有通知显示，地方政府严防老兵在扫墓后前往北京集体上访。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815440&from=ogGitn">习近平先访芬兰再赴美 不住川普私人庄园 2017-03-30 10:22</a><br/>在美中双方还没有正式宣布两国首脑将于4月初举行会晤的消息之际，芬兰总统府星期三宣布，中国国家主席习近平将</td></tr>
@@ -28,7 +30,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815429&from=ogGitn">新疆一周传两袭击案 又千名武警从辽宁入疆 2017-03-30 08:07</a><br/>新疆局势持续紧张。海外消息披露，伊犁的昭苏县和霍城县上周发生两起严重的暴力袭击事件，当局近日紧急从辽宁武警机动师再调派1000名武警至伊犁，加强搜查及戒备。此前当局已派5000名武警到新疆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 07:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 07:07</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815444&from=ogGitn">趁业主去法院打官司 江苏一区政府偷拆民宅 2017-03-30 07:05</a><br/>3月28日，江苏南通港闸区一户民宅被当地政府强拆，当时业主许普林夫妻正在法院为此前该房子被强拆打官司，这头还在开庭审理，那头区政府却带来数百人偷偷将他们的房子铲为平地。周永红哽咽地说，“我家房子被拆了，铲平了！我们向公安求救，公安说这是政府行为，他们管不了。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815402&from=ogGitn">楼市新一轮调控来袭 房价下降的拐点来临？ 2017-03-30 07:01</a><br/>在大陆开启新一轮楼市调控之际，近日又有多地发布楼市调控新政。外界关注，房价下降的拐点或要到来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815412&from=ogGitn">【禁闻】3月29日维权动态 2017-03-30 07:01</a><br/>农保金遭截留 内蒙逾千农牧民抗议；湖南强拆户阻当局宅基地施工 遭行拘；多起维权案件近日集中审理。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815252&from=ogGitn">湖北建筑脚手架垮塌致2死6伤 7人仍被困 2017-03-28 15:30</a><br/>3月27日晚，湖北麻城一建筑工地发生一起脚手架垮塌事故, 已经造成2人死亡，6人受伤，还有7人仍被困。8名涉事责任人被公安机关控制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815206&from=ogGitn">习近平十九大如何布局？〝九大智囊〞助其闯关 2017-03-28 15:30</a><br/>2017年是换届年，习近平如何推动今秋十九大的人事布局，成为舆论关注的焦点。外界普遍认为，这次围绕着习核心的〝九大智囊〞将助其闯关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815204&from=ogGitn">四川男童爬窗帮邻居取钥匙 坠楼生命垂危 2017-03-28 15:07</a><br/>3月25日下午，四川阆中市某小区居民赵奶奶将钥匙忘在了家里。她找到楼上邻居、8岁男孩彭康的爷爷，想让彭康帮她取出钥匙。彭爷爷用绳子拴在彭康腰间，把他从5楼外墙吊到4楼窗户，从那进去帮赵奶奶取出钥匙。谁知绳子突然断裂，彭康从4楼坠地，目前生命垂危。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815226&from=ogGitn">杭州土地拍卖 无预警现场被叫停 2017-03-28 15:01</a><br/>3月27日，杭州举行黄历新年后第一场土地拍卖会，待开发商落座准备竞拍后，官方突然宣布土地暂停出让，令开发商大感惊讶。</td></tr>
 </table>
