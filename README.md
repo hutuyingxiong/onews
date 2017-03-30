@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815461&from=ogGitn">彪海洋：从辱母案看合议庭对案件的操控 2017-03-30 17:19</a><br/>近几天，辱母案在全国发酵，成为最为热点的事件，这客观反映出人们对中国法制状况的普遍不满，也同样反映出人们普遍对公平正义的强烈渴望。至目前为止，已有很多的评论文章分析该案，但笔者注意到，这些文章极少揭示出合议庭在本案中对案件的操控手法，大多数认为这是法律与道德要求的矛盾所致，而忽视了法官故意扭曲法律适用这个关键，而该问题，在中国的法律界中，实际上是一个已泛滥成灾的普遍现象，已成为极其突出的问题，如果不立即纠正，将成为全面依法治国之灾。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815460&from=ogGitn">伦敦客：是什么让台湾远离大陆？ 2017-03-30 16:50</a><br/>喜欢一样东西会靠近它，讨厌一样东西会远离它。是什么让台湾远离大陆？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815458&from=ogGitn">向北京卖情报 美国务院女官遭FBI逮捕 2017-03-30 16:46</a><br/>美国国务院一名掌握敏感资料的资深女雇员遭到司法部门起诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815454&from=ogGitn">研究：受中国阴霾影响 日韩2007年3万人早死 2017-03-30 16:11</a><br/>韩联社30日报导，一项研究结果表明，仅2007年，从中国漂洋过海的阴霾导致韩日两国非自然死亡人数就达3.09万人。</td></tr>
@@ -164,7 +165,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815270&from=ogGitn">李宇明：大饥荒时期的红色画家 2017-03-29 05:00</a><br/>大跃进时期，一批红色画家为了配合中共的宣传，创作了一大批歌颂大跃进、歌颂中共、歌颂毛泽东的画作。就是在大饥荒时期，大批饿死人的时候，这些红色画家还在继续为中共歌功颂德。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815267&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-29 04:50</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815312&from=ogGitn">楼市调控不断加码 更多人或“逃离”北京 2017-03-29 04:48</a><br/>北京楼市调控加码措施不断，二手房周均交易量下滑约30%左右。外界关注，这或导致更多人“逃离”北京。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>美国之音：中国新规定：互联网〝翻墙〞有罪；自由亚洲电台：李明哲人在何处? 其妻辗转送药；大纪元时报：广东武警少将蔡广辽获刑八年；英国《金融时报》：辉山乳业承认资金链断裂。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>中国新规定：互联网〝翻墙〞有罪；李明哲人在何处? 其妻辗转送药；广东武警少将蔡广辽获刑八年；辉山乳业承认资金链断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815311&from=ogGitn">丽江被打毁容女孩 136天后公开近照和遗书 2017-03-29 04:07</a><br/>3月27日，丽江被打女孩小董在广东省人民医院内，首次披露了自己的遗书，同时，她治疗期间的伤情照片和被打136天后的近照也首度曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815295&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-29 03:34</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和“真善忍”的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。所以当时中共迫害法轮功，根本不得人...</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815217&from=ogGitn">四川〝黑老大〞刘汉遗产被拍卖   起价逾2.5亿 2017-03-28 17:51</a><br/>周永康的马仔四川〝黑老大〞刘汉两年前已被执行死刑，今天（3月28日）他留下的部分遗产在网路上公开拍卖。从拍卖交易平台上看到，这部分涉案资产起拍价超过2.5亿元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815222&from=ogGitn">阿富汗鸦片产量激增 源于中国转基因种子 2017-03-28 17:39</a><br/>国际社会几十年来一直试图根除阿富汗的鸦片种植活动，但这个问题却越来越严重，去年阿富汗的鸦片产量激增了43%，其中主要是所谓的“中国种子”作出的“贡献”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815205&from=ogGitn">陈思敏：湖南官场遭清洗 周强张春贤谁更紧张 2017-03-28 17:23</a><br/>3月27日，长沙市宣传部原部长张湘涛被查。粗略统计今年以来在中纪委官网上，这已是不到一个月内的第6名落马湘官，不到三个月内的第8个湖南反腐通告。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815214&from=ogGitn">儿媳太漂亮担心是〝妖精〞 山东老妇索〝正经工作证明〞 2017-03-28 17:18</a><br/>山东省高青县小伙南方打工，带回来一个女朋友，因长得太漂亮了惹祸。</td></tr>
 </table>
