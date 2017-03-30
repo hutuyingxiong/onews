@@ -3,6 +3,8 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 06:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815530&from=ogGitn">【禁闻】违反联合国决议 中共仍进口朝鲜矿产 2017-03-31 05:45</a><br/>美国之音3月30号报导，中国继续违反联合国决议进口朝鲜矿产。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815529&from=ogGitn">【禁闻 】商丘政府强拆打死人 村民抬尸抗议 2017-03-31 05:44</a><br/>商丘政府强拆打死人 村民抬尸抗议;海外学者吁中共当局允许冯崇义离境。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 05:27</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 05:03</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
@@ -11,10 +13,11 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815520&from=ogGitn">俞正声申请习批准 四川建民国中将俞大维陵园 2017-03-31 04:56</a><br/>已故中华民国前国防部长、陆军中将俞大维的部分骨灰安放在四川成都大邑建川博物馆。最新消息称，经俞大维的侄孙、中共政治局常委俞正声申请，习近平批准将俞大维在四川的墓碑扩建为陵园。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815524&from=ogGitn">3月30日全球看中国 2017-03-31 04:54</a><br/>新疆对蓄长须、穿蒙面罩袍者颁布新禁令;悉尼科技大学副教授冯崇义之女冯云思呼吁让其父返回澳洲;恒大宣布去杠杆化计划;中国石油2016年净利润大跌78%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815519&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 再失升任机会 2017-03-31 04:48</a><br/>十九大前夕，习阵营正加速清洗上海、重庆、山东的政商圈以及中共人大系统，震慑江派众多现任及离任常委。吴邦国大秘孙伟被调虎离山后，在甘肃处于王岐山亲信林铎的直接“看管”之下。孙伟身处多重政商黑幕漩涡，仕途前景堪忧。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815528&from=ogGitn">山东辱母杀人案反常发酵 政法系学者：3政治因素或涉曾庆红 2017-03-31 04:42</a><br/>山东辱母杀人案引发网路沸腾，中共最高检介入调查。美媒揭露案件背后经济混乱和官匪勾结放贷的黑幕。前中共体制内学者指，官方反常允许此案持续发酵，背后必有政治原因，或涉习近平对山东官场或公安部的清洗，波及曾庆红。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815516&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-31 04:03</a><br/>3月28日，根据大陆澎湃新闻从多个官方渠道证实，湖南基础建设投资集团有限公司（下称〝湖南基建投资集团〞）党委书记、董事长彭旭峰已〝失联〞，其上任还不到一个月。此前，他曾任长沙市住建委副主任，2010年，兼任长沙轨道交通集团党委副书记、董事长；2013年，被免去长沙市住建委副主任职务，专任长沙轨道交通集团党委书记、董事长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815514&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-31 03:57</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和〝真善忍〞的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">朱镕基之子与邓小平外孙女婿的对话 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815513&from=ogGitn">特勤局消息指习访美只有一站 川习匆匆会晤只为十九大？ 2017-03-31 02:58</a><br/>中美双方宣布川习会将于4月6日正式登场。美国特勤局消息指，习近平与川普在佛罗里达州的会面，是习此次访美唯一一站。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">“空手套白狼” 朱镕基之子笑指安邦CEO吴小晖 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815513&from=ogGitn">特勤局称习访美只有一站 川习匆匆会晤只为十九大？ 2017-03-31 02:58</a><br/>中美双方宣布川习会将于4月6日正式登场。美国特勤局消息指，习近平与川普在佛罗里达州的会面，是习此次访美唯一一站。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815508&from=ogGitn">平源：官员非正常死亡现象不断 专制体制中人人自危 2017-03-31 02:49</a><br/>大陆媒体人“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815521&from=ogGitn">广西暴力强拆 监警大队防爆棍暴打村民 2017-03-31 02:33</a><br/>3月27日上午，广西贵港市覃塘区三里镇吉塘村长塘屯村民新建的养殖场，地方政府在没有任何文件和说法下就“被违拆”，村民阻止，遭到20多个监警大队人员，以防暴棍暴打，致多人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815510&from=ogGitn">袁斌：〝辱母杀人案〞与中国基层乱象 2017-03-31 02:26</a><br/>随着山东聊城〝辱母杀人案〞的不断发酵，越来越多与此案有关的内情被曝光和挖出，它们从不同的层面折射了当今中国基层社会的乱象。</td></tr>
@@ -27,7 +30,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815498&from=ogGitn">周晓辉：再提郭徐架空胡锦涛 话外有音回击暗流 2017-03-31 01:51</a><br/>3月29日，大陆公众微信号长安街知事发表《公然挑战军委主席负责制，郭徐下台前推三阻四》一文，再次提到郭伯雄、徐才厚阳奉阴违，架空彼时任军委主席胡锦涛之举，并藉此释放警告之音。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815496&from=ogGitn">谢天奇：胡锦涛露面释2信号 习王总攻上海帮江家族 2017-03-31 01:45</a><br/>中共两会之后，习当局加强楼市调控与金融监管，密集调整20多名省级高官，接连审判天津市公安局前局长武长顺、广东省公安厅前党委副书记蔡广辽、辽宁省政法委前书记苏宏章等政法高官，加速清洗内蒙、湖南、新疆等江派窝点及江派常委刘云山主管的文宣系统。在此大规模清洗、震慑背景之下，习阵营针对上海帮及江泽民家族展开了新一轮围剿行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815504&from=ogGitn">中共〝山寨〞导弹抢占市场 俄官员揭中俄军火交易命门 2017-03-31 01:42</a><br/>俄媒指中共仿造俄罗斯战术导弹，向国际市场推销，将会抢走俄武器销售市场。一名俄罗斯高级官员曾表示，中共的仿制问题是最让俄罗斯头疼的，俄罗斯在同中共的军火交易中，极力避免先进武器被中共仿制，比如焊死发动机。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815495&from=ogGitn">传团派新星杨岳跳楼 官方未回应 贴文遭删 2017-03-31 01:16</a><br/>杨岳被视为团派新星，其仕途一向被外界看好。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815495&from=ogGitn">传江苏副省长杨岳跳楼 官方未回应贴文遭删 2017-03-31 01:16</a><br/>杨岳被视为团派新星，其仕途一向被外界看好。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815494&from=ogGitn">调控加码 地价高涨 大陆房地产市场很尴尬 2017-03-31 00:55</a><br/>大陆3月份调控楼市的城市超过30个，包括限购限贷、认房又认贷等。但是，调控楼市的同时，土地出让价格依然高企，近日广州、杭州、上海等城市又出现高价地。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815517&from=ogGitn">美中正式确认川习会晤 朝核或是会谈焦点 2017-03-31 00:00</a><br/>白宫周四（30日）确认说，美国总统川普（特朗普）将于4月6日和7日与中国国家主席习近平进行首次会晤，会面地点将为佛州棕榈滩的马尔拉歌庄园（也称海湖庄园）。中方也在周四就川习会面时间给予证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815489&from=ogGitn">林辉：〝美猴王〞父亲钻狗洞伯父被摧残致死 2017-03-30 23:29</a><br/>在中国大陆，老版的电视连续剧《西游记》可谓是家喻户晓，而扮演〝美猴王〞孙悟空的六小龄童章金莱，更是以其灵动的表演，广为人知，迄今为止，尚无人能超越其扮演的孙悟空的形象。媒体披露，章金莱为此付出了巨大的努力。</td></tr>
@@ -201,7 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815306&from=ogGitn">传山西太钢前高管嫁孙女 土豪嫁妆超千万 2017-03-29 07:43</a><br/>大陆多名网民日前在微博上披露一段“太钢原工会主席嫁孙女”的视频，并称嫁妆价值惊人。据估价，陪嫁跑车、豪宅的价值至少在千万元以上。此外司仪提到的“金条500个”总价值超过1600万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815302&from=ogGitn">检察院撤诉 天津法轮功学员张君获释 2017-03-29 07:22</a><br/>由于检察院撤诉，天津市南开区法轮功学员张君近日被释放回家。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815307&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-29 07:10</a><br/>如今，彭旭峰的跑路牵出的是长沙轨道公司的腐败，牵出的是腐败的大后台陈鲁青，而陈鲁青背后的陈润儿，陈润儿背后的张春贤、周强也都一一浮出水面。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江西13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815298&from=ogGitn">焚尸灭迹 万元封口 央媒罕见揭辽宁洪灾瞒报 2017-03-29 06:53</a><br/>2012年8月，辽宁省辽阳县遭遇颱风洪灾。大陆官媒央广网今天披露，这场5年前的灾害，至少造成4人死亡3人失踪，有死者家属表示，当地政府没有发布洪水预警，才让灾民来不及逃离。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强在办公室被情敌捅死 2017-03-29 06:42</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
 </table>
