@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 06:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 05:27</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 05:03</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815290&from=ogGitn">红领巾又夺人命！江西13岁男孩离奇身亡 2017-03-29 06:55</a><br/>有大陆网友通过爆料平台披露，江苏一位13岁的男孩，近日在家中用红领巾上吊身亡。于爆料说法不同的是，当地政府与警方都声称，男孩是死于意外。该事件也引发了网络舆论对红领巾的抵制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815298&from=ogGitn">焚尸灭迹 万元封口 央媒罕见揭辽宁洪灾瞒报 2017-03-29 06:53</a><br/>2012年8月，辽宁省辽阳县遭遇颱风洪灾。大陆官媒央广网今天披露，这场5年前的灾害，至少造成4人死亡3人失踪，有死者家属表示，当地政府没有发布洪水预警，才让灾民来不及逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815262&from=ogGitn">跻身县常委9个月 毛国强在办公室被情敌捅死 2017-03-29 06:42</a><br/>3月28日，中共重庆忠县常委、常务副县长毛国强“被情敌捅死”的消息在大陆网上快速流传。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815294&from=ogGitn">【石涛八方 】智慧者乃境界中的生命 2017-03-29 06:40</a><br/>人们讨论最多的是人有形的肉体，很少讨论无形的那一部分，物质形态有三种，但我们只注重这块肉，而这块肉能受钱色诱惑，走向堕落，走向物质形式的最低档，透过物质形式的最低档来刺激自己，寻求快乐。但你永远抓不住这个快乐。为什么？因为它能毁了你，要你永远追寻。</td></tr>
 </table>
