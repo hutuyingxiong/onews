@@ -2,7 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815445&from=ogGitn">山东一化工厂发生废气泄漏 现场黄烟弥漫 2017-03-30 14:04</a><br/>29日，位于山东荷泽市巨野县的一家化工厂发生废气泄漏，大量黄色气体溢出，对周边环境造成污染。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815443&from=ogGitn">每日三退声明精选（2017/03/29） 2017-03-30 13:43</a><br/>我是一名个体经商户，眼下大陆个体经营很困难，中共邪党的贪腐问题得不到解决，老百姓看不到希望。在此，我声明退出中共邪党的共青团组织。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815447&from=ogGitn">北京平壤暗通款曲？调查：中国还有多个〝马晓红〞 2017-03-30 13:31</a><br/>中国被指继续违反联合国决议进口朝鲜矿产。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815446&from=ogGitn">王岐山的〝神秘随从〞变身中纪委大管家 2017-03-30 13:23</a><br/>习近平上台后，多名习的浙江旧部获得重用，日前，被外界称为王岐山〝神秘随从〞的浙江系高官施克辉变身中共中纪委大管家，据中纪委官方消息，施克辉已出任中纪委办公厅主任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点 辱母案现罕见一幕 2017-03-30 12:22</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815442&from=ogGitn">【热点互动】辱母杀人案为何引爆舆论？ 2017-03-30 11:41</a><br/>近日，山东的一桩辱母杀人案引发舆论狂潮，青年于欢在长时间目睹追债人侮辱母亲，警察不作为的情况下，愤而刺杀主犯，今年二月被判处无期徒刑。媒体曝光后引起民情激愤，微博上150万条评论，几乎一边倒的力挺于欢，斥责判决不公。那么这个案件揭示出了中国社会哪些层面的不公和黑幕？舆论对于欢的支持是以感情代替法律吗？今天我们就对这个热点事件做一些解读和分析。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815436&from=ogGitn">辱母杀人案成习近平孝治天下的试金石 2017-03-30 11:12</a><br/>有评论表示，山东聊城发生的辱母案已成为习近平孝治天下的试金石。</td></tr>
@@ -24,6 +27,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 07:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 07:07</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815444&from=ogGitn">趁业主去法院打官司 江苏一区政府偷拆民宅 2017-03-30 07:05</a><br/>3月28日，江苏南通港闸区一户民宅被当地政府强拆，当时业主许普林夫妻正在法院为此前该房子被强拆打官司，这头还在开庭审理，那头区政府却带来数百人偷偷将他们的房子铲为平地。周永红哽咽地说，“我家房子被拆了，铲平了！我们向公安求救，公安说这是政府行为，他们管不了。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815402&from=ogGitn">楼市新一轮调控来袭 房价下降的拐点来临？ 2017-03-30 07:01</a><br/>在大陆开启新一轮楼市调控之际，近日又有多地发布楼市调控新政。外界关注，房价下降的拐点或要到来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815412&from=ogGitn">【禁闻】3月29日维权动态 2017-03-30 07:01</a><br/>农保金遭截留 内蒙逾千农牧民抗议；湖南强拆户阻当局宅基地施工 遭行拘；多起维权案件近日集中审理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815417&from=ogGitn">【禁闻】3月29日退党精选 2017-03-30 07:00</a><br/>大陆民众说，在所谓的改革开放以来，只有少部分人生活安逸，中共仍然杀戮人民，他们都声明退出中共组织。</td></tr>
@@ -200,10 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815216&from=ogGitn">湖南永州前副市长被查 连续两天有高官落马 2017-03-28 14:32</a><br/>湖南永州市副市长张常明涉嫌严重“违纪”，目前正接受审查。这是湖南官场连续第二天有高官落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815200&from=ogGitn">天津官场大换血 市委常委“四进三出” 2017-03-28 14:20</a><br/>自天津大爆炸后，官场持续地震。近日，天津官场又出现大规模人事调整，市委常委现“四进三出”，被视为极其罕见。中共江派常委张高丽和落马的黄兴国曾长期把控天津，从官方的通报可见，天津官场已烂透。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815201&from=ogGitn">前辽宁〝政法王〞苏宏章受审 当年用金条买进常委 2017-03-28 14:01</a><br/>陆媒曾揭露，苏宏章在选举中搞拉票贿选、对抗组织审查，当年用金条买进常委等。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815199&from=ogGitn">十九大防林彪式高级黑？中纪委“杀回马枪” 2017-03-28 13:29</a><br/>随着中共十九大临近，中纪委官网就“深化巡视”连续发文，其中一篇文章称，看看是否存在各地方嘴上喊“拥护”、行动上各行其是，而“杀回马枪”是为“十九大”相关人事把关。有文章分析认为，各地诸侯争先恐后地“效忠”，实际跟“文革”时林彪式树权威一样，这些表态实际上是“高级黑”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815194&from=ogGitn">上海虹口足球场突发火灾   浓烟滚滚（组图） 
-										
-											?组图 2017-03-28 13:18</a><br/>3月28日，网曝上海绿地申花足球队主场虹口足球场突发火灾。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815202&from=ogGitn">陆企卖9年机床亏1500万 出售12套房赚2000万 2017-03-28 12:52</a><br/>大陆一家生产经营机床的上市企业靠卖机床9年来累计亏损1500万元（人民币，下同），近来公司为了扭亏要卖掉12套房产，这12套房产预计盈利2000多万元。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815193&from=ogGitn">每日三退声明精选（2017/03/27） 2017-03-28 11:40</a><br/>且不说这个邪党给我们的民族、文化、国家造成的浩劫与迫害，单是它给我们一家人带来的痛苦，已经令我良心的每一寸土地，都没有它容身之地。郑重宣布：退出中共邪党，回归神的子民。</td></tr>
 </table>
