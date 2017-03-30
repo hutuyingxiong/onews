@@ -4,6 +4,7 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815489&from=ogGitn">林辉：〝美猴王〞父亲钻狗洞伯父被摧残致死 2017-03-30 23:29</a><br/>在中国大陆，老版的电视连续剧《西游记》可谓是家喻户晓，而扮演〝美猴王〞孙悟空的六小龄童章金莱，更是以其灵动的表演，广为人知，迄今为止，尚无人能超越其扮演的孙悟空的形象。媒体披露，章金莱为此付出了巨大的努力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815488&from=ogGitn">陈思敏：清除遗毒 重庆公安局长何挺是重点户 2017-03-30 23:26</a><br/>重庆市委书记孙政才3月21日指出〝〝全面彻底清除薄（薄熙来）、王（王立军）思想遗毒〞，这既是他在一个月之内的二次表态，也是他在接话中央巡视组〝回头看〞的反馈意见：〝重庆清除薄、王思想遗毒不彻底〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815492&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-30 23:00</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815486&from=ogGitn">德语媒体：选举变闹剧 后果很严重 2017-03-30 22:54</a><br/>香港特首选举中，林郑月娥不出所料高票当选，但有投票权的不是香港公民，而是仅限于大约1200人组成的选举委员会。德国媒体对此纷纷发表报道与评论文章。德新社：不是选举，是闹剧“香港前政务司长林郑月娥在抗议声中当选香港特首。虽然林郑的竞争对手曾俊华更受民众爱戴，亲北京的香港特首选举委员会还是将现年59岁的林郑月娥推上特首的宝座。示威者抗议‘虚伪的选举’并要...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815487&from=ogGitn">《南德意志报》：资金管制殃及外企 有钱难汇干着急 2017-03-30 22:50</a><br/>《南德意志报》聚焦中国的资金管制规定，指出严规波及外国公司，尤其给外国银行带来严峻考验。“这个突如其来的传言迅速在中国社交网络上传开：据说宝马集团在华利润难以向国外汇出。该集团慕尼黑总部快速出来回应，表示‘宝马可以跨境支付’。中国一些部门也在微博上发表声明：西方企业跨境汇款没有问题。”《南德意志报》本周一（3月27日）的一篇文章开头这样写道...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815491&from=ogGitn">受贿过亿 上海〝电老虎〞冯军被判无期 2017-03-30 22:48</a><br/>冯军在担任江苏电力公司总经理等职务期间，利用工作便利，受贿折合人民币4,340多万元；还有7,600多万元财产无法说明合法来源。</td></tr>
@@ -11,7 +12,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815484&from=ogGitn">大陆较小城市楼市亦限购 忽悠老百姓？ 2017-03-30 22:15</a><br/>3月29日，大陆甘肃天水、贵阳和长春三座房价并没有出现大幅度上涨的城市公布了调控措施。有业界人士认为，这些城市本不需要调控，他们是想搭上房价上涨的顺风车，分一杯羹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815490&from=ogGitn">梁振英阻扰接班 林郑月娥面临挑战 2017-03-30 21:43</a><br/>林郑月娥当选特首后，其称要修补撕裂和解开郁结。不过，为阻止林郑月娥顺利接班，梁振英在林郑当选特首翌日，就起诉9名参加“雨伞运动”的人士。有评论认为，除梁振英梁外，林郑未来还要应付中联办及建制派。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815481&from=ogGitn">安徽一高校马克思主义学院院长坠楼身亡 2017-03-30 21:41</a><br/>日前，中共安徽职业技术学院马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815482&from=ogGitn">川习会正式敲定4月登场 两大重要议题成焦点 2017-03-30 21:37</a><br/>中共外交部宣布，中国大陆国家主席习近平将于4月6日至7日在美国佛罗里达州与美国总统川普（Donald Trump）会晤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815482&from=ogGitn">川习会正式敲定4月登场 两大重要议题成焦点 2017-03-30 21:37</a><br/>中美官方同日宣布，中国国家主席习近平将于4月6日至7日，在美国佛罗里达州与美国总统川普（Donald Trump）会晤。白宫官员曾表示，这次会面的目的是消除朝鲜紧张局势，以及近日韩国部署萨德系统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815471&from=ogGitn">送30部苹果机行贿拉票 辽宁郑玉焯受审 2017-03-30 20:11</a><br/>3月30日，中共辽宁省人大常委会前副主任郑玉焯破坏选举、受贿案开庭审理。其被指控通过行贿当选辽宁省第十二届人大常委会副主任。此前几日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理，其为竞选辽宁省副省长、省委常委，先后行贿110余万元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815475&from=ogGitn">VOA：中共违反联合国协议 继续进口朝鲜矿产 2017-03-30 20:05</a><br/>根据海关总署的数据，中国仅2月份从朝鲜进口的金银铜锌矿产的价值就高达65万美元，而这些矿产都被联合国列入对朝鲜制裁的名单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815472&from=ogGitn">山东辱母杀人案 万人声援护母者 捐款不断 2017-03-30 19:16</a><br/>山东聊城〝辱母杀人案〞持续发酵。</td></tr>
@@ -31,7 +32,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815456&from=ogGitn">福建男网购小米手机   收到一包大米 2017-03-30 15:55</a><br/>江某学校学生，花了800块在网上买了一只小米5手机，却收到一包大米。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815457&from=ogGitn">重庆官场持续震荡 两厅官被“双开” 2017-03-30 15:53</a><br/>3月30日，中共重庆国际投资咨询集团有限公司原总经理、董事贾建国及重庆南川区委原常委、区政府党组原副书记王元开因违反“习八条”，收受下属礼金被“双开”，并移送司法处理。自去年底以来，重庆官场持续震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815453&from=ogGitn">“毛骨悚然”国企巨贪自述夺权和贪腐黑幕 2017-03-30 15:34</a><br/>“怎么独裁，你要会弄”——一名在狱中的“国企巨贪”自述在国企中如何采用阴损的手段操弄人事、夺取实权及其贪腐奢靡的内幕。他解剖了自己在权力巅峰时的癫狂，以“毛骨悚然”来形容国企高管的腐败。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815455&from=ogGitn">中国阴霾祸及邻国  韩日一年3万人早死 2017-03-30 15:24</a><br/>一项研究结果显示，中国的阴霾漂洋过海杀人，已经导致韩国、日本3.09万人早死。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815455&from=ogGitn">中国阴霾堪比萨德 韩日一年3万人早死 2017-03-30 15:24</a><br/>一项研究结果显示，因中国的阴霾漂洋过海，已经导致韩国、日本两国3.09万人早死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815452&from=ogGitn">敏感时刻转移资产？陆神秘商人买AC米兰足球队 2017-03-30 14:56</a><br/>英媒称，中国神秘商人李勇鸿以7.4亿欧元收购AC米兰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815449&from=ogGitn">谷歌欲重返中国？ 开通手机翻译服务引猜测 2017-03-30 14:36</a><br/>美国公司谷歌日前一款针对中国大陆设计的手机翻译应用，被允许进入中国市场。7年前由于拒绝接受中共的信息审查，谷歌退出了中国大陆，谷歌产品也被中共全面封锁，此次被认为谷歌重返中国大陆的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815469&from=ogGitn">冯崇义申请政府信息公开 遭中共国安封口 2017-03-30 14:28</a><br/>澳洲悉尼科技大学副教授冯崇义被禁止离开中国，事件引发外界极大关注并持续发酵。近日，冯崇义向中共天津市国安局申请信息公开，要求中共给出扣押理由及书面通知，遭国安要求冯崇义对外封口。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815254&from=ogGitn">王健林之子车库曝光 10多辆豪车一字排开 2017-03-29 02:12</a><br/>3月28日，大陆首富王健林独子王思聪在上海某地的一处车库被网民曝光，车库停满法拉利、蓝宝坚尼等众多豪华车辆，“好似车展令人眼花”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815285&from=ogGitn">昆明市政府成立泛亚交易所 内部文件曝光 2017-03-29 02:02</a><br/>轰动一时的泛亚事件至今未有一个了结，数十万受害者仍然在坚持不懈地进行维权，在无望中度日如年。近日，一位不愿透露姓名的知情人士向大纪元记者曝光了一份当时昆明市政府成立泛亚有色金属交易所的文件影印件，揭露了政府参与 “非法集资”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815253&from=ogGitn">重庆男铁链锁妻网聊骗钱 半年骗款60万 2017-03-29 01:44</a><br/>近日有媒体爆料，重庆20多岁男子陈强（化名），竟用手铐、铁链将妻子任欣（化名）锁在电脑桌前，迫其与网上交友聊天诈骗，单是近半年便骗取60多万元（人民币）。事迹恶劣引媒体关注。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815257&from=ogGitn">辽宁瞒报重大伤亡事件 陈政高情况不妙 2017-03-29 01:39</a><br/>陈政高任辽宁省长期间，2012年8月的一场台风造成辽宁省两县至少40多人死亡，多人失踪。但官方瞒报死伤人数，还说“辽阳县人创造了奇迹”。</td></tr>
 </table>
