@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 07:07</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815412&from=ogGitn">【禁闻】3月29日维权动态 2017-03-30 07:01</a><br/>农保金遭截留 内蒙逾千农牧民抗议；湖南强拆户阻当局宅基地施工 遭行拘；多起维权案件近日集中审理。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815417&from=ogGitn">【禁闻】3月29日退党精选 2017-03-30 07:00</a><br/>大陆民众说，在所谓的改革开放以来，只有少部分人生活安逸，中共仍然杀戮人民，他们都声明退出中共组织。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815167&from=ogGitn">〝辱母杀人案〞引爆舆论 一案折射百态 2017-03-28 06:54</a><br/>山东聊城青年于欢，因母亲遭黑社会讨债人的极端侮辱，愤而持刀反抗，造成1死3伤，近日被判无期徒刑。案件引发舆论巨大关注，质疑该案件折射出司法不公、警方不作为，黑社会与公权力幕后交易等诸多黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815163&from=ogGitn">股价暴跌发酵 辉山乳业董事长名下有多家房企 2017-03-28 06:53</a><br/>辉山乳业股价暴跌，公司董事长杨凯否认因大股东挪用巨资投资房地产引发。但陆媒调查显示，杨凯名下至少有三家房地产公司。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815164&from=ogGitn">北京连9招遏制楼价 关66间中介 学区房或贬值 2017-03-28 06:42</a><br/>北京实行新一轮楼市调控政策的10天内，已出9招遏楼价，其中，66间房地产中介门店被关停。外界关注，北京学区房或贬值。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815168&from=ogGitn">【禁闻】3月27日维权动态 2017-03-28 06:40</a><br/>保护家园 河北村民成立女子敢死队；河南商丘强拆 爆警民冲突；湖北鄂州村民上访 被囚精神病院；内蒙牧民连续5天请愿 讨要草场补贴。</td></tr>
 </table>
