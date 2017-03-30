@@ -2,10 +2,15 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815508&from=ogGitn">平源：官员非正常死亡现象不断 专制体制中人人自危 2017-03-31 02:49</a><br/>大陆媒体人“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815507&from=ogGitn">谢天奇：宋祖英丈夫不妙 习清洗湖南文宣一箭双雕 2017-03-31 02:21</a><br/>3月27日，湖南前长沙市委常委、宣传部长张湘涛被审查；这是近一个月内的第6名落马湘官。3月28日，陆媒披露3月3日才履新湖南基建投资集团党委书记、董事长职务的彭旭峰已〝失联〞。此前，彭旭峰长期担任长沙市轨道交通集团有限公司党委书记、董事长职务。之前的3月10日，前湖南省委常委、宣传部部长张文雄也被调查。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815506&from=ogGitn">陈思敏：复星高层异动涉 上海官场腐败 2017-03-31 02:18</a><br/>资本帝国中的复星系，其母公司上海复星集团，在3月28日深夜公告高层重大异动：自即日起，集团CEO梁信军、CFO丁国其双双辞职，且辞去所有职务。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815505&from=ogGitn">王友琴：文革〝斗争会〞（上） 2017-03-31 02:11</a><br/>文革期间，特别是文革的前四年（1966-1970），〝斗争会〞开得既多又密。这些〝斗争会〞可能大小各异，但是都有相同的基本结构和进行程序。〝斗争会〞设立了一套特别的身体折磨，如〝坐喷气式飞机〞。有人在〝斗争会〞上被打死，有人被〝斗争〞得肢体残废或者精神失常，有人在被〝斗争〞后〝自杀〞（这里加上引号是因为这完全不同于一般所说的自杀）。而那些〝斗争〞别人的人，有的是踏着受害者在权力之路上爬升，有的是出于恐惧而附和权势者迫害他人。〝斗争会〞不但杀人伤人，而且导致道德腐败。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815500&from=ogGitn">夏小强：香港的社会撕裂如何修补 2017-03-31 02:07</a><br/>自从当选下任香港特首几天以来，林郑月娥多次声称要修补香港社会裂痕，重建和谐。这也说明，修补香港社会撕裂的现状，已经成为香港稳定发展的前提。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815499&from=ogGitn">理悟：良知复苏 2017-03-31 02:04</a><br/>仁义礼智信为先，炎黄古道赖神传。以德治国朝纲振，法彰邪遁万民欢。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815498&from=ogGitn">周晓辉：再提郭徐架空胡锦涛 话外有音回击暗流 2017-03-31 01:51</a><br/>3月29日，大陆公众微信号长安街知事发表《公然挑战军委主席负责制，郭徐下台前推三阻四》一文，再次提到郭伯雄、徐才厚阳奉阴违，架空彼时任军委主席胡锦涛之举，并藉此释放警告之音。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815496&from=ogGitn">谢天奇：胡锦涛露面释2信号 习王总攻上海帮江家族 2017-03-31 01:45</a><br/>中共两会之后，习当局加强楼市调控与金融监管，密集调整20多名省级高官，接连审判天津市公安局前局长武长顺、广东省公安厅前党委副书记蔡广辽、辽宁省政法委前书记苏宏章等政法高官，加速清洗内蒙、湖南、新疆等江派窝点及江派常委刘云山主管的文宣系统。在此大规模清洗、震慑背景之下，习阵营针对上海帮及江泽民家族展开了新一轮围剿行动。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815504&from=ogGitn">中共〝山寨〞导弹抢占市场 俄官员揭中俄军火交易命门 2017-03-31 01:42</a><br/>俄媒指中共仿造俄罗斯战术导弹，向国际市场推销，将会抢走俄武器销售市场。一名俄罗斯高级官员曾表示，中共的仿制问题是最让俄罗斯头疼的，俄罗斯在同中共的军火交易中，极力避免先进武器被中共仿制，比如焊死发动机。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815495&from=ogGitn">传团派新星杨岳跳楼 官方未回应 贴文遭删 2017-03-31 01:16</a><br/>杨岳被视为团派新星，其仕途一向被外界看好。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815494&from=ogGitn">调控加码 地价高涨 大陆房地产市场很尴尬 2017-03-31 00:55</a><br/>大陆3月份调控楼市的城市超过30个，包括限购限贷、认房又认贷等。但是，调控楼市的同时，土地出让价格依然高企，近日广州、杭州、上海等城市又出现高价地。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815489&from=ogGitn">林辉：〝美猴王〞父亲钻狗洞伯父被摧残致死 2017-03-30 23:29</a><br/>在中国大陆，老版的电视连续剧《西游记》可谓是家喻户晓，而扮演〝美猴王〞孙悟空的六小龄童章金莱，更是以其灵动的表演，广为人知，迄今为止，尚无人能超越其扮演的孙悟空的形象。媒体披露，章金莱为此付出了巨大的努力。</td></tr>
@@ -20,6 +25,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815490&from=ogGitn">梁振英阻扰接班 林郑月娥面临挑战 2017-03-30 21:43</a><br/>林郑月娥当选特首后，其称要修补撕裂和解开郁结。不过，为阻止林郑月娥顺利接班，梁振英在林郑当选特首翌日，就起诉9名参加“雨伞运动”的人士。有评论认为，除梁振英梁外，林郑未来还要应付中联办及建制派。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815481&from=ogGitn">安徽一高校马克思主义学院院长坠楼身亡 2017-03-30 21:41</a><br/>日前，中共安徽职业技术学院马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815482&from=ogGitn">川习会正式敲定4月登场 两大重要议题成焦点 2017-03-30 21:37</a><br/>中美官方同日宣布，中国国家主席习近平将于4月6日至7日，在美国佛罗里达州与美国总统川普（Donald Trump）会晤。白宫官员曾表示，这次会面的目的是消除朝鲜紧张局势，以及近日韩国部署萨德系统。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815501&from=ogGitn">辽阳瞒报灾情被确认 灾难变政绩是中共传统 2017-03-30 21:19</a><br/>辽阳市再次也被爆隐瞒风灾死亡人数。3月29日晚间，辽阳市委通报称辽阳县隐瞒情况属实。有评论表示隐瞒死亡人数是中共的传统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815471&from=ogGitn">送30部苹果机行贿拉票 辽宁郑玉焯受审 2017-03-30 20:11</a><br/>3月30日，中共辽宁省人大常委会前副主任郑玉焯破坏选举、受贿案开庭审理。其被指控通过行贿当选辽宁省第十二届人大常委会副主任。此前几日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理，其为竞选辽宁省副省长、省委常委，先后行贿110余万元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815475&from=ogGitn">VOA：中共违反联合国协议 继续进口朝鲜矿产 2017-03-30 20:05</a><br/>根据海关总署的数据，中国仅2月份从朝鲜进口的金银铜锌矿产的价值就高达65万美元，而这些矿产都被联合国列入对朝鲜制裁的名单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815472&from=ogGitn">山东辱母杀人案 万人声援护母者 捐款不断 2017-03-30 19:16</a><br/>山东聊城〝辱母杀人案〞持续发酵。</td></tr>
@@ -51,6 +57,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815443&from=ogGitn">每日三退声明精选（2017/03/29） 2017-03-30 13:43</a><br/>我是一名个体经商户，眼下大陆个体经营很困难，中共邪党的贪腐问题得不到解决，老百姓看不到希望。在此，我声明退出中共邪党的共青团组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815447&from=ogGitn">北京平壤暗通款曲？调查：中国还有多个〝马晓红〞 2017-03-30 13:31</a><br/>中国被指继续违反联合国决议进口朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815446&from=ogGitn">王岐山的〝神秘随从〞变身中纪委大管家 2017-03-30 13:23</a><br/>习近平上台后，多名习的浙江旧部获得重用，日前，被外界称为王岐山〝神秘随从〞的浙江系高官施克辉变身中共中纪委大管家，据中纪委官方消息，施克辉已出任中纪委办公厅主任。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815502&from=ogGitn">陆“流动儿童”超过3500万 教育机会无保障 2017-03-30 13:07</a><br/>中国民间教育机构近日发布的报告显示，中国目前有超过3500万名“流动儿童”，他们随进城打工的父母迁徙生活，接受学前教育和初中后教育的机会却得不到保障。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815451&from=ogGitn">湖南一大学学生会主席诈骗27同学逾百万元 2017-03-30 12:46</a><br/>湖南工学院大四学生、学生会主席涉诈骗27名同学逾百万元（人民币，下同），在毕业前4个月时被拘捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815467&from=ogGitn">中共严控资金外流 大陆人马来购房遇阻 2017-03-30 12:32</a><br/>随着中共对资金外流管制越来越严，数百位想要在马来西亚购房的大陆人遇到了麻烦，有的已经交了定金，却再也不能把钱汇到海外。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815459&from=ogGitn">国足姜至鹏陷“出轨门”妻控诉他挥霍千万 2017-03-30 12:11</a><br/>近日，中国男子国足主力左后卫姜至鹏的妻子张之悦在网络实名控诉姜在婚内出轨、转移财产、逼迫离婚等，并且为小三挥霍千万人民币。同时指姜至鹏所在的富力俱乐部包庇姜至鹏。随后，姜至鹏也立即回应了此事。</td></tr>
@@ -197,11 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815275&from=ogGitn">玉清心：中共元老李立三一家的生死劫难 2017-03-29 05:09</a><br/>上世纪六十年代初，北京东单北大街，从第二条胡同北极阁三条往北到灯市东口，两站路程的行人便道上，常见一位提着真皮书包、冬天也穿短裙的洋姑娘。她白肤色、黑头发，轻盈姣美，像天鹅湖畔的一只天鹅飘然而过。在那个物质菲薄，精神枯燥，封闭禁锢的年代，〝洋美人〞成了这条街上的一道风景线。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815271&from=ogGitn">林辉：同仁堂传人自杀 母亲和夫人被打死 2017-03-29 05:04</a><br/>北京有一家赫赫有名的〝老字号〞药店：同仁堂，不仅享誉北京，而且享誉全国。其创始人乐显，曾是清康熙年间太医院的吏目。其子乐凤鸣恪守父训，接续祖业，在北京前门外大栅栏路南开设同仁堂药铺，并提出〝遵肘后，辨地产，炮制虽繁必不敢省人工、品味虽贵必不敢减物力〞，为同仁堂树立起良好的信誉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815270&from=ogGitn">李宇明：大饥荒时期的红色画家 2017-03-29 05:00</a><br/>大跃进时期，一批红色画家为了配合中共的宣传，创作了一大批歌颂大跃进、歌颂中共、歌颂毛泽东的画作。就是在大饥荒时期，大批饿死人的时候，这些红色画家还在继续为中共歌功颂德。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815267&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-29 04:50</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815312&from=ogGitn">楼市调控不断加码 更多人或“逃离”北京 2017-03-29 04:48</a><br/>北京楼市调控加码措施不断，二手房周均交易量下滑约30%左右。外界关注，这或导致更多人“逃离”北京。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>中国新规定：互联网〝翻墙〞有罪；李明哲人在何处? 其妻辗转送药；广东武警少将蔡广辽获刑八年；辉山乳业承认资金链断裂。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815311&from=ogGitn">丽江被打毁容女孩 136天后公开近照和遗书 2017-03-29 04:07</a><br/>3月27日，丽江被打女孩小董在广东省人民医院内，首次披露了自己的遗书，同时，她治疗期间的伤情照片和被打136天后的近照也首度曝光。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815295&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-29 03:34</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和“真善忍”的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。所以当时中共迫害法轮功，根本不得人...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815263&from=ogGitn">山西男子持刀混入幼儿园 砍死3岁男童 2017-03-29 03:20</a><br/>山西省运城发生一起校园凶杀案，一名幼儿被砍死，伤者人数官民说法不一。警方称嫌疑人患有间歇性精神病。</td></tr>
 </table>
