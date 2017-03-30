@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815436&from=ogGitn">辱母杀人案成习近平孝治天下的试金石 2017-03-30 11:12</a><br/>有评论表示，山东聊城发生的辱母案已成为习近平孝治天下的试金石。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815435&from=ogGitn">8千老兵集体扫墓    当局严控防再演包围北京事件 2017-03-30 11:11</a><br/>2017年是越战38周年纪念，日前各地8千名越战老兵在广西凭祥举行了一年一度的扫墓活动，哀悼在越战中逝去的战友。当局对此高度关注，有通知显示，地方政府严防老兵在扫墓后前往北京集体上访。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815434&from=ogGitn">北京宋庄艺术家房屋遭强拆　警用钢叉制服抗议者 
 										
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815192&from=ogGitn">陕西纪检组长被查处 曾糊弄国务院 2017-03-28 11:13</a><br/>日前，中共陕西省纪委派驻的纪检组组长因带头违反“习八条”规定被查处，该官员被扒出几年前就曾糊弄国务院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815203&from=ogGitn">上海虹口足球场着火 浓烟滚滚 火势迅猛 2017-03-28 11:02</a><br/>3月28日早上8时30分许，上海虹口足球场突然发生大火，火势凶猛，伴随着滚滚浓烟弥漫天际。官媒称无人员伤亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815187&from=ogGitn">袁斌：警察充当了辱母杀人案中的罪恶帮凶 2017-03-28 10:31</a><br/>警察充当了“辱母杀人案”中的罪恶帮凶，他们应该和暴力逼债的黑社会团伙一道站在被告席上。</td></tr>
 </table>
