@@ -2,6 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815454&from=ogGitn">研究：受中国阴霾影响 日韩2007年3万人早死 2017-03-30 16:11</a><br/>韩联社30日报导，一项研究结果表明，仅2007年，从中国漂洋过海的阴霾导致韩日两国非自然死亡人数就达3.09万人。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815453&from=ogGitn">“毛骨悚然”国企巨贪自述夺权和贪腐黑幕 2017-03-30 15:34</a><br/>“怎么独裁，你要会弄”——一名在狱中的“国企巨贪”自述在国企中如何采用阴损的手段操弄人事、夺取实权及其贪腐奢靡的内幕。他解剖了自己在权力巅峰时的癫狂，以“毛骨悚然”来形容国企高管的腐败。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815455&from=ogGitn">中国阴霾堪比萨德 韩日一年3万人早死 2017-03-30 15:24</a><br/>一项研究结果显示，因中国的阴霾漂洋过海，已经导致韩国、日本两国3.09万人早死。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815452&from=ogGitn">敏感时刻转移资产？陆神秘商人买AC米兰足球队 2017-03-30 14:56</a><br/>英媒称，中国神秘商人李勇鸿以7.4亿欧元收购AC米兰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815449&from=ogGitn">谷歌欲重返中国？ 开通手机翻译服务引猜测 2017-03-30 14:36</a><br/>美国公司谷歌日前一款针对中国大陆设计的手机翻译应用，被允许进入中国市场。7年前由于拒绝接受中共的信息审查，谷歌退出了中国大陆，谷歌产品也被中共全面封锁，此次被认为谷歌重返中国大陆的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815448&from=ogGitn">担心被北京〝套近乎〞？川普女婿拒与中国安邦做生意 2017-03-30 14:08</a><br/>曾由美国总统川普女婿库什纳掌控的库什纳公司于周三（3月29日）证实，与中国安邦保险就参股开发改造位于纽约曼哈顿第五大道上一栋写字楼的谈判已经终止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815445&from=ogGitn">山东一化工厂发生废气泄漏 现场黄烟弥漫 2017-03-30 14:04</a><br/>29日，位于山东荷泽市巨野县的一家化工厂发生废气泄漏，大量黄色气体溢出，对周边环境造成污染。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815210&from=ogGitn">福建男铁链锁妻逼上网诈骗  每天骗5000元不够数就打 2017-03-28 17:04</a><br/>重庆女子小英发简讯向警方求救：说自己被人锁起来了，在做骗人的事情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815225&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-28 15:53</a><br/>不解体中共，什么振兴经济，依法治国，民主宪治，强国富民，一切都无从谈起。解体中共，一个民主、自由、富强的中国才会到来！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815207&from=ogGitn">大陆新娘李英蕾离奇失踪  疑遭德国丈夫抛尸大海 2017-03-28 15:44</a><br/>意大利海岸发现一个被遗弃的行李箱，里面装着一具高度腐烂的女尸。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815212&from=ogGitn">湖南留守男童砍杀七旬老妪 顺走700元逃逸 2017-03-28 15:34</a><br/>3月26日下午，湖南隆回一名13岁留守男童，因不满被73岁老妇骂，将其砍杀并顺手拿走妇人身上的700元现金逃跑后被抓捕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815252&from=ogGitn">湖北建筑脚手架垮塌致2死6伤 7人仍被困 2017-03-28 15:30</a><br/>3月27日晚，湖北麻城一建筑工地发生一起脚手架垮塌事故, 已经造成2人死亡，6人受伤，还有7人仍被困。8名涉事责任人被公安机关控制。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815206&from=ogGitn">习近平十九大如何布局？〝九大智囊〞助其闯关 2017-03-28 15:30</a><br/>2017年是换届年，习近平如何推动今秋十九大的人事布局，成为舆论关注的焦点。外界普遍认为，这次围绕着习核心的〝九大智囊〞将助其闯关。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815204&from=ogGitn">四川男童爬窗帮邻居取钥匙 坠楼生命垂危 2017-03-28 15:07</a><br/>3月25日下午，四川阆中市某小区居民赵奶奶将钥匙忘在了家里。她找到楼上邻居、8岁男孩彭康的爷爷，想让彭康帮她取出钥匙。彭爷爷用绳子拴在彭康腰间，把他从5楼外墙吊到4楼窗户，从那进去帮赵奶奶取出钥匙。谁知绳子突然断裂，彭康从4楼坠地，目前生命垂危。</td></tr>
 </table>
