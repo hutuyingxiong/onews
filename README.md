@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815449&from=ogGitn">谷歌欲重返中国？ 开通手机翻译服务引猜测 2017-03-30 14:36</a><br/>美国公司谷歌日前一款针对中国大陆设计的手机翻译应用，被允许进入中国市场。7年前由于拒绝接受中共的信息审查，谷歌退出了中国大陆，谷歌产品也被中共全面封锁，此次被认为谷歌重返中国大陆的信号。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815448&from=ogGitn">担心被北京〝套近乎〞？川普女婿拒与中国安邦做生意 2017-03-30 14:08</a><br/>曾由美国总统川普女婿库什纳掌控的库什纳公司于周三（3月29日）证实，与中国安邦保险就参股开发改造位于纽约曼哈顿第五大道上一栋写字楼的谈判已经终止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815445&from=ogGitn">山东一化工厂发生废气泄漏 现场黄烟弥漫 2017-03-30 14:04</a><br/>29日，位于山东荷泽市巨野县的一家化工厂发生废气泄漏，大量黄色气体溢出，对周边环境造成污染。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815443&from=ogGitn">每日三退声明精选（2017/03/29） 2017-03-30 13:43</a><br/>我是一名个体经商户，眼下大陆个体经营很困难，中共邪党的贪腐问题得不到解决，老百姓看不到希望。在此，我声明退出中共邪党的共青团组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815447&from=ogGitn">北京平壤暗通款曲？调查：中国还有多个〝马晓红〞 2017-03-30 13:31</a><br/>中国被指继续违反联合国决议进口朝鲜矿产。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815206&from=ogGitn">习近平十九大如何布局？〝九大智囊〞助其闯关 2017-03-28 15:30</a><br/>2017年是换届年，习近平如何推动今秋十九大的人事布局，成为舆论关注的焦点。外界普遍认为，这次围绕着习核心的〝九大智囊〞将助其闯关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815204&from=ogGitn">四川男童爬窗帮邻居取钥匙 坠楼生命垂危 2017-03-28 15:07</a><br/>3月25日下午，四川阆中市某小区居民赵奶奶将钥匙忘在了家里。她找到楼上邻居、8岁男孩彭康的爷爷，想让彭康帮她取出钥匙。彭爷爷用绳子拴在彭康腰间，把他从5楼外墙吊到4楼窗户，从那进去帮赵奶奶取出钥匙。谁知绳子突然断裂，彭康从4楼坠地，目前生命垂危。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815226&from=ogGitn">杭州土地拍卖 无预警现场被叫停 2017-03-28 15:01</a><br/>3月27日，杭州举行黄历新年后第一场土地拍卖会，待开发商落座准备竞拍后，官方突然宣布土地暂停出让，令开发商大感惊讶。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815216&from=ogGitn">湖南永州前副市长被查 连续两天有高官落马 2017-03-28 14:32</a><br/>湖南永州市副市长张常明涉嫌严重“违纪”，目前正接受审查。这是湖南官场连续第二天有高官落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815200&from=ogGitn">天津官场大换血 市委常委“四进三出” 2017-03-28 14:20</a><br/>自天津大爆炸后，官场持续地震。近日，天津官场又出现大规模人事调整，市委常委现“四进三出”，被视为极其罕见。中共江派常委张高丽和落马的黄兴国曾长期把控天津，从官方的通报可见，天津官场已烂透。</td></tr>
 </table>
