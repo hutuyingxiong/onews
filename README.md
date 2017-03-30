@@ -3,6 +3,8 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815471&from=ogGitn">贿赂美元 苹果手机拉选票 辽宁郑玉焯案开审 2017-03-30 20:11</a><br/>3月30日，中共辽宁省人大常委会前副主任郑玉焯破坏选举、受贿案开庭审理。其被指控通过行贿当选辽宁省第十二届人大常委会副主任。此前几日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理，其为竞选辽宁省副省长、省委常委，先后行贿110余万元（人民币，下同）。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815472&from=ogGitn">山东辱母杀人案 万人声援护母者 捐款不断 2017-03-30 19:16</a><br/>山东聊城〝辱母杀人案〞持续发酵。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点 辱母案现罕见一幕 2017-03-30 19:00</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815468&from=ogGitn">分析：刘云山搅局十九大  主使老兵包围中纪委 2017-03-30 18:59</a><br/>中共19大召开前夕，中南海高层权斗明显升级，近期连续发生的老兵集体上访事件，疑似有高层精心策化和操控。分析认为主管宣传的中央政治局委员刘云山很可能是幕后主使。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815470&from=ogGitn">【翻墙必看】美国向金正恩展示武力 2017-03-30 18:23</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815463&from=ogGitn">沉冤20余年 聂树斌父母获赔268万 2017-03-30 17:36</a><br/>聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。</td></tr>
@@ -17,7 +19,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815457&from=ogGitn">重庆两厅官收受礼金被处理 2017-03-30 15:53</a><br/>3月30日，中共重庆国际投资咨询集团有限公司原总经理、董事贾建国及重庆南川区委原常委、区政府党组原副书记王元开因违反“习八条”，收受下属礼金被“双开”，并移送司法处理。自去年底以来，重庆官场持续震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815453&from=ogGitn">“毛骨悚然”国企巨贪自述夺权和贪腐黑幕 2017-03-30 15:34</a><br/>“怎么独裁，你要会弄”——一名在狱中的“国企巨贪”自述在国企中如何采用阴损的手段操弄人事、夺取实权及其贪腐奢靡的内幕。他解剖了自己在权力巅峰时的癫狂，以“毛骨悚然”来形容国企高管的腐败。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815455&from=ogGitn">中国阴霾堪比萨德 韩日一年3万人早死 2017-03-30 15:24</a><br/>一项研究结果显示，因中国的阴霾漂洋过海，已经导致韩国、日本两国3.09万人早死。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点 辱母案现罕见一幕 2017-03-30 15:00</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815452&from=ogGitn">敏感时刻转移资产？陆神秘商人买AC米兰足球队 2017-03-30 14:56</a><br/>英媒称，中国神秘商人李勇鸿以7.4亿欧元收购AC米兰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815449&from=ogGitn">谷歌欲重返中国？ 开通手机翻译服务引猜测 2017-03-30 14:36</a><br/>美国公司谷歌日前一款针对中国大陆设计的手机翻译应用，被允许进入中国市场。7年前由于拒绝接受中共的信息审查，谷歌退出了中国大陆，谷歌产品也被中共全面封锁，此次被认为谷歌重返中国大陆的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815469&from=ogGitn">冯崇义申请政府信息公开 遭中共国安封口 2017-03-30 14:28</a><br/>澳洲悉尼科技大学副教授冯崇义被禁止离开中国，事件引发外界极大关注并持续发酵。近日，冯崇义向中共天津市国安局申请信息公开，要求中共给出扣押理由及书面通知，遭国安要求冯崇义对外封口。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815232&from=ogGitn">托养中心多少人死亡？韶关官员被一锅端 2017-03-28 20:39</a><br/>震惊外界的广东韶关新丰县练溪托养中心集体死亡事件，目前有了新的进展，包括新丰县委书记在内的4名官员免职；有9名官员被立案侦查；托养中心工作人员有10人被刑拘。该中心被指有挪用救助补助资金、虐待托养人员等问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815230&from=ogGitn">万科列出房价下跌城市名单 2017-03-28 20:12</a><br/>3月27日，大陆房企巨头万科表示，已经准备好迎接大陆房价的下跌，并列出了下跌城市的名单。对大陆房价看跌的还有融创中国董事长孙宏斌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815231&from=ogGitn">全球假货10年内将增加 中国被指是大产家 2017-03-28 19:59</a><br/>全球假冒产品和盗版活动预计在今后的10年中将有增加，而在中国假货生产泛滥，涉及各个行业领域，被指是假货的大产家。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815228&from=ogGitn">辉山乳业事件发酵 辽宁金融界成舆论焦点 2017-03-28 19:53</a><br/>百亿规模债务的辽宁辉山乳业，近日股价暴跌又连续曝出大股东挪用资金、造假、借债减持却拖欠货款等丑闻。最近，该事件持续发酵，辽宁省金融界成为舆论焦点。</td></tr>
 </table>
