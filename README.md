@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815468&from=ogGitn">分析：刘云山搅局十九大  主使老兵包围中纪委 2017-03-30 18:59</a><br/>中共19大召开前夕，中南海高层权斗明显升级，近期连续发生的老兵集体上访事件，疑似有高层精心策化和操控。分析认为主管宣传的中央政治局委员刘云山很可能是幕后主使。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815463&from=ogGitn">沉冤20余年 聂树斌父母获赔268万 2017-03-30 17:36</a><br/>聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815461&from=ogGitn">彪海洋：从辱母案看合议庭对案件的操控 2017-03-30 17:19</a><br/>近几天，辱母案在全国发酵，成为最为热点的事件，这客观反映出人们对中国法制状况的普遍不满，也同样反映出人们普遍对公平正义的强烈渴望。至目前为止，已有很多的评论文章分析该案，但笔者注意到，这些文章极少揭示出合议庭在本案中对案件的操控手法，大多数认为这是法律与道德要求的矛盾所致，而忽视了法官故意扭曲法律适用这个关键，而该问题，在中国的法律界中，实际上是一个已泛滥成灾的普遍现象，已成为极其突出的问题，如果不立即纠正，将成为全面依法治国之灾。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815464&from=ogGitn">宋庄艺术家遭强拆 数十艺术家声援 2017-03-30 17:12</a><br/>北京宋庄的独立艺术家持续受到当局打压，29号，沈敬东正在兴建中的房子突然被强拆，他本人也被强拆人员用钢叉叉倒在地，受到轻伤。数十名艺术家到场拉横幅抗议，双方发生冲突，混乱中有人被打伤，2人被警方带走。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815247&from=ogGitn">四川“黑老大”刘汉部分被冻结资产拍卖 2017-03-28 19:40</a><br/>四川“黑老大”刘汉被执行死刑两年之后，其被法院冻结的部分资产于3月28日在西南联合产权交易所网络平台上公开拍卖，起拍价逾2.5亿人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815227&from=ogGitn">北京空军参谋部警卫营岗哨传抢枪事件 2017-03-28 19:19</a><br/>北京巴士公司一名钟姓男乘务员，于3月12日早上，到北京空参警卫营西门外，蹿上执勤岗台欲抢夺哨兵手中的配枪未果，被制服后移交警方处理。网民热议，这如果他带着凶器袭击怎么办？配枪据报，事件发生于12日早上6时55分，</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815218&from=ogGitn">假货遍全球 中国被指假货生产中心 2017-03-28 18:28</a><br/>中国制造的假货遍布全球，一项最新报告指，中国是全球假货生产的中心。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 18:26</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
 </table>
