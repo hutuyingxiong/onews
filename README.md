@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815471&from=ogGitn">贿赂美元 苹果手机拉选票 辽宁郑玉焯案开审 2017-03-30 20:11</a><br/>3月30日，中共辽宁省人大常委会前副主任郑玉焯破坏选举、受贿案开庭审理。其被指控通过行贿当选辽宁省第十二届人大常委会副主任。此前几日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理，其为竞选辽宁省副省长、省委常委，先后行贿110余万元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815468&from=ogGitn">分析：刘云山搅局十九大  主使老兵包围中纪委 2017-03-30 18:59</a><br/>中共19大召开前夕，中南海高层权斗明显升级，近期连续发生的老兵集体上访事件，疑似有高层精心策化和操控。分析认为主管宣传的中央政治局委员刘云山很可能是幕后主使。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815470&from=ogGitn">【翻墙必看】美国向金正恩展示武力 2017-03-30 18:23</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815463&from=ogGitn">沉冤20余年 聂树斌父母获赔268万 2017-03-30 17:36</a><br/>聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815230&from=ogGitn">万科列出房价下跌城市名单 2017-03-28 20:12</a><br/>3月27日，大陆房企巨头万科表示，已经准备好迎接大陆房价的下跌，并列出了下跌城市的名单。对大陆房价看跌的还有融创中国董事长孙宏斌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815231&from=ogGitn">全球假货10年内将增加 中国被指是大产家 2017-03-28 19:59</a><br/>全球假冒产品和盗版活动预计在今后的10年中将有增加，而在中国假货生产泛滥，涉及各个行业领域，被指是假货的大产家。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815228&from=ogGitn">辉山乳业事件发酵 辽宁金融界成舆论焦点 2017-03-28 19:53</a><br/>百亿规模债务的辽宁辉山乳业，近日股价暴跌又连续曝出大股东挪用资金、造假、借债减持却拖欠货款等丑闻。最近，该事件持续发酵，辽宁省金融界成为舆论焦点。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815247&from=ogGitn">四川“黑老大”刘汉部分被冻结资产拍卖 2017-03-28 19:40</a><br/>四川“黑老大”刘汉被执行死刑两年之后，其被法院冻结的部分资产于3月28日在西南联合产权交易所网络平台上公开拍卖，起拍价逾2.5亿人民币。</td></tr>
 </table>
