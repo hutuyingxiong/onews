@@ -2,9 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815403&from=ogGitn">【禁闻】反右研讨会受阻 疑中共施压与会者 2017-03-30 09:52</a><br/>香港〝五七学社〞成立于2007年，宗旨是致力于收集、整理和研究一切有关中国大陆反右运动的资料、文献，包括各种各样的回忆录，并将之整理、传播或出版。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815422&from=ogGitn">【石涛八方 】天地人合一生命真实与境界 2017-03-30 09:50</a><br/>无论动物也好，人也好，当处在危险当中的时候，很希望别人能伸出一只手，但有多少人事先知道自己处在危险当中呢？</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815408&from=ogGitn">【禁闻】检察院退卷江苏句容 法轮功学员获释 2017-03-30 09:47</a><br/>反人类杀人 前罗共官员获刑20年；反人类杀人 前罗共官员获刑20年；中共违反联合国决议 续进朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815421&from=ogGitn">苦胆：中国为什么总是〝对者出局〞？ 2017-03-30 09:46</a><br/>有个段子说：〝在北京市政建设中，历史证明梁思成是对的，但老北京还是消失了；三门峡工程该不该上，黄万里是对的，但三门峡水库还是造起来了……中国的吊诡之处在于：对者出局。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815420&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-30 08:23</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815429&from=ogGitn">新疆一周传两袭击案 又千名武警从辽宁入疆 2017-03-30 08:07</a><br/>新疆局势持续紧张。海外消息披露，伊犁的昭苏县和霍城县上周发生两起严重的暴力袭击事件，当局近日紧急从辽宁武警机动师再调派1000名武警至伊犁，加强搜查及戒备。此前当局已派5000名武警到新疆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 07:07</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815402&from=ogGitn">楼市新一轮调控来袭 房价下降的拐点来临？ 2017-03-30 07:01</a><br/>在大陆开启新一轮楼市调控之际，近日又有多地发布楼市调控新政。外界关注，房价下降的拐点或要到来。</td></tr>
@@ -12,12 +15,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815417&from=ogGitn">【禁闻】3月29日退党精选 2017-03-30 07:00</a><br/>大陆民众说，在所谓的改革开放以来，只有少部分人生活安逸，中共仍然杀戮人民，他们都声明退出中共组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815409&from=ogGitn">德媒：坏事又变好事？ 辱母杀人案引发〝被准许的愤怒〞 2017-03-30 06:22</a><br/>山东辱母杀人案引发大陆网民声讨，中共最高检随即宣布介入调查。时评人长平认为，这是当局默许下的又一次〝被准许的愤怒〞，中共或再次〝将坏事变好事〞，导演又一个〝法治的胜利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815410&from=ogGitn">梁京：中国的房地产泡沫已近临界点 2017-03-30 05:59</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。做出这一判断其实不难，因为所谓一线城市，即北京、上海、广州、深圳等大都市，两年之间，房价在所谓“天价”水平之上，又翻了一番。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815408&from=ogGitn">【禁闻】反人类杀人 前罗共官员获刑20年 2017-03-30 05:59</a><br/>反人类杀人 前罗共官员获刑20年；反人类杀人 前罗共官员获刑20年；中共违反联合国决议 续进朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815395&from=ogGitn">谢天奇：习王围剿江家族 胡锦涛露面释两信号 2017-03-30 05:48</a><br/>习阵营连番动作围剿上海帮江泽民家族之际，胡锦涛、温家宝、朱镕基等习阵营元老密集露面，一方面，反衬江泽民被封杀的异常，印证其处境不妙的现状；另一方面，展示与习的政治联盟，震慑江派势力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815406&from=ogGitn">武长顺受审 他手上沾了多少生命的血？ 2017-03-30 05:31</a><br/>王忆，男，天津法轮功学员。2002年1月24日，他到天安门广场请愿，被天津公安局南开分局关押；1月31日凌晨死亡。李文霞，女，2000年，在天津公安局辖下的塘沽拘留所被关押。释放时，李文霞气若游丝，身体像一具骷髅。2006年12月，她含冤离世。程科，女，天津法轮功学员，华北建材公司离休老干部。2004年10月，她在天津市河西区公安分局看守所被...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815407&from=ogGitn">陆学者：朝鲜是潜在敌人 韩统一半岛有利无弊 2017-03-30 05:22</a><br/>朝鲜核武发展在导致半岛危机升级的同时，让中朝关系也走向对立。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815404&from=ogGitn">【禁闻】重庆新规 翻墙有罪 评：自砸脚 2017-03-30 05:21</a><br/>3月27号，重庆市公安局发布了《网络监管行政处罚裁量基准》修订稿，规定对于擅自建立、使用所谓的非法定信道进行国际联网；接入网络未通过互联网络接入国际联网；未经许可从事国际联网经营业务；未经批准进行国际联网等翻墙行为，将予以处罚。对所谓构成犯罪的，还要追究刑事责任。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815403&from=ogGitn">【禁闻】反右研讨会受阻 疑中共施压与会者 2017-03-30 05:19</a><br/>香港〝五七学社〞成立于2007年，宗旨是致力于收集、整理和研究一切有关中国大陆反右运动的资料、文献，包括各种各样的回忆录，并将之整理、传播或出版。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815399&from=ogGitn">网传江苏副省长杨岳跳楼 2017-03-30 05:14</a><br/>3月29日，报社记者“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”目前，官方对此还没有相关报导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815401&from=ogGitn">中介9招推高楼价 大陆新一轮楼控祭杀手镧 2017-03-30 05:10</a><br/>近日，大陆开启新一轮楼市调控，其中，中介公司成整治重点。近日，官方通报30家违规中介和房企，官媒曝中介推高房价“九大套路”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815405&from=ogGitn">周晓辉：再提郭徐架空胡锦涛 话外有音回击暗流 2017-03-30 05:04</a><br/>此前港媒曾报导若干上将突然“销声匿迹”，估计是习近平进一步整肃军队的重要举措。随着警告音的释出，为了确保中共十九大前没有人兴风作浪，军队或许还将有重要将官落马。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815176&from=ogGitn">【禁闻】网传〝十秒质疑〞视频 声援维权律师 2017-03-28 08:40</a><br/>发生在中国的709抓捕律师案，有越来越多的国家和国际组织表示强烈关切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815144&from=ogGitn">谢天奇：沪疆两大窝案曝光 江最恐惧的事发生 2017-03-28 08:30</a><br/>中共十九大前夕，习阵营加速清洗政法系统；多地区出现无罪释放法轮功学员的现象。这触及江泽民集团的迫害法轮功罪行这一死穴。这一敏感变化，与习阵营针对江泽民的打虎行动进展之间的关联性令人关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815175&from=ogGitn">【禁闻】辱母杀人案背后： 高利贷黑幕引关注 2017-03-28 08:24</a><br/>〝我们误入高利贷陷阱，害了自己，也伤了别人。〞这是山东聊城〝辱母杀人案〞中，受辱母亲苏银霞为儿子于欢写的陈情书中的一句话。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815183&from=ogGitn">突变失业人员 山西原平昊华职工海外寻帮助 2017-03-28 07:35</a><br/>山西原平昊华公司因政策性破产，职工在身份转换过程中利益受到严重伤害，多次向有关部门申诉无果。最近，他们希望大纪元帮助他们呼吁，维护职工正当权益。</td></tr>
 </table>
