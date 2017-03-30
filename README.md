@@ -24,6 +24,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815452&from=ogGitn">敏感时刻转移资产？陆神秘商人买AC米兰足球队 2017-03-30 14:56</a><br/>英媒称，中国神秘商人李勇鸿以7.4亿欧元收购AC米兰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815449&from=ogGitn">谷歌欲重返中国？ 开通手机翻译服务引猜测 2017-03-30 14:36</a><br/>美国公司谷歌日前一款针对中国大陆设计的手机翻译应用，被允许进入中国市场。7年前由于拒绝接受中共的信息审查，谷歌退出了中国大陆，谷歌产品也被中共全面封锁，此次被认为谷歌重返中国大陆的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815469&from=ogGitn">冯崇义申请政府信息公开 遭中共国安封口 2017-03-30 14:28</a><br/>澳洲悉尼科技大学副教授冯崇义被禁止离开中国，事件引发外界极大关注并持续发酵。近日，冯崇义向中共天津市国安局申请信息公开，要求中共给出扣押理由及书面通知，遭国安要求冯崇义对外封口。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815476&from=ogGitn">长沙男子头痛两年 医生开颅取出11厘米寄生虫 2017-03-30 14:08</a><br/>3月23日，湖南长沙市民文先生接受了开颅手术，医生从他的大脑中取出了一条长达11厘米的寄生虫。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815448&from=ogGitn">担心被北京〝套近乎〞？川普女婿拒与中国安邦做生意 2017-03-30 14:08</a><br/>曾由美国总统川普女婿库什纳掌控的库什纳公司于周三（3月29日）证实，与中国安邦保险就参股开发改造位于纽约曼哈顿第五大道上一栋写字楼的谈判已经终止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815445&from=ogGitn">山东一化工厂发生废气泄漏 现场黄烟弥漫 2017-03-30 14:04</a><br/>29日，位于山东荷泽市巨野县的一家化工厂发生废气泄漏，大量黄色气体溢出，对周边环境造成污染。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815443&from=ogGitn">每日三退声明精选（2017/03/29） 2017-03-30 13:43</a><br/>我是一名个体经商户，眼下大陆个体经营很困难，中共邪党的贪腐问题得不到解决，老百姓看不到希望。在此，我声明退出中共邪党的共青团组织。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815241&from=ogGitn">巴黎警枪杀中国男引冲突 3伤35被捕 2017-03-28 22:11</a><br/>周日（26日）晚，一名旅居法国巴黎的中国男子与上门的警察发生冲突，遭警方枪杀。事件于周一引发暴力冲突，造成3名警察受伤，35名抗议者被捕。目前对于死者是否袭警，警方与死者家人各执一词。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815197&from=ogGitn">维护中国人知情权 真相电视插播者生死遭遇 2017-03-28 22:08</a><br/>他们是在中国大陆参与真相电视插播的法轮功学员们。从跨出这一步开始，他们就以生命和勇气，化作一道道穿越心灵的电波。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815265&from=ogGitn">大陆A股连续两个交易日下跌 成交量续降 2017-03-28 21:35</a><br/>截至3月28日，大陆A股连续两个交易日走跌，且成交量持续减少。近日备受市场关注的辉山乳业个股继续停牌。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815232&from=ogGitn">托养中心多少人死亡？韶关官员被一锅端 2017-03-28 20:39</a><br/>震惊外界的广东韶关新丰县练溪托养中心集体死亡事件，目前有了新的进展，包括新丰县委书记在内的4名官员免职；有9名官员被立案侦查；托养中心工作人员有10人被刑拘。该中心被指有挪用救助补助资金、虐待托养人员等问题。</td></tr>
 </table>
