@@ -29,6 +29,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815436&from=ogGitn">辱母杀人案成习近平孝治天下的试金石 2017-03-30 11:12</a><br/>有评论表示，山东聊城发生的辱母案已成为习近平孝治天下的试金石。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815435&from=ogGitn">8千老兵集体扫墓    当局严控防再演包围北京事件 2017-03-30 11:11</a><br/>2017年是越战38周年纪念，日前各地8千名越战老兵在广西凭祥举行了一年一度的扫墓活动，哀悼在越战中逝去的战友。当局对此高度关注，有通知显示，地方政府严防老兵在扫墓后前往北京集体上访。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815440&from=ogGitn">习近平先访芬兰再赴美 不住川普私人庄园 2017-03-30 10:22</a><br/>在美中双方还没有正式宣布两国首脑将于4月初举行会晤的消息之际，芬兰总统府星期三宣布，中国国家主席习近平将</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815466&from=ogGitn">何清涟：从限购令到限卖令 全靠政府“营销”有术 2017-03-30 10:16</a><br/>中国政府之所以能成为房地产市场“营销高手”，也是凭借垄断资源而做到的</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815434&from=ogGitn">北京宋庄艺术家房屋遭强拆　警用钢叉制服抗议者 
 										
 											?组图 2017-03-30 10:14</a><br/>艺术家们阻止强拆时遭遇保安用钢叉制服在地，过程中有人受伤。</td></tr>
@@ -169,7 +170,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815270&from=ogGitn">李宇明：大饥荒时期的红色画家 2017-03-29 05:00</a><br/>大跃进时期，一批红色画家为了配合中共的宣传，创作了一大批歌颂大跃进、歌颂中共、歌颂毛泽东的画作。就是在大饥荒时期，大批饿死人的时候，这些红色画家还在继续为中共歌功颂德。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815267&from=ogGitn">石铭：由中共高层对贪腐的绝望谈治贪的出路 2017-03-29 04:50</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815312&from=ogGitn">楼市调控不断加码 更多人或“逃离”北京 2017-03-29 04:48</a><br/>北京楼市调控加码措施不断，二手房周均交易量下滑约30%左右。外界关注，这或导致更多人“逃离”北京。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>中国新规定：互联网〝翻墙〞有罪；李明哲人在何处? 其妻辗转送药；广东武警少将蔡广辽获刑八年；辉山乳业承认资金链断裂。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815266&from=ogGitn">3月28日全球看中国 2017-03-29 04:34</a><br/>美国之音：中国新规定：互联网〝翻墙〞有罪；自由亚洲电台：李明哲人在何处? 其妻辗转送药；大纪元时报：广东武警少将蔡广辽获刑八年；英国《金融时报》：辉山乳业承认资金链断裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815264&from=ogGitn">【禁闻】辱母杀人案 黑老大身后的公权力 2017-03-29 04:17</a><br/>〝辱母杀人案〞在今年3月经由媒体曝光引爆全国舆论，吴学占也在3月26号被检方批捕，同时媒体开始起底他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815311&from=ogGitn">丽江被打毁容女孩 136天后公开近照和遗书 2017-03-29 04:07</a><br/>3月27日，丽江被打女孩小董在广东省人民医院内，首次披露了自己的遗书，同时，她治疗期间的伤情照片和被打136天后的近照也首度曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815295&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-29 03:34</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和“真善忍”的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。所以当时中共迫害法轮功，根本不得人...</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815218&from=ogGitn">假货遍全球 中国被指假货生产中心 2017-03-28 18:28</a><br/>中国制造的假货遍布全球，一项最新报告指，中国是全球假货生产的中心。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815190&from=ogGitn">重庆一副县长争情人  被情敌一刀刺死 2017-03-28 18:26</a><br/>3月28日早晨，重庆市忠县公安局官方微博发布消息称，因不满女友与他人交往，湖北神农架市男子王拥（已婚）杀死忠县常务副县长毛国强，并刺伤一人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815223&from=ogGitn">青岛法院秘判信仰案 同一案出两份判决 2017-03-28 18:17</a><br/>青岛市市南区法院主审法官王丽卿，对三名法轮功学员张红茹、李秀君、王瑾，进行非法秘密判刑。奇怪的是，同一个案件，三位辩护律师竟然收到了两份内容不同的判决书。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815224&from=ogGitn">【翻墙必看】江泽民一再被点死穴 2017-03-28 18:13</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 </table>
