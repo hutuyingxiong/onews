@@ -2,10 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815486&from=ogGitn">德语媒体：选举变闹剧 后果很严重 2017-03-30 22:54</a><br/>香港特首选举中，林郑月娥不出所料高票当选，但有投票权的不是香港公民，而是仅限于大约1200人组成的选举委员会。德国媒体对此纷纷发表报道与评论文章。德新社：不是选举，是闹剧“香港前政务司长林郑月娥在抗议声中当选香港特首。虽然林郑的竞争对手曾俊华更受民众爱戴，亲北京的香港特首选举委员会还是将现年59岁的林郑月娥推上特首的宝座。示威者抗议‘虚伪的选举’并要...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815487&from=ogGitn">《南德意志报》：资金管制殃及外企 有钱难汇干着急 2017-03-30 22:50</a><br/>《南德意志报》聚焦中国的资金管制规定，指出严规波及外国公司，尤其给外国银行带来严峻考验。“这个突如其来的传言迅速在中国社交网络上传开：据说宝马集团在华利润难以向国外汇出。该集团慕尼黑总部快速出来回应，表示‘宝马可以跨境支付’。中国一些部门也在微博上发表声明：西方企业跨境汇款没有问题。”《南德意志报》本周一（3月27日）的一篇文章开头这样写道...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815485&from=ogGitn">德国《世界报》：新丝绸之路上的毒品危机 2017-03-30 22:46</a><br/>《世界报》周二关注到中国毒品在美国的“畅销”，尤其是中国“制毒师”的合成毒品在美国大行其道。文章指出，中国推动的新丝绸之路或会成为毒贩们的运输路线。“在中国，贩卖50克海洛因就会被判死刑。中国打击毒贩十分严格——无论犯罪者是中国人还是外国人。但从最近的年度中国毒品形势报告来看，严法似乎收效甚微。”《世界报》本周三（3月29日）发表的一篇文章写道。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815484&from=ogGitn">大陆较小城市楼市亦限购 忽悠老百姓？ 2017-03-30 22:15</a><br/>3月29日，大陆甘肃天水、贵阳和长春三座房价并没有出现大幅度上涨的城市公布了调控措施。有业界人士认为，这些城市本不需要调控，他们是想搭上房价上涨的顺风车，分一杯羹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815481&from=ogGitn">安徽一高校马克思主义学院院长坠楼身亡 2017-03-30 21:41</a><br/>日前，中共安徽职业技术学院马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815482&from=ogGitn">川习会正式敲定4月登场 两大重要议题成焦点 2017-03-30 21:37</a><br/>中共外交部宣布，中国大陆国家主席习近平将于4月6日至7日在美国佛罗里达州与美国总统川普（Donald Trump）会晤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815482&from=ogGitn">川习会正式确认4月登场 两大重要议题成焦点 2017-03-30 21:37</a><br/>中共外交部宣布，中国大陆国家主席习近平将于4月6日至7日在美国佛罗里达州与美国总统川普（Donald Trump）会晤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815471&from=ogGitn">送30部苹果机行贿拉票 辽宁郑玉焯受审 2017-03-30 20:11</a><br/>3月30日，中共辽宁省人大常委会前副主任郑玉焯破坏选举、受贿案开庭审理。其被指控通过行贿当选辽宁省第十二届人大常委会副主任。此前几日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理，其为竞选辽宁省副省长、省委常委，先后行贿110余万元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815475&from=ogGitn">VOA：中共违反联合国协议 继续进口朝鲜矿产 2017-03-30 20:05</a><br/>根据海关总署的数据，中国仅2月份从朝鲜进口的金银铜锌矿产的价值就高达65万美元，而这些矿产都被联合国列入对朝鲜制裁的名单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815472&from=ogGitn">山东辱母杀人案 万人声援护母者 捐款不断 2017-03-30 19:16</a><br/>山东聊城〝辱母杀人案〞持续发酵。</td></tr>
@@ -25,7 +27,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815456&from=ogGitn">福建男网购小米手机   收到一包大米 2017-03-30 15:55</a><br/>江某学校学生，花了800块在网上买了一只小米5手机，却收到一包大米。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815457&from=ogGitn">重庆官场持续震荡 两厅官被“双开” 2017-03-30 15:53</a><br/>3月30日，中共重庆国际投资咨询集团有限公司原总经理、董事贾建国及重庆南川区委原常委、区政府党组原副书记王元开因违反“习八条”，收受下属礼金被“双开”，并移送司法处理。自去年底以来，重庆官场持续震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815453&from=ogGitn">“毛骨悚然”国企巨贪自述夺权和贪腐黑幕 2017-03-30 15:34</a><br/>“怎么独裁，你要会弄”——一名在狱中的“国企巨贪”自述在国企中如何采用阴损的手段操弄人事、夺取实权及其贪腐奢靡的内幕。他解剖了自己在权力巅峰时的癫狂，以“毛骨悚然”来形容国企高管的腐败。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815455&from=ogGitn">中国阴霾堪比萨德 韩日一年3万人早死 2017-03-30 15:24</a><br/>一项研究结果显示，因中国的阴霾漂洋过海，已经导致韩国、日本两国3.09万人早死。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815455&from=ogGitn">中国阴霾堪比萨德 韩日一年3万人早死 2017-03-30 15:24</a><br/>一项研究结果显示，中国的阴霾漂洋过海杀人，已经导致韩国、日本3.09万人早死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815452&from=ogGitn">敏感时刻转移资产？陆神秘商人买AC米兰足球队 2017-03-30 14:56</a><br/>英媒称，中国神秘商人李勇鸿以7.4亿欧元收购AC米兰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815449&from=ogGitn">谷歌欲重返中国？ 开通手机翻译服务引猜测 2017-03-30 14:36</a><br/>美国公司谷歌日前一款针对中国大陆设计的手机翻译应用，被允许进入中国市场。7年前由于拒绝接受中共的信息审查，谷歌退出了中国大陆，谷歌产品也被中共全面封锁，此次被认为谷歌重返中国大陆的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815469&from=ogGitn">冯崇义申请政府信息公开 遭中共国安封口 2017-03-30 14:28</a><br/>澳洲悉尼科技大学副教授冯崇义被禁止离开中国，事件引发外界极大关注并持续发酵。近日，冯崇义向中共天津市国安局申请信息公开，要求中共给出扣押理由及书面通知，遭国安要求冯崇义对外封口。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815251&from=ogGitn">耗资数百亿的长沙地铁被爆渗漏 前董事长神秘失踪 2017-03-29 00:34</a><br/>长沙轨道集团接连爆出丑闻，先是投资上百亿的地铁二号线，仅仅营运两年，主题结构就出现渗漏问题；近日，该集团前党委书记、前董事长彭旭峰又失去联系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815250&from=ogGitn">欲报复社会？北京空军某部警卫营发生抢枪事件（组图） 2017-03-28 23:56</a><br/>北京某公交公司一名临时保安欲报复社会而抢枪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815244&from=ogGitn">云南省长阮成发又读错字 〝目不识滇〞上演第三集 2017-03-28 23:50</a><br/>深陷〝错别字〞丑闻的云南省长阮成发，日前再被爆料把饮鸩止渴念成了饮（jiu）止渴。这是公开报导以来，阮成发第三次念错别字。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815243&from=ogGitn">习近平不入住 揭秘川习会马阿拉歌渡假村 2017-03-28 23:47</a><br/>此前美媒消息，中共国家主席习近平和美国总统川普将于4月初在川普私人别墅举行首次会晤。日前，美国官方又透露了一些新的细节，习近平将入住别墅附近的丽思卡尔顿酒店。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815239&from=ogGitn">川人：为何有些人对股票发行注册制万般痴迷？ 2017-03-28 23:13</a><br/>近日在2017年博鳌亚洲论坛上，众多业界红顶商人在题为“纠偏：让资本市场回归根本”的分论坛上一致认为，推行注册制是中国资本市场未来最重要的改革之一。齐鲁证券首席经济学家李迅雷明确表示：“有人认为一改肯定要乱、投资者要承担损失、市场要大跌，所以要稳中求进。但当你稳定了之后，改革就会延后，但时间成本却很少有人计算。”李迅雷还强调：“重点还是要去推行IPO改革，现...</td></tr>
 </table>
