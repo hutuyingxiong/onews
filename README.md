@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815435&from=ogGitn">8千老兵集体扫墓    当局严控防再演包围北京事件 2017-03-30 11:11</a><br/>2017年是越战38周年纪念，日前各地8千名越战老兵在广西凭祥举行了一年一度的扫墓活动，哀悼在越战中逝去的战友。当局对此高度关注，有通知显示，地方政府严防老兵在扫墓后前往北京集体上访。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815434&from=ogGitn">北京宋庄艺术家房屋遭强拆　警用钢叉制服抗议者 
 										
 											?组图 2017-03-30 10:14</a><br/>艺术家们阻止强拆时遭遇保安用钢叉制服在地，过程中有人受伤。</td></tr>
@@ -65,6 +66,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815366&from=ogGitn">近3年河北保定8名县级一把手落马 2017-03-29 22:28</a><br/>3月28日，河北保定市雄县前县委书记吴亚飞落马，吴卸任该职务才3个多月。近3年保定市至少有8个县级党政一把手或原一把手落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">专案组有动作 数十律师发视频挺江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 21:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815386&from=ogGitn">分析：大陆高利贷暴利与暴力横行的背后 2017-03-29 20:29</a><br/>近日媒体曝出的由高利贷引发的山东“辱母杀人案”、中共官员直接放高利贷等消息，引发民间热议。近日有分析认为，高利贷是暴利与暴力的结合体，在大陆横行的背后原因涉及中共治下的各种经济乱像，以及中共的黑帮本质。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815358&from=ogGitn">中共军方批郭徐搞一家两制 揭江干政内幕 2017-03-29 20:20</a><br/>近期，中共军方高官撰文痛批，郭伯雄徐才厚“严重违反军委主席负责制”，表面一套背后一套，搞“一家两制、脚踏两条船”，并称要求彻底清除郭徐流毒影响。上述文章的说法，也从侧面佐证了当年中共前党魁江泽民利用亲信郭、徐架空时任军委主席胡锦涛的事实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">贪腐5亿多创纪录 武长顺为何多年不倒 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
@@ -74,7 +76,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815348&from=ogGitn">大陆女生卖卵子差点虚脱  只为换一部苹果手机 2017-03-29 17:56</a><br/>上海23岁的女大学生小雨，为购买了一部iPhone7 Plus卖卵子。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815347&from=ogGitn">网传山西国企高层嫁孙女　陪嫁3千万招来纪委 2017-03-29 17:49</a><br/>网路爆料，山西大型国企太原钢铁集团公司的工会主席嫁孙女，附送总值逾3000万元人民币的嫁妆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815356&from=ogGitn">709案家属又被禁足 辩护律师微信遭封杀 2017-03-29 17:30</a><br/>近日，709案王全璋律师的妻子李文足又被北京市石景山区国保警察“跟随”，恢复中共“两会”时期的禁足状态。另外，709案谢阳的辩护律师陈建刚最近因参与转发“十秒质疑”视频活动，其微信号被封杀。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 17:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815346&from=ogGitn">万人签名维权 指地方政府涉泛亚案 2017-03-29 17:02</a><br/>泛亚投资受害人表示，每天都有人去相关部门维权，但目前维权没有任何进展，中院也迟迟不开庭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815345&from=ogGitn">中共部级金融高官王雪冰的情史被深度揭秘 2017-03-29 16:59</a><br/>近日，中共部级金融高官自曝与影星“安娜”（化名）的情史事件持续发酵，该高官被曝是王雪冰，而王雪冰与“安娜”的情史也被深度揭秘。最近，被称作反腐纪实文学的书籍《追问》公开出版发行，书中记述的8名正部级官员中有一人自曝了与影视女明星情人“安娜”的情史。书中描述，这名正部级高官，为了企业家妻子、影视明星情人，动用了公权力，违规操作中国境外资金数十亿...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815344&from=ogGitn">〝收听敌台罪〞翻版？重庆新规〝翻墙〞有罪 2017-03-29 16:47</a><br/>40年前，中国有所谓的〝收听敌台〞罪，现在中共与时俱进规定了网际网路〝翻墙〞罪。日前，重庆市公安局官网上发布一则关于网路监管的新规定，"翻墙"上海外网站有罪，可处以罚款或追究刑事责任。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815203&from=ogGitn">上海虹口足球场着火 浓烟滚滚 火势迅猛 2017-03-28 11:02</a><br/>3月28日早上8时30分许，上海虹口足球场突然发生大火，火势凶猛，伴随着滚滚浓烟弥漫天际。官媒称无人员伤亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815185&from=ogGitn">重庆一副县长在办公室内被情敌杀死 2017-03-28 10:41</a><br/>3月27日晚，湖北神龙架男子王拥因不满女友吴某芳与他人交往，杀死中共重庆忠县常务副县长毛国强，同时刺伤一人。目前，王拥已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815187&from=ogGitn">袁斌：警察充当了辱母杀人案中的罪恶帮凶 2017-03-28 10:31</a><br/>警察充当了“辱母杀人案”中的罪恶帮凶，他们应该和暴力逼债的黑社会团伙一道站在被告席上。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815180&from=ogGitn">浙江现假冒药水胶布 无功效反令伤口化脓 2017-03-28 09:31</a><br/>假冒品牌创可贴对人的伤害性特别大。</td></tr>
 </table>
