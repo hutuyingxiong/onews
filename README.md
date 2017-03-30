@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 06:55</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 06:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815536&from=ogGitn">石涛：聂树斌案获国家赔偿 江泽民鬼般露面祭祖？ 2017-03-31 06:16</a><br/>有人说武长顺可不止弄了５个亿，有几十个亿，其实多少亿都无所谓。武长顺还是周永康这条线上的，红二代干这个有的是，从他们当爹那辈进了城都换女人，因为他们都在法律之上，国家是人家建的。北大天才肖建华看不起这些红二代和官二代的孩子们，他自己弄了几十个女人，生了那么多孩子，这是被抓了，大家知道了，还有多少大家不知道了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815533&from=ogGitn">【禁闻】3月30日维权动态 2017-03-31 05:58</a><br/>八千越战老兵扫墓 中共发紧急通知；黑龙江四千被辞退教师省信访局维权；上海访民无故被关黑监狱和行政拘留；内蒙访民被判2年半 当庭提上诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815530&from=ogGitn">【禁闻】违反联合国决议 中共仍进口朝鲜矿产 2017-03-31 05:45</a><br/>美国之音3月30号报导，中国继续违反联合国决议进口朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815529&from=ogGitn">【禁闻 】商丘政府强拆打死人 村民抬尸抗议 2017-03-31 05:44</a><br/>商丘政府强拆打死人 村民抬尸抗议;海外学者吁中共当局允许冯崇义离境。</td></tr>
@@ -10,7 +12,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 05:27</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815531&from=ogGitn">习启动“雷霆行动”布控十九大 广东有大动作 2017-03-31 05:12</a><br/>中共两会期间，习当局启动为期六个月的“雷霆行动”，粤、港、澳三地联手扫黑。最新消息指，广东70多个涉黑犯罪团伙已被查处。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 05:03</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">墓地比地产还火？苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815522&from=ogGitn">强拆人员入屋打死人 河南逾百村民抬尸抗议 2017-03-31 04:59</a><br/>河南省商丘市多条村庄陆续被政府强拆，有强拆人员强闯入屋活活打死1名村民，逾百名村民连日抬尸游行到区政府抗议，要求给予村民交代。而在近期的强拆事件中，已经造成4人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815520&from=ogGitn">习近平为何批准四川建民国中将俞大维陵园 2017-03-31 04:56</a><br/>已故中华民国前国防部长、陆军中将俞大维的部分骨灰安放在四川成都大邑建川博物馆。最新消息称，经俞大维的侄孙、中共政治局常委俞正声申请，习近平批准将俞大维在四川的墓碑扩建为陵园。</td></tr>
@@ -22,12 +23,13 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">“空手套白狼” 朱镕基之子笑指安邦CEO吴小晖 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815534&from=ogGitn">法警枪击华人案 三项司法程序启动 2017-03-31 03:43</a><br/>3月29日，法国警察枪击华人案发生后的第三天，三项司法程序同时启动，法国方面展开调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815532&from=ogGitn">聂树斌冤死 父母21年维权获赔268万元 2017-03-31 03:00</a><br/>3月28日，聂树斌父母要求赔偿的申请已有结果，河北高院的决定书显示，赔偿金额合计为2,681,399.1元（人民币，下同）聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。始终关注此案的网民表示，多少钱，也换不回一个儿子了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815513&from=ogGitn">特勤局消息指习访美只有一站 川习匆匆会晤只为十九大？ 2017-03-31 02:58</a><br/>中美双方宣布川习会将于4月6日正式登场。美国特勤局消息指，习近平与川普在佛罗里达州的会面，是习此次访美唯一一站。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815513&from=ogGitn">特勤局称习访美只有一站 川习匆匆会晤只为十九大？ 2017-03-31 02:58</a><br/>中美双方宣布川习会将于4月6日正式登场。美国特勤局消息指，习近平与川普在佛罗里达州的会面，是习此次访美唯一一站。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815508&from=ogGitn">平源：官员非正常死亡现象不断 专制体制中人人自危 2017-03-31 02:49</a><br/>大陆媒体人“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815521&from=ogGitn">广西暴力强拆 监警大队防爆棍暴打村民 2017-03-31 02:33</a><br/>3月27日上午，广西贵港市覃塘区三里镇吉塘村长塘屯村民新建的养殖场，地方政府在没有任何文件和说法下就“被违拆”，村民阻止，遭到20多个监警大队人员，以防暴棍暴打，致多人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815510&from=ogGitn">袁斌：〝辱母杀人案〞与中国基层乱象 2017-03-31 02:26</a><br/>随着山东聊城〝辱母杀人案〞的不断发酵，越来越多与此案有关的内情被曝光和挖出，它们从不同的层面折射了当今中国基层社会的乱象。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815507&from=ogGitn">谢天奇：宋祖英丈夫不妙 习清洗湖南文宣一箭双雕 2017-03-31 02:21</a><br/>3月27日，湖南前长沙市委常委、宣传部长张湘涛被审查；这是近一个月内的第6名落马湘官。3月28日，陆媒披露3月3日才履新湖南基建投资集团党委书记、董事长职务的彭旭峰已〝失联〞。此前，彭旭峰长期担任长沙市轨道交通集团有限公司党委书记、董事长职务。之前的3月10日，前湖南省委常委、宣传部部长张文雄也被调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815506&from=ogGitn">陈思敏：复星高层异动 涉上海官场腐败 2017-03-31 02:18</a><br/>资本帝国中的复星系，其母公司上海复星集团，在3月28日深夜公告高层重大异动：自即日起，集团CEO梁信军、CFO丁国其双双辞职，且辞去所有职务。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815537&from=ogGitn">夏林：被遗忘的加拿大人 2017-03-31 02:16</a><br/>2015年底以绝对优势当选的加拿大总理特鲁多是一个喜好共产主义，支持高税收和高花费，支持大麻合法化和赞同同性变性的人。这些东西，可能直到去年年底，在加拿大乃至整个西方社会还是流行和受欢迎的，几乎每一位西方政也都觉得这些东西是好的，是符合民意的，也挺 “政治正确”的。但是到了今天，加拿大人还认这一套吗？今年2月份加拿大的《多伦多星报》发表了一篇评论“加...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815505&from=ogGitn">王友琴：文革〝斗争会〞（上） 2017-03-31 02:11</a><br/>文革期间，特别是文革的前四年（1966-1970），〝斗争会〞开得既多又密。这些〝斗争会〞可能大小各异，但是都有相同的基本结构和进行程序。〝斗争会〞设立了一套特别的身体折磨，如〝坐喷气式飞机〞。有人在〝斗争会〞上被打死，有人被〝斗争〞得肢体残废或者精神失常，有人在被〝斗争〞后〝自杀〞（这里加上引号是因为这完全不同于一般所说的自杀）。而那些〝斗争〞别人的人，有的是踏着受害者在权力之路上爬升，有的是出于恐惧而附和权势者迫害他人。〝斗争会〞不但杀人伤人，而且导致道德腐败。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815500&from=ogGitn">夏小强：香港的社会撕裂如何修补 2017-03-31 02:07</a><br/>自从当选下任香港特首几天以来，林郑月娥多次声称要修补香港社会裂痕，重建和谐。这也说明，修补香港社会撕裂的现状，已经成为香港稳定发展的前提。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815499&from=ogGitn">理悟：良知复苏 2017-03-31 02:04</a><br/>仁义礼智信为先，炎黄古道赖神传。以德治国朝纲振，法彰邪遁万民欢。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815297&from=ogGitn">萨德风波继续升级 韩外交部称遭来自中方网路攻击 2017-03-29 10:30</a><br/>韩外交部称其官网遭到来自中国的分散式阻断服务攻击。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815309&from=ogGitn">换马甲？天津大爆炸被处分官员转任云南要职 2017-03-29 10:30</a><br/>天津大爆炸被处分官员、中共原天津滨海新区区委书记宗国英转任云南要职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815296&from=ogGitn">法警察枪杀华人引热议 华裔：让司法公正处理 2017-03-29 09:09</a><br/>“法国警察破门打死华人”事件惊动之大，华人网友都在热议。在法国，面对众多华文媒体和法国媒体不一致的消息，不少华人迷茫了。3月27日，一位留法中国学生截屏微信朋友圈的消息问道：“朋友圈的消息，求证一下，有人知道吗？”</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815310&from=ogGitn">横河：从雷文锋之死看民政腐败、维稳和器官 2017-03-29 09:01</a><br/>江西赣州的老人明经国，他因为反强拆，用锄头，另外一种说法是用一个镰铲杀死了带队的副乡长被抓，引起了民间的热议。另外一个是15岁的自闭少年雷文锋，离家40多天，结果死于政府的救助系统，那么我们今天就主要先讨论一下雷文锋案件。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815355&from=ogGitn">中共官员公然撒谎 越战目的不可告人 2017-03-29 08:20</a><br/>港媒指，中共官员谎称〝从来没有给任何国家带来任何伤害〞，实际上中共输出暴力革命给周边国家制造无数苦难，其中邓小平发动中越战争造成中越军民伤亡十几万，而邓发动这场战争只是为了达成三个不可告人的目的。</td></tr>
 </table>
