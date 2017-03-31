@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815618&from=ogGitn">肃清黄兴国余毒？ 天津官场四进三出大换血 2017-04-01 02:06</a><br/>天津市常委原班子中的本土派已替换殆尽。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 01:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815615&from=ogGitn">每日三退声明精选（2017/03/31） 2017-04-01 01:23</a><br/>共产主义不信神它丧失了道德基础，它借由阶级斗争颠倒人类社会是非黑白，它看重物质利益让人恶的部分越来越显著。它迫害法轮大法的信奉者罪恶滔天。因此，我声明退出曾经加入的中国共产党、中国共青团、中国少年先锋队。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815616&from=ogGitn">小海豚珠海街头被宰杀 残忍画面激怒网民 2017-04-01 01:17</a><br/>这么可爱的白海豚，怎么能下的去手？日前，有网民爆料，广东珠海有人猎杀海豚，并当街宰杀，场面血腥。该消息及图片迅速在网络传开，引发民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815613&from=ogGitn">王友群：迫害法轮功18年是当今中国一切乱象的总根源 2017-04-01 00:49</a><br/>最近，山东〝辱母杀人案〞在海内外引发强烈反响。2016年4月13日，苏银霞因欠高利贷，遭11名黑社会成员上门催债。儿子于欢在母亲苏银霞长时间受辱骂、甚至当面猥亵、报警警察不理之下，奋起反抗，捅伤4人，其中一人不治身亡。2017年2月17日，山东聊城中级法院以〝故意伤害罪〞判处于欢无期徒刑。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815390&from=ogGitn">香港反右60周年研讨会 与会者：中共无可救药 2017-03-30 03:16</a><br/>〝反右运动〞60周年研讨会一连两日于香港召开。40名大陆参加者被禁来港。活动负责人回深圳时一度被扣留问话。与会人士回忆了被打成右派的悲惨经历。有右派老人称，不要期盼中共〝恩赐民主〞，中共〝执迷不悟，已无可救药〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815419&from=ogGitn">湖南大学新推“橙市套路深”料理 惹众议 2017-03-30 03:13</a><br/>湖南大学第二食堂（餐厅）在去年推出“蓝瘦香菇”料理后，近期再度推出神奇料理“橙市套路深”。“橙市套路深”的作法是将柳橙挖空，放入肉和鸡蛋再蒸熟。该料理一经推出，立刻引起网民热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815384&from=ogGitn">数千越战老兵集体扫墓 中共内部发紧急通知 2017-03-30 03:02</a><br/>今年是越战38周年纪念，每年清明，各地老兵们都会前往广西扫墓，而地方政府也严阵以待。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815349&from=ogGitn">【翻墙必看】王雪冰情妇“安娜”到底是谁 2017-03-30 02:53</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，保护自身及家族的经济利益。</td></tr>
 </table>
