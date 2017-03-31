@@ -2,9 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815606&from=ogGitn">王友群：为了法轮功学员家人与其他中国人免于恐惧 2017-03-31 23:28</a><br/>最近，中国山东〝辱母杀人案〞，在中国大陆，在全世界华人中，在地球上一切有良知的人中，引发强烈反响，网上留言高达上亿次，微博评论多达150万条，几乎一边倒的控诉法院判决不公，官黑勾结，警察不作为。日前，〝新浪福建〞官方微博发起了一项〝认为判决是否合理〞的投票，在近2万名参与者中，认为不合理的比例高达91.5%。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815605&from=ogGitn">曾铮：真材实料的造假 2017-03-31 23:24</a><br/>今天看《外交家》上〝中国的器官移植问题〞这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：〝面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。〞看到这里我不禁连连点头，想起北京女子劳教所里一个〝真材实料〞的造假故事。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815604&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 23:21</a><br/>3月30日，河南同力水泥董事长张伟落马。去年7月，同力水泥总经理尚达平被双规。至此，这家国有上市公司的总经理、董事长双双被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815601&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-03-31 22:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815600&from=ogGitn">云南官场持续“换血” 宗国英任副省长 2017-03-31 22:02</a><br/>近期中共云南官场人事密集调整，31日再次通过数个人事任免事项，因天津港爆炸事故受处分的宗国英出任云南省副省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815597&from=ogGitn">沪京蒙高层人事变动 四川秘书长任上海常委 2017-03-31 21:57</a><br/>中共十九大前，习近平当局持续调整地方大员。刚卸任四川省委秘书长的吴靖平等两人任上海市委常委，上海班子还有多位置待补；科学技术部副部长阴和俊任北京市委常委；乌兰察布市委书记艾丽华等两人任内蒙古自治区副主席。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815603&from=ogGitn">子杀父夫杀妻 什么样的恨让人骨肉相残 2017-03-31 21:49</a><br/>3月31日消息，江苏宿迁一名60岁的保安被亲生儿子毒死在其值班的传达室内；而在陕西省咸阳市三原县，一名农妇和其3岁侄子在家遇害，行凶者是她的丈夫吴永强。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815602&from=ogGitn">哈尔滨女工程师控告江泽民 曾挺孕肚进京上访 2017-03-31 21:09</a><br/>哈尔滨市女工程师刘伯滨曾被医院确诊先天不孕，修炼法轮功后身心健康，怀孕生子。但18年来，她经历了无尽的骚扰、威胁、监控以及5年冤狱，家庭最终破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815596&from=ogGitn">谷春立白雪山 吉林宁夏两首虎同日受审 2017-03-31 20:31</a><br/>黑龙江、陕西两“首虎”分别受审。黑龙江哈尔滨市中级法院宣判，吉林省原副省长谷春立受贿罪获刑12年；陕西西安市中级法院一审开庭，审理了宁夏回族自治区原副主席白雪山受贿一案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815594&from=ogGitn">清理遗毒 天津政坛大调整 四新人进常委 2017-03-31 20:10</a><br/>在中共官方频发清除黄兴国、武长顺“遗毒”之际，天津高层持续震荡。近日，天津有四名市委常委履新，其动作之大，外界认为非常罕见。武长顺、黄兴国落马后，天津政坛开始大规模重建，大批官员被查处或被调离。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815374&from=ogGitn">习布局十九大 2天调整20多名省级高官 2017-03-30 01:23</a><br/>中共十九大前夕，习近平当局加速调整地方大员，其中仅3月28、29日两天就调整重庆、山东、陕西、安徽等8省21名省级高官。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815375&from=ogGitn">中国人为何不断涌入澳洲抢房？ 2017-03-30 01:03</a><br/>据澳洲媒体近日报导，中国人正大举涌入澳洲抢购房产，中国人的需求占海外需求的80%。在这些中国人看来，澳洲房产有其独特的吸引力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815372&from=ogGitn">川普童年故居高价成交 神秘买主或来自中国 2017-03-30 00:49</a><br/>美国总统川普（特朗普）4岁前的童年故居，上周四（3月23日）以拍卖价214万美元成交，买家身份保密，据说是一名中国女士。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815373&from=ogGitn">柯文哲：出访国外强烈感受中共封杀 2017-03-30 00:38</a><br/>台北市长柯文哲在结束马来西亚、泰国访问的行程后3月29日表示，出访就可以感受到中共在外交上的封杀，不过仍要努力，他更以“天行健，君子以自强不息”来共同勉励。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815398&from=ogGitn">组图：大陆各地民众纷纷举报江泽民 2017-03-29 23:52</a><br/>河北唐山45,193举报江泽民，辽宁抚顺37,523人，四川成都某区26,119人……举报迫害法轮功元凶江泽民和支持诉江的浪潮正在席卷大陆各地。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815370&from=ogGitn">中国多家金融机构帮朝鲜洗钱 躲避制裁 2017-03-29 23:26</a><br/>最新权威报告显示，中国多家金融机构帮助朝鲜银行洗钱，躲避制裁。有媒体判断，朝鲜涉嫌窃取美联储巨款，有可能得到中国人的帮助。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815367&from=ogGitn">石铭：由中共高层对反腐的绝望谈起 2017-03-29 23:26</a><br/>据近日大纪元消息，近日，广州市住房保障办公室征收储备处前副处长黄华辉因受贿罪，被广州中院判处无期徒刑，并处没收财产1,000万元。黄华辉受贿8,931万人民币，买11套豪宅，办美国绿卡。在习阵营紧锣密鼓的反腐打虎中，“小官巨贪案”也如雨后春笋不断冒头。此前的陆媒消息称，西安市一社区居委会主任于凡，利用社区拆迁改造项目牟利，单笔受贿就达5,000万，涉...</td></tr>
 </table>
