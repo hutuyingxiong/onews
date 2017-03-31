@@ -2,11 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 08:00</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 09:00</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 06:59</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 06:55</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815538&from=ogGitn">【快讯】朴槿惠被捕 31日凌晨被关进看守所 2017-03-31 06:48</a><br/>因亲信干政于3月10日遭弹劾下台的韩国前总统朴槿惠，在当地时间3月31 日凌晨遭首尔中央地方法院裁定批捕。随后朴槿惠被检方逮捕，成为韩国第三位被批捕的前总统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815539&from=ogGitn">【禁闻】3月30日退党精选 2017-03-31 06:45</a><br/>湖北的秦基秀写了300多字的退党声明，由于节目时间关系，今天的退党精选，我们来看他的声明节选。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 06:40</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 06:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815536&from=ogGitn">石涛：聂树斌案获国家赔偿 江泽民鬼般露面祭祖？ 2017-03-31 06:16</a><br/>有人说武长顺可不止弄了５个亿，有几十个亿，其实多少亿都无所谓。武长顺还是周永康这条线上的，红二代干这个有的是，从他们当爹那辈进了城都换女人，因为他们都在法律之上，国家是人家建的。北大天才肖建华看不起这些红二代和官二代的孩子们，他自己弄了几十个女人，生了那么多孩子，这是被抓了，大家知道了，还有多少大家不知道了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815533&from=ogGitn">【禁闻】3月30日维权动态 2017-03-31 05:58</a><br/>八千越战老兵扫墓 中共发紧急通知；黑龙江四千被辞退教师省信访局维权；上海访民无故被关黑监狱和行政拘留；内蒙访民被判2年半 当庭提上诉。</td></tr>
@@ -20,7 +21,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815522&from=ogGitn">强拆人员入屋打死人 河南逾百村民抬尸抗议 2017-03-31 04:59</a><br/>河南省商丘市多条村庄陆续被政府强拆，有强拆人员强闯入屋活活打死1名村民，逾百名村民连日抬尸游行到区政府抗议，要求给予村民交代。而在近期的强拆事件中，已经造成4人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815520&from=ogGitn">习近平为何批准四川建民国中将俞大维陵园 2017-03-31 04:56</a><br/>已故中华民国前国防部长、陆军中将俞大维的部分骨灰安放在四川成都大邑建川博物馆。最新消息称，经俞大维的侄孙、中共政治局常委俞正声申请，习近平批准将俞大维在四川的墓碑扩建为陵园。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815524&from=ogGitn">3月30日全球看中国 2017-03-31 04:54</a><br/>新疆对蓄长须、穿蒙面罩袍者颁布新禁令;悉尼科技大学副教授冯崇义之女冯云思呼吁让其父返回澳洲;恒大宣布去杠杆化计划;中国石油2016年净利润大跌78%。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815519&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 再失升任机会 2017-03-31 04:48</a><br/>十九大前夕，习阵营正加速清洗上海、重庆、山东的政商圈以及中共人大系统，震慑江派众多现任及离任常委。吴邦国大秘孙伟被调虎离山后，在甘肃处于王岐山亲信林铎的直接“看管”之下。孙伟身处多重政商黑幕漩涡，仕途前景堪忧。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815519&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 2017-03-31 04:48</a><br/>十九大前夕，习阵营正加速清洗上海、重庆、山东的政商圈以及中共人大系统，震慑江派众多现任及离任常委。吴邦国大秘孙伟被调虎离山后，在甘肃处于王岐山亲信林铎的直接“看管”之下。孙伟身处多重政商黑幕漩涡，仕途前景堪忧。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815528&from=ogGitn">山东辱母杀人案反常发酵 政法系学者：3政治因素或涉曾庆红 2017-03-31 04:42</a><br/>山东辱母杀人案引发网路沸腾，中共最高检介入调查。美媒揭露案件背后经济混乱和官匪勾结放贷的黑幕。前中共体制内学者指，官方反常允许此案持续发酵，背后必有政治原因，或涉习近平对山东官场或公安部的清洗，波及曾庆红。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815516&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-31 04:03</a><br/>3月28日，根据大陆澎湃新闻从多个官方渠道证实，湖南基础建设投资集团有限公司（下称〝湖南基建投资集团〞）党委书记、董事长彭旭峰已〝失联〞，其上任还不到一个月。此前，他曾任长沙市住建委副主任，2010年，兼任长沙轨道交通集团党委副书记、董事长；2013年，被免去长沙市住建委副主任职务，专任长沙轨道交通集团党委书记、董事长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815514&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-31 03:57</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和〝真善忍〞的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815334&from=ogGitn">袁斌：“辱母杀人案”与中国基层乱象 2017-03-29 11:22</a><br/>中共一党专政下当今基层社会的乱象，而“辱母杀人案”所折射的充其量也只不过是其中的冰山一角罢了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815321&from=ogGitn">每日三退声明精选（2017/03/28） 2017-03-29 10:59</a><br/>我是一个一直在追求人生真谛的人，我2004年去部队服役，06年在部队入邪党，但是对我来说对部队看到的腐败和潜规则总是心中很奇怪，后来渐渐发觉这是一个由谎言和邪恶组成的组织，现在我深感懊悔，发誓退出邪恶之党不与邪恶为伍，去寻求那份真正属于我们内心深处的愿望！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815319&from=ogGitn">周小川一月两提资产泡沫 被指承认楼市泡沫 2017-03-29 10:54</a><br/>近日，大陆央行行长周小川再提资产泡沫。外界认为，这等于官方确认楼市泡沫，金融风险凸显。最近，北京金融界拉警报。</td></tr>
 </table>
