@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 08:00</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 06:59</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 06:55</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815538&from=ogGitn">【快讯】朴槿惠被捕 31日凌晨被关进看守所 2017-03-31 06:48</a><br/>因亲信干政于3月10日遭弹劾下台的韩国前总统朴槿惠，在当地时间3月31 日凌晨遭首尔中央地方法院裁定批捕。随后朴槿惠被检方逮捕，成为韩国第三位被批捕的前总统。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815334&from=ogGitn">袁斌：“辱母杀人案”与中国基层乱象 2017-03-29 11:22</a><br/>中共一党专政下当今基层社会的乱象，而“辱母杀人案”所折射的充其量也只不过是其中的冰山一角罢了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815321&from=ogGitn">每日三退声明精选（2017/03/28） 2017-03-29 10:59</a><br/>我是一个一直在追求人生真谛的人，我2004年去部队服役，06年在部队入邪党，但是对我来说对部队看到的腐败和潜规则总是心中很奇怪，后来渐渐发觉这是一个由谎言和邪恶组成的组织，现在我深感懊悔，发誓退出邪恶之党不与邪恶为伍，去寻求那份真正属于我们内心深处的愿望！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815319&from=ogGitn">周小川一月两提资产泡沫 被指承认楼市泡沫 2017-03-29 10:54</a><br/>近日，大陆央行行长周小川再提资产泡沫。外界认为，这等于官方确认楼市泡沫，金融风险凸显。最近，北京金融界拉警报。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815293&from=ogGitn">石涛：诸侯口头效忠成风 恢复人性方有中华民族复兴 2017-03-29 10:52</a><br/>如果一个环境缺失了这样的认知，那么人缺失的就是信任，用自我欲望彰显的绝对自由，代替一个人本该拥有的责任。那样的环境，个个都是极端自私者。就算是宗教人士，也是让神服务于自己。</td></tr>
 </table>
