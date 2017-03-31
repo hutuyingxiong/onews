@@ -6,6 +6,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815631&from=ogGitn">中纪委高官任吉林纪委书记 “吉林帮”被围剿 2017-04-01 05:24</a><br/>日前中央第十四巡视组组长陶治国“空降”吉林任省委常委、省纪委书记，接替转任中编办副主任的崔少鹏。2月底中央第二巡视组刚开始对吉林省进行“回头看”巡视。江派常委张德江的“吉林帮”人马形势不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815626&from=ogGitn">曾向天安门毛像泼漆 六四勇士余志坚美国病逝 2017-04-01 05:07</a><br/>八九民运期间曾向北京天安门毛泽东像泼洒油漆的大陆教师余志坚，于当地时间3月30日在美国印第安纳州病逝，享年53岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815633&from=ogGitn">北京商住房3天网签7套 交易量下降99.9% 2017-04-01 04:57</a><br/>北京日前推出了有关商住房的限购措施，措施实施后，商住房交易量下降99.9%，商住房已经全面下架。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815634&from=ogGitn">避引火烧身？ 赵薇放弃入股万家文化 2017-04-01 04:51</a><br/>万家文化被立案调查，龙薇传媒终止受让股权。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815630&from=ogGitn">美军事人员前往或过境中国 五角大楼要严审 2017-04-01 04:47</a><br/>因中共经常以不正当方式取得美国国防技术，五角大厦已提高美国军事人员前往和过境中国大陆的规定。发生多起意外事件后，美国国安官员要求军方人士避免过境中国大陆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815624&from=ogGitn">美中互释信号 川习会将陷艰难谈判？ 2017-04-01 04:47</a><br/>川普（特朗普）总统30日说，这次会晤将“非常艰难”。31日，川普又颁布行政令，要求查明导致美国巨大贸易逆差的元凶。美商务部长罗斯直言“头号逆差来源就是中国”。而北京也做出回应，暗示中美贸易不平衡，与中国关系不大。分析指，美方这些举动为川习会定下了紧张基调，而中方的回应也显示，不会在贸易上做出让步。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 04:46</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
@@ -47,6 +48,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815586&from=ogGitn">中俄同意对朝动武？联合国通过〝重大措施〞 2017-03-31 18:43</a><br/>必要情况下，将采取〝额外重大措施〞。有分析认为，这份措辞强硬的声明获得〝一致〞通过，意味着中、俄双方也赞成在关键时刻对朝动武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815591&from=ogGitn">辽宁夫妻吵架妻子出走  快递幼女丈夫拒收 2017-03-31 18:34</a><br/>辽宁大连金石滩一对年轻夫妻吵架之后，妻子快递幼女，遭丈夫拒收。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815590&from=ogGitn">江苏女医院产子胎盘被炖了汤 家属讨说法 2017-03-31 17:44</a><br/>院方告知，胎盘被医院的清洁工人拿回家炖了汤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815635&from=ogGitn">周晓辉：信号彰显 江侄子吴志明坐等被查 2017-03-31 17:31</a><br/>据官方媒体报导，调到学校后，郑万新首创的“轮训轮值、战训合一”的公安教育新机制“得到了中央政法委、教育部、公安部等各方面的充分肯定”。2009年6月，时任中共中央政治局常委、中央政法委书记的周永康在吴志明的陪同下，来到上海公安专科学校视察，听取了郑万新的汇报，并予以充分肯定。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815581&from=ogGitn">河南商丘强拆2死 数千村民连日游行 2017-03-31 17:25</a><br/>27号晚上，强拆人员闯进睢阳区庞庄村一对中年夫妇的家，夫妻俩因反抗强拆，丈夫被活活打死，其妻住院，一百多名村民连日抬尸游行到区政府讨说法，多人被捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815585&from=ogGitn">冯崇义遭限制离境 海外学者吁放行 2017-03-31 17:24</a><br/>30号，来自澳大利亚、美国、英国和香港的80多位学者，联名致信习近平、李克强，敦促释放冯崇义。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815579&from=ogGitn">中国单身人口近2亿 男女比例失衡持续恶化 2017-03-31 17:07</a><br/>近日,一份调查报告指出，中国逾13亿人口中，单身人数近2亿人。</td></tr>
@@ -94,7 +96,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815568&from=ogGitn">健康人被强行注射精神病药物—朱桂林的遭遇 2017-03-31 05:27</a><br/>一个健康人被注射了精神病药物后是什么感受？ 湖南省常德石门县的朱桂林女士经历了这样的人间惨剧。以下是她在控告江泽民书中讲诉的亲身经历：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815531&from=ogGitn">习启动“雷霆行动”布控十九大 广东有大动作 2017-03-31 05:12</a><br/>中共两会期间，习当局启动为期六个月的“雷霆行动”，粤、港、澳三地联手扫黑。最新消息指，广东70多个涉黑犯罪团伙已被查处。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">墓地比地产还火？苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">买墓地也要看户籍！苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815520&from=ogGitn">习近平为何批准四川建民国中将俞大维陵园 2017-03-31 04:56</a><br/>已故中华民国前国防部长、陆军中将俞大维的部分骨灰安放在四川成都大邑建川博物馆。最新消息称，经俞大维的侄孙、中共政治局常委俞正声申请，习近平批准将俞大维在四川的墓碑扩建为陵园。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815524&from=ogGitn">3月30日全球看中国 2017-03-31 04:54</a><br/>新疆对蓄长须、穿蒙面罩袍者颁布新禁令;悉尼科技大学副教授冯崇义之女冯云思呼吁让其父返回澳洲;恒大宣布去杠杆化计划;中国石油2016年净利润大跌78%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815528&from=ogGitn">辱母杀人案反常发酵 政法学者：3政治因素或涉曾庆红 2017-03-31 04:42</a><br/>山东辱母杀人案引发网路沸腾，中共最高检介入调查。美媒揭露案件背后经济混乱和官匪勾结放贷的黑幕。前中共体制内学者指，官方反常允许此案持续发酵，背后必有政治原因，或涉习近平对山东官场或公安部的清洗，波及曾庆红。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815409&from=ogGitn">德媒：坏事又变好事？ 辱母杀人案引发〝被准许的愤怒〞 2017-03-30 06:22</a><br/>山东辱母杀人案引发大陆网民声讨，中共最高检随即宣布介入调查。时评人长平认为，这是当局默许下的又一次〝被准许的愤怒〞，中共或再次〝将坏事变好事〞，导演又一个〝法治的胜利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815410&from=ogGitn">梁京：中国的房地产泡沫已近临界点 2017-03-30 05:59</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。做出这一判断其实不难，因为所谓一线城市，即北京、上海、广州、深圳等大都市，两年之间，房价在所谓“天价”水平之上，又翻了一番。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815395&from=ogGitn">谢天奇：习王围剿江家族 胡锦涛露面释两信号 2017-03-30 05:48</a><br/>习阵营连番动作围剿上海帮江泽民家族之际，胡锦涛、温家宝、朱镕基等习阵营元老密集露面，一方面，反衬江泽民被封杀的异常，印证其处境不妙的现状；另一方面，展示与习的政治联盟，震慑江派势力。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815407&from=ogGitn">陆学者：朝鲜是潜在敌人 韩统一半岛有利无弊 2017-03-30 05:22</a><br/>朝鲜核武发展在导致半岛危机升级的同时，让中朝关系也走向对立。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815404&from=ogGitn">【禁闻】重庆新规 翻墙有罪 评：自砸脚 2017-03-30 05:21</a><br/>3月27号，重庆市公安局发布了《网络监管行政处罚裁量基准》修订稿，规定对于擅自建立、使用所谓的非法定信道进行国际联网；接入网络未通过互联网络接入国际联网；未经许可从事国际联网经营业务；未经批准进行国际联网等翻墙行为，将予以处罚。对所谓构成犯罪的，还要追究刑事责任。</td></tr>
 </table>
