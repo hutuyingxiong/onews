@@ -5,6 +5,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815606&from=ogGitn">王友群：为了法轮功学员家人与其他中国人免于恐惧 2017-03-31 23:28</a><br/>最近，中国山东〝辱母杀人案〞，在中国大陆，在全世界华人中，在地球上一切有良知的人中，引发强烈反响，网上留言高达上亿次，微博评论多达150万条，几乎一边倒的控诉法院判决不公，官黑勾结，警察不作为。日前，〝新浪福建〞官方微博发起了一项〝认为判决是否合理〞的投票，在近2万名参与者中，认为不合理的比例高达91.5%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815605&from=ogGitn">曾铮：真材实料的造假 2017-03-31 23:24</a><br/>今天看《外交家》上〝中国的器官移植问题〞这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：〝面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。〞看到这里我不禁连连点头，想起北京女子劳教所里一个〝真材实料〞的造假故事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815604&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 23:21</a><br/>3月30日，河南同力水泥董事长张伟落马。去年7月，同力水泥总经理尚达平被双规。至此，这家国有上市公司的总经理、董事长双双被查。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815607&from=ogGitn">川普自曝川习会议题 所有敏感问题全上桌面 2017-03-31 22:55</a><br/>一系列中美关系中的敏感议题都将在川习会中摆上桌面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815601&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-03-31 22:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815600&from=ogGitn">云南官场持续“换血” 宗国英任副省长 2017-03-31 22:02</a><br/>近期中共云南官场人事密集调整，31日再次通过数个人事任免事项，因天津港爆炸事故受处分的宗国英出任云南省副省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815597&from=ogGitn">沪京蒙高层人事变动 四川秘书长任上海常委 2017-03-31 21:57</a><br/>中共十九大前，习近平当局持续调整地方大员。刚卸任四川省委秘书长的吴靖平等两人任上海市委常委，上海班子还有多位置待补；科学技术部副部长阴和俊任北京市委常委；乌兰察布市委书记艾丽华等两人任内蒙古自治区副主席。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815377&from=ogGitn">江苏户主起诉强拆 当局趁开庭当天偷拆住房 2017-03-30 01:35</a><br/>因为强拆民房，江苏南通港闸区政府被告上了法庭。而就在村民到法院开庭时，当地政府却将村民的房子偷偷拆掉了，村民谴责当局的行为无耻。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815374&from=ogGitn">习布局十九大 2天调整20多名省级高官 2017-03-30 01:23</a><br/>中共十九大前夕，习近平当局加速调整地方大员，其中仅3月28、29日两天就调整重庆、山东、陕西、安徽等8省21名省级高官。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815375&from=ogGitn">中国人为何不断涌入澳洲抢房？ 2017-03-30 01:03</a><br/>据澳洲媒体近日报导，中国人正大举涌入澳洲抢购房产，中国人的需求占海外需求的80%。在这些中国人看来，澳洲房产有其独特的吸引力。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815372&from=ogGitn">川普童年故居高价成交 神秘买主或来自中国 2017-03-30 00:49</a><br/>美国总统川普（特朗普）4岁前的童年故居，上周四（3月23日）以拍卖价214万美元成交，买家身份保密，据说是一名中国女士。</td></tr>
 </table>
