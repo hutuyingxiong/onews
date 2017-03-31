@@ -2,7 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815548&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-03-31 09:44</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815546&from=ogGitn">关注中国器官移植 美著名杂志疾呼解开疑团 2017-03-31 09:39</a><br/>美国著名刊物《外交家》3月29日刊文，直指中国器官移植中的几大疑问，并强调解答令人不安的移植规模及器官来源等问题，是当务之急。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 09:00</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815547&from=ogGitn">核爆吗？广东工厂突发大爆炸 火焰云腾空数十米 2017-03-31 09:00</a><br/>日前，广东东莞市一家工厂发生大爆炸，从网传短片可见爆炸现场火光冲天，爆炸威力强大，巨大的火焰蘑菇云腾空而起，高达数十米，整个夜空被火光照耀成一片红色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 06:59</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 06:55</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815538&from=ogGitn">【快讯】朴槿惠被捕 31日凌晨被关进看守所 2017-03-31 06:48</a><br/>因亲信干政于3月10日遭弹劾下台的韩国前总统朴槿惠，在当地时间3月31 日凌晨遭首尔中央地方法院裁定批捕。随后朴槿惠被检方逮捕，成为韩国第三位被批捕的前总统。</td></tr>
@@ -23,6 +26,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815524&from=ogGitn">3月30日全球看中国 2017-03-31 04:54</a><br/>新疆对蓄长须、穿蒙面罩袍者颁布新禁令;悉尼科技大学副教授冯崇义之女冯云思呼吁让其父返回澳洲;恒大宣布去杠杆化计划;中国石油2016年净利润大跌78%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815519&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 2017-03-31 04:48</a><br/>十九大前夕，习阵营正加速清洗上海、重庆、山东的政商圈以及中共人大系统，震慑江派众多现任及离任常委。吴邦国大秘孙伟被调虎离山后，在甘肃处于王岐山亲信林铎的直接“看管”之下。孙伟身处多重政商黑幕漩涡，仕途前景堪忧。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815528&from=ogGitn">山东辱母杀人案反常发酵 政法系学者：3政治因素或涉曾庆红 2017-03-31 04:42</a><br/>山东辱母杀人案引发网路沸腾，中共最高检介入调查。美媒揭露案件背后经济混乱和官匪勾结放贷的黑幕。前中共体制内学者指，官方反常允许此案持续发酵，背后必有政治原因，或涉习近平对山东官场或公安部的清洗，波及曾庆红。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815550&from=ogGitn">二手房贵过新房 陆楼市调控下出现房价倒挂 2017-03-31 04:25</a><br/>大陆开启新一轮楼市调控，部分热点城市出现二手房贵过新房的“价格倒挂”现象，部分房企封盘不卖，或进一步推高楼价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815516&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-31 04:03</a><br/>3月28日，根据大陆澎湃新闻从多个官方渠道证实，湖南基础建设投资集团有限公司（下称〝湖南基建投资集团〞）党委书记、董事长彭旭峰已〝失联〞，其上任还不到一个月。此前，他曾任长沙市住建委副主任，2010年，兼任长沙轨道交通集团党委副书记、董事长；2013年，被免去长沙市住建委副主任职务，专任长沙轨道交通集团党委书记、董事长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815514&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-31 03:57</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和〝真善忍〞的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">“空手套白狼” 朱镕基之子笑指安邦CEO吴小晖 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815322&from=ogGitn">央企老总被撤政协委员 年薪曾近千万元 2017-03-29 14:07</a><br/>日前，中共全国政协主席俞正声主持召开政协会议。该会议通过了撤销孔庆平的全国政协委员的资格。作为央企老总出事，此消息在业界引起不小震动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815359&from=ogGitn">江西女孩被多所美国名校录取 获高额奖学金 2017-03-29 13:35</a><br/>江西南昌有一名18岁的高三女生申请出国留学，不仅收到美国十余所大学的录取通知书，其中包括排名前15名的高校，还有大学愿提供每年3万余美元的奖学金。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815330&from=ogGitn">反右运动受难者聚集香港 “中共无药可救” 2017-03-29 13:19</a><br/>在香港举办的“反右运动60周年国际研讨会”上，老右派及其后人回顾中共反右运动中对中国知识分子精英的残酷打压和迫害，表示已看透中共邪恶本质，其已无可救药。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815324&from=ogGitn">乌鲁木齐一煤矿采空区塌陷 已致4死3伤 2017-03-29 13:03</a><br/>3月28日4时30分许，乌鲁木齐市水磨沟区八道湾煤矿（已停产）附近一采空区发生塌陷，造成警备室内的7人，有4人死亡，3人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815423&from=ogGitn">评论：中共集权导致房地产泡沫难解 2017-03-29 12:37</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815334&from=ogGitn">袁斌：“辱母杀人案”与中国基层乱象 2017-03-29 11:22</a><br/>中共一党专政下当今基层社会的乱象，而“辱母杀人案”所折射的充其量也只不过是其中的冰山一角罢了。</td></tr>
 </table>
