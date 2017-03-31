@@ -5,6 +5,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815573&from=ogGitn">【翻墙必看】被枪毙的“毒贩”又活了？吓到法官 2017-03-31 16:26</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815572&from=ogGitn">深圳15岁女生网恋〝私奔〞遭拦截  大哭〝等我长大他就结婚了！〞 2017-03-31 15:32</a><br/>日前，深圳一名15岁女初中生与一名20岁男子网恋并与其〝私奔〞。其父母获悉后紧急报警，警方在一高铁站将其拦截。但少女对父母阻止她私奔一事非常牴触，不但不听劝说，还哭称〝等我长大他就结婚了！〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815570&from=ogGitn">大连夫妻闹矛盾 妻子快递女儿丈夫拒收 2017-03-31 14:08</a><br/>3月28日，辽宁省大连市一对夫妻闹矛盾，妻子离家出走前，雇了摩的司机将10个月大的女儿“快递”到丈夫那里。司机把女婴送到后，孩子的父亲却拒收。夫妻双方都表示不要孩子。目前，女婴暂时被送往福利院。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815574&from=ogGitn">曾铮：真材实料的造假 2017-03-31 13:46</a><br/>今天看《外交家》上“中国的器官移植问题”这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：“面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。”看到这里我不禁连连点头，想起北京女子劳教所里一个“真材实料”的造假故事。那是在2001年...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815565&from=ogGitn">湖南男童遭军刀刺穿头部 父亲寻医疗救助 2017-03-31 12:52</a><br/>湖南隆回县横板桥镇中心小学，九岁肖小弟24日在学校门口被校保安用军刀刺穿头部，经过90小时以上的抢救，虽然目前已经无生命危险，但意识尚未恢复。其父亲向媒体求助，希望有医疗设备较先进，医术高明的医师能接手肖小弟的医疗救治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815569&from=ogGitn">与台湾断交 美判2非洲国得还债64亿台币 2017-03-31 12:21</a><br/>由台湾财政部监管的“中国输出入银行”向美国法院控告，两非洲前友邦中非共和国及刚果民主共和国转承认北京政权，应偿还债务合计共2亿1,200美元（约新台币64亿元）获得胜诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815564&from=ogGitn">东莞一企业发生大爆炸 大火腾空数十米高 2017-03-31 12:17</a><br/>3月30日晚9时许，广东东莞市道滘镇大罗沙工业园临近河边的一家工厂，先是起火，随即发声大爆炸。爆炸威力强大，大火腾空而起，至少有数十米之高，照亮夜空，有附近居民称如核爆。目前暂未有人员伤亡报告。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815354&from=ogGitn">齐星集团欠债百亿 大陆再现区域金融风险 2017-03-29 16:44</a><br/>3月27日，山东省滨州市邹平县就该县齐星集团债务问题召集债权人开会，据悉，齐星集团上百亿元的债务使得邹平县面临区域性金融风险。齐星集团目前已经基本停产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815343&from=ogGitn">〝辱母杀人案〞点燃百姓怒火   山东官黑勾结黑幕曝光 2017-03-29 16:38</a><br/>山东辱母杀人事件还在持续发酵，近日该案被告人于欢被判无期，亿万网民纷纷为他鸣不平，质疑法院裁决不公，官黑勾结。与此同时，有消息人士曝光山东官黑勾结黑幕，指当地政法系官员与涉案高利贷主联合放贷，警方助纣为虐。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815338&from=ogGitn">中国民建高层去世  胡锦涛高调现身破〝病重〞谣言 2017-03-29 16:38</a><br/>中共著名的社会活动家、民主建国会领导人万国权病亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815339&from=ogGitn">江苏户主法院出庭 家遭拆 财物被埋 2017-03-29 16:32</a><br/>现场视频和图片显示，众多警察在拆迁现场拉起警戒线，不准围观者进入，两台挖机正拆除周永红家的楼房。</td></tr>
 </table>
