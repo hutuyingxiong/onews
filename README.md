@@ -20,6 +20,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815589&from=ogGitn">一名法国男子在上海颈部被刺伤 2017-03-31 15:01</a><br/>3月29日，一名法国公民在上海被人严重刺伤，嫌犯当场逃逸，后被抓捕。目前尚未知其伤人动机。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815587&from=ogGitn">上海高层密集调整 许昆林任副市长 2017-03-31 14:47</a><br/>中共十九大前夕，地方高层人事调整密集。3月31日，上海通过人事任命，许昆林为上海市副市长。今年以来，习当局加快布局及清洗江泽民的老巢上海官场。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815570&from=ogGitn">大连夫妻闹矛盾 妻子快递女儿丈夫拒收 2017-03-31 14:08</a><br/>3月28日，辽宁省大连市一对夫妻闹矛盾，妻子离家出走前，雇了摩的司机将10个月大的女儿“快递”到丈夫那里。司机把女婴送到后，孩子的父亲却拒收。夫妻双方都表示不要孩子。目前，女婴暂时被送往福利院。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815593&from=ogGitn">中共拘捕李明哲 对境外NGO的打压恐扩大 2017-03-31 14:05</a><br/>台湾非政府组织、民主活动人士李明哲在大陆被拘留10日后， 3月29日称，中共称李明哲“因涉嫌从事危害国家安全活动”被拘留。此举引发人权组织和观察人士担忧，中共正在扩大对NGO（非政府组织机构）活动人士的攻击，并指中共应释放李明哲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815574&from=ogGitn">曾铮：真材实料的造假 2017-03-31 13:46</a><br/>今天看《外交家》上“中国的器官移植问题”这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：“面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。”看到这里我不禁连连点头，想起北京女子劳教所里一个“真材实料”的造假故事。那是在2001年...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815565&from=ogGitn">湖南男童遭军刀刺穿头部 父亲寻医疗救助 2017-03-31 12:52</a><br/>湖南隆回县横板桥镇中心小学，九岁肖小弟24日在学校门口被校保安用军刀刺穿头部，经过90小时以上的抢救，虽然目前已经无生命危险，但意识尚未恢复。其父亲向媒体求助，希望有医疗设备较先进，医术高明的医师能接手肖小弟的医疗救治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815569&from=ogGitn">与台湾断交 美判2非洲国得还债64亿台币 2017-03-31 12:21</a><br/>由台湾财政部监管的“中国输出入银行”向美国法院控告，两非洲前友邦中非共和国及刚果民主共和国转承认北京政权，应偿还债务合计共2亿1,200美元（约新台币64亿元）获得胜诉。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815366&from=ogGitn">近3年河北保定8名县级一把手落马 2017-03-29 22:28</a><br/>3月28日，河北保定市雄县前县委书记吴亚飞落马，吴卸任该职务才3个多月。近3年保定市至少有8个县级党政一把手或原一把手落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">专案组有动作 数十律师发视频挺江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 21:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815386&from=ogGitn">分析：大陆高利贷暴利与暴力横行的背后 2017-03-29 20:29</a><br/>近日媒体曝出的由高利贷引发的山东“辱母杀人案”、中共官员直接放高利贷等消息，引发民间热议。近日有分析认为，高利贷是暴利与暴力的结合体，在大陆横行的背后原因涉及中共治下的各种经济乱像，以及中共的黑帮本质。</td></tr>
 </table>
