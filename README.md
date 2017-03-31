@@ -2,20 +2,23 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815563&from=ogGitn">每日三退声明精选（2017/03/30） 2017-03-31 11:54</a><br/>邪恶共产党，害人没商量。表面说人话，暗里坏心肠。谁要相信它，保你准上当。我要远离它，邪恶共产党！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815561&from=ogGitn">王岐山坐镇 传中共上万退休高官及亲属被限出境 2017-03-31 11:35</a><br/>随着中共十九大临近，习当局反腐持续深入。有消息说，当局已列出一万二千五百多名被查的离退休省部级军级高官及亲属被限制出境的名单。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815558&from=ogGitn">指中共是邪教 河北官员被免人大代表 2017-03-31 11:16</a><br/>中共河北省人大30日发布公告称，左春和已请辞省人大代表职务。此前，左春和因发文讽刺毛泽东，并暗指中共是邪教组织，在今年年初被免去石家庄市文化广电新闻出版局副局长职务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 10:38</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815548&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-03-31 10:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 10:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815547&from=ogGitn">核爆吗？广东工厂突发大爆炸 火焰云腾空数十米（组图） 2017-03-31 09:58</a><br/>日前，广东东莞市一家工厂发生大爆炸，从网传短片可见爆炸现场火光冲天，爆炸威力强大，巨大的火焰蘑菇云腾空而起，高达数十米，整个夜空被火光照耀成一片红色。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 09:40</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815546&from=ogGitn">关注中国器官移植 美著名杂志疾呼解开疑团 2017-03-31 09:39</a><br/>美国著名刊物《外交家》3月29日刊文，直指中国器官移植中的几大疑问，并强调解答令人不安的移植规模及器官来源等问题，是当务之急。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815551&from=ogGitn">袁斌：重庆当局为何封杀“翻墙”？ 2017-03-31 09:23</a><br/>古今中外的专制统治都是建立在资讯封锁的基础上的，中共当然也不例外。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815562&from=ogGitn">被枪毙的“毒贩”走进法院 惊呆法官们 2017-03-31 07:03</a><br/>云南省丽江市中级法院办公室，“已被执行死刑”的赵伟刚走进来，让所有人都吃了一惊。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 06:59</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 06:55</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815556&from=ogGitn">新疆罗布泊发现汉晋古城 推测为楼兰国都城 2017-03-31 06:53</a><br/>近日，陆媒报导，大陆考古人员在新疆罗布泊发现汉晋古城，推测为楼兰国都城。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815519&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 2017-03-31 06:48</a><br/>十九大前夕，习阵营正加速清洗上海、重庆、山东的政商圈以及中共人大系统，震慑江派众多现任及离任常委。吴邦国大秘孙伟被调虎离山后，在甘肃处于王岐山亲信林铎的直接“看管”之下。孙伟身处多重政商黑幕漩涡，仕途前景堪忧。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815538&from=ogGitn">【快讯】朴槿惠被捕 31日凌晨被关进看守所 2017-03-31 06:48</a><br/>因亲信干政于3月10日遭弹劾下台的韩国前总统朴槿惠，在当地时间3月31 日凌晨遭首尔中央地方法院裁定批捕。随后朴槿惠被检方逮捕，成为韩国第三位被批捕的前总统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815539&from=ogGitn">【禁闻】3月30日退党精选 2017-03-31 06:45</a><br/>湖北的秦基秀写了300多字的退党声明，由于节目时间关系，今天的退党精选，我们来看他的声明节选。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 06:40</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815555&from=ogGitn">沪“政法王”副手被起诉 川公安高官被查处 2017-03-31 06:34</a><br/>日前，中共四川省公安厅原副厅级侦察员何宗志被开除党籍并移送司法；上海“政法王”吴志明的前副手郑万新以涉嫌贪污、受贿等罪被提起公诉。近期习近平当局持续清洗中共政法系统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 06:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815536&from=ogGitn">石涛：聂树斌案获国家赔偿 江泽民鬼般露面祭祖？ 2017-03-31 06:16</a><br/>有人说武长顺可不止弄了５个亿，有几十个亿，其实多少亿都无所谓。武长顺还是周永康这条线上的，红二代干这个有的是，从他们当爹那辈进了城都换女人，因为他们都在法律之上，国家是人家建的。北大天才肖建华看不起这些红二代和官二代的孩子们，他自己弄了几十个女人，生了那么多孩子，这是被抓了，大家知道了，还有多少大家不知道了。</td></tr>
@@ -201,7 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815411&from=ogGitn">鲁高速突发5起事故至少12死伤 现场惨烈 2017-03-29 15:09</a><br/>3月29日6时50分左右，泰新高速相继发生5起交通事故，涉及22辆车，其中2起已经造成2人死亡，10人受伤，另外3起事故正在处理中，伤亡情况不明。网民微博发帖称，现场惨烈，太瘆人了。据报，事发时泰新高速56一77km路段突发团雾，涉事的22辆车中，有大货车20辆，小货车2辆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815371&from=ogGitn">山西疯汉持刀混入幼儿园 砍死一幼童 2017-03-29 14:40</a><br/>3月28日上午8时许，山西平陆县常乐镇双语幼儿园内发生一起恶性凶杀案。一名患有精神病男子持刀混入幼儿园内，将一名3岁幼儿砍伤身亡。犯罪嫌疑人已被抓获。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815325&from=ogGitn">民众听谣言去抢菜 河南菜农13亩菠菜被挖光 2017-03-29 14:32</a><br/>3月23日，一条仅10秒的虚假视频在河南济源市民的威信朋友圈中疯转。视频中，一女子称：“酒务村东头菠菜地里的菠菜不要了，抓紧来整。”该信息导致菜农孙先生承包的13亩菠菜被闻风赶来的民众基本挖光，孙先生无奈报警。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815336&from=ogGitn">辉山乳业深陷财务危机 银行业绩受累 2017-03-29 14:11</a><br/>大陆辉山乳业股价崩盘后，3月27日，中国平安银行承认间接持有辉山乳业大笔股份。有业界人士表示受辉山乳业所累，数家持有该企业股份的银行利润将下降。</td></tr>
 </table>
