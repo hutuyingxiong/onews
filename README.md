@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815573&from=ogGitn">【翻墙必看】被枪毙的“毒贩”又活了？吓到法官 2017-03-31 16:26</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815572&from=ogGitn">深圳15岁女生网恋〝私奔〞遭拦截  大哭〝等我长大他就结婚了！〞 2017-03-31 15:32</a><br/>日前，深圳一名15岁女初中生与一名20岁男子网恋并与其〝私奔〞。其父母获悉后紧急报警，警方在一高铁站将其拦截。但少女对父母阻止她私奔一事非常牴触，不但不听劝说，还哭称〝等我长大他就结婚了！〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815570&from=ogGitn">大连夫妻闹矛盾 妻子快递女儿丈夫拒收 2017-03-31 14:08</a><br/>3月28日，辽宁省大连市一对夫妻闹矛盾，妻子离家出走前，雇了摩的司机将10个月大的女儿“快递”到丈夫那里。司机把女婴送到后，孩子的父亲却拒收。夫妻双方都表示不要孩子。目前，女婴暂时被送往福利院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815565&from=ogGitn">湖南男童遭军刀刺穿头部 父亲寻医疗救助 2017-03-31 12:52</a><br/>湖南隆回县横板桥镇中心小学，九岁肖小弟24日在学校门口被校保安用军刀刺穿头部，经过90小时以上的抢救，虽然目前已经无生命危险，但意识尚未恢复。其父亲向媒体求助，希望有医疗设备较先进，医术高明的医师能接手肖小弟的医疗救治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815569&from=ogGitn">与台湾断交 美判2非洲国得还债64亿台币 2017-03-31 12:21</a><br/>由台湾财政部监管的“中国输出入银行”向美国法院控告，两非洲前友邦中非共和国及刚果民主共和国转承认北京政权，应偿还债务合计共2亿1,200美元（约新台币64亿元）获得胜诉。</td></tr>
@@ -14,6 +16,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815548&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-03-31 10:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815567&from=ogGitn">周晓辉：传江苏副省长跳楼 或涉两金融大鳄 2017-03-31 10:23</a><br/>3月29日，新浪网官方认证的大陆媒体人“北京李海”发布一则快讯，称“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼”，消息很快被删，而官方则选择了沉默，因此消息是否属实还有待确认。不过，这个自2月11日就从媒体上消失的年轻的副部级高官，不管是否走上了自杀之路，背后的故事都不简单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 10:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815571&from=ogGitn">山东债务危机升级 大企业恐掀“连环爆” 2017-03-31 10:03</a><br/>由于山东齐星集团债务危机的恶化，同处山东省滨州市邹平县的担保方之一西王集团也陷入困境，而曾经跻身中国500强企业的山东天信集团债务危机的曝发，更导致7家关联公司进入破产整顿。在相互担保成风的山东地区，债务危机的多米诺骨牌效应似乎正在显现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815547&from=ogGitn">核爆吗？广东工厂突发大爆炸 火焰云腾空数十米（组图） 2017-03-31 09:58</a><br/>日前，广东东莞市一家工厂发生大爆炸，从网传短片可见爆炸现场火光冲天，爆炸威力强大，巨大的火焰蘑菇云腾空而起，高达数十米，整个夜空被火光照耀成一片红色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 09:40</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815546&from=ogGitn">关注中国器官移植 美著名杂志疾呼解开疑团 2017-03-31 09:39</a><br/>美国著名刊物《外交家》3月29日刊文，直指中国器官移植中的几大疑问，并强调解答令人不安的移植规模及器官来源等问题，是当务之急。</td></tr>
@@ -201,7 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815343&from=ogGitn">〝辱母杀人案〞点燃百姓怒火   山东官黑勾结黑幕曝光 2017-03-29 16:38</a><br/>山东辱母杀人事件还在持续发酵，近日该案被告人于欢被判无期，亿万网民纷纷为他鸣不平，质疑法院裁决不公，官黑勾结。与此同时，有消息人士曝光山东官黑勾结黑幕，指当地政法系官员与涉案高利贷主联合放贷，警方助纣为虐。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815338&from=ogGitn">中国民建高层去世  胡锦涛高调现身破〝病重〞谣言 2017-03-29 16:38</a><br/>中共著名的社会活动家、民主建国会领导人万国权病亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815339&from=ogGitn">江苏户主法院出庭 家遭拆 财物被埋 2017-03-29 16:32</a><br/>现场视频和图片显示，众多警察在拆迁现场拉起警戒线，不准围观者进入，两台挖机正拆除周永红家的楼房。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815313&from=ogGitn">习近平开打上海战役 江泽民毫无还手之力 2017-03-29 16:30</a><br/>陈旭在中共十九大之前出事，释放〝上海帮〞彻底瓦解的信号。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815332&from=ogGitn">反腐〝打虎〞前景如何？专家：习近平面临4大挑战 2017-03-29 16:17</a><br/>日前，专门研究中共贪腐问题的美国教授说，反腐并不是一场〝运动〞，而是中国的〝新常态〞。他同时指出，江泽民制造了腐败文化，习近平今后的反腐运动至少面临4大挑战。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815389&from=ogGitn">陈思敏：复星高层异动 涉上海官场腐败 2017-03-29 16:11</a><br/>复星直接和间接控股的公司已经超过100家，郭广昌圈子里充斥形形色色的官员。既然是上海特大集团，既然是上海首富，从以前到现在都一样，就是不能没有韩正及江泽民家族的关系。</td></tr>
 </table>
