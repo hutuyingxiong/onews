@@ -2,7 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815586&from=ogGitn">中俄同意对朝动武？联合国通过〝重大措施〞 2017-03-31 18:14</a><br/>必要情况下，将采取〝额外重大措施〞。有分析认为，这份措辞强硬的声明获得〝一致〞通过，意味着中、俄双方也赞成在关键时刻对朝动武。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815588&from=ogGitn">除了藏赃款 中共贪官买房还有其它目的 2017-03-31 18:48</a><br/>中共贪官为了藏匿贪污来的巨额现金，竟专门买一幢别墅。除此之外，还有贪官买房，是为了金屋藏娇，甚至是倒手炒房获利。为了钱，贪官们可谓洋相百出。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815586&from=ogGitn">中俄同意对朝动武？联合国通过〝重大措施〞 2017-03-31 18:43</a><br/>必要情况下，将采取〝额外重大措施〞。有分析认为，这份措辞强硬的声明获得〝一致〞通过，意味着中、俄双方也赞成在关键时刻对朝动武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815581&from=ogGitn">河南商丘强拆2死 数千村民连日游行 2017-03-31 17:25</a><br/>27号晚上，强拆人员闯进睢阳区庞庄村一对中年夫妇的家，夫妻俩因反抗强拆，丈夫被活活打死，其妻住院，一百多名村民连日抬尸游行到区政府讨说法，多人被捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815585&from=ogGitn">冯崇义遭限制离境 海外学者吁放行 2017-03-31 17:24</a><br/>30号，来自澳大利亚、美国、英国和香港的80多位学者，联名致信习近平、李克强，敦促释放冯崇义。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815579&from=ogGitn">中国单身人口近2亿 男女比例失衡持续恶化 2017-03-31 17:07</a><br/>近日,一份调查报告指出，中国逾13亿人口中，单身人数近2亿人。</td></tr>
@@ -13,6 +14,8 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815576&from=ogGitn">调控频出 大陆部分楼市或再陷低迷 2017-03-31 16:07</a><br/>近来，大陆参与房地产调控的城市达到了30多座，随着调控措施越来越严，有业界人士认为，部分城市楼市可能再次进入低迷调整期，二季度或出现价格调整。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815535&from=ogGitn">【禁闻】学区房VS学历 哪个更值钱 2017-03-31 16:05</a><br/>不断飙升的房价，使一流学府毕业进入社会主流的精英也难以承受，有毕业于北大清华的年轻人发帖说，〝买不起房，更买不起学区房，该怎么办？〞引发对名校学历不如北京学区房值钱的热议与探究。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815572&from=ogGitn">深圳15岁女生网恋〝私奔〞遭拦截  大哭〝等我长大他就结婚了！〞 2017-03-31 15:32</a><br/>日前，深圳一名15岁女初中生与一名20岁男子网恋并与其〝私奔〞。其父母获悉后紧急报警，警方在一高铁站将其拦截。但少女对父母阻止她私奔一事非常牴触，不但不听劝说，还哭称〝等我长大他就结婚了！〞</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815589&from=ogGitn">一名法国男子在上海颈部被刺伤 2017-03-31 15:01</a><br/>3月29日，一名法国公民在上海被人严重刺伤，嫌犯当场逃逸，后被抓捕。目前尚未知其伤人动机。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815587&from=ogGitn">上海高层密集调整 许昆林任副市长 2017-03-31 14:47</a><br/>中共十九大前夕，地方高层人事调整密集。3月31日，上海通过人事任命，许昆林为上海市副市长。今年以来，习当局加快布局及清洗江泽民的老巢上海官场。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815570&from=ogGitn">大连夫妻闹矛盾 妻子快递女儿丈夫拒收 2017-03-31 14:08</a><br/>3月28日，辽宁省大连市一对夫妻闹矛盾，妻子离家出走前，雇了摩的司机将10个月大的女儿“快递”到丈夫那里。司机把女婴送到后，孩子的父亲却拒收。夫妻双方都表示不要孩子。目前，女婴暂时被送往福利院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815574&from=ogGitn">曾铮：真材实料的造假 2017-03-31 13:46</a><br/>今天看《外交家》上“中国的器官移植问题”这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：“面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。”看到这里我不禁连连点头，想起北京女子劳教所里一个“真材实料”的造假故事。那是在2001年...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815565&from=ogGitn">湖南男童遭军刀刺穿头部 父亲寻医疗救助 2017-03-31 12:52</a><br/>湖南隆回县横板桥镇中心小学，九岁肖小弟24日在学校门口被校保安用军刀刺穿头部，经过90小时以上的抢救，虽然目前已经无生命危险，但意识尚未恢复。其父亲向媒体求助，希望有医疗设备较先进，医术高明的医师能接手肖小弟的医疗救治。</td></tr>
@@ -201,7 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815358&from=ogGitn">中共军方批郭徐搞一家两制 揭江干政内幕 2017-03-29 20:20</a><br/>近期，中共军方高官撰文痛批，郭伯雄徐才厚“严重违反军委主席负责制”，表面一套背后一套，搞“一家两制、脚踏两条船”，并称要求彻底清除郭徐流毒影响。上述文章的说法，也从侧面佐证了当年中共前党魁江泽民利用亲信郭、徐架空时任军委主席胡锦涛的事实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815353&from=ogGitn">贪腐5亿多创纪录 武长顺为何多年不倒 2017-03-29 20:09</a><br/>中共前天津市政协副主席、前天津市公安局局长武长顺案开庭审理，武长顺被控贪污公款3.42亿（人民币，下同），受贿8千4百余万，挪用公款1亿多元，行贿1千多万元及滥用职权等。武长顺当庭表示认罪悔罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815351&from=ogGitn">长沙地铁主体开裂 董事长外逃扯幕后高官 2017-03-29 20:06</a><br/>耗资逾100亿（人民币，下同）的湖南长沙地铁2号线，营运仅3年，于近日惊爆主体结构出现裂痕及渗漏。此时，上任仅一个月的董事长彭旭峰失联，疑已举家外逃。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815352&from=ogGitn">十九大人事工作启动  中纪委划出〝一条线〞 2017-03-29 20:02</a><br/>在中共十九大人事布局中，由王岐山领导的中纪委提出的要求，都是围绕着是否遵守〝政治规矩〞，这将成为考核官员最关键的〝一条线〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815350&from=ogGitn">【史海】毛泽东听到周恩来的意见大骂一通 2017-03-29 19:12</a><br/>1973年6月，美国总统尼克松（Richard Nixon）与苏共总书记勃列日涅夫（Leonid Brezhnev）举行了会谈，两国达成了《关于防止核战争协议》等十三个文件。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815348&from=ogGitn">大陆女生卖卵子差点虚脱  只为换一部苹果手机 2017-03-29 17:56</a><br/>上海23岁的女大学生小雨，为购买了一部iPhone7 Plus卖卵子。</td></tr>
 </table>
