@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815594&from=ogGitn">清理遗毒 天津政坛大调整 四新人进常委 2017-03-31 20:10</a><br/>在中共官方频发清除黄兴国、武长顺“遗毒”之际，天津高层持续震荡。近日，天津有四名市委常委履新，其动作之大，外界认为非常罕见。武长顺、黄兴国落马后，天津政坛开始大规模重建，大批官员被查处或被调离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815592&from=ogGitn">台湾投资大陆比重太高 柯文哲：分散是对的 2017-03-31 18:53</a><br/>台北市长柯文哲3月31日在台北与新德里产业布局论坛上大力促销台北投资商机，他在论坛后表示，中国大陆占台湾对外投资的40%，比重太高，政府的分散政策是对的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815588&from=ogGitn">除了藏赃款 中共贪官买房还有其它目的 2017-03-31 18:48</a><br/>中共贪官为了藏匿贪污来的巨额现金，竟专门买一幢别墅。除此之外，还有贪官买房，是为了金屋藏娇，甚至是倒手炒房获利。为了钱，贪官们可谓洋相百出。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815586&from=ogGitn">中俄同意对朝动武？联合国通过〝重大措施〞 2017-03-31 18:43</a><br/>必要情况下，将采取〝额外重大措施〞。有分析认为，这份措辞强硬的声明获得〝一致〞通过，意味着中、俄双方也赞成在关键时刻对朝动武。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815366&from=ogGitn">近3年河北保定8名县级一把手落马 2017-03-29 22:28</a><br/>3月28日，河北保定市雄县前县委书记吴亚飞落马，吴卸任该职务才3个多月。近3年保定市至少有8个县级党政一把手或原一把手落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">专案组有动作 数十律师发视频挺江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 21:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 </table>
