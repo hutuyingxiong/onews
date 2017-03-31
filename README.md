@@ -2,7 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815624&from=ogGitn">美中互释信号 川习会将陷艰难谈判？ 2017-04-01 04:47</a><br/>川普（特朗普）总统30日说，这次会晤将“非常艰难”。31日，川普又颁布行政令，要求查明导致美国巨大贸易逆差的元凶。美商务部长罗斯直言“头号逆差来源就是中国”。而北京也做出回应，暗示中美贸易不平衡，与中国关系不大。分析指，美方这些举动为川习会定下了紧张基调，而中方的回应也显示，不会在贸易上做出让步。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815623&from=ogGitn">网传跳楼的江苏副省长被“安排”露面了？ 2017-04-01 04:22</a><br/>继网络风传江苏省委常委、副省长杨岳“跳楼了”的消息之后，今天又有大陆微信消息称，杨岳参加了一个在扬召开的会议，并附有图片，引外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815621&from=ogGitn">112岁老中医养生之道 养生贵在养心 2017-04-01 02:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815618&from=ogGitn">肃清黄兴国余毒？ 天津官场四进三出大换血 2017-04-01 02:06</a><br/>天津市常委原班子中的本土派已替换殆尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 01:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815615&from=ogGitn">每日三退声明精选（2017/03/31） 2017-04-01 01:23</a><br/>共产主义不信神它丧失了道德基础，它借由阶级斗争颠倒人类社会是非黑白，它看重物质利益让人恶的部分越来越显著。它迫害法轮大法的信奉者罪恶滔天。因此，我声明退出曾经加入的中国共产党、中国共青团、中国少年先锋队。</td></tr>
@@ -22,7 +26,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815597&from=ogGitn">沪京蒙高层人事变动 四川秘书长任上海常委 2017-03-31 21:57</a><br/>中共十九大前，习近平当局持续调整地方大员。刚卸任四川省委秘书长的吴靖平等两人任上海市委常委，上海班子还有多位置待补；科学技术部副部长阴和俊任北京市委常委；乌兰察布市委书记艾丽华等两人任内蒙古自治区副主席。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815603&from=ogGitn">子杀父夫杀妻 什么样的恨让人骨肉相残 2017-03-31 21:49</a><br/>3月31日消息，江苏宿迁一名60岁的保安被亲生儿子毒死在其值班的传达室内；而在陕西省咸阳市三原县，一名农妇和其3岁侄子在家遇害，行凶者是她的丈夫吴永强。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 21:30</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 21:20</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815602&from=ogGitn">哈尔滨女工程师控告江泽民 曾挺孕肚进京上访 2017-03-31 21:09</a><br/>哈尔滨市女工程师刘伯滨曾被医院确诊先天不孕，修炼法轮功后身心健康，怀孕生子。但18年来，她经历了无尽的骚扰、威胁、监控以及5年冤狱，家庭最终破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815611&from=ogGitn">人民币兑美元再跌破6.9 市场预期续贬 2017-03-31 20:36</a><br/>人民币兑美元汇率本周持续走贬，中共央行一周累计下调中间价148个基点。3月31日人民币兑美元在岸价再次跌破6.9关口，市场预计人民币贬值压力仍大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815596&from=ogGitn">谷春立白雪山 吉林宁夏两首虎同日受审 2017-03-31 20:31</a><br/>黑龙江、陕西两“首虎”分别受审。黑龙江哈尔滨市中级法院宣判，吉林省原副省长谷春立受贿罪获刑12年；陕西西安市中级法院一审开庭，审理了宁夏回族自治区原副主席白雪山受贿一案。</td></tr>
@@ -67,6 +70,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815551&from=ogGitn">袁斌：重庆当局为何封杀“翻墙”？ 2017-03-31 09:23</a><br/>古今中外的专制统治都是建立在资讯封锁的基础上的，中共当然也不例外。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 08:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815562&from=ogGitn">被枪毙的“毒贩”走进法院 惊呆法官们 2017-03-31 07:03</a><br/>云南省丽江市中级法院办公室，“已被执行死刑”的赵伟刚走进来，让所有人都吃了一惊。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 06:59</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 06:55</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815556&from=ogGitn">新疆罗布泊发现汉晋古城 推测为楼兰国都城 2017-03-31 06:53</a><br/>近日，陆媒报导，大陆考古人员在新疆罗布泊发现汉晋古城，推测为楼兰国都城。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815522&from=ogGitn">强拆人员入屋打死人 河南逾百村民抬尸抗议 2017-03-31 06:52</a><br/>河南省商丘市多条村庄陆续被政府强拆，有强拆人员强闯入屋活活打死1名村民，逾百名村民连日抬尸游行到区政府抗议，要求给予村民交代。而在近期的强拆事件中，已经造成4人死亡。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815393&from=ogGitn">《活摘》引东京都民众热议 2017-03-30 04:05</a><br/>有的观众是首次了解到中共活体摘除法轮功学员器官的行径。虽然有人对中共的器官黑市交易略有所闻，但还是对大卫?麦塔斯律师的最新调查报告的内容感到震惊。特别是报告中指出的在过去的10年里，中国每年至少有6-10万人成为活摘器官的受害者，其中大部分是法轮功学员这一调查结果表示无法接受。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815385&from=ogGitn">姚文元回忆录曝毛晚年多起重大政治事件 2017-03-30 03:59</a><br/>姚文元1996年出狱后，曾撰写了42万字的回忆录，但被中共当局封杀。随后，姚文元在2002年底开始用8个月的时间，撰写了5万多字的文章《回顾与反思》，其中包括毛泽东晚年时的多起重大的政治事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815391&from=ogGitn">终于能用了！ Google翻译App向中国用户开放 2017-03-30 03:58</a><br/>日前，Google翻译App版本更新，允许中国用户下载使用。但有报导指，此事与Google重返中国无关。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815396&from=ogGitn">“神秘人物”施克辉出掌中纪委办公厅 2017-03-30 03:51</a><br/>中纪委官方消息显示，浙江系高官施克辉已出任中纪委办公厅主任。“神秘人物”施克辉曾多次跟随中纪委书记王岐山到地方调研。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815387&from=ogGitn">【微视频】辉山乳业崩盘带给香港的冲击和启示 2017-03-30 03:39</a><br/>媒体说，3月20号，债权人突然接到辉山乳业通知，无法偿还本息。几天之后，辉山的股票就崩盘了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815383&from=ogGitn">陈达：从“辱母杀人”案看红毒之剧 2017-03-30 03:30</a><br/>当面辱亲母，男儿能含糊？孝为百善先，辱母最大辱。警匪一家逼，自卫惩恶徒。替天行道义，雪耻责自负。谁知红衙门，无期判过度。悍然犯众怒，最高检介入。介入怎么弄，不外擦屁股。不管怎么擦，无碍浑身毒。党妈就那货，嗜血集百毒。红毒最剧烈，人给变动物。名虽标高级，实比兽残酷。即使甩坏蛋，亦只把党护。衣法党治国，流氓乱棍杵。法制党妈手，欺侮...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815390&from=ogGitn">香港反右60周年研讨会 与会者：中共无可救药 2017-03-30 03:16</a><br/>〝反右运动〞60周年研讨会一连两日于香港召开。40名大陆参加者被禁来港。活动负责人回深圳时一度被扣留问话。与会人士回忆了被打成右派的悲惨经历。有右派老人称，不要期盼中共〝恩赐民主〞，中共〝执迷不悟，已无可救药〞。</td></tr>
 </table>
