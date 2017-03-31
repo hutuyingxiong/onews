@@ -2,11 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815633&from=ogGitn">北京商住房3天网签7套 交易量下降99.9% 2017-04-01 05:55</a><br/>北京日前推出了有关商住房的限购措施，措施实施后，商住房交易量下降99.9%，商住房已经全面下架。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815632&from=ogGitn">大陆独立纪录片《凶年之畔》亮相巴黎 2017-04-01 05:28</a><br/>正在巴黎举行的第39届法国国际真实电影节3月29日晚在巴黎市中心的Forum des Images 放映了中国纪录片导演的作品《凶年之畔》。影片展示出中国农民工群体权利意识的觉醒过程以及他们在维权努力中面对的压力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815636&from=ogGitn">1分钟内30轮报价 南京土地竞拍激烈 2017-04-01 05:25</a><br/>3月30日，南京市有8块土地出让，现场竞拍激烈。第一块出让的土地在1分钟内有30轮报价，最后有6块地达到出让最高限价，进入封顶摇号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815631&from=ogGitn">中纪委高官任吉林纪委书记 “吉林帮”被围剿 2017-04-01 05:24</a><br/>日前中央第十四巡视组组长陶治国“空降”吉林任省委常委、省纪委书记，接替转任中编办副主任的崔少鹏。2月底中央第二巡视组刚开始对吉林省进行“回头看”巡视。江派常委张德江的“吉林帮”人马形势不妙。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815626&from=ogGitn">曾向天安门毛像泼漆 六四勇士余志坚美国病逝 2017-04-01 05:07</a><br/>八九民运期间曾向北京天安门毛泽东像泼洒油漆的大陆教师余志坚，于当地时间3月30日在美国印第安纳州病逝，享年53岁。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815633&from=ogGitn">北京商住房3天网签7套 交易量下降99.9% 2017-04-01 04:57</a><br/>北京日前推出了有关商住房的限购措施，措施实施后，商住房交易量下降99.9%，商住房已经全面下架。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815626&from=ogGitn">曾向天安门毛像泼漆 余志坚美国病逝 2017-04-01 05:07</a><br/>八九民运期间曾向北京天安门毛泽东像泼洒油漆的大陆教师余志坚，于当地时间3月30日在美国印第安纳州病逝，享年53岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815634&from=ogGitn">避引火烧身？ 赵薇放弃入股万家文化 2017-04-01 04:51</a><br/>万家文化被立案调查，龙薇传媒终止受让股权。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815630&from=ogGitn">美军事人员前往或过境中国 五角大楼要严审 2017-04-01 04:47</a><br/>因中共经常以不正当方式取得美国国防技术，五角大厦已提高美国军事人员前往和过境中国大陆的规定。发生多起意外事件后，美国国安官员要求军方人士避免过境中国大陆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815624&from=ogGitn">美中互释信号 川习会将陷艰难谈判？ 2017-04-01 04:47</a><br/>川普（特朗普）总统30日说，这次会晤将“非常艰难”。31日，川普又颁布行政令，要求查明导致美国巨大贸易逆差的元凶。美商务部长罗斯直言“头号逆差来源就是中国”。而北京也做出回应，暗示中美贸易不平衡，与中国关系不大。分析指，美方这些举动为川习会定下了紧张基调，而中方的回应也显示，不会在贸易上做出让步。</td></tr>
