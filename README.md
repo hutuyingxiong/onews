@@ -2,12 +2,15 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815565&from=ogGitn">湖南男童遭军刀刺穿头部 父亲寻医疗救助 2017-03-31 12:52</a><br/>湖南隆回县横板桥镇中心小学，九岁肖小弟24日在学校门口被校保安用军刀刺穿头部，经过90小时以上的抢救，虽然目前已经无生命危险，但意识尚未恢复。其父亲向媒体求助，希望有医疗设备较先进，医术高明的医师能接手肖小弟的医疗救治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815564&from=ogGitn">东莞一企业发生大爆炸 大火腾空数十米高 2017-03-31 12:17</a><br/>3月30日晚9时许，广东东莞市道滘镇大罗沙工业园临近河边的一家工厂，先是起火，随即发声大爆炸。爆炸威力强大，大火腾空而起，至少有数十米之高，照亮夜空，有附近居民称如核爆。目前暂未有人员伤亡报告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815563&from=ogGitn">每日三退声明精选（2017/03/30） 2017-03-31 11:54</a><br/>邪恶共产党，害人没商量。表面说人话，暗里坏心肠。谁要相信它，保你准上当。我要远离它，邪恶共产党！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815561&from=ogGitn">王岐山坐镇 传中共上万退休高官及亲属被限出境 2017-03-31 11:35</a><br/>随着中共十九大临近，习当局反腐持续深入。有消息说，当局已列出一万二千五百多名被查的离退休省部级军级高官及亲属被限制出境的名单。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815566&from=ogGitn">韩智库：朝鲜拥千架无人机 可发动生化恐袭 2017-03-31 11:25</a><br/>韩国智库表示，朝鲜拥有约1,000架无人机，除了可以对韩国进行侦测，更可以发动生化攻击，带来严重国防威胁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815558&from=ogGitn">暗指中共是邪教 河北官员被免人大代表 2017-03-31 11:16</a><br/>中共河北省人大30日发布公告称，左春和已请辞省人大代表职务。此前，左春和因发文讽刺毛泽东，并暗指中共是邪教组织，在今年年初被免去石家庄市文化广电新闻出版局副局长职务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 10:38</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815548&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-03-31 10:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815567&from=ogGitn">周晓辉：传江苏副省长跳楼 或涉两金融大鳄 2017-03-31 10:23</a><br/>3月29日，新浪网官方认证的大陆媒体人“北京李海”发布一则快讯，称“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼”，消息很快被删，而官方则选择了沉默，因此消息是否属实还有待确认。不过，这个自2月11日就从媒体上消失的年轻的副部级高官，不管是否走上了自杀之路，背后的故事都不简单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 10:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815547&from=ogGitn">核爆吗？广东工厂突发大爆炸 火焰云腾空数十米（组图） 2017-03-31 09:58</a><br/>日前，广东东莞市一家工厂发生大爆炸，从网传短片可见爆炸现场火光冲天，爆炸威力强大，巨大的火焰蘑菇云腾空而起，高达数十米，整个夜空被火光照耀成一片红色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 09:40</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
@@ -28,6 +31,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815530&from=ogGitn">【禁闻】违反联合国决议 中共仍进口朝鲜矿产 2017-03-31 05:45</a><br/>美国之音3月30号报导，中国继续违反联合国决议进口朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815529&from=ogGitn">【禁闻 】商丘政府强拆打死人 村民抬尸抗议 2017-03-31 05:44</a><br/>商丘政府强拆打死人 村民抬尸抗议;海外学者吁中共当局允许冯崇义离境。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815535&from=ogGitn">【禁闻】学区房VS学历 哪个更值钱 2017-03-31 05:32</a><br/>不断飙升的房价，使一流学府毕业进入社会主流的精英也难以承受，有毕业于北大清华的年轻人发帖说，〝买不起房，更买不起学区房，该怎么办？〞引发对名校学历不如北京学区房值钱的热议与探究。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815568&from=ogGitn">健康人被强行注射精神病药物—朱桂林的遭遇 2017-03-31 05:27</a><br/>一个健康人被注射了精神病药物后是什么感受？ 湖南省常德石门县的朱桂林女士经历了这样的人间惨剧。以下是她在控告江泽民书中讲诉的亲身经历：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815531&from=ogGitn">习启动“雷霆行动”布控十九大 广东有大动作 2017-03-31 05:12</a><br/>中共两会期间，习当局启动为期六个月的“雷霆行动”，粤、港、澳三地联手扫黑。最新消息指，广东70多个涉黑犯罪团伙已被查处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">墓地比地产还火？苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815389&from=ogGitn">陈思敏：复星高层异动 涉上海官场腐败 2017-03-29 16:11</a><br/>复星直接和间接控股的公司已经超过100家，郭广昌圈子里充斥形形色色的官员。既然是上海特大集团，既然是上海首富，从以前到现在都一样，就是不能没有韩正及江泽民家族的关系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815335&from=ogGitn">山东发现最大金矿  价值千亿可开采40年 2017-03-29 15:44</a><br/>〝西岭金矿〞潜在价值超过1500亿人民币，可连续开采40年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815333&from=ogGitn">港媒：古今对比 辱母杀人案判决摧毁孝道文化 2017-03-29 15:37</a><br/>港媒抨击山东聊城辱母杀人案的判决，摧毁中国的孝道文化。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815341&from=ogGitn">民进党前党工疑使用微信遭中共国安监控 2017-03-29 15:32</a><br/>台湾民主活动人士李明哲据称被中国国安单位拘留，他的同事称，李明哲或因使用中国社交媒体“微信”（WeChat）讨论中国与台湾关系而引起中国国安部门的注意。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815361&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-29 15:11</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815411&from=ogGitn">鲁高速突发5起事故至少12死伤 现场惨烈 2017-03-29 15:09</a><br/>3月29日6时50分左右，泰新高速相继发生5起交通事故，涉及22辆车，其中2起已经造成2人死亡，10人受伤，另外3起事故正在处理中，伤亡情况不明。网民微博发帖称，现场惨烈，太瘆人了。据报，事发时泰新高速56一77km路段突发团雾，涉事的22辆车中，有大货车20辆，小货车2辆。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
 </table>
