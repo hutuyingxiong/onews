@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815579&from=ogGitn">中国单身人口近2亿 男女比例失衡持续恶化 2017-03-31 17:07</a><br/>近日,一份调查报告指出，中国逾13亿人口中，单身人数近2亿人。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815578&from=ogGitn">辱母案判决引民愤：法官无情 法律不公 2017-03-31 16:52</a><br/>山东辱母杀人案近期被刷屏，数百万网民留言，为刺死辱母者被判无期徒刑的于欢鸣不平。而判决中法官的无情和法律的不公义引起民众群情激愤，诸多法学教授也指责当局量刑过重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815573&from=ogGitn">【翻墙必看】被枪毙的“毒贩”又活了？吓到法官 2017-03-31 16:26</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815575&from=ogGitn">证监会开出史上最重罚单  资本〝大鳄〞鲜言罚没34.7亿 2017-03-31 16:10</a><br/>中共证监会对资本市场〝大鳄〞鲜言，开出高达34.7亿元的中共史上最大罚单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815576&from=ogGitn">调控频出 大陆部分楼市或再陷低迷 2017-03-31 16:07</a><br/>近来，大陆参与房地产调控的城市达到了30多座，随着调控措施越来越严，有业界人士认为，部分城市楼市可能再次进入低迷调整期，二季度或出现价格调整。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815356&from=ogGitn">709案家属又被禁足 辩护律师微信遭封杀 2017-03-29 17:30</a><br/>近日，709案王全璋律师的妻子李文足又被北京市石景山区国保警察“跟随”，恢复中共“两会”时期的禁足状态。另外，709案谢阳的辩护律师陈建刚最近因参与转发“十秒质疑”视频活动，其微信号被封杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815346&from=ogGitn">万人签名维权 指地方政府涉泛亚案 2017-03-29 17:02</a><br/>泛亚投资受害人表示，每天都有人去相关部门维权，但目前维权没有任何进展，中院也迟迟不开庭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815345&from=ogGitn">中共部级金融高官王雪冰的情史被深度揭秘 2017-03-29 16:59</a><br/>近日，中共部级金融高官自曝与影星“安娜”（化名）的情史事件持续发酵，该高官被曝是王雪冰，而王雪冰与“安娜”的情史也被深度揭秘。最近，被称作反腐纪实文学的书籍《追问》公开出版发行，书中记述的8名正部级官员中有一人自曝了与影视女明星情人“安娜”的情史。书中描述，这名正部级高官，为了企业家妻子、影视明星情人，动用了公权力，违规操作中国境外资金数十亿...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815344&from=ogGitn">〝收听敌台罪〞翻版？重庆新规〝翻墙〞有罪 2017-03-29 16:47</a><br/>40年前，中国有所谓的〝收听敌台〞罪，现在中共与时俱进规定了网际网路〝翻墙〞罪。日前，重庆市公安局官网上发布一则关于网路监管的新规定，"翻墙"上海外网站有罪，可处以罚款或追究刑事责任。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815354&from=ogGitn">齐星集团欠债百亿 大陆再现区域金融风险 2017-03-29 16:44</a><br/>3月27日，山东省滨州市邹平县就该县齐星集团债务问题召集债权人开会，据悉，齐星集团上百亿元的债务使得邹平县面临区域性金融风险。齐星集团目前已经基本停产。</td></tr>
 </table>
