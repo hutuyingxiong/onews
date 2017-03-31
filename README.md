@@ -67,6 +67,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815468&from=ogGitn">分析：刘云山搅局十九大  主使老兵包围中纪委 2017-03-30 18:59</a><br/>中共19大召开前夕，中南海高层权斗明显升级，近期连续发生的老兵集体上访事件，疑似有高层精心策化和操控。分析认为主管宣传的中央政治局委员刘云山很可能是幕后主使。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815483&from=ogGitn">辉山乳业事件后 市场关注大陆影子银行信贷 2017-03-30 18:50</a><br/>中国辉山乳业控股有限公司（辉山乳业）股价暴跌事件，牵出该公司上百亿的债务规模，其中一些债务是银行的应收款项类投资，这也引发了市场对大陆影子银行贷款的高度关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815470&from=ogGitn">【翻墙必看】美国向金正恩展示武力 2017-03-30 18:23</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815544&from=ogGitn">【财经话题】沙特在石油战中已落败 2017-03-30 18:17</a><br/>两年多过去了，生命力旺盛的美国业者没有被淘汰，其页岩油开采成本已因技术的不断革新而由每桶100美元一路降到30—50美元之间，上周的数据更显示页岩油每日出口量已同比倍增至100万桶，换言之，在目前西德州原油（WTI）徘徊在47—50美元/桶之际，页岩油业者正在不断蚕食OPEC的市场份额。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815463&from=ogGitn">沉冤20余年 聂树斌父母获赔268万 2017-03-30 17:36</a><br/>聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815461&from=ogGitn">彪海洋：从辱母案看合议庭对案件的操控 2017-03-30 17:19</a><br/>近几天，辱母案在全国发酵，成为最为热点的事件，这客观反映出人们对中国法制状况的普遍不满，也同样反映出人们普遍对公平正义的强烈渴望。至目前为止，已有很多的评论文章分析该案，但笔者注意到，这些文章极少揭示出合议庭在本案中对案件的操控手法，大多数认为这是法律与道德要求的矛盾所致，而忽视了法官故意扭曲法律适用这个关键，而该问题，在中国的法律界中，实际上是一个已泛滥成灾的普遍现象，已成为极其突出的问题，如果不立即纠正，将成为全面依法治国之灾。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815464&from=ogGitn">宋庄艺术家遭强拆 数十艺术家声援 2017-03-30 17:12</a><br/>北京宋庄的独立艺术家持续受到当局打压，29号，沈敬东正在兴建中的房子突然被强拆，他本人也被强拆人员用钢叉叉倒在地，受到轻伤。数十名艺术家到场拉横幅抗议，双方发生冲突，混乱中有人被打伤，2人被警方带走。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815423&from=ogGitn">评论：中共集权导致房地产泡沫难解 2017-03-29 12:37</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815317&from=ogGitn">甘肃官场被深度清洗 省委高层大换人 2017-03-29 11:30</a><br/>甘肃官场持续震荡，地方高层人事密集调整。近日，甘肃省委多名高层换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815334&from=ogGitn">袁斌：“辱母杀人案”与中国基层乱象 2017-03-29 11:22</a><br/>中共一党专政下当今基层社会的乱象，而“辱母杀人案”所折射的充其量也只不过是其中的冰山一角罢了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815321&from=ogGitn">每日三退声明精选（2017/03/28） 2017-03-29 10:59</a><br/>我是一个一直在追求人生真谛的人，我2004年去部队服役，06年在部队入邪党，但是对我来说对部队看到的腐败和潜规则总是心中很奇怪，后来渐渐发觉这是一个由谎言和邪恶组成的组织，现在我深感懊悔，发誓退出邪恶之党不与邪恶为伍，去寻求那份真正属于我们内心深处的愿望！</td></tr>
 </table>
