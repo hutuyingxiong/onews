@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815632&from=ogGitn">大陆独立纪录片《凶年之畔》亮相巴黎 2017-04-01 05:28</a><br/>正在巴黎举行的第39届法国国际真实电影节3月29日晚在巴黎市中心的Forum des Images 放映了中国纪录片导演的作品《凶年之畔》。影片展示出中国农民工群体权利意识的觉醒过程以及他们在维权努力中面对的压力。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815636&from=ogGitn">1分钟内30轮报价 南京土地竞拍激烈 2017-04-01 05:25</a><br/>3月30日，南京市有8块土地出让，现场竞拍激烈。第一块出让的土地在1分钟内有30轮报价，最后有6块地达到出让最高限价，进入封顶摇号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815631&from=ogGitn">中纪委高官任吉林纪委书记 “吉林帮”被围剿 2017-04-01 05:24</a><br/>日前中央第十四巡视组组长陶治国“空降”吉林任省委常委、省纪委书记，接替转任中编办副主任的崔少鹏。2月底中央第二巡视组刚开始对吉林省进行“回头看”巡视。江派常委张德江的“吉林帮”人马形势不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815626&from=ogGitn">曾向天安门毛像泼漆 六四勇士余志坚美国病逝 2017-04-01 05:07</a><br/>八九民运期间曾向北京天安门毛泽东像泼洒油漆的大陆教师余志坚，于当地时间3月30日在美国印第安纳州病逝，享年53岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815633&from=ogGitn">北京商住房3天网签7套 交易量下降99.9% 2017-04-01 04:57</a><br/>北京日前推出了有关商住房的限购措施，措施实施后，商住房交易量下降99.9%，商住房已经全面下架。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815413&from=ogGitn">检察院退卷 江苏法轮功学员曲背香无罪获释 2017-03-30 06:36</a><br/>由于检察院退卷，江苏省镇江句容市法轮功学员曲背香于3月24日被无罪释放，平安回家。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815409&from=ogGitn">德媒：坏事又变好事？ 辱母杀人案引发〝被准许的愤怒〞 2017-03-30 06:22</a><br/>山东辱母杀人案引发大陆网民声讨，中共最高检随即宣布介入调查。时评人长平认为，这是当局默许下的又一次〝被准许的愤怒〞，中共或再次〝将坏事变好事〞，导演又一个〝法治的胜利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815410&from=ogGitn">梁京：中国的房地产泡沫已近临界点 2017-03-30 05:59</a><br/>最近一段时间，中国正在发生的一件大事，就是决策高层认识到，房地产泡沫已经接近临界点。做出这一判断其实不难，因为所谓一线城市，即北京、上海、广州、深圳等大都市，两年之间，房价在所谓“天价”水平之上，又翻了一番。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815395&from=ogGitn">谢天奇：习王围剿江家族 胡锦涛露面释两信号 2017-03-30 05:48</a><br/>习阵营连番动作围剿上海帮江泽民家族之际，胡锦涛、温家宝、朱镕基等习阵营元老密集露面，一方面，反衬江泽民被封杀的异常，印证其处境不妙的现状；另一方面，展示与习的政治联盟，震慑江派势力。</td></tr>
 </table>
