@@ -12,6 +12,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815585&from=ogGitn">冯崇义遭限制离境 海外学者吁放行 2017-03-31 17:24</a><br/>30号，来自澳大利亚、美国、英国和香港的80多位学者，联名致信习近平、李克强，敦促释放冯崇义。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815579&from=ogGitn">中国单身人口近2亿 男女比例失衡持续恶化 2017-03-31 17:07</a><br/>近日,一份调查报告指出，中国逾13亿人口中，单身人数近2亿人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815578&from=ogGitn">辱母案判决引民愤：法官无情 法律不公 2017-03-31 16:52</a><br/>山东辱母杀人案近期被刷屏，数百万网民留言，为刺死辱母者被判无期徒刑的于欢鸣不平。而判决中法官的无情和法律的不公义引起民众群情激愤，诸多法学教授也指责当局量刑过重。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815595&from=ogGitn">A股高送转后大股东减持 “割韭菜”没商量 2017-03-31 16:51</a><br/>今年前三个月，大陆股市出现大规模减持，尤其是上市公司高送转推高股价后，大股东减持的情况，备受大陆股市众多散户关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815573&from=ogGitn">【翻墙必看】被枪毙的“毒贩”又活了？吓到法官 2017-03-31 16:26</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815580&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 16:17</a><br/>不过实业再大，获利俨然不若短线炒股，13亿赚9亿。多年来，李长春与他的白手套们互惠互利。例如天瑞系可以操盘股票市场与水泥行业，而李长春家族可以操控天瑞系的掌门人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815575&from=ogGitn">证监会开出史上最重罚单  资本〝大鳄〞鲜言罚没34.7亿 2017-03-31 16:10</a><br/>中共证监会对资本市场〝大鳄〞鲜言，开出高达34.7亿元的中共史上最大罚单。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815363&from=ogGitn">贪腐五亿多 天津前公安局长武长顺受审 2017-03-29 22:33</a><br/>检方指控：武长顺在担任天津市公安交通管理局局长、天津市公安局副局长、局长、市政协副主席等职务期间，便利工作便利，非法占有公款共计人民币3亿4200余万元；为他人谋取利益，收受他人财物共计8440万余元；挪用公款1亿余元，行贿1057万元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815366&from=ogGitn">近3年河北保定8名县级一把手落马 2017-03-29 22:28</a><br/>3月28日，河北保定市雄县前县委书记吴亚飞落马，吴卸任该职务才3个多月。近3年保定市至少有8个县级党政一把手或原一把手落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">专案组有动作 数十律师发视频挺江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
 </table>
