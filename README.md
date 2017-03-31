@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815581&from=ogGitn">河南商丘强拆2死 数千村民连日游行 2017-03-31 17:25</a><br/>27号晚上，强拆人员闯进睢阳区庞庄村一对中年夫妇的家，夫妻俩因反抗强拆，丈夫被活活打死，其妻住院，一百多名村民连日抬尸游行到区政府讨说法，多人被捕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815585&from=ogGitn">冯崇义遭限制离境 海外学者吁放行 2017-03-31 17:24</a><br/>30号，来自澳大利亚、美国、英国和香港的80多位学者，联名致信习近平、李克强，敦促释放冯崇义。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815579&from=ogGitn">中国单身人口近2亿 男女比例失衡持续恶化 2017-03-31 17:07</a><br/>近日,一份调查报告指出，中国逾13亿人口中，单身人数近2亿人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815578&from=ogGitn">辱母案判决引民愤：法官无情 法律不公 2017-03-31 16:52</a><br/>山东辱母杀人案近期被刷屏，数百万网民留言，为刺死辱母者被判无期徒刑的于欢鸣不平。而判决中法官的无情和法律的不公义引起民众群情激愤，诸多法学教授也指责当局量刑过重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815573&from=ogGitn">【翻墙必看】被枪毙的“毒贩”又活了？吓到法官 2017-03-31 16:26</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815350&from=ogGitn">【史海】毛泽东听到周恩来的意见大骂一通 2017-03-29 19:12</a><br/>1973年6月，美国总统尼克松（Richard Nixon）与苏共总书记勃列日涅夫（Leonid Brezhnev）举行了会谈，两国达成了《关于防止核战争协议》等十三个文件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815348&from=ogGitn">大陆女生卖卵子差点虚脱  只为换一部苹果手机 2017-03-29 17:56</a><br/>上海23岁的女大学生小雨，为购买了一部iPhone7 Plus卖卵子。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815347&from=ogGitn">网传山西国企高层嫁孙女　陪嫁3千万招来纪委 2017-03-29 17:49</a><br/>网路爆料，山西大型国企太原钢铁集团公司的工会主席嫁孙女，附送总值逾3000万元人民币的嫁妆。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815356&from=ogGitn">709案家属又被禁足 辩护律师微信遭封杀 2017-03-29 17:30</a><br/>近日，709案王全璋律师的妻子李文足又被北京市石景山区国保警察“跟随”，恢复中共“两会”时期的禁足状态。另外，709案谢阳的辩护律师陈建刚最近因参与转发“十秒质疑”视频活动，其微信号被封杀。</td></tr>
 </table>
