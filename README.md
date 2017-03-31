@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815564&from=ogGitn">东莞一企业发生大爆炸 大火腾空数十米高 2017-03-31 12:17</a><br/>3月30日晚9时许，广东东莞市道滘镇大罗沙工业园临近河边的一家工厂，先是起火，随即发声大爆炸。爆炸威力强大，大火腾空而起，至少有数十米之高，照亮夜空，有附近居民称如核爆。目前暂未有人员伤亡报告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815563&from=ogGitn">每日三退声明精选（2017/03/30） 2017-03-31 11:54</a><br/>邪恶共产党，害人没商量。表面说人话，暗里坏心肠。谁要相信它，保你准上当。我要远离它，邪恶共产党！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815561&from=ogGitn">王岐山坐镇 传中共上万退休高官及亲属被限出境 2017-03-31 11:35</a><br/>随着中共十九大临近，习当局反腐持续深入。有消息说，当局已列出一万二千五百多名被查的离退休省部级军级高官及亲属被限制出境的名单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815558&from=ogGitn">暗指中共是邪教 河北官员被免人大代表 2017-03-31 11:16</a><br/>中共河北省人大30日发布公告称，左春和已请辞省人大代表职务。此前，左春和因发文讽刺毛泽东，并暗指中共是邪教组织，在今年年初被免去石家庄市文化广电新闻出版局副局长职务。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815361&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-29 15:11</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815411&from=ogGitn">鲁高速突发5起事故至少12死伤 现场惨烈 2017-03-29 15:09</a><br/>3月29日6时50分左右，泰新高速相继发生5起交通事故，涉及22辆车，其中2起已经造成2人死亡，10人受伤，另外3起事故正在处理中，伤亡情况不明。网民微博发帖称，现场惨烈，太瘆人了。据报，事发时泰新高速56一77km路段突发团雾，涉事的22辆车中，有大货车20辆，小货车2辆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815337&from=ogGitn">杀情妇焚尸 赵黎平案进入死刑复核拒认罪 2017-03-29 15:07</a><br/>中共内蒙古自治区政协前副主席赵黎平因犯故意杀人、受贿、非法持有枪支弹药、非法储存爆炸物四宗罪，一审、二审被判死刑立即执行，但赵黎平始终拒不认罪。目前该案已进入最终的死刑复核程序。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815371&from=ogGitn">山西疯汉持刀混入幼儿园 砍死一幼童 2017-03-29 14:40</a><br/>3月28日上午8时许，山西平陆县常乐镇双语幼儿园内发生一起恶性凶杀案。一名患有精神病男子持刀混入幼儿园内，将一名3岁幼儿砍伤身亡。犯罪嫌疑人已被抓获。</td></tr>
 </table>
