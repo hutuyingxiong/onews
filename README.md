@@ -2,7 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815632&from=ogGitn">大陆独立纪录片《凶年之畔》亮相巴黎 2017-04-01 05:28</a><br/>正在巴黎举行的第39届法国国际真实电影节3月29日晚在巴黎市中心的Forum des Images 放映了中国纪录片导演的作品《凶年之畔》。影片展示出中国农民工群体权利意识的觉醒过程以及他们在维权努力中面对的压力。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815631&from=ogGitn">中纪委高官任吉林纪委书记 “吉林帮”被围剿 2017-04-01 05:24</a><br/>日前中央第十四巡视组组长陶治国“空降”吉林任省委常委、省纪委书记，接替转任中编办副主任的崔少鹏。2月底中央第二巡视组刚开始对吉林省进行“回头看”巡视。江派常委张德江的“吉林帮”人马形势不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815626&from=ogGitn">曾向天安门毛像泼漆 六四勇士余志坚美国病逝 2017-04-01 05:07</a><br/>八九民运期间曾向北京天安门毛泽东像泼洒油漆的大陆教师余志坚，于当地时间3月30日在美国印第安纳州病逝，享年53岁。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815633&from=ogGitn">北京商住房3天网签7套 交易量下降99.9% 2017-04-01 04:57</a><br/>北京日前推出了有关商住房的限购措施，措施实施后，商住房交易量下降99.9%，商住房已经全面下架。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815630&from=ogGitn">美军事人员前往或过境中国 五角大楼要严审 2017-04-01 04:47</a><br/>因中共经常以不正当方式取得美国国防技术，五角大厦已提高美国军事人员前往和过境中国大陆的规定。发生多起意外事件后，美国国安官员要求军方人士避免过境中国大陆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815624&from=ogGitn">美中互释信号 川习会将陷艰难谈判？ 2017-04-01 04:47</a><br/>川普（特朗普）总统30日说，这次会晤将“非常艰难”。31日，川普又颁布行政令，要求查明导致美国巨大贸易逆差的元凶。美商务部长罗斯直言“头号逆差来源就是中国”。而北京也做出回应，暗示中美贸易不平衡，与中国关系不大。分析指，美方这些举动为川习会定下了紧张基调，而中方的回应也显示，不会在贸易上做出让步。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 04:46</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815623&from=ogGitn">网传跳楼的江苏副省长被“安排”露面了？ 2017-04-01 04:22</a><br/>继网络风传江苏省委常委、副省长杨岳“跳楼了”的消息之后，今天又有大陆微信消息称，杨岳参加了一个在扬召开的会议，并附有图片，引外界关注。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815395&from=ogGitn">谢天奇：习王围剿江家族 胡锦涛露面释两信号 2017-03-30 05:48</a><br/>习阵营连番动作围剿上海帮江泽民家族之际，胡锦涛、温家宝、朱镕基等习阵营元老密集露面，一方面，反衬江泽民被封杀的异常，印证其处境不妙的现状；另一方面，展示与习的政治联盟，震慑江派势力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815407&from=ogGitn">陆学者：朝鲜是潜在敌人 韩统一半岛有利无弊 2017-03-30 05:22</a><br/>朝鲜核武发展在导致半岛危机升级的同时，让中朝关系也走向对立。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815404&from=ogGitn">【禁闻】重庆新规 翻墙有罪 评：自砸脚 2017-03-30 05:21</a><br/>3月27号，重庆市公安局发布了《网络监管行政处罚裁量基准》修订稿，规定对于擅自建立、使用所谓的非法定信道进行国际联网；接入网络未通过互联网络接入国际联网；未经许可从事国际联网经营业务；未经批准进行国际联网等翻墙行为，将予以处罚。对所谓构成犯罪的，还要追究刑事责任。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815399&from=ogGitn">网传江苏副省长杨岳跳楼 2017-03-30 05:14</a><br/>3月29日，报社记者“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”目前，官方对此还没有相关报导。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815401&from=ogGitn">中介9招推高楼价 大陆新一轮楼控祭杀手镧 2017-03-30 05:10</a><br/>近日，大陆开启新一轮楼市调控，其中，中介公司成整治重点。近日，官方通报30家违规中介和房企，官媒曝中介推高房价“九大套路”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815405&from=ogGitn">周晓辉：再提郭徐架空胡锦涛 话外有音回击暗流 2017-03-30 05:04</a><br/>此前港媒曾报导若干上将突然“销声匿迹”，估计是习近平进一步整肃军队的重要举措。随着警告音的释出，为了确保中共十九大前没有人兴风作浪，军队或许还将有重要将官落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815394&from=ogGitn">理悟：良知复苏 2017-03-30 04:40</a><br/>仁义礼智信为先，炎黄古道赖神传。以德治国朝纲振，法彰邪遁万民欢。共产邪说乱纲纪，邪灵入侵嚣百年。末日红魔犹可恶，无法无天任狂癫。打压正信人性泯，邪毒恶狠祸中原。蟾妖兴风遮日月，邪党作浪鼓层澜。公安不安成凶手，法官枉法天平偏。草菅人命害法徒，酷刑活摘卖器官。腥风血雨漫天飞，法制无存造奇冤。大法崇尚真善忍，遭此不公人神...</td></tr>
 </table>
