@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815597&from=ogGitn">沪京蒙高层人事变动 四川秘书长任上海常委 2017-03-31 21:57</a><br/>中共十九大前，习近平当局持续调整地方大员。刚卸任四川省委秘书长的吴靖平等两人任上海市委常委，上海班子还有多位置待补；科学技术部副部长阴和俊任北京市委常委；乌兰察布市委书记艾丽华等两人任内蒙古自治区副主席。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815596&from=ogGitn">谷春立白雪山 吉林宁夏两首虎同日受审 2017-03-31 20:31</a><br/>黑龙江、陕西两“首虎”分别受审。黑龙江哈尔滨市中级法院宣判，吉林省原副省长谷春立受贿罪获刑12年；陕西西安市中级法院一审开庭，审理了宁夏回族自治区原副主席白雪山受贿一案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815594&from=ogGitn">清理遗毒 天津政坛大调整 四新人进常委 2017-03-31 20:10</a><br/>在中共官方频发清除黄兴国、武长顺“遗毒”之际，天津高层持续震荡。近日，天津有四名市委常委履新，其动作之大，外界认为非常罕见。武长顺、黄兴国落马后，天津政坛开始大规模重建，大批官员被查处或被调离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815592&from=ogGitn">台湾投资大陆比重太高 柯文哲：分散是对的 2017-03-31 18:53</a><br/>台北市长柯文哲3月31日在台北与新德里产业布局论坛上大力促销台北投资商机，他在论坛后表示，中国大陆占台湾对外投资的40%，比重太高，政府的分散政策是对的。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815360&from=ogGitn">中国女排集训名单出炉 郎平任总教练 2017-03-29 22:37</a><br/>中国女排2017年集训名单3月29日出炉，郎平仍任总教练，其助手安家杰出任执行教练。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815368&from=ogGitn">王林弟子被绑架谋杀案开审 5名被告当庭认罪 2017-03-29 22:36</a><br/>3月29日，江西抚州中院对〝江泽民国师〞王林弟子邹勇被绑架谋杀案一审开庭。五名被告当庭表示认罪，因王林上月病亡，对其审理已终止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815363&from=ogGitn">贪腐五亿多 天津前公安局长武长顺受审 2017-03-29 22:33</a><br/>检方指控：武长顺在担任天津市公安交通管理局局长、天津市公安局副局长、局长、市政协副主席等职务期间，便利工作便利，非法占有公款共计人民币3亿4200余万元；为他人谋取利益，收受他人财物共计8440万余元；挪用公款1亿余元，行贿1057万元。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815362&from=ogGitn">津门〝武爷〞武长顺受审  涉贪金额逾5亿元 2017-03-29 22:31</a><br/>武长顺被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法。</td></tr>
 </table>
