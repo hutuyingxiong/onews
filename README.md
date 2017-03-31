@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815613&from=ogGitn">王友群：迫害法轮功18年是当今中国一切乱象的总根源 2017-04-01 00:49</a><br/>最近，山东〝辱母杀人案〞在海内外引发强烈反响。2016年4月13日，苏银霞因欠高利贷，遭11名黑社会成员上门催债。儿子于欢在母亲苏银霞长时间受辱骂、甚至当面猥亵、报警警察不理之下，奋起反抗，捅伤4人，其中一人不治身亡。2017年2月17日，山东聊城中级法院以〝故意伤害罪〞判处于欢无期徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815610&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 王岐山亲信〝看管〞 2017-03-31 23:45</a><br/>3月28日，甘肃媒体率先公布山东省委常委、常务副省长孙伟调任甘肃省委副书记的消息。随后，山东官方亦证实，孙伟已辞任山东省原职务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815609&from=ogGitn">袁斌：重庆当局为何封杀〝翻墙〞 2017-03-31 23:40</a><br/>曾几何时，〝与时俱进〞成了中共特别爱用来自我标榜的一个热词。撇开别的且不说，至少在网路监管这方面它倒还真是不折不扣的做到了这一点。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815612&from=ogGitn">巴黎华人遭枪杀 法国男上海遇袭 中法关系紧张 2017-03-31 23:37</a><br/>一名中国男子上周日（26日）晚间在巴黎遭法国警察枪杀，引发当地华人持续抗议。29日一名法国人在上海遭到袭击。中法两国关系紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815608&from=ogGitn">林辉：山本五十六座机被击落与中美合作所 2017-03-31 23:31</a><br/>对于〝中美合作所〞的印象，中国人基本上是来自小说《红岩》以及根据其改编的电影《烈火中永生》和歌剧《江姐》。在小说、电影和歌剧中，它成为了〝美蒋罪行〞的代名词，是一个〝反共集中营〞。然而，大量史实表明，长期被中共丑化的〝中美合作所〞，实际上是二战期间中美两国建立的跨国军事情报合作机构，1943年日本海军舰队司令长官山本五十六座机被击落就有其功劳，可以说，它是中美关系史上一个亮点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815606&from=ogGitn">王友群：为了法轮功学员家人与其他中国人免于恐惧 2017-03-31 23:28</a><br/>最近，中国山东〝辱母杀人案〞，在中国大陆，在全世界华人中，在地球上一切有良知的人中，引发强烈反响，网上留言高达上亿次，微博评论多达150万条，几乎一边倒的控诉法院判决不公，官黑勾结，警察不作为。日前，〝新浪福建〞官方微博发起了一项〝认为判决是否合理〞的投票，在近2万名参与者中，认为不合理的比例高达91.5%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815605&from=ogGitn">曾铮：真材实料的造假 2017-03-31 23:24</a><br/>今天看《外交家》上〝中国的器官移植问题〞这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：〝面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。〞看到这里我不禁连连点头，想起北京女子劳教所里一个〝真材实料〞的造假故事。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815380&from=ogGitn">老兵围中纪委 姜维平：刘云山涉嫌暗中鼓动 2017-03-30 02:46</a><br/>今年2月下旬，上万名中国退伍老兵接连3天在中纪委大楼门前上访。前文汇报记者姜维平认为，江派常委刘云山可能涉嫌暗中鼓动，故意让他们不断上访闹事，以便牵扯中纪委的精力，保护自身及家族的经济利益。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815379&from=ogGitn">“电老虎”冯军被判无期 曾供出上海两老虎 2017-03-30 02:32</a><br/>近日，上海“电老虎”冯军因受贿等罪，涉案金额逾亿，一审被判无期徒刑。此前陆媒披露，冯军被捕后，供出上海两大“老虎”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815381&from=ogGitn">中国人为何弃EB-5绿卡转向其它美签？ 2017-03-30 02:17</a><br/>中国人最想要的美签是“确定性最高、等待时间最短及成本最低”，已对EB-5失去兴趣，转而申请L-1或EB-1签证。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815376&from=ogGitn">复旦大学实验室爆炸 一学生双手炸伤 2017-03-30 02:12</a><br/>上海复旦大学邯郸校区的化学西楼209实验室3月27日发生爆炸，事故中一名20岁大三男学生双手受伤被送院治理。事发时该男生正进行高温高压反应化学实验，期间未知何故发生爆炸。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815378&from=ogGitn">湖南落马官员李亿龙享乐奢靡细节曝光 2017-03-30 01:56</a><br/>3月29日，湖南省纪委通报6起省管干部违反“习八条”问题，其中第一个就是省委农村工作领导小组原副组长李亿龙，引人关注的是，通报中透露了他享乐奢靡的细节，还特别提到了“保姆”问题。</td></tr>
 </table>
