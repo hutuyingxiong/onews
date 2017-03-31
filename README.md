@@ -2,13 +2,16 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815561&from=ogGitn">王岐山坐镇 传中共上万退休高官及亲属被限出境 2017-03-31 11:35</a><br/>随着中共十九大临近，习当局反腐持续深入。有消息说，当局已列出一万二千五百多名被查的离退休省部级军级高官及亲属被限制出境的名单。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 10:38</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815548&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-03-31 10:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 10:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815547&from=ogGitn">核爆吗？广东工厂突发大爆炸 火焰云腾空数十米（组图） 2017-03-31 09:58</a><br/>日前，广东东莞市一家工厂发生大爆炸，从网传短片可见爆炸现场火光冲天，爆炸威力强大，巨大的火焰蘑菇云腾空而起，高达数十米，整个夜空被火光照耀成一片红色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815546&from=ogGitn">关注中国器官移植 美著名杂志疾呼解开疑团 2017-03-31 09:39</a><br/>美国著名刊物《外交家》3月29日刊文，直指中国器官移植中的几大疑问，并强调解答令人不安的移植规模及器官来源等问题，是当务之急。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815551&from=ogGitn">袁斌：重庆当局为何封杀“翻墙”？ 2017-03-31 09:23</a><br/>古今中外的专制统治都是建立在资讯封锁的基础上的，中共当然也不例外。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 09:00</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 06:59</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815523&from=ogGitn">江苏兴化90后女乡镇政法委员跳楼身亡 2017-03-31 06:55</a><br/>3月29日，江苏兴化市垛田镇政法委员翟某跳楼身亡。同日，传出中共安徽职业技术学院，马克思主义学院院长兼直属党支部书记李庆华坠楼身亡。中共官员自杀现象增多引关注。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815556&from=ogGitn">新疆罗布泊发现汉晋古城 推测为楼兰国都城 2017-03-31 06:53</a><br/>近日，陆媒报导，大陆考古人员在新疆罗布泊发现汉晋古城，推测为楼兰国都城。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815519&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 2017-03-31 06:48</a><br/>十九大前夕，习阵营正加速清洗上海、重庆、山东的政商圈以及中共人大系统，震慑江派众多现任及离任常委。吴邦国大秘孙伟被调虎离山后，在甘肃处于王岐山亲信林铎的直接“看管”之下。孙伟身处多重政商黑幕漩涡，仕途前景堪忧。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815538&from=ogGitn">【快讯】朴槿惠被捕 31日凌晨被关进看守所 2017-03-31 06:48</a><br/>因亲信干政于3月10日遭弹劾下台的韩国前总统朴槿惠，在当地时间3月31 日凌晨遭首尔中央地方法院裁定批捕。随后朴槿惠被检方逮捕，成为韩国第三位被批捕的前总统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815539&from=ogGitn">【禁闻】3月30日退党精选 2017-03-31 06:45</a><br/>湖北的秦基秀写了300多字的退党声明，由于节目时间关系，今天的退党精选，我们来看他的声明节选。</td></tr>
@@ -20,7 +23,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815530&from=ogGitn">【禁闻】违反联合国决议 中共仍进口朝鲜矿产 2017-03-31 05:45</a><br/>美国之音3月30号报导，中国继续违反联合国决议进口朝鲜矿产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815529&from=ogGitn">【禁闻 】商丘政府强拆打死人 村民抬尸抗议 2017-03-31 05:44</a><br/>商丘政府强拆打死人 村民抬尸抗议;海外学者吁中共当局允许冯崇义离境。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815535&from=ogGitn">【禁闻】学区房VS学历 哪个更值钱 2017-03-31 05:32</a><br/>不断飙升的房价，使一流学府毕业进入社会主流的精英也难以承受，有毕业于北大清华的年轻人发帖说，〝买不起房，更买不起学区房，该怎么办？〞引发对名校学历不如北京学区房值钱的热议与探究。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 05:27</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815531&from=ogGitn">习启动“雷霆行动”布控十九大 广东有大动作 2017-03-31 05:12</a><br/>中共两会期间，习当局启动为期六个月的“雷霆行动”，粤、港、澳三地联手扫黑。最新消息指，广东70多个涉黑犯罪团伙已被查处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">墓地比地产还火？苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815327&from=ogGitn">红领巾再酿命案   江西13岁童家中离奇死亡 2017-03-29 14:37</a><br/>江西一名13岁男童近日在家中离奇死亡，消息称，男童是在家中用红领巾上吊自杀身亡，但当地政府表示，男童是在家中玩耍时，被楼顶的钢筋勾住绑在颈部的红领巾而吊死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815325&from=ogGitn">民众听谣言去抢菜 河南菜农13亩菠菜被挖光 2017-03-29 14:32</a><br/>3月23日，一条仅10秒的虚假视频在河南济源市民的威信朋友圈中疯转。视频中，一女子称：“酒务村东头菠菜地里的菠菜不要了，抓紧来整。”该信息导致菜农孙先生承包的13亩菠菜被闻风赶来的民众基本挖光，孙先生无奈报警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815336&from=ogGitn">辉山乳业深陷财务危机 银行业绩受累 2017-03-29 14:11</a><br/>大陆辉山乳业股价崩盘后，3月27日，中国平安银行承认间接持有辉山乳业大笔股份。有业界人士表示受辉山乳业所累，数家持有该企业股份的银行利润将下降。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815286&from=ogGitn">谢天奇：习王清洗湖南文宣一箭双雕 多重震慑 2017-03-29 14:10</a><br/>习阵营最新一轮针对湖南官场的清洗，震慑江派“湖南帮”意味明显。湖南文宣高官落马，是习王清洗文宣系统的最新动作。这也与近期习王清洗刘云山老巢内蒙古官场，派巡视组杀“回马枪”相呼应。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815322&from=ogGitn">央企老总被撤政协委员 年薪曾近千万元 2017-03-29 14:07</a><br/>日前，中共全国政协主席俞正声主持召开政协会议。该会议通过了撤销孔庆平的全国政协委员的资格。作为央企老总出事，此消息在业界引起不小震动。</td></tr>
 </table>
