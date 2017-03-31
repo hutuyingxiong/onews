@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815592&from=ogGitn">台湾投资大陆比重太高 柯文哲：分散是对的 2017-03-31 18:53</a><br/>台北市长柯文哲3月31日在台北与新德里产业布局论坛上大力促销台北投资商机，他在论坛后表示，中国大陆占台湾对外投资的40%，比重太高，政府的分散政策是对的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815588&from=ogGitn">除了藏赃款 中共贪官买房还有其它目的 2017-03-31 18:48</a><br/>中共贪官为了藏匿贪污来的巨额现金，竟专门买一幢别墅。除此之外，还有贪官买房，是为了金屋藏娇，甚至是倒手炒房获利。为了钱，贪官们可谓洋相百出。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815586&from=ogGitn">中俄同意对朝动武？联合国通过〝重大措施〞 2017-03-31 18:43</a><br/>必要情况下，将采取〝额外重大措施〞。有分析认为，这份措辞强硬的声明获得〝一致〞通过，意味着中、俄双方也赞成在关键时刻对朝动武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815591&from=ogGitn">辽宁夫妻吵架妻子出走  快递幼女丈夫拒收 2017-03-31 18:34</a><br/>辽宁大连金石滩一对年轻夫妻吵架之后，妻子快递幼女，遭丈夫拒收。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815364&from=ogGitn">专案组有动作 数十律师发视频挺江天勇谢阳 2017-03-29 22:00</a><br/>近日，长沙市公安局直属分局国保屈可因709案江天勇律师之事传唤河南籍律师任全牛。同天晚间，数十名律师及维权人士自制《十秒质疑之某某某版》视频，声援江天勇及709案另一位律师谢阳，目前已累积84条视频。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815331&from=ogGitn">北京智库罕见披露：习近平改革遇阻 2017-03-29 21:13</a><br/>评论认为，习近平要改革，唯有改掉中共才是出路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815386&from=ogGitn">分析：大陆高利贷暴利与暴力横行的背后 2017-03-29 20:29</a><br/>近日媒体曝出的由高利贷引发的山东“辱母杀人案”、中共官员直接放高利贷等消息，引发民间热议。近日有分析认为，高利贷是暴利与暴力的结合体，在大陆横行的背后原因涉及中共治下的各种经济乱像，以及中共的黑帮本质。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815358&from=ogGitn">中共军方批郭徐搞一家两制 揭江干政内幕 2017-03-29 20:20</a><br/>近期，中共军方高官撰文痛批，郭伯雄徐才厚“严重违反军委主席负责制”，表面一套背后一套，搞“一家两制、脚踏两条船”，并称要求彻底清除郭徐流毒影响。上述文章的说法，也从侧面佐证了当年中共前党魁江泽民利用亲信郭、徐架空时任军委主席胡锦涛的事实。</td></tr>
 </table>
