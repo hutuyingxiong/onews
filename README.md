@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815610&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 王岐山亲信〝看管〞 2017-03-31 23:45</a><br/>3月28日，甘肃媒体率先公布山东省委常委、常务副省长孙伟调任甘肃省委副书记的消息。随后，山东官方亦证实，孙伟已辞任山东省原职务。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815609&from=ogGitn">袁斌：重庆当局为何封杀〝翻墙〞 2017-03-31 23:40</a><br/>曾几何时，〝与时俱进〞成了中共特别爱用来自我标榜的一个热词。撇开别的且不说，至少在网路监管这方面它倒还真是不折不扣的做到了这一点。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815608&from=ogGitn">林辉：山本五十六座机被击落与中美合作所 2017-03-31 23:31</a><br/>对于〝中美合作所〞的印象，中国人基本上是来自小说《红岩》以及根据其改编的电影《烈火中永生》和歌剧《江姐》。在小说、电影和歌剧中，它成为了〝美蒋罪行〞的代名词，是一个〝反共集中营〞。然而，大量史实表明，长期被中共丑化的〝中美合作所〞，实际上是二战期间中美两国建立的跨国军事情报合作机构，1943年日本海军舰队司令长官山本五十六座机被击落就有其功劳，可以说，它是中美关系史上一个亮点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815606&from=ogGitn">王友群：为了法轮功学员家人与其他中国人免于恐惧 2017-03-31 23:28</a><br/>最近，中国山东〝辱母杀人案〞，在中国大陆，在全世界华人中，在地球上一切有良知的人中，引发强烈反响，网上留言高达上亿次，微博评论多达150万条，几乎一边倒的控诉法院判决不公，官黑勾结，警察不作为。日前，〝新浪福建〞官方微博发起了一项〝认为判决是否合理〞的投票，在近2万名参与者中，认为不合理的比例高达91.5%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815605&from=ogGitn">曾铮：真材实料的造假 2017-03-31 23:24</a><br/>今天看《外交家》上〝中国的器官移植问题〞这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：〝面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。〞看到这里我不禁连连点头，想起北京女子劳教所里一个〝真材实料〞的造假故事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815604&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 23:21</a><br/>3月30日，河南同力水泥董事长张伟落马。去年7月，同力水泥总经理尚达平被双规。至此，这家国有上市公司的总经理、董事长双双被查。</td></tr>
@@ -10,7 +13,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815600&from=ogGitn">云南官场持续“换血” 宗国英任副省长 2017-03-31 22:02</a><br/>近期中共云南官场人事密集调整，31日再次通过数个人事任免事项，因天津港爆炸事故受处分的宗国英出任云南省副省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815597&from=ogGitn">沪京蒙高层人事变动 四川秘书长任上海常委 2017-03-31 21:57</a><br/>中共十九大前，习近平当局持续调整地方大员。刚卸任四川省委秘书长的吴靖平等两人任上海市委常委，上海班子还有多位置待补；科学技术部副部长阴和俊任北京市委常委；乌兰察布市委书记艾丽华等两人任内蒙古自治区副主席。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815603&from=ogGitn">子杀父夫杀妻 什么样的恨让人骨肉相残 2017-03-31 21:49</a><br/>3月31日消息，江苏宿迁一名60岁的保安被亲生儿子毒死在其值班的传达室内；而在陕西省咸阳市三原县，一名农妇和其3岁侄子在家遇害，行凶者是她的丈夫吴永强。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 21:30</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815602&from=ogGitn">哈尔滨女工程师控告江泽民 曾挺孕肚进京上访 2017-03-31 21:09</a><br/>哈尔滨市女工程师刘伯滨曾被医院确诊先天不孕，修炼法轮功后身心健康，怀孕生子。但18年来，她经历了无尽的骚扰、威胁、监控以及5年冤狱，家庭最终破裂。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815611&from=ogGitn">人民币兑美元再跌破6.9 市场预期续贬 2017-03-31 20:36</a><br/>人民币兑美元汇率本周持续走贬，中共央行一周累计下调中间价148个基点。3月31日人民币兑美元在岸价再次跌破6.9关口，市场预计人民币贬值压力仍大。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815596&from=ogGitn">谷春立白雪山 吉林宁夏两首虎同日受审 2017-03-31 20:31</a><br/>黑龙江、陕西两“首虎”分别受审。黑龙江哈尔滨市中级法院宣判，吉林省原副省长谷春立受贿罪获刑12年；陕西西安市中级法院一审开庭，审理了宁夏回族自治区原副主席白雪山受贿一案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815594&from=ogGitn">清理遗毒 天津政坛大调整 四新人进常委 2017-03-31 20:10</a><br/>在中共官方频发清除黄兴国、武长顺“遗毒”之际，天津高层持续震荡。近日，天津有四名市委常委履新，其动作之大，外界认为非常罕见。武长顺、黄兴国落马后，天津政坛开始大规模重建，大批官员被查处或被调离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815599&from=ogGitn">大陆各省上万失业教师罕见同日上访维权 2017-03-31 20:01</a><br/>近日，全国各地被辞退的“民代幼”教师纷纷到各自省份的信访局进行维权，要求官方改变当前不合理的待遇。这次罕见的维权行动被当地教师认为是维权史上人数最多，凝聚力最强，人心最齐的一次。</td></tr>
@@ -49,7 +54,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815541&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-03-31 10:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815571&from=ogGitn">山东债务危机升级 大企业恐掀“连环爆” 2017-03-31 10:03</a><br/>由于山东齐星集团债务危机的恶化，同处山东省滨州市邹平县的担保方之一西王集团也陷入困境，而曾经跻身中国500强企业的山东天信集团债务危机的曝发，更导致7家关联公司进入破产整顿。在相互担保成风的山东地区，债务危机的多米诺骨牌效应似乎正在显现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815547&from=ogGitn">核爆吗？广东工厂突发大爆炸 火焰云腾空数十米（组图） 2017-03-31 09:58</a><br/>日前，广东东莞市一家工厂发生大爆炸，从网传短片可见爆炸现场火光冲天，爆炸威力强大，巨大的火焰蘑菇云腾空而起，高达数十米，整个夜空被火光照耀成一片红色。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 09:40</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815546&from=ogGitn">关注中国器官移植 美著名杂志疾呼解开疑团 2017-03-31 09:39</a><br/>美国著名刊物《外交家》3月29日刊文，直指中国器官移植中的几大疑问，并强调解答令人不安的移植规模及器官来源等问题，是当务之急。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815551&from=ogGitn">袁斌：重庆当局为何封杀“翻墙”？ 2017-03-31 09:23</a><br/>古今中外的专制统治都是建立在资讯封锁的基础上的，中共当然也不例外。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 08:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815381&from=ogGitn">中国人为何弃EB-5绿卡转向其它美签？ 2017-03-30 02:17</a><br/>中国人最想要的美签是“确定性最高、等待时间最短及成本最低”，已对EB-5失去兴趣，转而申请L-1或EB-1签证。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815376&from=ogGitn">复旦大学实验室爆炸 一学生双手炸伤 2017-03-30 02:12</a><br/>上海复旦大学邯郸校区的化学西楼209实验室3月27日发生爆炸，事故中一名20岁大三男学生双手受伤被送院治理。事发时该男生正进行高温高压反应化学实验，期间未知何故发生爆炸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815378&from=ogGitn">湖南落马官员李亿龙享乐奢靡细节曝光 2017-03-30 01:56</a><br/>3月29日，湖南省纪委通报6起省管干部违反“习八条”问题，其中第一个就是省委农村工作领导小组原副组长李亿龙，引人关注的是，通报中透露了他享乐奢靡的细节，还特别提到了“保姆”问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815382&from=ogGitn">黄洁夫撒谎洗地？陆官方承认器官捐献〝少得可怜〞 2017-03-30 01:51</a><br/>日前，英媒采访报导指，中共近两年建立的器官捐献系统才刚刚起步，一线推行器官捐赠的工作绝大部分〝都是徒劳〞。中共官员承认器官捐献〝少得可怜〞。而海外调查显示，大陆每年器官移植手术数量惊人，那么大量供体从何而来？</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815377&from=ogGitn">江苏户主起诉强拆 当局趁开庭当天偷拆住房 2017-03-30 01:35</a><br/>因为强拆民房，江苏南通港闸区政府被告上了法庭。而就在村民到法院开庭时，当地政府却将村民的房子偷偷拆掉了，村民谴责当局的行为无耻。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815374&from=ogGitn">习布局十九大 2天调整20多名省级高官 2017-03-30 01:23</a><br/>中共十九大前夕，习近平当局加速调整地方大员，其中仅3月28、29日两天就调整重庆、山东、陕西、安徽等8省21名省级高官。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815375&from=ogGitn">中国人为何不断涌入澳洲抢房？ 2017-03-30 01:03</a><br/>据澳洲媒体近日报导，中国人正大举涌入澳洲抢购房产，中国人的需求占海外需求的80%。在这些中国人看来，澳洲房产有其独特的吸引力。</td></tr>
 </table>
