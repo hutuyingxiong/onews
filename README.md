@@ -2,11 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815679&from=ogGitn">江苏义犬跳河救主   身上伤痕累累 2017-04-01 16:49</a><br/>日前，江苏一条义犬为救不慎落水的小主人，挣脱了套住的绳索，跳进河里救人。小主人安然无恙，而义犬身上却伤痕累累。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815678&from=ogGitn">陆虐童案频发 陕男童遭继母电线绑手撞墙命危 2017-04-01 16:08</a><br/>目前，鹏鹏的继母因涉嫌虐待罪已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815677&from=ogGitn">吉林原副省长谷春立被判12年    暴力强拆被骂〝谷大扒〞 2017-04-01 16:03</a><br/>中共十八大后落马的吉林〝首虎〞吉林原副省长谷春立，被查受贿超过4000万，日前以受贿罪被判处有期徒刑十二年。谷春立主政鞍山期间，借城建项目贪污受贿，违规暴力强拆，群情激愤称其为〝谷大扒〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815676&from=ogGitn">周晓辉：江苏副省长“被跳楼后”露面无事？ 2017-04-01 15:56</a><br/>3月29日，新浪网官方认证的大陆媒体人“北京李海”发布一则快讯，称“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼”，消息很快被删，而官方则选择了沉默。31日，有微信曝出，当日杨岳参加了江苏省基础设施建设推进会，这无疑证实了其“跳楼”的传闻不实。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815628&from=ogGitn">【禁闻】港府清算占中人士 评：无益林郑施政 2017-04-01 15:53</a><br/>3月26号，林郑月娥在抗议声中以777票当选香港下一任行政长官。她承诺要修补香港社会撕裂。但话音刚落，港府就在第二天检控9名曾经参与占中运动的人士，这一事件引发舆论哗然。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815659&from=ogGitn">真实的土改故事：活体解剖与中共高官之死 2017-04-01 15:52</a><br/>静乐县在土改中杀地主有两种杀法：一种叫〝大抹〞，另一种叫〝咯利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815675&from=ogGitn">颜丹：发展商业保理可减少企业借高利贷？ 2017-04-01 15:31</a><br/>近日，祸起“高利贷”的“刺死辱母者”案可谓是震惊了整个中国社会。大陆有媒体如是表示，“个别中小企业不惜通过借‘高利贷’融资，最后酿成惨剧”。对于中小企业为何要通过“高利贷”来融资的原因，某部委的部长在今年的“两会”上公开表示，“小微企业……融资难的问题仍然还很突出”；“很多中小企业被应收账款占用了大量的流动资金，导致资金链紧张”；“在银行等传统金融机构融资也...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815671&from=ogGitn">任重：为什么越“限购”房价越高？ 2017-04-01 15:27</a><br/>客观的说，如今大陆的房地产市场就是一个大赌场，政府就是大庄家。在高企的房价中，也就是百姓的买房钱中，政府在各个环节拿走7成以上。其实，政府利用“限购”调控房价让百姓买得起房是假，维护赌场的秩序，大小官员借机在各自岗位上捞钱是真。只要赌场在，只要能捞到钱，管你百姓死活，管你离不离婚，管你有没有房住。这就是为什么调空房价不从根本的地价入手的原因，也是房价越“限购...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815670&from=ogGitn">黑龙江省委书记换人 王宪魁下场不妙 2017-04-01 15:16</a><br/>王宪魁卸任黑龙江省委书记一职。</td></tr>
@@ -31,6 +30,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815643&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 07:25</a><br/>“追查迫害法轮功国际组织”3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815644&from=ogGitn">“公车腐败”盛行 江苏曝公车月修费1.4万元 2017-04-01 07:16</a><br/>大陆“公车腐败”盛行，公车私用、虚报燃油费、维修费、套取现金等乱像屡遭媒体曝光，却不见收敛。近日，江苏某妇幼保健所的一辆公车，被爆出“天价修理费账单”，仅一个月修理费就高达1.4万余元。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815659&from=ogGitn">真实的土改故事：活体解剖与中共高官之死 2017-04-01 07:07</a><br/>静乐县在土改中杀地主有两种杀法：一种叫〝大抹〞，另一种叫〝咯利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815632&from=ogGitn">大陆独立纪录片《凶年之畔》亮相巴黎 2017-04-01 06:51</a><br/>正在巴黎举行的第39届法国国际真实电影节3月29日晚在巴黎市中心的Forum des Images 放映了中国纪录片导演的作品《凶年之畔》。影片展示出中国农民工群体权利意识的觉醒过程以及他们在维权努力中面对的压力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815640&from=ogGitn">【禁闻 】3月31日维权动态 2017-04-01 06:45</a><br/>获刑4年 陈云飞：判刑太轻将上诉；广西暴力强拆 警察防爆棍暴打村民；山东平度80业主 市府门前讨要血汗钱；抗强拆 湖南怀化三代人被抓走。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815636&from=ogGitn">1分钟内30轮报价 南京土地竞拍激烈 2017-04-01 06:42</a><br/>3月30日，南京市有8块土地出让，现场竞拍激烈。第一块出让的土地在1分钟内有30轮报价，最后有6块地达到出让最高限价，进入封顶摇号。</td></tr>
@@ -45,6 +45,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815637&from=ogGitn">江苏溧阳开发商一房两卖?令拆迁户居无定所 2017-04-01 04:24</a><br/>今年以来，发生在江苏溧阳的一起房屋纠纷，让溧阳民怨沸腾。起因是房屋开发商把拆迁户的还建房擅自卖给了他人，让拆迁户居无定所。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815623&from=ogGitn">网传跳楼的江苏副省长被“安排”露面了？ 2017-04-01 04:22</a><br/>继网络风传江苏省委常委、副省长杨岳“跳楼了”的消息之后，今天又有大陆微信消息称，杨岳参加了一个在扬召开的会议，并附有图片，引外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815629&from=ogGitn">【禁闻】零口供 加拿大公民孙茜仍遭非法批捕 2017-04-01 04:22</a><br/>2月19号，北京朝阳分局大屯派出所出动20多名警察，闯入北京市朝阳区紫玉山庄孙茜家，在没有搜查令的情况下，非法抢走八十多部手机和一千多张电话卡，还有印表机、电脑、光碟、法轮大法书等物品。拒绝在清单上签字的孙茜，遭到非法绑架。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815628&from=ogGitn">【禁闻】港府清算占中人士 评：无益林郑施政 2017-04-01 04:21</a><br/>3月26号，林郑月娥在抗议声中以777票当选香港下一任行政长官。她承诺要修补香港社会撕裂。但话音刚落，港府就在第二天检控9名曾经参与占中运动的人士，这一事件引发舆论哗然。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815654&from=ogGitn">【中国禁闻】3月31日完整版 2017-04-01 03:45</a><br/>美大学教授 邀法轮功进课堂；港府清算占中人士 评：无益林郑施政；李明哲被抓 外界忧陆扩大攻击NGO；零口供 加拿大公民孙茜仍遭非法批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815452&from=ogGitn">敏感时刻转移资产？陆神秘商人买AC米兰足球队 2017-03-30 14:56</a><br/>英媒称，中国神秘商人李勇鸿以7.4亿欧元收购AC米兰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815449&from=ogGitn">谷歌欲重返中国？ 开通手机翻译服务引猜测 2017-03-30 14:36</a><br/>美国公司谷歌日前一款针对中国大陆设计的手机翻译应用，被允许进入中国市场。7年前由于拒绝接受中共的信息审查，谷歌退出了中国大陆，谷歌产品也被中共全面封锁，此次被认为谷歌重返中国大陆的信号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815469&from=ogGitn">冯崇义申请政府信息公开 遭中共国安封口 2017-03-30 14:28</a><br/>澳洲悉尼科技大学副教授冯崇义被禁止离开中国，事件引发外界极大关注并持续发酵。近日，冯崇义向中共天津市国安局申请信息公开，要求中共给出扣押理由及书面通知，遭国安要求冯崇义对外封口。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815476&from=ogGitn">长沙男子头痛两年 医生开颅取出11厘米寄生虫 2017-03-30 14:08</a><br/>3月23日，湖南长沙市民文先生接受了开颅手术，医生从他的大脑中取出了一条长达11厘米的寄生虫。</td></tr>
 </table>
