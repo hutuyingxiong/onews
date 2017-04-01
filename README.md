@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815691&from=ogGitn">大陆再现〝吃人〞电梯  黑龙江夫妻1死1伤 2017-04-01 18:21</a><br/>大陆再曝电梯夺命事故！</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815690&from=ogGitn">上海〝空降〞副市长   韩正面临〝三条路〞 2017-04-01 18:10</a><br/>外界发现，上海官场频频震荡，高层人事密集调整，但市委书记韩正的去向至今不明。此前有分析认为，鉴于韩正的江派背景浓厚，他未来将面临三种结局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815689&from=ogGitn">谷春立过往：与温州女商人官商勾结 2017-04-01 17:20</a><br/>日前，中共吉林省前副省长谷春立被判刑。在其刚刚落马后，陆媒就深度起底了他在辽宁任职期间疯狂拆迁，并与温州女商人徐小艳的辽宁鞍山往事。他们通过官商勾结，进行利益输送，中饱私囊，但给当地留下若干烂尾工程及数目惊人的政府债务。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815509&from=ogGitn">错给胸片 江苏男子患肺癌医院否认漏诊 2017-03-30 16:53</a><br/>江苏市民计建宏于早前，在苏州市吴江区第一医院就诊时，医院错将一名女性的胸片给了计建宏，显示体检胸片结果正常。一年后，计建宏被确诊肺鳞癌晚期、错过最佳治疗时间。家属指医院给错片是错过最佳治疗时间的“元凶”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815460&from=ogGitn">伦敦客：是什么让台湾远离大陆？ 2017-03-30 16:50</a><br/>喜欢一样东西会靠近它，讨厌一样东西会远离它。是什么让台湾远离大陆？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815474&from=ogGitn">私通中共间谍 美国务院女官员遭FBI逮捕 2017-03-30 16:49</a><br/>因长期隐瞒与中共间谍的接触，并接受来自中共间谍数万美元的现金及礼品，一名长期在美国务院工作的女官员日前遭联邦调查局（FBI）逮捕。如果被判有罪，此人将面临最高20年的刑期。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815458&from=ogGitn">向北京卖情报 美国务院女官遭FBI逮捕 2017-03-30 16:46</a><br/>美国国务院一名掌握敏感资料的资深女雇员遭到司法部门起诉。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815497&from=ogGitn">陈思敏：清除遗毒 重庆公安局长何挺是重点户? 2017-03-30 16:45</a><br/>时至今日，再说薄、王遗毒，很大用意或是要震慑与提醒那些想用同样手段惹事生非的人，也会有同样下场。</td></tr>
 </table>
