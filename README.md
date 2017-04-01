@@ -13,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815702&from=ogGitn">宗教监控升级 浙江教堂遭强装监控 2017-04-01 22:53</a><br/>浙江温州平阳、乐清等地的基督教堂，一周以来被当地政府人员强制安装监控设备，抵抗的信徒遭到殴打或是关押。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815701&from=ogGitn">陆企环保数据造假 民斥官纵容 2017-04-01 22:50</a><br/>大陆民间环保人士吴立红说，企业污染数据造假问题已经持续了几十年，他们一直都是用假数据来糊弄老百姓。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815699&from=ogGitn">辽宁人大贿选案 41名涉案官员获刑 2017-04-01 21:45</a><br/>近日，辽宁密集处理涉贿选案的腐败官员，除了  之外，还有41人在选举中共全国人大代表时，涉拉票贿选人员被判刑，其中，9人还涉贪污、受贿、行贿犯罪。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 20:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815698&from=ogGitn">十九大前清洗江派窝点 四省省委书记被免职 2017-04-01 20:15</a><br/>中共“十九大”前，地方高层人事密集调整，多省书记换人。4月1日，刘赐贵、林铎、张庆伟分别任海南、甘肃、黑龙江省委书记，罗保铭、王三运、王宪魁被免职；范锐平升任成都市委书记。外界注意到，这三省一市的官场都是江派窝点，近年来被持续清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815710&from=ogGitn">传万科被收归国有 王石官至正厅级 2017-04-01 18:58</a><br/>日前，大陆网络流传万科已经成为了深圳市属国资国企，而王石已经是正厅级官员了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815690&from=ogGitn">上海〝空降〞副市长   韩正面临〝三条路〞 2017-04-01 18:30</a><br/>外界发现，上海官场频频震荡，高层人事密集调整，但市委书记韩正的去向至今不明。此前有分析认为，鉴于韩正的江派背景浓厚，他未来将面临三种结局。</td></tr>
@@ -39,7 +40,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815667&from=ogGitn">传用粗俗语言骚扰女生 安徽退休官员被调查 2017-04-01 14:20</a><br/>近日，中共安徽六安民政局一名官员疑似在微信聊天中对一名女大学生发送粗俗不堪的骚扰信息，被网络曝光。对此，当地官方回应称，正在调查此事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815692&from=ogGitn">香港楼价指数连创四个月新高的背后 2017-04-01 13:55</a><br/>最新的公布的香港私人住宅楼价指数显示，今年2月份住宅售价指数为312.8，环比上升1.1%，同比上升14.6%，创过去一年来新高。这也是该指数连续四个月创新高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 13:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 省委书记王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815665&from=ogGitn">央行广义信贷收缩 房地产泡沫根源在银行？ 2017-04-01 12:49</a><br/>大陆银行业面临央行MPA（宏观审慎评估体系）考核，房贷比或成考核重要内容，广义信贷将收缩。外界关注，大陆楼市泡沫的根源在银行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815662&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 12:41</a><br/>〝追查迫害法轮功国际组织〞3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
