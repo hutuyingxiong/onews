@@ -3,11 +3,11 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 13:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815665&from=ogGitn">央行广义信贷收缩 房地产泡沫根源在银行？ 2017-04-01 12:49</a><br/>大陆银行业面临央行MPA（宏观审慎评估体系）考核，房贷比或成考核重要内容，广义信贷将收缩。外界关注，大陆楼市泡沫的根源在银行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815662&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 12:41</a><br/>〝追查迫害法轮功国际组织〞3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815657&from=ogGitn">川人：共产党的最高领导人为何都没有好下场？ 2017-04-01 10:30</a><br/>1924年1月21日，苏联共产党的最高领导人列宁在戈尔基公馆病死。苏联官方称，列宁是死于无法治愈的血管疾病，死前它一直处于昏迷状态。列宁一生经历过三次中风，其中1923年的第三次中风，使它一度失去了说话能力。无独有偶，1976年9月9日，中国共产党的最高领导人毛泽东病死于中南海202别墅，死前同样是失去了说话能力，同样是一直处于昏迷状态，死因同样是心血管疾病，另加肌萎缩性脊髓侧索硬化症。这两位伟大的无产阶级革命导师，共产党的最高领导人都用同样凄惨的方式结束了它们〝伟大的一生〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 10:12</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815656&from=ogGitn">川人：中国共产党有没有一丝中国元素？ 2017-04-01 09:58</a><br/>3月27日，中共在重庆市试点发布了所谓的《重庆市公安机关网路监管行政处罚裁量基准》修订版，规定在重庆司法管辖区的人使用网路翻墙工具翻越中共设置的信息封锁墙访问墙外网站的人可以被处以罚款，〝构成犯罪的，依法追究刑事责任〞。随着网际网路的普及，为阻止〝共产党百年真相〞、〝九评共产党〞等敏感信息的传播，中共投入了巨大的资源用于屏蔽各类敏感信息。但中共的网路封锁防火墙屡屡被翻墙软体所破解，大量关于中共真相的信息引发了中国社会对中共全面深入的思考，这让中共万分惊恐，情急之下只有祭出中共《刑法》震慑翻墙者。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815655&from=ogGitn">【禁闻】苏州墓地限购令 全国首个 引热议 2017-04-01 09:09</a><br/>据中共官媒3月30号报导，苏州市政府3月2号规定，新建墓穴，单穴不超过0.7平方米，双穴不超过1平方米；严禁为尚未死亡的人员购置墓穴；高龄人员因故确需购买墓穴的，由公墓所在单位报经属地民政部门批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 09:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
@@ -40,9 +40,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815638&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-04-01 02:40</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815660&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-04-01 02:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815621&from=ogGitn">112岁老中医养生之道 养生贵在养心 2017-04-01 02:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815651&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-04-01 02:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815660&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-04-01 02:14</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815618&from=ogGitn">肃清黄兴国余毒？ 天津官场四进三出大换血 2017-04-01 02:06</a><br/>天津市常委原班子中的本土派已替换殆尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 01:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815615&from=ogGitn">每日三退声明精选（2017/03/31） 2017-04-01 01:23</a><br/>共产主义不信神它丧失了道德基础，它借由阶级斗争颠倒人类社会是非黑白，它看重物质利益让人恶的部分越来越显著。它迫害法轮大法的信奉者罪恶滔天。因此，我声明退出曾经加入的中国共产党、中国共青团、中国少年先锋队。</td></tr>
