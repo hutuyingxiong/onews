@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815671&from=ogGitn">任重：为什么越“限购”房价越高？ 2017-04-01 15:27</a><br/>客观的说，如今大陆的房地产市场就是一个大赌场，政府就是大庄家。在高企的房价中，也就是百姓的买房钱中，政府在各个环节拿走7成以上。其实，政府利用“限购”调控房价让百姓买得起房是假，维护赌场的秩序，大小官员借机在各自岗位上捞钱是真。只要赌场在，只要能捞到钱，管你百姓死活，管你离不离婚，管你有没有房住。这就是为什么调空房价不从根本的地价入手的原因，也是房价越“限购...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815670&from=ogGitn">黑龙江省委书记换人 王宪魁下场不妙 2017-04-01 15:16</a><br/>王宪魁卸任黑龙江省委书记一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815668&from=ogGitn">【翻墙必看】省级官场大换血埋下一个伏笔 2017-04-01 14:44</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815667&from=ogGitn">传用粗俗语言骚扰女生 安徽退休官员被调查 2017-04-01 14:20</a><br/>近日，中共安徽六安民政局一名官员疑似在微信聊天中对一名女大学生发送粗俗不堪的骚扰信息，被网络曝光。对此，当地官方回应称，正在调查此事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
@@ -11,8 +13,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815662&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 12:41</a><br/>〝追查迫害法轮功国际组织〞3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815657&from=ogGitn">川人：共产党的最高领导人为何都没有好下场？ 2017-04-01 10:30</a><br/>1924年1月21日，苏联共产党的最高领导人列宁在戈尔基公馆病死。苏联官方称，列宁是死于无法治愈的血管疾病，死前它一直处于昏迷状态。列宁一生经历过三次中风，其中1923年的第三次中风，使它一度失去了说话能力。无独有偶，1976年9月9日，中国共产党的最高领导人毛泽东病死于中南海202别墅，死前同样是失去了说话能力，同样是一直处于昏迷状态，死因同样是心血管疾病，另加肌萎缩性脊髓侧索硬化症。这两位伟大的无产阶级革命导师，共产党的最高领导人都用同样凄惨的方式结束了它们〝伟大的一生〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815656&from=ogGitn">川人：中国共产党有没有一丝中国元素？ 2017-04-01 09:58</a><br/>3月27日，中共在重庆市试点发布了所谓的《重庆市公安机关网路监管行政处罚裁量基准》修订版，规定在重庆司法管辖区的人使用网路翻墙工具翻越中共设置的信息封锁墙访问墙外网站的人可以被处以罚款，〝构成犯罪的，依法追究刑事责任〞。随着网际网路的普及，为阻止〝共产党百年真相〞、〝九评共产党〞等敏感信息的传播，中共投入了巨大的资源用于屏蔽各类敏感信息。但中共的网路封锁防火墙屡屡被翻墙软体所破解，大量关于中共真相的信息引发了中国社会对中共全面深入的思考，这让中共万分惊恐，情急之下只有祭出中共《刑法》震慑翻墙者。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 09:10</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815655&from=ogGitn">【禁闻】苏州墓地限购令 全国首个 引热议 2017-04-01 09:09</a><br/>据中共官媒3月30号报导，苏州市政府3月2号规定，新建墓穴，单穴不超过0.7平方米，双穴不超过1平方米；严禁为尚未死亡的人员购置墓穴；高龄人员因故确需购买墓穴的，由公墓所在单位报经属地民政部门批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 09:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815669&from=ogGitn">安徽产妇索要胎盘 医院员工：炖汤了 2017-04-01 08:47</a><br/>近日，一名来自安徽的产妇，在江苏常州某医院产下婴儿，按照家乡风俗，胎盘要带回家埋在土里，婴儿才能健康成长。但当孕妇家属向医院索要胎盘时，被一再拒绝，最后才被告知胎盘已经被医院清洁工拿回家炖了汤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-01 08:25</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815652&from=ogGitn">【禁闻】李明哲被抓 外界忧陆扩大攻击NGO 2017-04-01 08:23</a><br/>台湾非政府组织工作者李明哲，遭中共以违反〝国家安全〞之名逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815653&from=ogGitn">臧山：有人在给习近平添乱？ 2017-04-01 08:00</a><br/>澳洲悉尼科技大学中国研究中心负责人冯崇义副教授，最近被中国有关部门“边控”，禁止离开中国。</td></tr>
@@ -26,7 +30,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815640&from=ogGitn">【禁闻 】3月31日维权动态 2017-04-01 06:45</a><br/>获刑4年 陈云飞：判刑太轻将上诉；广西暴力强拆 警察防爆棍暴打村民；山东平度80业主 市府门前讨要血汗钱；抗强拆 湖南怀化三代人被抓走。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815636&from=ogGitn">1分钟内30轮报价 南京土地竞拍激烈 2017-04-01 06:42</a><br/>3月30日，南京市有8块土地出让，现场竞拍激烈。第一块出让的土地在1分钟内有30轮报价，最后有6块地达到出让最高限价，进入封顶摇号。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815642&from=ogGitn">【禁闻 】3月31日退党精选 2017-04-01 06:33</a><br/>中共所谓吸引优秀人士入党，但暗中却有歧视，今天的退党精选，我们来看许栋福的经历。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 06:31</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815633&from=ogGitn">北京商住房3天网签7套 交易量下降99.9% 2017-04-01 05:55</a><br/>北京日前推出了有关商住房的限购措施，措施实施后，商住房交易量下降99.9%，商住房已经全面下架。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815639&from=ogGitn">【禁闻 】美大学教授 邀法轮功进课堂 2017-04-01 05:55</a><br/>美大学教授 邀法轮功进课堂；讥〝万人拜魔〞 左春和辞人大代表；支持香港〝占中〞 苏昌兰陈启棠获重刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815624&from=ogGitn">美中互释信号 川习会将陷艰难谈判？ 2017-04-01 05:33</a><br/>川普（特朗普）总统30日说，这次会晤将“非常艰难”。31日，川普又颁布行政令，要求查明导致美国巨大贸易逆差的元凶。美商务部长罗斯直言“头号逆差来源就是中国”。而北京也做出回应，暗示中美贸易不平衡，与中国关系不大。分析指，美方这些举动为川习会定下了紧张基调，而中方的回应也显示，不会在贸易上做出让步。</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815445&from=ogGitn">山东一化工厂发生废气泄漏 现场黄烟弥漫 2017-03-30 14:04</a><br/>29日，位于山东荷泽市巨野县的一家化工厂发生废气泄漏，大量黄色气体溢出，对周边环境造成污染。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815397&from=ogGitn">与安邦集团中止交易 川普女婿家族另觅买家 2017-03-30 14:02</a><br/>中国安邦集团和川普（特朗普）总统女婿库什纳的家族企业，有关纽约第五大道666号（如图）的交易谈判，已经中止。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815443&from=ogGitn">每日三退声明精选（2017/03/29） 2017-03-30 13:43</a><br/>我是一名个体经商户，眼下大陆个体经营很困难，中共邪党的贪腐问题得不到解决，老百姓看不到希望。在此，我声明退出中共邪党的共青团组织。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815447&from=ogGitn">北京平壤暗通款曲？调查：中国还有多个〝马晓红〞 2017-03-30 13:31</a><br/>中国被指继续违反联合国决议进口朝鲜矿产。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815446&from=ogGitn">王岐山的〝神秘随从〞变身中纪委大管家 2017-03-30 13:23</a><br/>习近平上台后，多名习的浙江旧部获得重用，日前，被外界称为王岐山〝神秘随从〞的浙江系高官施克辉变身中共中纪委大管家，据中纪委官方消息，施克辉已出任中纪委办公厅主任。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815502&from=ogGitn">陆“流动儿童”超过3500万 教育机会无保障 2017-03-30 13:07</a><br/>中国民间教育机构近日发布的报告显示，中国目前有超过3500万名“流动儿童”，他们随进城打工的父母迁徙生活，接受学前教育和初中后教育的机会却得不到保障。</td></tr>
 </table>
