@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-01 08:25</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815652&from=ogGitn">【禁闻】李明哲被抓 外界忧陆扩大攻击NGO 2017-04-01 08:23</a><br/>台湾非政府组织工作者李明哲，遭中共以违反〝国家安全〞之名逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 08:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815647&from=ogGitn">迪士尼在大陆遍地开花？原来是场骗局 2017-04-01 07:58</a><br/>迪士尼要在中国大陆扩展版图吗？除了上海外，似乎积极规划在郑州、包头及合肥等城市盖主题乐园，然而，这一切都变成一戳即破“幻影”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
@@ -27,6 +28,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815621&from=ogGitn">112岁老中医养生之道 养生贵在养心 2017-04-01 02:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815651&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-04-01 02:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815638&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-04-01 02:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815618&from=ogGitn">肃清黄兴国余毒？ 天津官场四进三出大换血 2017-04-01 02:06</a><br/>天津市常委原班子中的本土派已替换殆尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 01:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815403&from=ogGitn">【禁闻】反右研讨会受阻 疑中共施压与会者 2017-03-30 09:52</a><br/>香港〝五七学社〞成立于2007年，宗旨是致力于收集、整理和研究一切有关中国大陆反右运动的资料、文献，包括各种各样的回忆录，并将之整理、传播或出版。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815422&from=ogGitn">【石涛八方 】天地人合一生命真实与境界 2017-03-30 09:50</a><br/>无论动物也好，人也好，当处在危险当中的时候，很希望别人能伸出一只手，但有多少人事先知道自己处在危险当中呢？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815408&from=ogGitn">【禁闻】检察院退卷 江苏句容法轮功学员获释 2017-03-30 09:47</a><br/>反人类杀人 前罗共官员获刑20年；反人类杀人 前罗共官员获刑20年；中共违反联合国决议 续进朝鲜矿产。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815421&from=ogGitn">苦胆：中国为什么总是〝对者出局〞？ 2017-03-30 09:46</a><br/>有个段子说：〝在北京市政建设中，历史证明梁思成是对的，但老北京还是消失了；三门峡工程该不该上，黄万里是对的，但三门峡水库还是造起来了……中国的吊诡之处在于：对者出局。〞</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815437&from=ogGitn">大陆A股三连跌 房地产板块持续走弱 2017-03-30 09:32</a><br/>大陆A股3月29日连续第三个交易日下跌，盘中沪指一度跌幅为0.6%，房地产板块继续走弱，市场分析预计A股将持续震荡。</td></tr>
 </table>
