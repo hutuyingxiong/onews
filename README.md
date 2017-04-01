@@ -10,6 +10,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-01 08:25</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815652&from=ogGitn">【禁闻】李明哲被抓 外界忧陆扩大攻击NGO 2017-04-01 08:23</a><br/>台湾非政府组织工作者李明哲，遭中共以违反〝国家安全〞之名逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815653&from=ogGitn">臧山：有人在给习近平添乱？ 2017-04-01 08:00</a><br/>澳洲悉尼科技大学中国研究中心负责人冯崇义副教授，最近被中国有关部门“边控”，禁止离开中国。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815661&from=ogGitn">异见人士陈云飞祭六四学生 被重判四年 2017-04-01 07:58</a><br/>四川异见人士陈云飞，因拜祭六四遇难学生被指涉嫌寻衅滋事罪，今日（31日）上午9点30分，在成都巿武候区法院开审，庭审过程推得很快，法官当庭宣判陈云飞四年刑期。听到宣判，陈云飞举起双手做了胜利的手势，并表示要再上诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815647&from=ogGitn">迪士尼在大陆遍地开花？原来是场骗局 2017-04-01 07:58</a><br/>迪士尼要在中国大陆扩展版图吗？除了上海外，似乎积极规划在郑州、包头及合肥等城市盖主题乐园，然而，这一切都变成一戳即破“幻影”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815643&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 07:25</a><br/>“追查迫害法轮功国际组织”3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
@@ -34,10 +35,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815654&from=ogGitn">【中国禁闻】3月31日完整版 2017-04-01 03:45</a><br/>美大学教授 邀法轮功进课堂；港府清算占中人士 评：无益林郑施政；李明哲被抓 外界忧陆扩大攻击NGO；零口供 加拿大公民孙茜仍遭非法批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815638&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-04-01 02:40</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815660&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-04-01 02:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815621&from=ogGitn">112岁老中医养生之道 养生贵在养心 2017-04-01 02:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815651&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-04-01 02:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815638&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-04-01 02:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815618&from=ogGitn">肃清黄兴国余毒？ 天津官场四进三出大换血 2017-04-01 02:06</a><br/>天津市常委原班子中的本土派已替换殆尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 01:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815615&from=ogGitn">每日三退声明精选（2017/03/31） 2017-04-01 01:23</a><br/>共产主义不信神它丧失了道德基础，它借由阶级斗争颠倒人类社会是非黑白，它看重物质利益让人恶的部分越来越显著。它迫害法轮大法的信奉者罪恶滔天。因此，我声明退出曾经加入的中国共产党、中国共青团、中国少年先锋队。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815442&from=ogGitn">【热点互动】辱母杀人案为何引爆舆论？ 2017-03-30 11:41</a><br/>近日，山东的一桩辱母杀人案引发舆论狂潮，青年于欢在长时间目睹追债人侮辱母亲，警察不作为的情况下，愤而刺杀主犯，今年二月被判处无期徒刑。媒体曝光后引起民情激愤，微博上150万条评论，几乎一边倒的力挺于欢，斥责判决不公。那么这个案件揭示出了中国社会哪些层面的不公和黑幕？舆论对于欢的支持是以感情代替法律吗？今天我们就对这个热点事件做一些解读和分析。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 11:35</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815436&from=ogGitn">辱母杀人案成习近平孝治天下的试金石 2017-03-30 11:12</a><br/>有评论表示，山东聊城发生的辱母案已成为习近平孝治天下的试金石。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815435&from=ogGitn">8千老兵集体扫墓    当局严控防再演包围北京事件 2017-03-30 11:11</a><br/>2017年是越战38周年纪念，日前各地8千名越战老兵在广西凭祥举行了一年一度的扫墓活动，哀悼在越战中逝去的战友。当局对此高度关注，有通知显示，地方政府严防老兵在扫墓后前往北京集体上访。</td></tr>
 </table>
