@@ -24,6 +24,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815668&from=ogGitn">【翻墙必看】省级官场大换血埋下一个伏笔 2017-04-01 14:44</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815667&from=ogGitn">传用粗俗语言骚扰女生 安徽退休官员被调查 2017-04-01 14:20</a><br/>近日，中共安徽六安民政局一名官员疑似在微信聊天中对一名女大学生发送粗俗不堪的骚扰信息，被网络曝光。对此，当地官方回应称，正在调查此事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815692&from=ogGitn">香港楼价指数连创四个月新高的背后 2017-04-01 13:55</a><br/>最新的公布的香港私人住宅楼价指数显示，今年2月份住宅售价指数为312.8，环比上升1.1%，同比上升14.6%，创过去一年来新高。这也是该指数连续四个月创新高。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 13:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 13:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 省委书记王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
@@ -58,7 +59,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815637&from=ogGitn">江苏溧阳开发商一房两卖?令拆迁户居无定所 2017-04-01 04:24</a><br/>今年以来，发生在江苏溧阳的一起房屋纠纷，让溧阳民怨沸腾。起因是房屋开发商把拆迁户的还建房擅自卖给了他人，让拆迁户居无定所。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815623&from=ogGitn">网传跳楼的江苏副省长被“安排”露面了？ 2017-04-01 04:22</a><br/>继网络风传江苏省委常委、副省长杨岳“跳楼了”的消息之后，今天又有大陆微信消息称，杨岳参加了一个在扬召开的会议，并附有图片，引外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815629&from=ogGitn">【禁闻】零口供 加拿大公民孙茜仍遭非法批捕 2017-04-01 04:22</a><br/>2月19号，北京朝阳分局大屯派出所出动20多名警察，闯入北京市朝阳区紫玉山庄孙茜家，在没有搜查令的情况下，非法抢走八十多部手机和一千多张电话卡，还有印表机、电脑、光碟、法轮大法书等物品。拒绝在清单上签字的孙茜，遭到非法绑架。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 03:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815654&from=ogGitn">【中国禁闻】3月31日完整版 2017-04-01 03:45</a><br/>美大学教授 邀法轮功进课堂；港府清算占中人士 评：无益林郑施政；李明哲被抓 外界忧陆扩大攻击NGO；零口供 加拿大公民孙茜仍遭非法批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
