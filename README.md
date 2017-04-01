@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815655&from=ogGitn">【禁闻】苏州墓地限购令 全国首个 引热议 2017-04-01 09:09</a><br/>据中共官媒3月30号报导，苏州市政府3月2号规定，新建墓穴，单穴不超过0.7平方米，双穴不超过1平方米；严禁为尚未死亡的人员购置墓穴；高龄人员因故确需购买墓穴的，由公墓所在单位报经属地民政部门批准。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815654&from=ogGitn">【中国禁闻】3月31日完整版 2017-04-01 08:45</a><br/>美大学教授 邀法轮功进课堂；港府清算占中人士 评：无益林郑施政；李明哲被抓 外界忧陆扩大攻击NGO；零口供 加拿大公民孙茜仍遭非法批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-01 08:25</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815652&from=ogGitn">【禁闻】李明哲被抓 外界忧陆扩大攻击NGO 2017-04-01 08:23</a><br/>台湾非政府组织工作者李明哲，遭中共以违反〝国家安全〞之名逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 08:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
@@ -202,6 +204,4 @@
 											?组图 2017-03-30 10:14</a><br/>艺术家们阻止强拆时遭遇保安用钢叉制服在地，过程中有人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815432&from=ogGitn">川人：为何有些人对股票发行注册制万般痴迷？ 2017-03-30 10:10</a><br/>近日在2017年博鳌亚洲论坛上，众多业界红顶商人在题为〝纠偏：让资本市场回归根本〞的分论坛上一致认为，推行注册制是中国资本市场未来最重要的改革之一。齐鲁证券首席经济学家李迅雷明确表示：〝有人认为一改肯定要乱、投资者要承担损失、市场要大跌，所以要稳中求进。但当你稳定了之后，改革就会延后，但时间成本却很少有人计算。〞李迅雷还强调：〝重点还是要去推行IPO改革，现在的新三板其实就是注册制，没有出现太大的问题。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815431&from=ogGitn">石涛：中国突抓入境海外华人 政法体系作梗习近平 2017-03-30 10:01</a><br/>澳大利亚是贪官逃跑去的最多的国家之一，很多钱都在澳洲，曾庆红的儿子曾伟就在澳大利亚，偏偏就在澳大利亚遇到麻烦了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815403&from=ogGitn">【禁闻】反右研讨会受阻 疑中共施压与会者 2017-03-30 09:52</a><br/>香港〝五七学社〞成立于2007年，宗旨是致力于收集、整理和研究一切有关中国大陆反右运动的资料、文献，包括各种各样的回忆录，并将之整理、传播或出版。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815422&from=ogGitn">【石涛八方 】天地人合一生命真实与境界 2017-03-30 09:50</a><br/>无论动物也好，人也好，当处在危险当中的时候，很希望别人能伸出一只手，但有多少人事先知道自己处在危险当中呢？</td></tr>
 </table>
