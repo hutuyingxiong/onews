@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815719&from=ogGitn">3大敏感议题等待川习会 川普下令调查贸易逆差有玄机？ 2017-04-02 03:23</a><br/>习近平与川普4月6日的首次会晤，成了全世界的焦点。外界关注，贸易政策、南海、朝核及萨德问题等等，都可能成为此次川习会的敏感议题。日前，川普下令调查美国巨额贸易逆差的原因，也被认为与川习会将谈及的中美贸易有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815715&from=ogGitn">颜丹：县政府当“老赖”不仅是信用问题 2017-04-02 02:56</a><br/>“一党独裁”的体制不解体，我们也只能对这些想贪就贪、贪完不必负责的“老赖”呵呵了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815718&from=ogGitn">千吨货船撞击广东莲溪大桥 桥身横移1米网友惊心 2017-04-02 02:44</a><br/>载有千吨货物的轮船，通过大桥时撞到了桥墩，导致桥身横移了一米以上，桥上铺设的自来水管因此破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815716&from=ogGitn">中共出口发动机吹嘘〝逆转〞 俄军舰试用首航即〝趴窝〞 2017-04-02 01:50</a><br/>中共军工发动机一直是短板，多年依靠进口。近期，俄罗斯因国际制裁不得不购买中国产发动机，中共曾为此吹嘘“大逆转”。不过俄军舰装备中国产发动机后，首次试航就出现故障，俄当局后悔之余，对引进中国产发动机的俄罗斯公司予以处罚。</td></tr>
@@ -23,7 +24,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815710&from=ogGitn">传万科被收归国有 王石官至正厅级 2017-04-01 18:58</a><br/>日前，大陆网络流传万科已经成为了深圳市属国资国企，而王石已经是正厅级官员了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815690&from=ogGitn">上海〝空降〞副市长   韩正面临〝三条路〞 2017-04-01 18:30</a><br/>外界发现，上海官场频频震荡，高层人事密集调整，但市委书记韩正的去向至今不明。此前有分析认为，鉴于韩正的江派背景浓厚，他未来将面临三种结局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815691&from=ogGitn">大陆再现〝吃人〞电梯  黑龙江夫妻1死1伤 2017-04-01 18:21</a><br/>大陆再曝电梯夺命事故！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815714&from=ogGitn">愿未来的么宁律师，永远不会遇到曾经的么宁检察官 2017-04-01 17:49</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报道：“此语一出，让在场所有旁听者一片哗然……”（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾“招待”李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815491&from=ogGitn">受贿过亿 上海〝电老虎〞冯军被判无期 2017-03-30 22:48</a><br/>冯军在担任江苏电力公司总经理等职务期间，利用工作便利，受贿折合人民币4,340多万元；还有7,600多万元财产无法说明合法来源。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815485&from=ogGitn">德国《世界报》：新丝绸之路上的毒品危机 2017-03-30 22:46</a><br/>《世界报》周二关注到中国毒品在美国的“畅销”，尤其是中国“制毒师”的合成毒品在美国大行其道。文章指出，中国推动的新丝绸之路或会成为毒贩们的运输路线。“在中国，贩卖50克海洛因就会被判死刑。中国打击毒贩十分严格——无论犯罪者是中国人还是外国人。但从最近的年度中国毒品形势报告来看，严法似乎收效甚微。”《世界报》本周三（3月29日）发表的一篇文章写道。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815512&from=ogGitn">美6旬女外交官洩密案细节曝光：共谍助养小情人 2017-03-30 22:38</a><br/>中共特工曾帮克莱本的同居男友从刑事案中脱身。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815493&from=ogGitn">学者揭北京高房价真相 2017-03-30 22:33</a><br/>北京房价近来依旧上涨不停，日前有大陆学者表示，北京的房价之所以在大陆独领风骚是因为北京在权力体系中处于顶峰。</td></tr>
 </table>
