@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815712&from=ogGitn">羽戈：愿未来的么宁律师 永远不会遇到曾经的么宁检察官 2017-04-02 00:04</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报导：〝此语一出，让在场所有旁听者一片哗然……〞（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾〝招待〞李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗然。只不过，有些人哗然于李庄嫖娼，有些人哗然于重庆当局构陷李庄嫖娼。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815711&from=ogGitn">人与人之间最大的距离是价值观 2017-04-01 23:59</a><br/>反萨德闹得最厉害的时候，我和朋友一起吃饭。席间很多人对封杀乐天加油鼓劲，大感快意。在如此热烈的爱国氛围中，我一直低头吃饭，未发一言。朋友大感诧异，说你作为一个坚定的反对排外的人，为什么这种场合反而沉默呢？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815709&from=ogGitn">陈思敏：湘禁毒队长落马 涉周强张春贤遗毒 2017-04-01 23:55</a><br/>4月1日，湖南省公安厅禁毒总队总队长唐国栋被查。唐国栋现职是今年2月才履新的，如今落马也让当时的任命多了〝以毒攻毒〞的意味。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815708&from=ogGitn">周晓辉：江苏副省长〝被跳楼后〞露面无事 2017-04-01 23:53</a><br/>3月29日，新浪网官方认证的大陆媒体人〝北京李海〞发布一则快讯，称〝十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼〞，消息很快被删，而官方则选择了沉默。31日，有微信曝出，当日杨岳参加了江苏省基础设施建设推进会，这无疑证实了其〝跳楼〞的传闻不实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815707&from=ogGitn">林辉：造假的江姐受刑与《红岩》作者自杀 2017-04-01 23:47</a><br/>在中共治下的中国，一本叫《红岩》的小说曾经广为流行，其作者罗广斌把主人翁江姐塑造成〝光辉形象〞。电影、歌剧《江姐》的出现，以及薄熙来重庆〝唱红打黑〞时大颂江姐，都在说明，江姐已成为中共不可或缺的〝红色英雄〞。然而，真实的历史是：江姐是个不折不扣的〝第三者〞，并没有受过《红岩》中所说的酷刑，至于炮制者罗广斌则走上了自杀之路。</td></tr>
@@ -11,8 +13,8 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815702&from=ogGitn">宗教监控升级 浙江教堂遭强装监控 2017-04-01 22:53</a><br/>浙江温州平阳、乐清等地的基督教堂，一周以来被当地政府人员强制安装监控设备，抵抗的信徒遭到殴打或是关押。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815701&from=ogGitn">陆企环保数据造假 民斥官纵容 2017-04-01 22:50</a><br/>大陆民间环保人士吴立红说，企业污染数据造假问题已经持续了几十年，他们一直都是用假数据来糊弄老百姓。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815699&from=ogGitn">辽宁人大贿选案 41名涉案官员获刑 2017-04-01 21:45</a><br/>近日，辽宁密集处理涉贿选案的腐败官员，除了  之外，还有41人在选举中共全国人大代表时，涉拉票贿选人员被判刑，其中，9人还涉贪污、受贿、行贿犯罪。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 20:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815698&from=ogGitn">十九大前清洗江派窝点 四省省委书记被免职 2017-04-01 20:15</a><br/>中共“十九大”前，地方高层人事密集调整，多省书记换人。4月1日，刘赐贵、林铎、张庆伟分别任海南、甘肃、黑龙江省委书记，罗保铭、王三运、王宪魁被免职；范锐平升任成都市委书记。外界注意到，这三省一市的官场都是江派窝点，近年来被持续清洗。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815710&from=ogGitn">传万科被收归国有 王石官至正厅级 2017-04-01 18:58</a><br/>日前，大陆网络流传万科已经成为了深圳市属国资国企，而王石已经是正厅级官员了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815690&from=ogGitn">上海〝空降〞副市长   韩正面临〝三条路〞 2017-04-01 18:30</a><br/>外界发现，上海官场频频震荡，高层人事密集调整，但市委书记韩正的去向至今不明。此前有分析认为，鉴于韩正的江派背景浓厚，他未来将面临三种结局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815691&from=ogGitn">大陆再现〝吃人〞电梯  黑龙江夫妻1死1伤 2017-04-01 18:21</a><br/>大陆再曝电梯夺命事故！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
@@ -37,6 +39,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815667&from=ogGitn">传用粗俗语言骚扰女生 安徽退休官员被调查 2017-04-01 14:20</a><br/>近日，中共安徽六安民政局一名官员疑似在微信聊天中对一名女大学生发送粗俗不堪的骚扰信息，被网络曝光。对此，当地官方回应称，正在调查此事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815692&from=ogGitn">香港楼价指数连创四个月新高的背后 2017-04-01 13:55</a><br/>最新的公布的香港私人住宅楼价指数显示，今年2月份住宅售价指数为312.8，环比上升1.1%，同比上升14.6%，创过去一年来新高。这也是该指数连续四个月创新高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 13:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 省委书记王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815665&from=ogGitn">央行广义信贷收缩 房地产泡沫根源在银行？ 2017-04-01 12:49</a><br/>大陆银行业面临央行MPA（宏观审慎评估体系）考核，房贷比或成考核重要内容，广义信贷将收缩。外界关注，大陆楼市泡沫的根源在银行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815662&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 12:41</a><br/>〝追查迫害法轮功国际组织〞3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815482&from=ogGitn">川习会正式敲定4月登场 两大重要议题成焦点 2017-03-30 21:37</a><br/>中美官方同日宣布，中国国家主席习近平将于4月6日至7日，在美国佛罗里达州与美国总统川普（Donald Trump）会晤。白宫官员曾表示，这次会面的目的是消除朝鲜紧张局势，以及近日韩国部署萨德系统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815501&from=ogGitn">辽阳瞒报灾情被确认 灾难变政绩是中共传统 2017-03-30 21:19</a><br/>辽阳市再次也被爆隐瞒风灾死亡人数。3月29日晚间，辽阳市委通报称辽阳县隐瞒情况属实。有评论表示隐瞒死亡人数是中共的传统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815471&from=ogGitn">送30部苹果机行贿拉票 辽宁郑玉焯受审 2017-03-30 20:11</a><br/>3月30日，中共辽宁省人大常委会前副主任郑玉焯破坏选举、受贿案开庭审理。其被指控通过行贿当选辽宁省第十二届人大常委会副主任。此前几日，前中共辽宁省委常委、政法委书记苏宏章受贿、行贿案开庭审理，其为竞选辽宁省副省长、省委常委，先后行贿110余万元（人民币，下同）。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815475&from=ogGitn">VOA：中共违反联合国协议 继续进口朝鲜矿产 2017-03-30 20:05</a><br/>根据海关总署的数据，中国仅2月份从朝鲜进口的金银铜锌矿产的价值就高达65万美元，而这些矿产都被联合国列入对朝鲜制裁的名单。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815406&from=ogGitn">武长顺受审 他手上沾了多少生命的血？ 2017-03-30 19:32</a><br/>目前正在受审的原天津市公安局局长、天津市政法委副书记武长顺对他们的死亡负有主要责任。根据明慧网的不完全统计，武长顺在天津公安系统任职期间至少有51位法轮功学员被迫害致死。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815472&from=ogGitn">山东辱母杀人案 万人声援护母者 捐款不断 2017-03-30 19:16</a><br/>山东聊城〝辱母杀人案〞持续发酵。</td></tr>
 </table>
