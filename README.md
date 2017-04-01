@@ -13,12 +13,13 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815675&from=ogGitn">颜丹：发展商业保理可减少企业借高利贷？ 2017-04-01 15:31</a><br/>近日，祸起“高利贷”的“刺死辱母者”案可谓是震惊了整个中国社会。大陆有媒体如是表示，“个别中小企业不惜通过借‘高利贷’融资，最后酿成惨剧”。对于中小企业为何要通过“高利贷”来融资的原因，某部委的部长在今年的“两会”上公开表示，“小微企业……融资难的问题仍然还很突出”；“很多中小企业被应收账款占用了大量的流动资金，导致资金链紧张”；“在银行等传统金融机构融资也...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815682&from=ogGitn">湖南医闹队如黑社会 扬言带300人砸平医院 2017-04-01 15:29</a><br/>大陆各地医闹事件不断恶化，近日，有湖南衡阳医生爆料称，当地有一支专门的医闹队伍，连续在多家医院闹事，讹诈“赔偿金”。其中有人扬言，衡东县医院如果不赔偿，将找300人砸平医院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815671&from=ogGitn">任重：为什么越“限购”房价越高？ 2017-04-01 15:27</a><br/>客观的说，如今大陆的房地产市场就是一个大赌场，政府就是大庄家。在高企的房价中，也就是百姓的买房钱中，政府在各个环节拿走7成以上。其实，政府利用“限购”调控房价让百姓买得起房是假，维护赌场的秩序，大小官员借机在各自岗位上捞钱是真。只要赌场在，只要能捞到钱，管你百姓死活，管你离不离婚，管你有没有房住。这就是为什么调空房价不从根本的地价入手的原因，也是房价越“限购...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815684&from=ogGitn">湖南靖州公安副局长落马 辽宁两官员被查处 2017-04-01 15:22</a><br/>近两日习当局再查处一批官员。湖南靖州公安副局长陈再安落马，广东河南两官员被查；辽宁辽宁省人大常委会原委员尹亮、省政协原常委周连科被开除党籍；重庆新疆两官员被双开。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815670&from=ogGitn">黑龙江省委书记换人 王宪魁下场不妙 2017-04-01 15:16</a><br/>王宪魁卸任黑龙江省委书记一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815668&from=ogGitn">【翻墙必看】省级官场大换血埋下一个伏笔 2017-04-01 14:44</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815667&from=ogGitn">传用粗俗语言骚扰女生 安徽退休官员被调查 2017-04-01 14:20</a><br/>近日，中共安徽六安民政局一名官员疑似在微信聊天中对一名女大学生发送粗俗不堪的骚扰信息，被网络曝光。对此，当地官方回应称，正在调查此事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 13:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 省委书记王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815665&from=ogGitn">央行广义信贷收缩 房地产泡沫根源在银行？ 2017-04-01 12:49</a><br/>大陆银行业面临央行MPA（宏观审慎评估体系）考核，房贷比或成考核重要内容，广义信贷将收缩。外界关注，大陆楼市泡沫的根源在银行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815662&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 12:41</a><br/>〝追查迫害法轮功国际组织〞3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815681&from=ogGitn">粤2名支持占中人士被判刑 公民表达声援 2017-04-01 12:24</a><br/>广东佛山维权人士苏昌兰、陈启棠“煽动颠覆国家政权罪”一案3月31日宣判，两人分别被判处有期徒刑3年及4年6个月，律师表示量刑过重。当天法院外戒备森严，不允许民众围观。而不少公民以录制视频声援苏、陈二人。</td></tr>
@@ -50,6 +51,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815637&from=ogGitn">江苏溧阳开发商一房两卖?令拆迁户居无定所 2017-04-01 04:24</a><br/>今年以来，发生在江苏溧阳的一起房屋纠纷，让溧阳民怨沸腾。起因是房屋开发商把拆迁户的还建房擅自卖给了他人，让拆迁户居无定所。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815623&from=ogGitn">网传跳楼的江苏副省长被“安排”露面了？ 2017-04-01 04:22</a><br/>继网络风传江苏省委常委、副省长杨岳“跳楼了”的消息之后，今天又有大陆微信消息称，杨岳参加了一个在扬召开的会议，并附有图片，引外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815629&from=ogGitn">【禁闻】零口供 加拿大公民孙茜仍遭非法批捕 2017-04-01 04:22</a><br/>2月19号，北京朝阳分局大屯派出所出动20多名警察，闯入北京市朝阳区紫玉山庄孙茜家，在没有搜查令的情况下，非法抢走八十多部手机和一千多张电话卡，还有印表机、电脑、光碟、法轮大法书等物品。拒绝在清单上签字的孙茜，遭到非法绑架。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 03:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815654&from=ogGitn">【中国禁闻】3月31日完整版 2017-04-01 03:45</a><br/>美大学教授 邀法轮功进课堂；港府清算占中人士 评：无益林郑施政；李明哲被抓 外界忧陆扩大攻击NGO；零口供 加拿大公民孙茜仍遭非法批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
@@ -58,7 +60,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815651&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-04-01 02:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815660&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-04-01 02:14</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815618&from=ogGitn">肃清黄兴国余毒？ 天津官场四进三出大换血 2017-04-01 02:06</a><br/>天津市常委原班子中的本土派已替换殆尽。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 01:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815615&from=ogGitn">每日三退声明精选（2017/03/31） 2017-04-01 01:23</a><br/>共产主义不信神它丧失了道德基础，它借由阶级斗争颠倒人类社会是非黑白，它看重物质利益让人恶的部分越来越显著。它迫害法轮大法的信奉者罪恶滔天。因此，我声明退出曾经加入的中国共产党、中国共青团、中国少年先锋队。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815616&from=ogGitn">小海豚珠海街头被宰杀 残忍画面激怒网民 2017-04-01 01:17</a><br/>这么可爱的白海豚，怎么能下的去手？日前，有网民爆料，广东珠海有人猎杀海豚，并当街宰杀，场面血腥。该消息及图片迅速在网络传开，引发民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815613&from=ogGitn">王友群：迫害法轮功18年是当今中国一切乱象的总根源 2017-04-01 00:49</a><br/>最近，山东〝辱母杀人案〞在海内外引发强烈反响。2016年4月13日，苏银霞因欠高利贷，遭11名黑社会成员上门催债。儿子于欢在母亲苏银霞长时间受辱骂、甚至当面猥亵、报警警察不理之下，奋起反抗，捅伤4人，其中一人不治身亡。2017年2月17日，山东聊城中级法院以〝故意伤害罪〞判处于欢无期徒刑。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815462&from=ogGitn">陆流动留守儿童达1亿 教育成问题 2017-03-30 16:10</a><br/>3月28号，中共相关部门联合发布的《中国流动儿童教育发展报告（2016）》蓝皮书指出，截至2015年10月1号，中国流动儿童和留守儿童总数高达1亿人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815456&from=ogGitn">福建男网购小米手机   收到一包大米 2017-03-30 15:55</a><br/>江某学校学生，花了800块在网上买了一只小米5手机，却收到一包大米。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815457&from=ogGitn">重庆官场持续震荡 两厅官被“双开” 2017-03-30 15:53</a><br/>3月30日，中共重庆国际投资咨询集团有限公司原总经理、董事贾建国及重庆南川区委原常委、区政府党组原副书记王元开因违反“习八条”，收受下属礼金被“双开”，并移送司法处理。自去年底以来，重庆官场持续震荡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815453&from=ogGitn">“毛骨悚然”国企巨贪自述夺权和贪腐黑幕 2017-03-30 15:34</a><br/>“怎么独裁，你要会弄”——一名在狱中的“国企巨贪”自述在国企中如何采用阴损的手段操弄人事、夺取实权及其贪腐奢靡的内幕。他解剖了自己在权力巅峰时的癫狂，以“毛骨悚然”来形容国企高管的腐败。</td></tr>
 </table>
