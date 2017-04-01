@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815715&from=ogGitn">颜丹：县政府当“老赖”不仅是信用问题 2017-04-02 02:56</a><br/>“一党独裁”的体制不解体，我们也只能对这些想贪就贪、贪完不必负责的“老赖”呵呵了。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815718&from=ogGitn">千吨货船撞击广东莲溪大桥 桥身横移1米网友惊心 2017-04-02 02:44</a><br/>载有千吨货物的轮船，通过大桥时撞到了桥墩，导致桥身横移了一米以上，桥上铺设的自来水管因此破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815716&from=ogGitn">中共出口发动机吹嘘〝逆转〞 俄军舰试用首航即〝趴窝〞 2017-04-02 01:50</a><br/>中共军工发动机一直是短板，多年依靠进口。近期，俄罗斯因国际制裁不得不购买中国产发动机，中共曾为此吹嘘“大逆转”。不过俄军舰装备中国产发动机后，首次试航就出现故障，俄当局后悔之余，对引进中国产发动机的俄罗斯公司予以处罚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815713&from=ogGitn">川习会 贸易汇率料成绕不开的话题 2017-04-02 00:22</a><br/>3月30日，美中双方正式宣布，川习会（习特会）将于4月6至7日进行。中共央行也在30日发布报告，为汇率变动释放信号。接着，川普（特朗普）总统31日签发行政命令，要求调查各国对美国贸易顺差的情况。因此，外界预计，贸易与汇率将成为美中之间无法避免的话题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815712&from=ogGitn">羽戈：愿未来的么宁律师 永远不会遇到曾经的么宁检察官 2017-04-02 00:04</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报导：〝此语一出，让在场所有旁听者一片哗然……〞（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾〝招待〞李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗然。只不过，有些人哗然于李庄嫖娼，有些人哗然于重庆当局构陷李庄嫖娼。</td></tr>
@@ -15,6 +16,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815704&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭 2017-04-01 23:33</a><br/>十八年前，法轮功学员王洪岩一家住在吉林农安县杨树林乡牛尾巴山村，父亲王启波是乡信用社信贷员，母亲孙士英是小学教师，王洪岩还有个姐姐，叫王洪艳。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815702&from=ogGitn">宗教监控升级 浙江教堂遭强装监控 2017-04-01 22:53</a><br/>浙江温州平阳、乐清等地的基督教堂，一周以来被当地政府人员强制安装监控设备，抵抗的信徒遭到殴打或是关押。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815701&from=ogGitn">陆企环保数据造假 民斥官纵容 2017-04-01 22:50</a><br/>大陆民间环保人士吴立红说，企业污染数据造假问题已经持续了几十年，他们一直都是用假数据来糊弄老百姓。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815717&from=ogGitn">王林徒弟被杀焚尸细节曝光 家属索赔3亿 2017-04-01 22:36</a><br/>王林弟子邹勇被黄钰刚、刘锋、朱理通等人打死、焚尸灭迹的详细细节日前曝光。邹勇案代理律师徐振武披露，家属提交索赔3亿元的诉状。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815699&from=ogGitn">辽宁人大贿选案 41名涉案官员获刑 2017-04-01 21:45</a><br/>近日，辽宁密集处理涉贿选案的腐败官员，除了  之外，还有41人在选举中共全国人大代表时，涉拉票贿选人员被判刑，其中，9人还涉贪污、受贿、行贿犯罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 20:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815698&from=ogGitn">十九大前清洗江派窝点 四省省委书记被免职 2017-04-01 20:15</a><br/>中共“十九大”前，地方高层人事密集调整，多省书记换人。4月1日，刘赐贵、林铎、张庆伟分别任海南、甘肃、黑龙江省委书记，罗保铭、王三运、王宪魁被免职；范锐平升任成都市委书记。外界注意到，这三省一市的官场都是江派窝点，近年来被持续清洗。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815485&from=ogGitn">德国《世界报》：新丝绸之路上的毒品危机 2017-03-30 22:46</a><br/>《世界报》周二关注到中国毒品在美国的“畅销”，尤其是中国“制毒师”的合成毒品在美国大行其道。文章指出，中国推动的新丝绸之路或会成为毒贩们的运输路线。“在中国，贩卖50克海洛因就会被判死刑。中国打击毒贩十分严格——无论犯罪者是中国人还是外国人。但从最近的年度中国毒品形势报告来看，严法似乎收效甚微。”《世界报》本周三（3月29日）发表的一篇文章写道。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815512&from=ogGitn">美6旬女外交官洩密案细节曝光：共谍助养小情人 2017-03-30 22:38</a><br/>中共特工曾帮克莱本的同居男友从刑事案中脱身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815493&from=ogGitn">学者揭北京高房价真相 2017-03-30 22:33</a><br/>北京房价近来依旧上涨不停，日前有大陆学者表示，北京的房价之所以在大陆独领风骚是因为北京在权力体系中处于顶峰。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815484&from=ogGitn">大陆较小城市楼市亦限购 忽悠老百姓？ 2017-03-30 22:15</a><br/>3月29日，大陆甘肃天水、贵阳和长春三座房价并没有出现大幅度上涨的城市公布了调控措施。有业界人士认为，这些城市本不需要调控，他们是想搭上房价上涨的顺风车，分一杯羹。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815490&from=ogGitn">梁振英阻扰接班 林郑月娥面临挑战 2017-03-30 21:43</a><br/>林郑月娥当选特首后，其称要修补撕裂和解开郁结。不过，为阻止林郑月娥顺利接班，梁振英在林郑当选特首翌日，就起诉9名参加“雨伞运动”的人士。有评论认为，除梁振英梁外，林郑未来还要应付中联办及建制派。</td></tr>
 </table>
