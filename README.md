@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 20:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815690&from=ogGitn">上海〝空降〞副市长   韩正面临〝三条路〞 2017-04-01 18:30</a><br/>外界发现，上海官场频频震荡，高层人事密集调整，但市委书记韩正的去向至今不明。此前有分析认为，鉴于韩正的江派背景浓厚，他未来将面临三种结局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815691&from=ogGitn">大陆再现〝吃人〞电梯  黑龙江夫妻1死1伤 2017-04-01 18:21</a><br/>大陆再曝电梯夺命事故！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
@@ -26,7 +27,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815692&from=ogGitn">香港楼价指数连创四个月新高的背后 2017-04-01 13:55</a><br/>最新的公布的香港私人住宅楼价指数显示，今年2月份住宅售价指数为312.8，环比上升1.1%，同比上升14.6%，创过去一年来新高。这也是该指数连续四个月创新高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 13:45</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 13:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 省委书记王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815665&from=ogGitn">央行广义信贷收缩 房地产泡沫根源在银行？ 2017-04-01 12:49</a><br/>大陆银行业面临央行MPA（宏观审慎评估体系）考核，房贷比或成考核重要内容，广义信贷将收缩。外界关注，大陆楼市泡沫的根源在银行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815662&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 12:41</a><br/>〝追查迫害法轮功国际组织〞3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
