@@ -2,6 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815709&from=ogGitn">陈思敏：湘禁毒队长落马 涉周强张春贤遗毒 2017-04-01 23:55</a><br/>4月1日，湖南省公安厅禁毒总队总队长唐国栋被查。唐国栋现职是今年2月才履新的，如今落马也让当时的任命多了〝以毒攻毒〞的意味。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815708&from=ogGitn">周晓辉：江苏副省长〝被跳楼后〞露面无事 2017-04-01 23:53</a><br/>3月29日，新浪网官方认证的大陆媒体人〝北京李海〞发布一则快讯，称〝十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼〞，消息很快被删，而官方则选择了沉默。31日，有微信曝出，当日杨岳参加了江苏省基础设施建设推进会，这无疑证实了其〝跳楼〞的传闻不实。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815707&from=ogGitn">林辉：造假的江姐受刑与《红岩》作者自杀 2017-04-01 23:47</a><br/>在中共治下的中国，一本叫《红岩》的小说曾经广为流行，其作者罗广斌把主人翁江姐塑造成〝光辉形象〞。电影、歌剧《江姐》的出现，以及薄熙来重庆〝唱红打黑〞时大颂江姐，都在说明，江姐已成为中共不可或缺的〝红色英雄〞。然而，真实的历史是：江姐是个不折不扣的〝第三者〞，并没有受过《红岩》中所说的酷刑，至于炮制者罗广斌则走上了自杀之路。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815706&from=ogGitn">谢天奇：19大换届启动 直辖市再震荡 4省书记或换人 2017-04-01 23:40</a><br/>自3月28日开始，近20省市逾30名省级常委或副省长换人，显示习当局已全面展开〝十九大〞前的省级官场人事调整。分析此轮官场调整特点，可以发现习在解构、重建省级官场的同时，已为深度清洗江派地方势力埋下伏笔。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815705&from=ogGitn">臧山：有人在给习近平添乱 2017-04-01 23:37</a><br/>澳洲悉尼科技大学中国研究中心负责人冯崇义副教授，最近被中国有关部门〝边控〞，禁止离开中国。持中国护照的冯崇义教授，在澳洲政治学者中，一直以来对中共采取批判态度，并十分关心近期中国发生的各种事情。他在中国天津、云南等地旅行时，就已经被国安官员〝约谈〞喝茶，结果在广州准备离境回澳洲时，被告知不得离开。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815704&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭 2017-04-01 23:33</a><br/>十八年前，法轮功学员王洪岩一家住在吉林农安县杨树林乡牛尾巴山村，父亲王启波是乡信用社信贷员，母亲孙士英是小学教师，王洪岩还有个姐姐，叫王洪艳。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815702&from=ogGitn">宗教监控升级 浙江教堂遭强装监控 2017-04-01 22:53</a><br/>浙江温州平阳、乐清等地的基督教堂，一周以来被当地政府人员强制安装监控设备，抵抗的信徒遭到殴打或是关押。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815701&from=ogGitn">陆企环保数据造假 民斥官纵容 2017-04-01 22:50</a><br/>大陆民间环保人士吴立红说，企业污染数据造假问题已经持续了几十年，他们一直都是用假数据来糊弄老百姓。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815699&from=ogGitn">辽宁人大贿选案 41名涉案官员获刑 2017-04-01 21:45</a><br/>近日，辽宁密集处理涉贿选案的腐败官员，除了  之外，还有41人在选举中共全国人大代表时，涉拉票贿选人员被判刑，其中，9人还涉贪污、受贿、行贿犯罪。</td></tr>
@@ -9,7 +15,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815698&from=ogGitn">十九大前清洗江派窝点 四省省委书记被免职 2017-04-01 20:15</a><br/>中共“十九大”前，地方高层人事密集调整，多省书记换人。4月1日，刘赐贵、林铎、张庆伟分别任海南、甘肃、黑龙江省委书记，罗保铭、王三运、王宪魁被免职；范锐平升任成都市委书记。外界注意到，这三省一市的官场都是江派窝点，近年来被持续清洗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815690&from=ogGitn">上海〝空降〞副市长   韩正面临〝三条路〞 2017-04-01 18:30</a><br/>外界发现，上海官场频频震荡，高层人事密集调整，但市委书记韩正的去向至今不明。此前有分析认为，鉴于韩正的江派背景浓厚，他未来将面临三种结局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815691&from=ogGitn">大陆再现〝吃人〞电梯  黑龙江夫妻1死1伤 2017-04-01 18:21</a><br/>大陆再曝电梯夺命事故！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵？  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815689&from=ogGitn">谷春立过往：与温州女商人官商勾结 2017-04-01 17:20</a><br/>日前，中共吉林省前副省长谷春立被判刑。在其刚刚落马后，陆媒就深度起底了他在辽宁任职期间疯狂拆迁，并与温州女商人徐小艳的辽宁鞍山往事。他们通过官商勾结，进行利益输送，中饱私囊，但给当地留下若干烂尾工程及数目惊人的政府债务。</td></tr>
@@ -196,10 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815475&from=ogGitn">VOA：中共违反联合国协议 继续进口朝鲜矿产 2017-03-30 20:05</a><br/>根据海关总署的数据，中国仅2月份从朝鲜进口的金银铜锌矿产的价值就高达65万美元，而这些矿产都被联合国列入对朝鲜制裁的名单。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815406&from=ogGitn">武长顺受审 他手上沾了多少生命的血？ 2017-03-30 19:32</a><br/>目前正在受审的原天津市公安局局长、天津市政法委副书记武长顺对他们的死亡负有主要责任。根据明慧网的不完全统计，武长顺在天津公安系统任职期间至少有51位法轮功学员被迫害致死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815472&from=ogGitn">山东辱母杀人案 万人声援护母者 捐款不断 2017-03-30 19:16</a><br/>山东聊城〝辱母杀人案〞持续发酵。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815430&from=ogGitn">港媒：击中最高层痛点 辱母案现罕见一幕 2017-03-30 19:00</a><br/>有港媒称，于欢护母杀人完全是〝正当防卫〞，体现了一个男子的血性和孝子的本色。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815468&from=ogGitn">分析：刘云山搅局十九大  主使老兵包围中纪委 2017-03-30 18:59</a><br/>中共19大召开前夕，中南海高层权斗明显升级，近期连续发生的老兵集体上访事件，疑似有高层精心策化和操控。分析认为主管宣传的中央政治局委员刘云山很可能是幕后主使。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815483&from=ogGitn">辉山乳业事件后 市场关注大陆影子银行信贷 2017-03-30 18:50</a><br/>中国辉山乳业控股有限公司（辉山乳业）股价暴跌事件，牵出该公司上百亿的债务规模，其中一些债务是银行的应收款项类投资，这也引发了市场对大陆影子银行贷款的高度关注。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815470&from=ogGitn">【翻墙必看】美国向金正恩展示武力 2017-03-30 18:23</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815544&from=ogGitn">【财经话题】沙特在石油战中已落败 2017-03-30 18:17</a><br/>两年多过去了，生命力旺盛的美国业者没有被淘汰，其页岩油开采成本已因技术的不断革新而由每桶100美元一路降到30—50美元之间，上周的数据更显示页岩油每日出口量已同比倍增至100万桶，换言之，在目前西德州原油（WTI）徘徊在47—50美元/桶之际，页岩油业者正在不断蚕食OPEC的市场份额。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815463&from=ogGitn">沉冤20余年 聂树斌父母获赔268万 2017-03-30 17:36</a><br/>聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。</td></tr>
 </table>
