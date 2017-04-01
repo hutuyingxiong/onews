@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 08:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815647&from=ogGitn">迪士尼在大陆遍地开花？原来是场骗局 2017-04-01 07:58</a><br/>迪士尼要在中国大陆扩展版图吗？除了上海外，似乎积极规划在郑州、包头及合肥等城市盖主题乐园，然而，这一切都变成一戳即破“幻影”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815643&from=ogGitn">追查国际收集已经或将出国迫害法轮功者名单 2017-04-01 07:25</a><br/>“追查迫害法轮功国际组织”3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815644&from=ogGitn">“公车腐败”盛行 江苏曝公车月修费1.4万元 2017-04-01 07:16</a><br/>大陆“公车腐败”盛行，公车私用、虚报燃油费、维修费、套取现金等乱像屡遭媒体曝光，却不见收敛。近日，江苏某妇幼保健所的一辆公车，被爆出“天价修理费账单”，仅一个月修理费就高达1.4万余元。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815421&from=ogGitn">苦胆：中国为什么总是〝对者出局〞？ 2017-03-30 09:46</a><br/>有个段子说：〝在北京市政建设中，历史证明梁思成是对的，但老北京还是消失了；三门峡工程该不该上，黄万里是对的，但三门峡水库还是造起来了……中国的吊诡之处在于：对者出局。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815437&from=ogGitn">大陆A股三连跌 房地产板块持续走弱 2017-03-30 09:32</a><br/>大陆A股3月29日连续第三个交易日下跌，盘中沪指一度跌幅为0.6%，房地产板块继续走弱，市场分析预计A股将持续震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815433&from=ogGitn">“收听敌台”罪再现？重庆定“翻墙上网”罪 2017-03-30 08:30</a><br/>近日，重庆市公安规定擅自接入国际联网属违法行为，将被停网和处罚。评论指，荒谬可笑。“自由门”等是摧毁中共网络长城以及世界上其它专制国家的网络控制与封锁的最佳利器。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815420&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-30 08:23</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
 </table>
