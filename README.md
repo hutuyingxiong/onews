@@ -2,6 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 08:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815643&from=ogGitn">追查国际收集已经或将出国迫害法轮功者名单 2017-04-01 07:25</a><br/>“追查迫害法轮功国际组织”3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815644&from=ogGitn">“公车腐败”盛行 江苏曝公车月修费1.4万元 2017-04-01 07:16</a><br/>大陆“公车腐败”盛行，公车私用、虚报燃油费、维修费、套取现金等乱像屡遭媒体曝光，却不见收敛。近日，江苏某妇幼保健所的一辆公车，被爆出“天价修理费账单”，仅一个月修理费就高达1.4万余元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815640&from=ogGitn">【禁闻 】3月31日维权动态 2017-04-01 06:45</a><br/>获刑4年 陈云飞：判刑太轻将上诉；广西暴力强拆 警察防爆棍暴打村民；山东平度80业主 市府门前讨要血汗钱；抗强拆 湖南怀化三代人被抓走。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815642&from=ogGitn">【禁闻 】3月31日退党精选 2017-04-01 06:33</a><br/>中共所谓吸引优秀人士入党，但暗中却有歧视，今天的退党精选，我们来看许栋福的经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 06:31</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815437&from=ogGitn">大陆A股三连跌 房地产板块持续走弱 2017-03-30 09:32</a><br/>大陆A股3月29日连续第三个交易日下跌，盘中沪指一度跌幅为0.6%，房地产板块继续走弱，市场分析预计A股将持续震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815433&from=ogGitn">“收听敌台”罪再现？重庆定“翻墙上网”罪 2017-03-30 08:30</a><br/>近日，重庆市公安规定擅自接入国际联网属违法行为，将被停网和处罚。评论指，荒谬可笑。“自由门”等是摧毁中共网络长城以及世界上其它专制国家的网络控制与封锁的最佳利器。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815420&from=ogGitn">王岐山低调扩大反腐面 逾万被查高官家属被边控 2017-03-30 08:23</a><br/>一万多名中共离退休省部军级及以上高官的亲属，正在接受有关方面审查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815429&from=ogGitn">新疆一周传两袭击案 又千名武警从辽宁入疆 2017-03-30 08:07</a><br/>新疆局势持续紧张。海外消息披露，伊犁的昭苏县和霍城县上周发生两起严重的暴力袭击事件，当局近日紧急从辽宁武警机动师再调派1000名武警至伊犁，加强搜查及戒备。此前当局已派5000名武警到新疆。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 07:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815444&from=ogGitn">趁业主去法院打官司 江苏一区政府偷拆民宅 2017-03-30 07:05</a><br/>3月28日，江苏南通港闸区一户民宅被当地政府强拆，当时业主许普林夫妻正在法院为此前该房子被强拆打官司，这头还在开庭审理，那头区政府却带来数百人偷偷将他们的房子铲为平地。周永红哽咽地说，“我家房子被拆了，铲平了！我们向公安求救，公安说这是政府行为，他们管不了。”</td></tr>
 </table>
