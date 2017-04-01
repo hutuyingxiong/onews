@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815667&from=ogGitn">传用粗俗语言骚扰女生 安徽退休官员被调查 2017-04-01 14:20</a><br/>近日，中共安徽六安民政局一名官员疑似在微信聊天中对一名女大学生发送粗俗不堪的骚扰信息，被网络曝光。对此，当地官方回应称，正在调查此事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 13:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815446&from=ogGitn">王岐山的〝神秘随从〞变身中纪委大管家 2017-03-30 13:23</a><br/>习近平上台后，多名习的浙江旧部获得重用，日前，被外界称为王岐山〝神秘随从〞的浙江系高官施克辉变身中共中纪委大管家，据中纪委官方消息，施克辉已出任中纪委办公厅主任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815502&from=ogGitn">陆“流动儿童”超过3500万 教育机会无保障 2017-03-30 13:07</a><br/>中国民间教育机构近日发布的报告显示，中国目前有超过3500万名“流动儿童”，他们随进城打工的父母迁徙生活，接受学前教育和初中后教育的机会却得不到保障。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815451&from=ogGitn">湖南一大学学生会主席诈骗27同学逾百万元 2017-03-30 12:46</a><br/>湖南工学院大四学生、学生会主席涉诈骗27名同学逾百万元（人民币，下同），在毕业前4个月时被拘捕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815467&from=ogGitn">中共严控资金外流 大陆人马来购房遇阻 2017-03-30 12:32</a><br/>随着中共对资金外流管制越来越严，数百位想要在马来西亚购房的大陆人遇到了麻烦，有的已经交了定金，却再也不能把钱汇到海外。</td></tr>
 </table>
