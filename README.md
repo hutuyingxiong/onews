@@ -3,6 +3,8 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815640&from=ogGitn">【禁闻 】3月31日维权动态 2017-04-01 06:45</a><br/>获刑4年 陈云飞：判刑太轻将上诉；广西暴力强拆 警察防爆棍暴打村民；山东平度80业主 市府门前讨要血汗钱；抗强拆 湖南怀化三代人被抓走。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815642&from=ogGitn">【禁闻 】3月31日退党精选 2017-04-01 06:33</a><br/>中共所谓吸引优秀人士入党，但暗中却有歧视，今天的退党精选，我们来看许栋福的经历。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 06:31</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815633&from=ogGitn">北京商住房3天网签7套 交易量下降99.9% 2017-04-01 05:55</a><br/>北京日前推出了有关商住房的限购措施，措施实施后，商住房交易量下降99.9%，商住房已经全面下架。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815639&from=ogGitn">【禁闻 】美大学教授 邀法轮功进课堂 2017-04-01 05:55</a><br/>美大学教授 邀法轮功进课堂；讥〝万人拜魔〞 左春和辞人大代表；支持香港〝占中〞 苏昌兰陈启棠获重刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815624&from=ogGitn">美中互释信号 川习会将陷艰难谈判？ 2017-04-01 05:33</a><br/>川普（特朗普）总统30日说，这次会晤将“非常艰难”。31日，川普又颁布行政令，要求查明导致美国巨大贸易逆差的元凶。美商务部长罗斯直言“头号逆差来源就是中国”。而北京也做出回应，暗示中美贸易不平衡，与中国关系不大。分析指，美方这些举动为川习会定下了紧张基调，而中方的回应也显示，不会在贸易上做出让步。</td></tr>
@@ -12,7 +14,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815626&from=ogGitn">曾向天安门毛像泼漆 余志坚美国病逝 2017-04-01 05:07</a><br/>八九民运期间曾向北京天安门毛泽东像泼洒油漆的大陆教师余志坚，于当地时间3月30日在美国印第安纳州病逝，享年53岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815634&from=ogGitn">避引火烧身？ 赵薇放弃入股万家文化 2017-04-01 04:51</a><br/>万家文化被立案调查，龙薇传媒终止受让股权。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815630&from=ogGitn">美军事人员前往或过境中国 五角大楼要严审 2017-04-01 04:47</a><br/>因中共经常以不正当方式取得美国国防技术，五角大厦已提高美国军事人员前往和过境中国大陆的规定。发生多起意外事件后，美国国安官员要求军方人士避免过境中国大陆。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 04:46</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815637&from=ogGitn">江苏溧阳开发商一房两卖?令拆迁户居无定所 2017-04-01 04:24</a><br/>今年以来，发生在江苏溧阳的一起房屋纠纷，让溧阳民怨沸腾。起因是房屋开发商把拆迁户的还建房擅自卖给了他人，让拆迁户居无定所。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815623&from=ogGitn">网传跳楼的江苏副省长被“安排”露面了？ 2017-04-01 04:22</a><br/>继网络风传江苏省委常委、副省长杨岳“跳楼了”的消息之后，今天又有大陆微信消息称，杨岳参加了一个在扬召开的会议，并附有图片，引外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815629&from=ogGitn">【禁闻】零口供 加拿大公民孙茜仍遭非法批捕 2017-04-01 04:22</a><br/>2月19号，北京朝阳分局大屯派出所出动20多名警察，闯入北京市朝阳区紫玉山庄孙茜家，在没有搜查令的情况下，非法抢走八十多部手机和一千多张电话卡，还有印表机、电脑、光碟、法轮大法书等物品。拒绝在清单上签字的孙茜，遭到非法绑架。</td></tr>
@@ -33,6 +34,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815608&from=ogGitn">林辉：山本五十六座机被击落与中美合作所 2017-03-31 23:31</a><br/>对于〝中美合作所〞的印象，中国人基本上是来自小说《红岩》以及根据其改编的电影《烈火中永生》和歌剧《江姐》。在小说、电影和歌剧中，它成为了〝美蒋罪行〞的代名词，是一个〝反共集中营〞。然而，大量史实表明，长期被中共丑化的〝中美合作所〞，实际上是二战期间中美两国建立的跨国军事情报合作机构，1943年日本海军舰队司令长官山本五十六座机被击落就有其功劳，可以说，它是中美关系史上一个亮点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815606&from=ogGitn">王友群：为了法轮功学员家人与其他中国人免于恐惧 2017-03-31 23:28</a><br/>最近，中国山东〝辱母杀人案〞，在中国大陆，在全世界华人中，在地球上一切有良知的人中，引发强烈反响，网上留言高达上亿次，微博评论多达150万条，几乎一边倒的控诉法院判决不公，官黑勾结，警察不作为。日前，〝新浪福建〞官方微博发起了一项〝认为判决是否合理〞的投票，在近2万名参与者中，认为不合理的比例高达91.5%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815605&from=ogGitn">曾铮：真材实料的造假 2017-03-31 23:24</a><br/>今天看《外交家》上〝中国的器官移植问题〞这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：〝面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。〞看到这里我不禁连连点头，想起北京女子劳教所里一个〝真材实料〞的造假故事。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815641&from=ogGitn">豫地方检察院伪证构陷 法轮功律师法庭激辩 2017-03-31 23:21</a><br/>2017年3月21日，河南省信阳市浉河区法院对法轮功学员丁长敏非法开庭。庭审中，公诉人公然作伪证、构陷当事人；辩护律师激辩，指出该案属明显错案，应予纠正。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815604&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 23:21</a><br/>3月30日，河南同力水泥董事长张伟落马。去年7月，同力水泥总经理尚达平被双规。至此，这家国有上市公司的总经理、董事长双双被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815607&from=ogGitn">川普自曝川习会议题 所有敏感问题全上桌面 2017-03-31 22:55</a><br/>一系列中美关系中的敏感议题都将在川习会中摆上桌面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815619&from=ogGitn">白宫谈川习会：两国有很多大事要做 2017-03-31 22:41</a><br/>美中双方30日证实，4月6日至7日，两国元首将在川普总统位于佛州棕榈滩的马阿拉歌庄园会晤。白宫表示，川普期待与习近平建立个人关系，并说美中之间需要解决贸易、南海和朝鲜等重大问题。</td></tr>
@@ -202,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815418&from=ogGitn">除李明哲外 近年哪些外国人被中共国安逮捕 2017-03-30 07:51</a><br/>民进党前党工李明哲证实遭到中共当局逮捕并调查，引发各界关注。中共近年来除大量逮捕境内维权律师与异议人士外，在反间谍法与国家安全法通过后，包括加拿大、美国、瑞典籍外国人也都曾遭逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815388&from=ogGitn">【禁闻】迫害者遭厄运 七省现近七千例 2017-03-30 07:39</a><br/>《明慧网》发布的这份针对辽宁地区的统计资料显示，截止到2016年5月15号，辽宁省参与迫害法轮功的官员或个人，有1049例遭到厄运，包括死亡、患各种重症、被查办、双规、降职、关押、判刑，以及家人死亡等等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815444&from=ogGitn">趁业主去法院打官司 江苏一区政府偷拆民宅 2017-03-30 07:05</a><br/>3月28日，江苏南通港闸区一户民宅被当地政府强拆，当时业主许普林夫妻正在法院为此前该房子被强拆打官司，这头还在开庭审理，那头区政府却带来数百人偷偷将他们的房子铲为平地。周永红哽咽地说，“我家房子被拆了，铲平了！我们向公安求救，公安说这是政府行为，他们管不了。”</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815402&from=ogGitn">楼市新一轮调控来袭 房价下降的拐点来临？ 2017-03-30 07:01</a><br/>在大陆开启新一轮楼市调控之际，近日又有多地发布楼市调控新政。外界关注，房价下降的拐点或要到来。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815412&from=ogGitn">【禁闻】3月29日维权动态 2017-03-30 07:01</a><br/>农保金遭截留 内蒙逾千农牧民抗议；湖南强拆户阻当局宅基地施工 遭行拘；多起维权案件近日集中审理。</td></tr>
 </table>
