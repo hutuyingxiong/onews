@@ -14,6 +14,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815643&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 07:25</a><br/>“追查迫害法轮功国际组织”3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815644&from=ogGitn">“公车腐败”盛行 江苏曝公车月修费1.4万元 2017-04-01 07:16</a><br/>大陆“公车腐败”盛行，公车私用、虚报燃油费、维修费、套取现金等乱像屡遭媒体曝光，却不见收敛。近日，江苏某妇幼保健所的一辆公车，被爆出“天价修理费账单”，仅一个月修理费就高达1.4万余元。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815659&from=ogGitn">真实的土改故事：活体解剖与中共高官之死 2017-04-01 07:07</a><br/>静乐县在土改中杀地主有两种杀法：一种叫〝大抹〞，另一种叫〝咯利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815640&from=ogGitn">【禁闻 】3月31日维权动态 2017-04-01 06:45</a><br/>获刑4年 陈云飞：判刑太轻将上诉；广西暴力强拆 警察防爆棍暴打村民；山东平度80业主 市府门前讨要血汗钱；抗强拆 湖南怀化三代人被抓走。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815642&from=ogGitn">【禁闻 】3月31日退党精选 2017-04-01 06:33</a><br/>中共所谓吸引优秀人士入党，但暗中却有歧视，今天的退党精选，我们来看许栋福的经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 06:31</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
@@ -33,6 +34,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815654&from=ogGitn">【中国禁闻】3月31日完整版 2017-04-01 03:45</a><br/>美大学教授 邀法轮功进课堂；港府清算占中人士 评：无益林郑施政；李明哲被抓 外界忧陆扩大攻击NGO；零口供 加拿大公民孙茜仍遭非法批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815660&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-04-01 02:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815621&from=ogGitn">112岁老中医养生之道 养生贵在养心 2017-04-01 02:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815651&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-04-01 02:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815638&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-04-01 02:20</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815416&from=ogGitn">【中国禁闻】3月29日完整版 2017-03-30 11:35</a><br/>重庆新规 翻墙有罪 评：自砸脚；反右研讨会受阻 疑中共施压与会者；迫害者遭厄运 七省现近七千例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815436&from=ogGitn">辱母杀人案成习近平孝治天下的试金石 2017-03-30 11:12</a><br/>有评论表示，山东聊城发生的辱母案已成为习近平孝治天下的试金石。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815435&from=ogGitn">8千老兵集体扫墓    当局严控防再演包围北京事件 2017-03-30 11:11</a><br/>2017年是越战38周年纪念，日前各地8千名越战老兵在广西凭祥举行了一年一度的扫墓活动，哀悼在越战中逝去的战友。当局对此高度关注，有通知显示，地方政府严防老兵在扫墓后前往北京集体上访。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815440&from=ogGitn">习近平先访芬兰再赴美 不住川普私人庄园 2017-03-30 10:22</a><br/>在美中双方还没有正式宣布两国首脑将于4月初举行会晤的消息之际，芬兰总统府星期三宣布，中国国家主席习近平将</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815466&from=ogGitn">何清涟：从限购令到限卖令 全靠政府“营销”有术 2017-03-30 10:16</a><br/>中国政府之所以能成为房地产市场“营销高手”，也是凭借垄断资源而做到的</td></tr>
 </table>
