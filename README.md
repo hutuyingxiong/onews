@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815744&from=ogGitn">不止阮成发 中共高官公开场合频读错字 2017-04-02 11:39</a><br/>将“熠熠生辉”读成“习习生辉”、把“趋之若鹜”读成“趋之若鹰”……中共官场上“读错字”的官员不只有云南省长阮成发，连中共官媒也发文质问：“官员读错字，错的仅仅是字吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815739&from=ogGitn">前CIA官员：所有美国人都是中共间谍战目标 2017-04-02 11:32</a><br/>中共对渗透美国的间谍战，已不再局限招募华裔美国人，而是扩及其他美国公民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿  曾伟4年未敢回国 2017-04-02 10:10</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815743&from=ogGitn">脱北者曝光金家王朝的秘密生意 2017-04-02 09:15</a><br/>目前居住在南韩首尔的脱北者金光镇，从前是朝鲜东北亚银行的一名经理，日前曝光十多年前为金家王朝从事的秘密生意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815735&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-02 09:14</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815505&from=ogGitn">王友琴：文革〝斗争会〞（上） 2017-03-31 02:11</a><br/>文革期间，特别是文革的前四年（1966-1970），〝斗争会〞开得既多又密。这些〝斗争会〞可能大小各异，但是都有相同的基本结构和进行程序。〝斗争会〞设立了一套特别的身体折磨，如〝坐喷气式飞机〞。有人在〝斗争会〞上被打死，有人被〝斗争〞得肢体残废或者精神失常，有人在被〝斗争〞后〝自杀〞（这里加上引号是因为这完全不同于一般所说的自杀）。而那些〝斗争〞别人的人，有的是踏着受害者在权力之路上爬升，有的是出于恐惧而附和权势者迫害他人。〝斗争会〞不但杀人伤人，而且导致道德腐败。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815500&from=ogGitn">夏小强：香港的社会撕裂如何修补 2017-03-31 02:07</a><br/>自从当选下任香港特首几天以来，林郑月娥多次声称要修补香港社会裂痕，重建和谐。这也说明，修补香港社会撕裂的现状，已经成为香港稳定发展的前提。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815499&from=ogGitn">理悟：良知复苏 2017-03-31 02:04</a><br/>仁义礼智信为先，炎黄古道赖神传。以德治国朝纲振，法彰邪遁万民欢。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815511&from=ogGitn">大陆A股连跌四天 市场人士分析原因 2017-03-31 01:55</a><br/>3月30日，大陆A股大跌，盘中“跳水”，沪指连续四连阴。市场人士曝A股大跌原因。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815498&from=ogGitn">周晓辉：再提郭徐架空胡锦涛 话外有音回击暗流 2017-03-31 01:51</a><br/>3月29日，大陆公众微信号长安街知事发表《公然挑战军委主席负责制，郭徐下台前推三阻四》一文，再次提到郭伯雄、徐才厚阳奉阴违，架空彼时任军委主席胡锦涛之举，并藉此释放警告之音。</td></tr>
 </table>
