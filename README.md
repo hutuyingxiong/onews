@@ -2,12 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815739&from=ogGitn">前CIA官员：所有美国人都是中共间谍战目标 2017-04-02 11:32</a><br/>中共对渗透美国的间谍战，已不再局限招募华裔美国人，而是扩及其他美国公民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿  曾伟4年未敢回国 2017-04-02 10:10</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815735&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-02 09:14</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815723&from=ogGitn">中纪委约谈曾庆红兄弟 称问题〝很严重〞提出4要求 2017-04-02 04:41</a><br/>曾庆红和曾庆淮两兄弟家族的贪腐已海内外皆知。港媒消息，中纪委和中组部日前约谈二人，称他们问题很严重，要求二兄弟〝配合调查〞，〝放弃幻想〞，并动员境外亲属回国交代问题，〝争取宽大〞。此前，曾庆红也曾多次被约谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815731&from=ogGitn">极致命毒品在美国扩散 源头是中国地下工厂 2017-04-02 04:37</a><br/>全美染上芬太尼（fentanyl）毒瘾的人数越来越多，美国执法单位表示，来自中国大陆地下工厂的供应，加剧全美芬太尼成瘾问题的恶化。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815738&from=ogGitn">“五腐上将”先后落马 中共军队尚能战否 2017-04-02 04:17</a><br/>中共十八大以来，已有徐才厚、郭伯雄、田修思、王建平、王喜斌等“五腐上将”，及一大批中将、少将先后被查，引发外界对中共军队“尚能战否”的质疑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815726&from=ogGitn">周晓辉：四省书记更换 两大问题解决中 2017-04-02 03:40</a><br/>下一步的看点将是上海、北京的高层更换和江氏家族的命运，而从最新四省书记被更换看，阻碍变革的两个关键性问题仍处于进行时，但在中共十九大前，或见分晓。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815719&from=ogGitn">3大敏感议题等待川习会 川普调查贸易逆差有玄机？ 2017-04-02 03:23</a><br/>习近平与川普4月6日的首次会晤，成了全世界的焦点。外界关注，贸易政策、南海、朝核及萨德问题等等，都可能成为此次川习会的敏感议题。日前，川普下令调查美国巨额贸易逆差的原因，也被认为与川习会将谈及的中美贸易有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815715&from=ogGitn">颜丹：县政府当“老赖”不仅是信用问题 2017-04-02 02:56</a><br/>“一党独裁”的体制不解体，我们也只能对这些想贪就贪、贪完不必负责的“老赖”呵呵了。</td></tr>
@@ -37,6 +39,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815714&from=ogGitn">愿未来的么宁律师，永远不会遇到曾经的么宁检察官 2017-04-01 17:49</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报道：“此语一出，让在场所有旁听者一片哗然……”（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾“招待”李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815737&from=ogGitn">上海维权女律师李天天下落不明13天 2017-04-01 17:27</a><br/>上海维权女律师李天天日前传出失踪的消息。3月20日，她在微信上发出被国保约谈的消息，此后开始失联，已达13天。上海一访民也证实李天天处于失踪状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815689&from=ogGitn">谷春立过往：与温州女商人官商勾结 2017-04-01 17:20</a><br/>日前，中共吉林省前副省长谷春立被判刑。在其刚刚落马后，陆媒就深度起底了他在辽宁任职期间疯狂拆迁，并与温州女商人徐小艳的辽宁鞍山往事。他们通过官商勾结，进行利益输送，中饱私囊，但给当地留下若干烂尾工程及数目惊人的政府债务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815670&from=ogGitn">黑龙江省委书记换人 王宪魁下场不妙 2017-04-01 17:16</a><br/>王宪魁卸任黑龙江省委书记一职。</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815499&from=ogGitn">理悟：良知复苏 2017-03-31 02:04</a><br/>仁义礼智信为先，炎黄古道赖神传。以德治国朝纲振，法彰邪遁万民欢。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815511&from=ogGitn">大陆A股连跌四天 市场人士分析原因 2017-03-31 01:55</a><br/>3月30日，大陆A股大跌，盘中“跳水”，沪指连续四连阴。市场人士曝A股大跌原因。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815498&from=ogGitn">周晓辉：再提郭徐架空胡锦涛 话外有音回击暗流 2017-03-31 01:51</a><br/>3月29日，大陆公众微信号长安街知事发表《公然挑战军委主席负责制，郭徐下台前推三阻四》一文，再次提到郭伯雄、徐才厚阳奉阴违，架空彼时任军委主席胡锦涛之举，并藉此释放警告之音。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815496&from=ogGitn">谢天奇：胡锦涛露面释2信号 习王总攻上海帮江家族 2017-03-31 01:45</a><br/>中共两会之后，习当局加强楼市调控与金融监管，密集调整20多名省级高官，接连审判天津市公安局前局长武长顺、广东省公安厅前党委副书记蔡广辽、辽宁省政法委前书记苏宏章等政法高官，加速清洗内蒙、湖南、新疆等江派窝点及江派常委刘云山主管的文宣系统。在此大规模清洗、震慑背景之下，习阵营针对上海帮及江泽民家族展开了新一轮围剿行动。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815504&from=ogGitn">中共〝山寨〞导弹抢占市场 俄官员揭中俄军火交易命门 2017-03-31 01:42</a><br/>俄媒指中共仿造俄罗斯战术导弹，向国际市场推销，将会抢走俄武器销售市场。一名俄罗斯高级官员曾表示，中共的仿制问题是最让俄罗斯头疼的，俄罗斯在同中共的军火交易中，极力避免先进武器被中共仿制，比如焊死发动机。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815495&from=ogGitn">传江苏副省长杨岳跳楼 官方未回应 贴文遭删 2017-03-31 01:16</a><br/>杨岳被视为团派新星，其仕途一向被外界看好。</td></tr>
 </table>
