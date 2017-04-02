@@ -2,10 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 18:43</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 18:41</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815758&from=ogGitn">【翻墙必看】美国航母打击群将威慑朝鲜 2017-04-02 17:50</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 15:18</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815750&from=ogGitn">河北血癌幼儿无钱手术   父亲欲绝望欲捐儿器官 2017-04-02 15:08</a><br/>河北29岁的宋洋洋，为给患血癌的儿子治病耗尽家资，还欠债几十万。近日医院称找到合适的骨髓配型，但需数十万手术费，宋洋洋表示如实在筹不到钱，走到绝望那一步，就将儿子的器官捐献回馈社会，感谢那些资助过他的人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 15:06</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815754&from=ogGitn">山东少年遭围殴被逼手抓大便 2017-04-02 14:53</a><br/>扇耳光、用脚踢、让其下跪、喊爷爷、并让他抓屎扔到房顶上??山东德州4名高个子男生围殴一名小个学生，该殴打视频被上传网络。事件虽引警方介入，但最后仍是以道歉、教育草草了结。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815749&from=ogGitn">冰毒8公斤子弹600发 大连现武装贩毒团伙 2017-04-02 14:17</a><br/>在中国大陆，横跨辽宁、广东等地有一条跨省贩毒链条。近日，17名贩毒嫌疑人在大连被抓获，同时被查获的还有8公斤冰毒，以及600余发子弹等物品。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815755&from=ogGitn">新任上海副市长曾处理与江家族相关企业 2017-04-02 14:10</a><br/>日前被任命为上海副市长的许昆林，曾在中共发改委任职期间掀起反垄断调查及重罚美国在华企业，被调查的两电信巨头及高通公司都与江泽民家族密切相关。</td></tr>
@@ -28,6 +28,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815718&from=ogGitn">千吨货船撞击广东莲溪大桥 桥身横移1米网友惊心 2017-04-02 02:44</a><br/>载有千吨货物的轮船，通过大桥时撞到了桥墩，导致桥身横移了一米以上，桥上铺设的自来水管因此破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815722&from=ogGitn">大陆楼市泡沫难抑制 “首付贷”死灰复燃 2017-04-02 02:03</a><br/>中国大陆楼市又开启一轮调控，包括限购和限贷等措施在各城市开始实施。日前，中共央行行长周小川表态，将收紧货币政策。信贷收紧对炒房者是个打击，而能加杠杆催大楼市泡沫的“首付贷”，正在中介机构的包装下死灰复燃。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815716&from=ogGitn">中共出口发动机吹嘘逆转  俄军舰试用首航即趴窝 2017-04-02 01:50</a><br/>中共军工发动机一直是短板，多年依靠进口。近期，俄罗斯因国际制裁不得不购买中国产发动机，中共曾为此吹嘘“大逆转”。不过俄军舰装备中国产发动机后，首次试航就出现故障，俄当局后悔之余，对引进中国产发动机的俄罗斯公司予以处罚。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815759&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-02 01:15</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815713&from=ogGitn">川习会 贸易汇率料成绕不开的话题 2017-04-02 00:22</a><br/>3月30日，美中双方正式宣布，川习会（习特会）将于4月6至7日进行。中共央行也在30日发布报告，为汇率变动释放信号。接着，川普（特朗普）总统31日签发行政命令，要求调查各国对美国贸易顺差的情况。因此，外界预计，贸易与汇率将成为美中之间无法避免的话题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815712&from=ogGitn">羽戈：愿未来的么宁律师 永远不会遇到曾经的么宁检察官 2017-04-02 00:04</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报导：〝此语一出，让在场所有旁听者一片哗然……〞（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾〝招待〞李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗然。只不过，有些人哗然于李庄嫖娼，有些人哗然于重庆当局构陷李庄嫖娼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815711&from=ogGitn">人与人之间最大的距离是价值观 2017-04-01 23:59</a><br/>反萨德闹得最厉害的时候，我和朋友一起吃饭。席间很多人对封杀乐天加油鼓劲，大感快意。在如此热烈的爱国氛围中，我一直低头吃饭，未发一言。朋友大感诧异，说你作为一个坚定的反对排外的人，为什么这种场合反而沉默呢？</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815514&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-31 03:57</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和〝真善忍〞的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">“空手套白狼” 朱镕基之子笑指安邦CEO吴小晖 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815534&from=ogGitn">法警枪击华人案 三项司法程序启动 2017-03-31 03:43</a><br/>3月29日，法国警察枪击华人案发生后的第三天，三项司法程序同时启动，法国方面展开调查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815532&from=ogGitn">聂树斌冤死 父母21年维权获赔268万元 2017-03-31 03:00</a><br/>3月28日，聂树斌父母要求赔偿的申请已有结果，河北高院的决定书显示，赔偿金额合计为2,681,399.1元（人民币，下同）聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。始终关注此案的网民表示，多少钱，也换不回一个儿子了。</td></tr>
 </table>
