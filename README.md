@@ -15,6 +15,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815778&from=ogGitn">佚名：人 为什么会坏到这个地步 2017-04-03 01:52</a><br/>不过这本书倒是一点不枯燥，至少我看着不枯燥，几乎是一口气读完的。当然了，读完以后，能被牢牢记住的还是一些具体的、生动的细节。这些细节让我既震动，又好奇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815777&from=ogGitn">陈思敏：债留山东 姜异康尽得张高丽真传 2017-04-03 01:48</a><br/>在姜异康卸任之际，山东模板的债务崩盘也来到临界点。民间高利贷方面，特别是官黑勾结的高利贷，背后是民营中小实体企业靠此强撑的残酷现况。区域金融风险方面，特别是大集团深陷债务泥潭，例如齐星集团欠债上百亿，靠地方当局牵头立〝公约〞，如天信集团进入破产重整，百亿债权酝酿打包转让，这些反映出的是山东有多少知名企业其实都是靠官方硬撑。不仅如此，据称，接下来可能也要全线崩盘的还有山东的煤矿和焦化产业。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815776&from=ogGitn">王友琴：摧毁日记的革命（上） 2017-04-03 01:41</a><br/>文革害死了以百万计的受难者的生命，毁坏了无数的书籍和文物。此外，文革还破坏了什么呢？不被注意或者未被意识到的一项是：文革摧毁了中国人的日记。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815791&from=ogGitn">上海整治商住楼 业主很受伤 2017-04-03 01:13</a><br/>近日，上海商住两用房整治中，负责拆除楼房设施的特勤人员和业主发生冲突，有的业主被打伤。业主认为，房子是用真金白银买来的，开发商从始至终都宣称房子是居住，开发商应该担责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815775&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-03 00:59</a><br/>中国作家杜斌试图将厚重涂抹的历史撕开一角，让全世界的人看到在中国不能不面对的真实历史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815771&from=ogGitn">每日三退声明精选（2017/04/02） 2017-04-03 00:33</a><br/>我自愿退出共产党、共青团、少先队等中共各级组织，请大纪元作证，感谢您们多年来的无私贡献，有您们在，中国就有希望，一起加油！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815773&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-02 23:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815547&from=ogGitn">核爆吗？广东工厂突发大爆炸 火焰云腾空数十米（组图） 2017-03-31 09:58</a><br/>日前，广东东莞市一家工厂发生大爆炸，从网传短片可见爆炸现场火光冲天，爆炸威力强大，巨大的火焰蘑菇云腾空而起，高达数十米，整个夜空被火光照耀成一片红色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815546&from=ogGitn">关注中国器官移植 美著名杂志疾呼解开疑团 2017-03-31 09:39</a><br/>美国著名刊物《外交家》3月29日刊文，直指中国器官移植中的几大疑问，并强调解答令人不安的移植规模及器官来源等问题，是当务之急。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815551&from=ogGitn">袁斌：重庆当局为何封杀“翻墙”？ 2017-03-31 09:23</a><br/>古今中外的专制统治都是建立在资讯封锁的基础上的，中共当然也不例外。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815527&from=ogGitn">专访郭宝胜：川习会面定朝鲜半岛局势走向 2017-03-31 08:18</a><br/>美国权威时政评论家、华人牧师郭宝胜接受大纪元专访，就朝鲜半岛局势，川普是否可能先发制人，中国将如何应对，半岛局势激化引起国际关系的变化，各方存在哪些角力等外界关心的内容进行解读。</td></tr>
 </table>
