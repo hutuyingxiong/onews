@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815775&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-03 00:59</a><br/>中国作家杜斌试图将厚重涂抹的历史撕开一角，让全世界的人看到在中国不能不面对的真实历史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815771&from=ogGitn">每日三退声明精选（2017/04/02） 2017-04-03 00:33</a><br/>我自愿退出共产党、共青团、少先队等中共各级组织，请大纪元作证，感谢您们多年来的无私贡献，有您们在，中国就有希望，一起加油！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815773&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-02 23:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815769&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-02 22:27</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者、作家、纪录片制作人，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
@@ -25,6 +26,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815753&from=ogGitn">子新：从近期河北法轮功学员无罪获释说起 2017-04-02 08:35</a><br/>随着法轮功学员的深入讲真相，越来越多的公检法司人员明白了法轮功真相，再加上目前公检法开始实施重大错案终身追责制，许多体制内人士出于自保，开始与江泽民邪恶集团迫害法轮功做出彻底切割。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815770&from=ogGitn">专访杜斌：《长春饿殍战》写作历程 2017-04-02 06:41</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者、作家、纪录片制作人，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815774&from=ogGitn">IMF首发报告证明人民币国际化或“再等等” 2017-04-02 05:35</a><br/>3月31日，国际货币基金组织（IMF）首次公布了将人民币作为外汇储备的全球持有情况，数据显示仅占成员国外储资产的1.07%。此前，有接近监管层的人士透露，高层认为当前的金融局势之下，人民币国际化“或许要再等一等”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815731&from=ogGitn">极致命毒品在美国扩散 源头是中国地下工厂 2017-04-02 04:37</a><br/>全美染上芬太尼（fentanyl）毒瘾的人数越来越多，美国执法单位表示，来自中国大陆地下工厂的供应，加剧全美芬太尼成瘾问题的恶化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815738&from=ogGitn">“五腐上将”先后落马 中共军队尚能战否 2017-04-02 04:17</a><br/>中共十八大以来，已有徐才厚、郭伯雄、田修思、王建平、王喜斌等“五腐上将”，及一大批中将、少将先后被查，引发外界对中共军队“尚能战否”的质疑。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815568&from=ogGitn">健康人被强行注射精神病药物—朱桂林的遭遇 2017-03-31 05:27</a><br/>一个健康人被注射了精神病药物后是什么感受？ 湖南省常德石门县的朱桂林女士经历了这样的人间惨剧。以下是她在控告江泽民书中讲诉的亲身经历：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815531&from=ogGitn">习启动“雷霆行动”布控十九大 广东有大动作 2017-03-31 05:12</a><br/>中共两会期间，习当局启动为期六个月的“雷霆行动”，粤、港、澳三地联手扫黑。最新消息指，广东70多个涉黑犯罪团伙已被查处。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">买墓地也要看户籍！苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815520&from=ogGitn">习近平为何批准四川建民国中将俞大维陵园 2017-03-31 04:56</a><br/>已故中华民国前国防部长、陆军中将俞大维的部分骨灰安放在四川成都大邑建川博物馆。最新消息称，经俞大维的侄孙、中共政治局常委俞正声申请，习近平批准将俞大维在四川的墓碑扩建为陵园。</td></tr>
 </table>
