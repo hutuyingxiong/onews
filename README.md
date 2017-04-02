@@ -3,6 +3,8 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿  曾伟4年未敢回国 2017-04-02 13:04</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815746&from=ogGitn">中共安徽党史网首页以九年前旧闻当新闻 2017-04-02 13:00</a><br/>近日，大陆传媒发现，中共安徽省委党史研究室主办的网站首页的一些栏目的资讯严重滞后，其中几日发布的置顶信息，具体内容竟为9年前的活动方案。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千陆客美签被拒 无法赴夏威夷参加会议 2017-04-02 12:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815744&from=ogGitn">不止阮成发 中共高官公开场合频读错字 2017-04-02 11:39</a><br/>将“熠熠生辉”读成“习习生辉”、把“趋之若鹜”读成“趋之若鹰”……中共官场上“读错字”的官员不只有云南省长阮成发，连中共官媒也发文质问：“官员读错字，错的仅仅是字吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815739&from=ogGitn">前CIA官员：所有美国人都是中共间谍战目标 2017-04-02 11:32</a><br/>中共对渗透美国的间谍战，已不再局限招募华裔美国人，而是扩及其他美国公民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815723&from=ogGitn">中纪委约谈曾庆红兄弟 称问题〝很严重〞提出4要求 2017-04-02 10:00</a><br/>曾庆红和曾庆淮两兄弟家族的贪腐已海内外皆知。港媒消息，中纪委和中组部日前约谈二人，称他们问题很严重，要求二兄弟〝配合调查〞，〝放弃幻想〞，并动员境外亲属回国交代问题，〝争取宽大〞。此前，曾庆红也曾多次被约谈。</td></tr>
@@ -38,6 +40,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815710&from=ogGitn">传万科被收归国有 王石官至正厅级 2017-04-01 18:58</a><br/>日前，大陆网络流传万科已经成为了深圳市属国资国企，而王石已经是正厅级官员了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815690&from=ogGitn">上海〝空降〞副市长   韩正面临〝三条路〞 2017-04-01 18:30</a><br/>外界发现，上海官场频频震荡，高层人事密集调整，但市委书记韩正的去向至今不明。此前有分析认为，鉴于韩正的江派背景浓厚，他未来将面临三种结局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815691&from=ogGitn">大陆再现〝吃人〞电梯  黑龙江夫妻1死1伤 2017-04-01 18:21</a><br/>大陆再曝电梯夺命事故！</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815747&from=ogGitn">宋庄两艺术家工作室被强拆 发微信求救 2017-04-01 18:19</a><br/>3月28日，知名艺术家沈敬东、曹志文在北京通州的宋庄艺术村的工作室，在毫不知情的情况下遭到强拆。沈敬东一早在微信发出资讯请求声援。过程中沈敬东一度被保安用叉子叉在地上，随后同曹志文二人被以妨碍公务的名义带到派出所扣留至强拆结束。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815720&from=ogGitn">载千吨货船撞上珠海大桥 桥面移位逾1米 2017-04-01 17:52</a><br/>4月1日上午9时55分，广东斗门区莲溪大桥被货船撞至移位超过一米。桥上自来水管道已破裂，货船倾斜，暂无人员伤亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815714&from=ogGitn">愿未来的么宁律师，永远不会遇到曾经的么宁检察官 2017-04-01 17:49</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报道：“此语一出，让在场所有旁听者一片哗然……”（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾“招待”李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗...</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815507&from=ogGitn">谢天奇：宋祖英丈夫不妙 习清洗湖南文宣一箭双雕 2017-03-31 02:21</a><br/>3月27日，湖南前长沙市委常委、宣传部长张湘涛被审查；这是近一个月内的第6名落马湘官。3月28日，陆媒披露3月3日才履新湖南基建投资集团党委书记、董事长职务的彭旭峰已〝失联〞。此前，彭旭峰长期担任长沙市轨道交通集团有限公司党委书记、董事长职务。之前的3月10日，前湖南省委常委、宣传部部长张文雄也被调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815506&from=ogGitn">陈思敏：复星高层异动 涉上海官场腐败 2017-03-31 02:18</a><br/>资本帝国中的复星系，其母公司上海复星集团，在3月28日深夜公告高层重大异动：自即日起，集团CEO梁信军、CFO丁国其双双辞职，且辞去所有职务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815537&from=ogGitn">夏林：被遗忘的加拿大人 2017-03-31 02:16</a><br/>2015年底以绝对优势当选的加拿大总理特鲁多是一个喜好共产主义，支持高税收和高花费，支持大麻合法化和赞同同性变性的人。这些东西，可能直到去年年底，在加拿大乃至整个西方社会还是流行和受欢迎的，几乎每一位西方政客也都觉得这些东西是好的，是符合民意的，也挺 “政治正确”的。但是到了今天，加拿大人还认这一套吗？今年2月份加拿大的《多伦多星报》发表了一篇评论“...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815505&from=ogGitn">王友琴：文革〝斗争会〞（上） 2017-03-31 02:11</a><br/>文革期间，特别是文革的前四年（1966-1970），〝斗争会〞开得既多又密。这些〝斗争会〞可能大小各异，但是都有相同的基本结构和进行程序。〝斗争会〞设立了一套特别的身体折磨，如〝坐喷气式飞机〞。有人在〝斗争会〞上被打死，有人被〝斗争〞得肢体残废或者精神失常，有人在被〝斗争〞后〝自杀〞（这里加上引号是因为这完全不同于一般所说的自杀）。而那些〝斗争〞别人的人，有的是踏着受害者在权力之路上爬升，有的是出于恐惧而附和权势者迫害他人。〝斗争会〞不但杀人伤人，而且导致道德腐败。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815500&from=ogGitn">夏小强：香港的社会撕裂如何修补 2017-03-31 02:07</a><br/>自从当选下任香港特首几天以来，林郑月娥多次声称要修补香港社会裂痕，重建和谐。这也说明，修补香港社会撕裂的现状，已经成为香港稳定发展的前提。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815499&from=ogGitn">理悟：良知复苏 2017-03-31 02:04</a><br/>仁义礼智信为先，炎黄古道赖神传。以德治国朝纲振，法彰邪遁万民欢。</td></tr>
 </table>
