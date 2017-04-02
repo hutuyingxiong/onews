@@ -10,9 +10,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815749&from=ogGitn">冰毒8公斤子弹600发 大连现武装贩毒团伙 2017-04-02 14:17</a><br/>在中国大陆，横跨辽宁、广东等地有一条跨省贩毒链条。近日，17名贩毒嫌疑人在大连被抓获，同时被查获的还有8公斤冰毒，以及600余发子弹等物品。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815755&from=ogGitn">新任上海副市长曾处理与江家族相关企业 2017-04-02 14:10</a><br/>日前被任命为上海副市长的许昆林，曾在中共发改委任职期间掀起反垄断调查及重罚美国在华企业，被调查的两电信巨头及高通公司都与江泽民家族密切相关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815746&from=ogGitn">中共安徽党史网首页以九年前旧闻当新闻 2017-04-02 13:00</a><br/>近日，大陆传媒发现，中共安徽省委党史研究室主办的网站首页的一些栏目的资讯严重滞后，其中几日发布的置顶信息，具体内容竟为9年前的活动方案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千陆客美签被拒 无法赴夏威夷参加会议 2017-04-02 12:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 12:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815744&from=ogGitn">不止阮成发 中共高官公开场合频读错字 2017-04-02 11:39</a><br/>将“熠熠生辉”读成“习习生辉”、把“趋之若鹜”读成“趋之若鹰”……中共官场上“读错字”的官员不只有云南省长阮成发，连中共官媒也发文质问：“官员读错字，错的仅仅是字吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815739&from=ogGitn">前中情局官员披露中美间谍战内幕 2017-04-02 11:32</a><br/>中共对渗透美国的间谍战，已不再局限招募华裔美国人，而是扩及其他美国公民。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815740&from=ogGitn">逼江天勇“认罪” 湖南公安再出新花样 2017-04-02 11:31</a><br/>当局因为拿不出证明江天勇有罪的确凿证据，再出新花样，试图通过江的父母亲游说儿子认罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815735&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-02 10:14</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815723&from=ogGitn">中纪委约谈曾庆红兄弟 称问题〝很严重〞提出4要求 2017-04-02 10:00</a><br/>曾庆红和曾庆淮两兄弟家族的贪腐已海内外皆知。港媒消息，中纪委和中组部日前约谈二人，称他们问题很严重，要求二兄弟〝配合调查〞，〝放弃幻想〞，并动员境外亲属回国交代问题，〝争取宽大〞。此前，曾庆红也曾多次被约谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815743&from=ogGitn">脱北者曝光金家王朝的秘密生意 2017-04-02 09:15</a><br/>目前居住在南韩首尔的脱北者金光镇，从前是朝鲜东北亚银行的一名经理，日前曝光十多年前为金家王朝从事的秘密生意。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815516&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-31 04:03</a><br/>3月28日，根据大陆澎湃新闻从多个官方渠道证实，湖南基础建设投资集团有限公司（下称〝湖南基建投资集团〞）党委书记、董事长彭旭峰已〝失联〞，其上任还不到一个月。此前，他曾任长沙市住建委副主任，2010年，兼任长沙轨道交通集团党委副书记、董事长；2013年，被免去长沙市住建委副主任职务，专任长沙轨道交通集团党委书记、董事长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815514&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-31 03:57</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和〝真善忍〞的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">“空手套白狼” 朱镕基之子笑指安邦CEO吴小晖 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815534&from=ogGitn">法警枪击华人案 三项司法程序启动 2017-03-31 03:43</a><br/>3月29日，法国警察枪击华人案发生后的第三天，三项司法程序同时启动，法国方面展开调查。</td></tr>
 </table>
