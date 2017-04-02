@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815758&from=ogGitn">【翻墙必看】美国航母打击群将威慑朝鲜 2017-04-02 17:50</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 15:18</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815750&from=ogGitn">河北血癌幼儿无钱手术   父亲欲绝望欲捐儿器官 2017-04-02 15:08</a><br/>河北29岁的宋洋洋，为给患血癌的儿子治病耗尽家资，还欠债几十万。近日医院称找到合适的骨髓配型，但需数十万手术费，宋洋洋表示如实在筹不到钱，走到绝望那一步，就将儿子的器官捐献回馈社会，感谢那些资助过他的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 15:06</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">“空手套白狼” 朱镕基之子笑指安邦CEO吴小晖 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815534&from=ogGitn">法警枪击华人案 三项司法程序启动 2017-03-31 03:43</a><br/>3月29日，法国警察枪击华人案发生后的第三天，三项司法程序同时启动，法国方面展开调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815532&from=ogGitn">聂树斌冤死 父母21年维权获赔268万元 2017-03-31 03:00</a><br/>3月28日，聂树斌父母要求赔偿的申请已有结果，河北高院的决定书显示，赔偿金额合计为2,681,399.1元（人民币，下同）聂母张焕枝表示，若孩子还在，国家赔多少我都不愿接受。始终关注此案的网民表示，多少钱，也换不回一个儿子了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815513&from=ogGitn">特勤局称习访美只有一站 川习匆匆会晤只为十九大？ 2017-03-31 02:58</a><br/>中美双方宣布川习会将于4月6日正式登场。美国特勤局消息指，习近平与川普在佛罗里达州的会面，是习此次访美唯一一站。</td></tr>
 </table>
