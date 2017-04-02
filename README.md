@@ -2,15 +2,16 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815768&from=ogGitn">山西民宅爆炸 九人死亡 疑似囤积炸药 2017-04-02 21:55</a><br/>爆炸发生在当地时间晚上10点28分，地点位于距离临汾市不足40公里的浮山县城内南环西路一处居民住宅楼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 18:43</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 18:41</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815758&from=ogGitn">【翻墙必看】美国航母打击群将威慑朝鲜 2017-04-02 17:50</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 16:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815750&from=ogGitn">河北血癌幼儿无钱手术   父亲欲绝望欲捐儿器官 2017-04-02 15:08</a><br/>河北29岁的宋洋洋，为给患血癌的儿子治病耗尽家资，还欠债几十万。近日医院称找到合适的骨髓配型，但需数十万手术费，宋洋洋表示如实在筹不到钱，走到绝望那一步，就将儿子的器官捐献回馈社会，感谢那些资助过他的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815754&from=ogGitn">山东少年遭围殴被逼用手抓大便 2017-04-02 14:53</a><br/>扇耳光、用脚踢、让其下跪、喊爷爷、并让他抓屎扔到房顶上??山东德州4名高个子男生围殴一名小个学生，该殴打视频被上传网络。事件虽引警方介入，但最后仍是以道歉、教育草草了结。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815749&from=ogGitn">冰毒8公斤子弹600发 大连现武装贩毒团伙 2017-04-02 14:17</a><br/>在中国大陆，横跨辽宁、广东等地有一条跨省贩毒链条。近日，17名贩毒嫌疑人在大连被抓获，同时被查获的还有8公斤冰毒，以及600余发子弹等物品。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815755&from=ogGitn">新任上海副市长曾处理与江家族相关企业 2017-04-02 14:10</a><br/>日前被任命为上海副市长的许昆林，曾在中共发改委任职期间掀起反垄断调查及重罚美国在华企业，被调查的两电信巨头及高通公司都与江泽民家族密切相关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815746&from=ogGitn">中共安徽党史网首页以九年前旧闻当新闻 2017-04-02 13:00</a><br/>近日，大陆传媒发现，中共安徽省委党史研究室主办的网站首页的一些栏目的资讯严重滞后，其中几日发布的置顶信息，具体内容竟为9年前的活动方案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 12:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815744&from=ogGitn">不止阮成发 中共高官公开场合频读错字 2017-04-02 11:39</a><br/>将“熠熠生辉”读成“习习生辉”、把“趋之若鹜”读成“趋之若鹰”……中共官场上“读错字”的官员不只有云南省长阮成发，连中共官媒也发文质问：“官员读错字，错的仅仅是字吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815739&from=ogGitn">前中情局官员披露中美间谍战内幕 2017-04-02 11:32</a><br/>中共对渗透美国的间谍战，已不再局限招募华裔美国人，而是扩及其他美国公民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815740&from=ogGitn">逼江天勇“认罪” 湖南公安再出新花样 2017-04-02 11:31</a><br/>当局因为拿不出证明江天勇有罪的确凿证据，再出新花样，试图通过江的父母亲游说儿子认罪。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815550&from=ogGitn">二手房贵过新房 陆楼市调控下出现房价倒挂 2017-03-31 04:25</a><br/>大陆开启新一轮楼市调控，部分热点城市出现二手房贵过新房的“价格倒挂”现象，部分房企封盘不卖，或进一步推高楼价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815516&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-31 04:03</a><br/>3月28日，根据大陆澎湃新闻从多个官方渠道证实，湖南基础建设投资集团有限公司（下称〝湖南基建投资集团〞）党委书记、董事长彭旭峰已〝失联〞，其上任还不到一个月。此前，他曾任长沙市住建委副主任，2010年，兼任长沙轨道交通集团党委副书记、董事长；2013年，被免去长沙市住建委副主任职务，专任长沙轨道交通集团党委书记、董事长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815514&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-31 03:57</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和〝真善忍〞的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815515&from=ogGitn">“空手套白狼” 朱镕基之子笑指安邦CEO吴小晖 2017-03-31 03:55</a><br/>“你这是空手套白狼”“天上掉馅儿饼的事怎么不掉我的头上”，中金公司原CEO朱云来用“大白话”回应安邦集团董事长吴小晖。3月26日，在博鳌亚洲论坛中，两人的一场公开对话引外界关注。朱云来是前中共总理朱镕基之子，吴小晖是邓小平外孙女婿。</td></tr>
 </table>
