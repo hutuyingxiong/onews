@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 06:33</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815796&from=ogGitn">三门峡两任书记互咬被查 陆媒曝权斗黑幕 2017-04-03 06:24</a><br/>三门峡市市委书记杨树平与市长赵海燕，两人几乎水火不容，各自都曾向上级举报对方，结果双双落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815797&from=ogGitn">【禁闻】朴槿惠被收监 陆民叹：中国体制不行 2017-04-03 05:32</a><br/>朴槿惠被检方逮捕，她也由此成为首位被弹劾下台、并被关进监狱的国家最高领导人。中国民众纷纷把朴槿惠落马事件与中国对比，最后得出的结论是：中国体制不行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815566&from=ogGitn">韩智库：朝鲜拥千架无人机 可发动生化恐袭 2017-03-31 11:25</a><br/>韩国智库表示，朝鲜拥有约1,000架无人机，除了可以对韩国进行侦测，更可以发动生化攻击，带来严重国防威胁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815558&from=ogGitn">暗指中共是邪教 河北官员被免人大代表 2017-03-31 11:16</a><br/>中共河北省人大30日发布公告称，左春和已请辞省人大代表职务。此前，左春和因发文讽刺毛泽东，并暗指中共是邪教组织，在今年年初被免去石家庄市文化广电新闻出版局副局长职务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815526&from=ogGitn">【禁闻】法国华人被枪杀 山东民众感叹 2017-03-31 10:38</a><br/>3月26号，一名56岁的华人男子刘少尧在他巴黎19区的家中被警方击毙，引发法国华人不满，连续几天上街头抗议。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815548&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-03-31 10:34</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 </table>
