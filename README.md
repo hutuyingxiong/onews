@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿  曾伟4年未敢回国 2017-04-02 10:10</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815735&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-02 09:14</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815723&from=ogGitn">中纪委约谈曾庆红兄弟 称问题〝很严重〞提出4要求 2017-04-02 04:41</a><br/>曾庆红和曾庆淮两兄弟家族的贪腐已海内外皆知。港媒消息，中纪委和中组部日前约谈二人，称他们问题很严重，要求二兄弟〝配合调查〞，〝放弃幻想〞，并动员境外亲属回国交代问题，〝争取宽大〞。此前，曾庆红也曾多次被约谈。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815496&from=ogGitn">谢天奇：胡锦涛露面释2信号 习王总攻上海帮江家族 2017-03-31 01:45</a><br/>中共两会之后，习当局加强楼市调控与金融监管，密集调整20多名省级高官，接连审判天津市公安局前局长武长顺、广东省公安厅前党委副书记蔡广辽、辽宁省政法委前书记苏宏章等政法高官，加速清洗内蒙、湖南、新疆等江派窝点及江派常委刘云山主管的文宣系统。在此大规模清洗、震慑背景之下，习阵营针对上海帮及江泽民家族展开了新一轮围剿行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815504&from=ogGitn">中共〝山寨〞导弹抢占市场 俄官员揭中俄军火交易命门 2017-03-31 01:42</a><br/>俄媒指中共仿造俄罗斯战术导弹，向国际市场推销，将会抢走俄武器销售市场。一名俄罗斯高级官员曾表示，中共的仿制问题是最让俄罗斯头疼的，俄罗斯在同中共的军火交易中，极力避免先进武器被中共仿制，比如焊死发动机。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815495&from=ogGitn">传江苏副省长杨岳跳楼 官方未回应 贴文遭删 2017-03-31 01:16</a><br/>杨岳被视为团派新星，其仕途一向被外界看好。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815494&from=ogGitn">调控加码 地价高涨 大陆房地产市场很尴尬 2017-03-31 00:55</a><br/>大陆3月份调控楼市的城市超过30个，包括限购限贷、认房又认贷等。但是，调控楼市的同时，土地出让价格依然高企，近日广州、杭州、上海等城市又出现高价地。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815517&from=ogGitn">美中正式确认川习会晤 朝核或是会谈焦点 2017-03-31 00:00</a><br/>白宫周四（30日）确认说，美国总统川普（特朗普）将于4月6日和7日与中国国家主席习近平进行首次会晤，会面地点将为佛州棕榈滩的马尔拉歌庄园（也称海湖庄园）。中方也在周四就川习会面时间给予证实。</td></tr>
 </table>
