@@ -2,6 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815781&from=ogGitn">颜丹：县政府当〝老赖〞不仅是信用问题 2017-04-03 02:17</a><br/>近日，大陆一个名为〝金融深度〞的微信公众号发布了一份不同寻常的〝老赖名单〞。名单上的〝老赖〞并不是普通人，而是分布在中国各地的20个市、区县的政府。不差钱的政府会当上〝老赖〞，这恐怕令人始料未及。然而，更值得一提的是，从它们所牵涉的案件中却不难发现，其行为早已超越了〝老赖〞的界限。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815780&from=ogGitn">周晓辉：四省书记更换 两大问题解决中 2017-04-03 02:09</a><br/>4月1日，中共官方媒体连续报导四省书记日前已被更换，即王宪魁不再担任黑龙江省委书记，由张庆伟接任；刘赐贵任海南省委书记，罗保铭卸任；林铎任甘肃省委书记，王三运卸任；刘家义任山东省委书记，姜异康卸任。对于卸任的四省书记的去向，官媒没有提及，但从其表述仍称他们为〝同志〞来看，按照惯例，他们应去全国人大任闲职。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815779&from=ogGitn">子新：从近期河北法轮功学员无罪获释说起 2017-04-03 01:58</a><br/>二零一七年一月八日，河北邯郸武安市检察院撤消对武安市法轮功学员白晶杰的起诉。在经历了五个月的冤狱后，白晶杰被无罪释放。这是自二零一三年二月二日，武安市检察院和武安市法院无罪释放法轮功学员王洪亮后，武安市无罪释放法轮功学员的第二个案例。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815778&from=ogGitn">佚名：人 为什么会坏到这个地步 2017-04-03 01:52</a><br/>不过这本书倒是一点不枯燥，至少我看着不枯燥，几乎是一口气读完的。当然了，读完以后，能被牢牢记住的还是一些具体的、生动的细节。这些细节让我既震动，又好奇。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815777&from=ogGitn">陈思敏：债留山东 姜异康尽得张高丽真传 2017-04-03 01:48</a><br/>在姜异康卸任之际，山东模板的债务崩盘也来到临界点。民间高利贷方面，特别是官黑勾结的高利贷，背后是民营中小实体企业靠此强撑的残酷现况。区域金融风险方面，特别是大集团深陷债务泥潭，例如齐星集团欠债上百亿，靠地方当局牵头立〝公约〞，如天信集团进入破产重整，百亿债权酝酿打包转让，这些反映出的是山东有多少知名企业其实都是靠官方硬撑。不仅如此，据称，接下来可能也要全线崩盘的还有山东的煤矿和焦化产业。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815776&from=ogGitn">王友琴：摧毁日记的革命（上） 2017-04-03 01:41</a><br/>文革害死了以百万计的受难者的生命，毁坏了无数的书籍和文物。此外，文革还破坏了什么呢？不被注意或者未被意识到的一项是：文革摧毁了中国人的日记。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815775&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-03 00:59</a><br/>中国作家杜斌试图将厚重涂抹的历史撕开一角，让全世界的人看到在中国不能不面对的真实历史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815771&from=ogGitn">每日三退声明精选（2017/04/02） 2017-04-03 00:33</a><br/>我自愿退出共产党、共青团、少先队等中共各级组织，请大纪元作证，感谢您们多年来的无私贡献，有您们在，中国就有希望，一起加油！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815773&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-02 23:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
@@ -9,6 +15,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815768&from=ogGitn">山西民宅爆炸 九人死亡 疑似囤积炸药 2017-04-02 21:55</a><br/>爆炸发生在当地时间晚上10点28分，地点位于距离临汾市不足40公里的浮山县城内南环西路一处居民住宅楼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 19:41</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 18:43</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815782&from=ogGitn">上海前检察长陈旭被查内幕 2017-04-02 18:00</a><br/>从上海市检察院前检察长陈旭近日被调查，再到上海市公安局前政治部副主任郑万新日前被提起公诉，近期落马的上海官员几乎无一例外的“拔出萝卜带出泥”，背后都有江派重量级人物。种种信号表明上海“政法王”吴志明处境不妙。朝开会夕被查 上海“头号法枭”陈旭落马内幕中共“两会”前夕，当局“打虎”节奏加快。3月1日傍晚，中纪委网站发布消息，上海市检察院前检察长陈旭涉嫌...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815758&from=ogGitn">【翻墙必看】美国航母打击群将威慑朝鲜 2017-04-02 17:50</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815772&from=ogGitn">河北设雄安新区引楼市炒风 买家私下交易 2017-04-02 17:06</a><br/>河北设立雄安新区的消息一公布，立刻涌来大批买楼人士，炒高房价。雄县政府查封多个售楼站，宣布停止一切售楼行为。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 16:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
@@ -195,11 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815538&from=ogGitn">【快讯】朴槿惠被捕 31日凌晨被关进看守所 2017-03-31 06:48</a><br/>因亲信干政于3月10日遭弹劾下台的韩国前总统朴槿惠，在当地时间3月31 日凌晨遭首尔中央地方法院裁定批捕。随后朴槿惠被检方逮捕，成为韩国第三位被批捕的前总统。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815539&from=ogGitn">【禁闻】3月30日退党精选 2017-03-31 06:45</a><br/>湖北的秦基秀写了300多字的退党声明，由于节目时间关系，今天的退党精选，我们来看他的声明节选。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815555&from=ogGitn">沪“政法王”副手被起诉 川公安高官被查处 2017-03-31 06:34</a><br/>日前，中共四川省公安厅原副厅级侦察员何宗志被开除党籍并移送司法；上海“政法王”吴志明的前副手郑万新以涉嫌贪污、受贿等罪被提起公诉。近期习近平当局持续清洗中共政法系统。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815536&from=ogGitn">石涛：聂树斌案获国家赔偿 江泽民鬼般露面祭祖？ 2017-03-31 06:16</a><br/>有人说武长顺可不止弄了５个亿，有几十个亿，其实多少亿都无所谓。武长顺还是周永康这条线上的，红二代干这个有的是，从他们当爹那辈进了城都换女人，因为他们都在法律之上，国家是人家建的。北大天才肖建华看不起这些红二代和官二代的孩子们，他自己弄了几十个女人，生了那么多孩子，这是被抓了，大家知道了，还有多少大家不知道了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815533&from=ogGitn">【禁闻】3月30日维权动态 2017-03-31 05:58</a><br/>八千越战老兵扫墓 中共发紧急通知；黑龙江四千被辞退教师省信访局维权；上海访民无故被关黑监狱和行政拘留；内蒙访民被判2年半 当庭提上诉。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815530&from=ogGitn">【禁闻】违反联合国决议 中共仍进口朝鲜矿产 2017-03-31 05:45</a><br/>美国之音3月30号报导，中国继续违反联合国决议进口朝鲜矿产。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815529&from=ogGitn">【禁闻 】商丘政府强拆打死人 村民抬尸抗议 2017-03-31 05:44</a><br/>商丘政府强拆打死人 村民抬尸抗议;海外学者吁中共当局允许冯崇义离境。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815568&from=ogGitn">健康人被强行注射精神病药物—朱桂林的遭遇 2017-03-31 05:27</a><br/>一个健康人被注射了精神病药物后是什么感受？ 湖南省常德石门县的朱桂林女士经历了这样的人间惨剧。以下是她在控告江泽民书中讲诉的亲身经历：</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815525&from=ogGitn">【禁闻】武长顺过堂受审  创纪录背后有含义？ 2017-03-31 05:26</a><br/>有着〝津门武爷〞之称的武长顺，3月29号在河南郑州中级法院过堂受审，被控贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六项罪名，涉案金额超过5.38亿元，创下十八大以来落马官员的最高记录。头发花白的武长顺当庭认罪。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815531&from=ogGitn">习启动“雷霆行动”布控十九大 广东有大动作 2017-03-31 05:12</a><br/>中共两会期间，习当局启动为期六个月的“雷霆行动”，粤、港、澳三地联手扫黑。最新消息指，广东70多个涉黑犯罪团伙已被查处。</td></tr>
 </table>
