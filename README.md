@@ -3,11 +3,13 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815771&from=ogGitn">每日三退声明精选（2017/04/02） 2017-04-03 00:33</a><br/>我自愿退出共产党、共青团、少先队等中共各级组织，请大纪元作证，感谢您们多年来的无私贡献，有您们在，中国就有希望，一起加油！</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815773&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-02 23:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815769&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-02 22:27</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者、作家、纪录片制作人，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815768&from=ogGitn">山西民宅爆炸 九人死亡 疑似囤积炸药 2017-04-02 21:55</a><br/>爆炸发生在当地时间晚上10点28分，地点位于距离临汾市不足40公里的浮山县城内南环西路一处居民住宅楼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 18:43</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 18:41</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815758&from=ogGitn">【翻墙必看】美国航母打击群将威慑朝鲜 2017-04-02 17:50</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815772&from=ogGitn">河北设雄安新区引楼市炒风 买家私下交易 2017-04-02 17:06</a><br/>河北设立雄安新区的消息一公布，立刻涌来大批买楼人士，炒高房价。雄县政府查封多个售楼站，宣布停止一切售楼行为。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 16:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815750&from=ogGitn">河北血癌幼儿无钱手术   父亲绝望欲捐儿器官 2017-04-02 15:08</a><br/>河北29岁的宋洋洋，为给患血癌的儿子治病耗尽家资，还欠债几十万。近日医院称找到合适的骨髓配型，但需数十万手术费，宋洋洋表示如实在筹不到钱，走到绝望那一步，就将儿子的器官捐献回馈社会，感谢那些资助过他的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815754&from=ogGitn">山东少年遭围殴被逼用手抓大便 2017-04-02 14:53</a><br/>扇耳光、用脚踢、让其下跪、喊爷爷、并让他抓屎扔到房顶上??山东德州4名高个子男生围殴一名小个学生，该殴打视频被上传网络。事件虽引警方介入，但最后仍是以道歉、教育草草了结。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815531&from=ogGitn">习启动“雷霆行动”布控十九大 广东有大动作 2017-03-31 05:12</a><br/>中共两会期间，习当局启动为期六个月的“雷霆行动”，粤、港、澳三地联手扫黑。最新消息指，广东70多个涉黑犯罪团伙已被查处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815518&from=ogGitn">买墓地也要看户籍！苏州出台全国首个限购令 2017-03-31 05:02</a><br/>苏州墓地竟比地产还火？今年清明节前夕，苏州当局出台了全国首个“墓地限购令”：非苏州本地户籍，不能在苏州买墓地。人民日报外海版援引分析人士认为，这主要是为了把上海人挡在门外。而民众则感叹：这是现实版的死无葬身之地</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815520&from=ogGitn">习近平为何批准四川建民国中将俞大维陵园 2017-03-31 04:56</a><br/>已故中华民国前国防部长、陆军中将俞大维的部分骨灰安放在四川成都大邑建川博物馆。最新消息称，经俞大维的侄孙、中共政治局常委俞正声申请，习近平批准将俞大维在四川的墓碑扩建为陵园。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815524&from=ogGitn">3月30日全球看中国 2017-03-31 04:54</a><br/>新疆对蓄长须、穿蒙面罩袍者颁布新禁令;悉尼科技大学副教授冯崇义之女冯云思呼吁让其父返回澳洲;恒大宣布去杠杆化计划;中国石油2016年净利润大跌78%。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815528&from=ogGitn">辱母杀人案反常发酵 政法学者：3政治因素或涉曾庆红 2017-03-31 04:42</a><br/>山东辱母杀人案引发网路沸腾，中共最高检介入调查。美媒揭露案件背后经济混乱和官匪勾结放贷的黑幕。前中共体制内学者指，官方反常允许此案持续发酵，背后必有政治原因，或涉习近平对山东官场或公安部的清洗，波及曾庆红。</td></tr>
 </table>
