@@ -13,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815731&from=ogGitn">极致命毒品在美国扩散 源头是中国地下工厂 2017-04-02 04:37</a><br/>全美染上芬太尼（fentanyl）毒瘾的人数越来越多，美国执法单位表示，来自中国大陆地下工厂的供应，加剧全美芬太尼成瘾问题的恶化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815738&from=ogGitn">“五腐上将”先后落马 中共军队尚能战否 2017-04-02 04:17</a><br/>中共十八大以来，已有徐才厚、郭伯雄、田修思、王建平、王喜斌等“五腐上将”，及一大批中将、少将先后被查，引发外界对中共军队“尚能战否”的质疑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815726&from=ogGitn">周晓辉：四省书记更换 两大问题解决中 2017-04-02 03:40</a><br/>下一步的看点将是上海、北京的高层更换和江氏家族的命运，而从最新四省书记被更换看，阻碍变革的两个关键性问题仍处于进行时，但在中共十九大前，或见分晓。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815717&from=ogGitn">王林徒弟被杀焚尸细节曝光 家属索赔3亿 2017-04-02 03:36</a><br/>王林弟子邹勇被黄钰刚、刘锋、朱理通等人打死、焚尸灭迹的详细细节日前曝光。邹勇案代理律师徐振武披露，家属提交索赔3亿元的诉状。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815719&from=ogGitn">3大敏感议题等待川习会 川普调查贸易逆差有玄机？ 2017-04-02 03:23</a><br/>习近平与川普4月6日的首次会晤，成了全世界的焦点。外界关注，贸易政策、南海、朝核及萨德问题等等，都可能成为此次川习会的敏感议题。日前，川普下令调查美国巨额贸易逆差的原因，也被认为与川习会将谈及的中美贸易有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815715&from=ogGitn">颜丹：县政府当“老赖”不仅是信用问题 2017-04-02 02:56</a><br/>“一党独裁”的体制不解体，我们也只能对这些想贪就贪、贪完不必负责的“老赖”呵呵了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815718&from=ogGitn">千吨货船撞击广东莲溪大桥 桥身横移1米网友惊心 2017-04-02 02:44</a><br/>载有千吨货物的轮船，通过大桥时撞到了桥墩，导致桥身横移了一米以上，桥上铺设的自来水管因此破裂。</td></tr>
@@ -30,7 +31,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815721&from=ogGitn">朴槿惠被捕后 吃1美元牢饭 住12平米牢房 2017-04-01 23:03</a><br/>韩国前总统朴槿惠3月31日被送往位于京畿道义王市的首尔拘留所，过上了拘留所生活。她住在12平方米的牢房里，只能吃到价值1.3美元（约9元人民币）的简单午餐，包括白饭配豆芽菜、泡菜、炖包心菜与海带。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815702&from=ogGitn">宗教监控升级 浙江教堂遭强装监控 2017-04-01 22:53</a><br/>浙江温州平阳、乐清等地的基督教堂，一周以来被当地政府人员强制安装监控设备，抵抗的信徒遭到殴打或是关押。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815701&from=ogGitn">陆企环保数据造假 民斥官纵容 2017-04-01 22:50</a><br/>大陆民间环保人士吴立红说，企业污染数据造假问题已经持续了几十年，他们一直都是用假数据来糊弄老百姓。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815717&from=ogGitn">王林徒弟被杀焚尸细节曝光 家属索赔3亿 2017-04-01 22:36</a><br/>王林弟子邹勇被黄钰刚、刘锋、朱理通等人打死、焚尸灭迹的详细细节日前曝光。邹勇案代理律师徐振武披露，家属提交索赔3亿元的诉状。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815699&from=ogGitn">辽宁人大贿选案 41名涉案官员获刑 2017-04-01 21:45</a><br/>近日，辽宁密集处理涉贿选案的腐败官员，除了  之外，还有41人在选举中共全国人大代表时，涉拉票贿选人员被判刑，其中，9人还涉贪污、受贿、行贿犯罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 20:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815698&from=ogGitn">十九大前清洗江派窝点 四省省委书记被免职 2017-04-01 20:15</a><br/>中共“十九大”前，地方高层人事密集调整，多省书记换人。4月1日，刘赐贵、林铎、张庆伟分别任海南、甘肃、黑龙江省委书记，罗保铭、王三运、王宪魁被免职；范锐平升任成都市委书记。外界注意到，这三省一市的官场都是江派窝点，近年来被持续清洗。</td></tr>
