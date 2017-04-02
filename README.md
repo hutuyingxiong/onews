@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815723&from=ogGitn">中纪委约谈曾庆红兄弟 称问题〝很严重〞提出4要求 2017-04-02 04:41</a><br/>曾庆红和曾庆淮两兄弟家族的贪腐已海内外皆知。港媒消息，中纪委和中组部日前约谈二人，称他们问题很严重，要求二兄弟〝配合调查〞，〝放弃幻想〞，并动员境外亲属回国交代问题，〝争取宽大〞。此前，曾庆红也曾多次被约谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815726&from=ogGitn">周晓辉：四省书记更换 两大问题解决中 2017-04-02 03:40</a><br/>下一步的看点将是上海、北京的高层更换和江氏家族的命运，而从最新四省书记被更换看，阻碍变革的两个关键性问题仍处于进行时，但在中共十九大前，或见分晓。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815494&from=ogGitn">调控加码 地价高涨 大陆房地产市场很尴尬 2017-03-31 00:55</a><br/>大陆3月份调控楼市的城市超过30个，包括限购限贷、认房又认贷等。但是，调控楼市的同时，土地出让价格依然高企，近日广州、杭州、上海等城市又出现高价地。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815517&from=ogGitn">美中正式确认川习会晤 朝核或是会谈焦点 2017-03-31 00:00</a><br/>白宫周四（30日）确认说，美国总统川普（特朗普）将于4月6日和7日与中国国家主席习近平进行首次会晤，会面地点将为佛州棕榈滩的马尔拉歌庄园（也称海湖庄园）。中方也在周四就川习会面时间给予证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815489&from=ogGitn">林辉：〝美猴王〞父亲钻狗洞伯父被摧残致死 2017-03-30 23:29</a><br/>在中国大陆，老版的电视连续剧《西游记》可谓是家喻户晓，而扮演〝美猴王〞孙悟空的六小龄童章金莱，更是以其灵动的表演，广为人知，迄今为止，尚无人能超越其扮演的孙悟空的形象。媒体披露，章金莱为此付出了巨大的努力。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815488&from=ogGitn">陈思敏：清除遗毒 重庆公安局长何挺是重点户 2017-03-30 23:26</a><br/>重庆市委书记孙政才3月21日指出〝〝全面彻底清除薄（薄熙来）、王（王立军）思想遗毒〞，这既是他在一个月之内的二次表态，也是他在接话中央巡视组〝回头看〞的反馈意见：〝重庆清除薄、王思想遗毒不彻底〞。</td></tr>
 </table>
