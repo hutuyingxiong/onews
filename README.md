@@ -2,8 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 14:45</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815749&from=ogGitn">冰毒8公斤子弹600发 大连现武装贩毒团伙 2017-04-02 14:17</a><br/>在中国大陆，横跨辽宁、广东等地有一条跨省贩毒链条。近日，17名贩毒嫌疑人在大连被抓获，同时被查获的还有8公斤冰毒，以及600余发子弹等物品。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿  曾伟4年未敢回国 2017-04-02 13:04</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815746&from=ogGitn">中共安徽党史网首页以九年前旧闻当新闻 2017-04-02 13:00</a><br/>近日，大陆传媒发现，中共安徽省委党史研究室主办的网站首页的一些栏目的资讯严重滞后，其中几日发布的置顶信息，具体内容竟为9年前的活动方案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千陆客美签被拒 无法赴夏威夷参加会议 2017-04-02 12:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815744&from=ogGitn">不止阮成发 中共高官公开场合频读错字 2017-04-02 11:39</a><br/>将“熠熠生辉”读成“习习生辉”、把“趋之若鹜”读成“趋之若鹰”……中共官场上“读错字”的官员不只有云南省长阮成发，连中共官媒也发文质问：“官员读错字，错的仅仅是字吗？”</td></tr>
