@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 14:45</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 15:18</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815750&from=ogGitn">河北血癌幼儿无钱手术   父亲欲绝望欲捐儿器官 2017-04-02 15:08</a><br/>河北29岁的宋洋洋，为给患血癌的儿子治病耗尽家资，还欠债几十万。近日医院称找到合适的骨髓配型，但需数十万手术费，宋洋洋表示如实在筹不到钱，走到绝望那一步，就将儿子的器官捐献回馈社会，感谢那些资助过他的人。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 15:06</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815749&from=ogGitn">冰毒8公斤子弹600发 大连现武装贩毒团伙 2017-04-02 14:17</a><br/>在中国大陆，横跨辽宁、广东等地有一条跨省贩毒链条。近日，17名贩毒嫌疑人在大连被抓获，同时被查获的还有8公斤冰毒，以及600余发子弹等物品。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815746&from=ogGitn">中共安徽党史网首页以九年前旧闻当新闻 2017-04-02 13:00</a><br/>近日，大陆传媒发现，中共安徽省委党史研究室主办的网站首页的一些栏目的资讯严重滞后，其中几日发布的置顶信息，具体内容竟为9年前的活动方案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千陆客美签被拒 无法赴夏威夷参加会议 2017-04-02 12:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815508&from=ogGitn">平源：官员非正常死亡现象不断 专制体制中人人自危 2017-03-31 02:49</a><br/>大陆媒体人“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815521&from=ogGitn">广西暴力强拆 监警大队防爆棍暴打村民 2017-03-31 02:33</a><br/>3月27日上午，广西贵港市覃塘区三里镇吉塘村长塘屯村民新建的养殖场，地方政府在没有任何文件和说法下就“被违拆”，村民阻止，遭到20多个监警大队人员，以防暴棍暴打，致多人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815510&from=ogGitn">袁斌：〝辱母杀人案〞与中国基层乱象 2017-03-31 02:26</a><br/>随着山东聊城〝辱母杀人案〞的不断发酵，越来越多与此案有关的内情被曝光和挖出，它们从不同的层面折射了当今中国基层社会的乱象。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815507&from=ogGitn">谢天奇：宋祖英丈夫不妙 习清洗湖南文宣一箭双雕 2017-03-31 02:21</a><br/>3月27日，湖南前长沙市委常委、宣传部长张湘涛被审查；这是近一个月内的第6名落马湘官。3月28日，陆媒披露3月3日才履新湖南基建投资集团党委书记、董事长职务的彭旭峰已〝失联〞。此前，彭旭峰长期担任长沙市轨道交通集团有限公司党委书记、董事长职务。之前的3月10日，前湖南省委常委、宣传部部长张文雄也被调查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815506&from=ogGitn">陈思敏：复星高层异动 涉上海官场腐败 2017-03-31 02:18</a><br/>资本帝国中的复星系，其母公司上海复星集团，在3月28日深夜公告高层重大异动：自即日起，集团CEO梁信军、CFO丁国其双双辞职，且辞去所有职务。</td></tr>
 </table>
