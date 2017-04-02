@@ -14,6 +14,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815743&from=ogGitn">脱北者曝光金家王朝的秘密生意 2017-04-02 09:15</a><br/>目前居住在南韩首尔的脱北者金光镇，从前是朝鲜东北亚银行的一名经理，日前曝光十多年前为金家王朝从事的秘密生意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815735&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-02 09:14</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815753&from=ogGitn">子新：从近期河北法轮功学员无罪获释说起 2017-04-02 08:35</a><br/>随着法轮功学员的深入讲真相，越来越多的公检法司人员明白了法轮功真相，再加上目前公检法开始实施重大错案终身追责制，许多体制内人士出于自保，开始与江泽民邪恶集团迫害法轮功做出彻底切割。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815731&from=ogGitn">极致命毒品在美国扩散 源头是中国地下工厂 2017-04-02 04:37</a><br/>全美染上芬太尼（fentanyl）毒瘾的人数越来越多，美国执法单位表示，来自中国大陆地下工厂的供应，加剧全美芬太尼成瘾问题的恶化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815738&from=ogGitn">“五腐上将”先后落马 中共军队尚能战否 2017-04-02 04:17</a><br/>中共十八大以来，已有徐才厚、郭伯雄、田修思、王建平、王喜斌等“五腐上将”，及一大批中将、少将先后被查，引发外界对中共军队“尚能战否”的质疑。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815513&from=ogGitn">特勤局称习访美只有一站 川习匆匆会晤只为十九大？ 2017-03-31 02:58</a><br/>中美双方宣布川习会将于4月6日正式登场。美国特勤局消息指，习近平与川普在佛罗里达州的会面，是习此次访美唯一一站。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815508&from=ogGitn">平源：官员非正常死亡现象不断 专制体制中人人自危 2017-03-31 02:49</a><br/>大陆媒体人“北京李海”发布一则快讯：“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815752&from=ogGitn">英媒“爆汁小笼包”视频为何引发争议 2017-03-31 02:45</a><br/>伦敦都市消费指南杂志《Time Out London》在其脸书（Facebook）网页上传了一段视频，视频中显示一些食客在吃美食小笼包时试图先把它戳破，把里面的汤汁倒出来然后再吃。没想到这一做法引来了一些亚洲美食爱好者的不悦和批评。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815521&from=ogGitn">广西暴力强拆 监警大队防爆棍暴打村民 2017-03-31 02:33</a><br/>3月27日上午，广西贵港市覃塘区三里镇吉塘村长塘屯村民新建的养殖场，地方政府在没有任何文件和说法下就“被违拆”，村民阻止，遭到20多个监警大队人员，以防暴棍暴打，致多人受伤。</td></tr>
 </table>
