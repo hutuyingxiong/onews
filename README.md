@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815769&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-02 22:27</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815768&from=ogGitn">山西民宅爆炸 九人死亡 疑似囤积炸药 2017-04-02 21:55</a><br/>爆炸发生在当地时间晚上10点28分，地点位于距离临汾市不足40公里的浮山县城内南环西路一处居民住宅楼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 18:43</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 18:41</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
@@ -15,9 +16,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815744&from=ogGitn">不止阮成发 中共高官公开场合频读错字 2017-04-02 11:39</a><br/>将“熠熠生辉”读成“习习生辉”、把“趋之若鹜”读成“趋之若鹰”……中共官场上“读错字”的官员不只有云南省长阮成发，连中共官媒也发文质问：“官员读错字，错的仅仅是字吗？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815739&from=ogGitn">前中情局官员披露中美间谍战内幕 2017-04-02 11:32</a><br/>中共对渗透美国的间谍战，已不再局限招募华裔美国人，而是扩及其他美国公民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815740&from=ogGitn">逼江天勇“认罪” 湖南公安再出新花样 2017-04-02 11:31</a><br/>当局因为拿不出证明江天勇有罪的确凿证据，再出新花样，试图通过江的父母亲游说儿子认罪。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815735&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-02 10:14</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815723&from=ogGitn">中纪委约谈曾庆红兄弟 称问题〝很严重〞提出4要求 2017-04-02 10:00</a><br/>曾庆红和曾庆淮两兄弟家族的贪腐已海内外皆知。港媒消息，中纪委和中组部日前约谈二人，称他们问题很严重，要求二兄弟〝配合调查〞，〝放弃幻想〞，并动员境外亲属回国交代问题，〝争取宽大〞。此前，曾庆红也曾多次被约谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815743&from=ogGitn">脱北者曝光金家王朝的秘密生意 2017-04-02 09:15</a><br/>目前居住在南韩首尔的脱北者金光镇，从前是朝鲜东北亚银行的一名经理，日前曝光十多年前为金家王朝从事的秘密生意。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815735&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-02 09:14</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815753&from=ogGitn">子新：从近期河北法轮功学员无罪获释说起 2017-04-02 08:35</a><br/>随着法轮功学员的深入讲真相，越来越多的公检法司人员明白了法轮功真相，再加上目前公检法开始实施重大错案终身追责制，许多体制内人士出于自保，开始与江泽民邪恶集团迫害法轮功做出彻底切割。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815528&from=ogGitn">辱母杀人案反常发酵 政法学者：3政治因素或涉曾庆红 2017-03-31 04:42</a><br/>山东辱母杀人案引发网路沸腾，中共最高检介入调查。美媒揭露案件背后经济混乱和官匪勾结放贷的黑幕。前中共体制内学者指，官方反常允许此案持续发酵，背后必有政治原因，或涉习近平对山东官场或公安部的清洗，波及曾庆红。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815550&from=ogGitn">二手房贵过新房 陆楼市调控下出现房价倒挂 2017-03-31 04:25</a><br/>大陆开启新一轮楼市调控，部分热点城市出现二手房贵过新房的“价格倒挂”现象，部分房企封盘不卖，或进一步推高楼价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815516&from=ogGitn">周晓辉：湘国企董事长失联 牵出河南省长及靠山 2017-03-31 04:03</a><br/>3月28日，根据大陆澎湃新闻从多个官方渠道证实，湖南基础建设投资集团有限公司（下称〝湖南基建投资集团〞）党委书记、董事长彭旭峰已〝失联〞，其上任还不到一个月。此前，他曾任长沙市住建委副主任，2010年，兼任长沙轨道交通集团党委副书记、董事长；2013年，被免去长沙市住建委副主任职务，专任长沙轨道交通集团党委书记、董事长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815514&from=ogGitn">阚新州：伪造民意 中共欺世 2017-03-31 03:57</a><br/>一九九二年，法轮功开始在神州大地弘传，其神奇的祛病效果和〝真善忍〞的心法理念，受到人们的敬仰，短短几年，弘传到六十多个国家地区（现在传播到了一百多个国家和地区），得到褒奖议案上千项，修者多达亿万之众，对家庭和睦、提升民众道德、稳定社会秩序、促进国家文明，都起到了不可估量的正面作用，这是当初法轮功得到的真正的民情民意。</td></tr>
 </table>
