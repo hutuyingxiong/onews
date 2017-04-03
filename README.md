@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815841&from=ogGitn">深圳15岁少女厕所产子 弃垃圾桶后如常上班 2017-04-03 16:57</a><br/>深圳一名15岁的女孩，在自家厕所产下女婴，然后竟狠心将婴儿丢弃在垃圾桶内，当日入常上班。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815839&from=ogGitn">杭州多名接触冥纸市民铅中毒 2017-04-03 16:53</a><br/>清明节前夕，杭州市有医院接诊了多位铅中毒患者，原来祭祖焚烧的冥纸、“银元宝”中或含有大量铅锡合金与含铅颜料。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 16:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815836&from=ogGitn">陈思敏：“雄安新区”天津抢先北京表态的背后 2017-04-03 16:00</a><br/>4月1日官方公告，“以习近平为核心的中央”、国务院印发通知，决定设立“雄安新区”──范围涉及河北省雄县、容城、安新三县及周边部分区域，地处北京、天津、保定腹地。当此消息一出，做为腹地内的两大直辖市，天津抢先北京表态。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815596&from=ogGitn">谷春立白雪山 吉林宁夏两首虎同日受审 2017-03-31 20:31</a><br/>黑龙江、陕西两“首虎”分别受审。黑龙江哈尔滨市中级法院宣判，吉林省原副省长谷春立受贿罪获刑12年；陕西西安市中级法院一审开庭，审理了宁夏回族自治区原副主席白雪山受贿一案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815594&from=ogGitn">清理遗毒 天津政坛大调整 四新人进常委 2017-03-31 20:10</a><br/>在中共官方频发清除黄兴国、武长顺“遗毒”之际，天津高层持续震荡。近日，天津有四名市委常委履新，其动作之大，外界认为非常罕见。武长顺、黄兴国落马后，天津政坛开始大规模重建，大批官员被查处或被调离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815599&from=ogGitn">大陆各省上万失业教师罕见同日上访维权 2017-03-31 20:01</a><br/>近日，全国各地被辞退的“民代幼”教师纷纷到各自省份的信访局进行维权，要求官方改变当前不合理的待遇。这次罕见的维权行动被当地教师认为是维权史上人数最多，凝聚力最强，人心最齐的一次。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815592&from=ogGitn">台湾投资大陆比重太高 柯文哲：分散是对的 2017-03-31 18:53</a><br/>台北市长柯文哲3月31日在台北与新德里产业布局论坛上大力促销台北投资商机，他在论坛后表示，中国大陆占台湾对外投资的40%，比重太高，政府的分散政策是对的。</td></tr>
 </table>
