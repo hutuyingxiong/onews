@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">中国10万亿资金外流  特权阶层洗钱术曝光 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 18:11</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815852&from=ogGitn">深圳15岁女厕所产婴　丢垃圾桶后照常上班 2017-04-03 17:54</a><br/>中国大陆再现弃婴事件。</td></tr>
@@ -9,6 +10,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815846&from=ogGitn">湖南一工厂发生窒息中毒事故 致4死1伤 2017-04-03 17:49</a><br/>4月3日11时35分左右，湖南湘乡澳泉食品有限公司发生一起窒息中毒事故，导致4人死亡1人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815843&from=ogGitn">川护士错用注射器 致12幼儿接种疫苗量超5倍 2017-04-03 17:46</a><br/>近日，四川凉山德昌县六所镇发生一起因护士用错注射器，给12名幼儿接种疫苗超量5倍事件。目前，12名幼儿正在医院接受治疗并观察。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815847&from=ogGitn">〝老虎伤人〞怪谁？西安村民收钱  助游客翻墙入动物园 2017-04-03 17:42</a><br/>有游客坦言，刚翻入动物园就听到狮吼声，现在想起都害怕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815854&from=ogGitn">四川中学生没钱交保护费被打死 2017-04-03 17:35</a><br/>1号，太伏中学一名学生被打死的消息在网上传开。当天，泸县县委宣传部官方微信发布公告称：14岁赵姓学生在住宿楼外死亡。2号傍晚，再次发布公告称：该生损伤符合高坠伤特征，官方掩盖真相引发民愤，爆发警民冲突。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815842&from=ogGitn">恐丢官 大陆县长曝一天接待9批领导吃饭 2017-04-03 17:31</a><br/>“陪好领导，乌纱可保。”这个观念在中共庸腐体治下的各级官员中，已根深蒂固。大陆中部某县的一名王姓县长称，曾经一天执行过9拨领导。即使这样，还生怕没有侍候好上级丢了乌纱帽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815844&from=ogGitn">国土局长出国背死尸   陆媒揭外逃贪官众生相 2017-04-03 17:17</a><br/>俗语说〝法网恢恢，疏而不漏〞，不少中共贪官都印证了这句话。有些贪官虽逃至海外，免于法律制裁，可现实生活却给了他们一个深刻的教训。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815851&from=ogGitn">豆腐渣再现  武汉墓碑可徒手挖破 2017-04-03 17:11</a><br/>4月4号是中国传统的清明节，不少民众趁周末提前前往公墓扫墓祭祖。3号，有民众到武汉柏泉街长惠苑墓地祭拜先人，发现墓碑出现断裂、穿孔，甚至用手一抠就抠破。</td></tr>
@@ -19,7 +21,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815838&from=ogGitn">云南村民食草乌炖肉 致14人中毒2人死亡 2017-04-03 15:43</a><br/>云南楚雄元谋县一村民召集家人和亲属煮食草乌炖肉，结果导致14人中毒，其中有2名中毒者经抢救无效死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815845&from=ogGitn">重庆钢铁年报巨亏 黄奇帆丑闻被摆上台 2017-04-03 15:35</a><br/>前重庆市长黄奇帆治下的重庆钢铁股份有限公司（简称：重庆钢铁）2016年再次巨亏46.86亿元（人民币，下同）。黄奇帆之子涉嫌导致重钢严重亏损，而其却从中捞取数十亿黑钱的丑闻再被翻出。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">港媒：薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">传薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815831&from=ogGitn">传重庆公安局长何挺被调查 2017-04-03 15:11</a><br/>有报导说，中共重庆副市长、公安局长何挺目前正接受调查。不过，中共官方尚未有相关的报导证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815605&from=ogGitn">曾铮：真材实料的造假 2017-03-31 23:24</a><br/>今天看《外交家》上〝中国的器官移植问题〞这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：〝面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。〞看到这里我不禁连连点头，想起北京女子劳教所里一个〝真材实料〞的造假故事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815641&from=ogGitn">豫地方检察院伪证构陷 法轮功律师法庭激辩 2017-03-31 23:21</a><br/>2017年3月21日，河南省信阳市浉河区法院对法轮功学员丁长敏非法开庭。庭审中，公诉人公然作伪证、构陷当事人；辩护律师激辩，指出该案属明显错案，应予纠正。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815604&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 23:21</a><br/>3月30日，河南同力水泥董事长张伟落马。去年7月，同力水泥总经理尚达平被双规。至此，这家国有上市公司的总经理、董事长双双被查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815607&from=ogGitn">川普自曝川习会议题 所有敏感问题全上桌面 2017-03-31 22:55</a><br/>一系列中美关系中的敏感议题都将在川习会中摆上桌面。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815619&from=ogGitn">白宫谈川习会：两国有很多大事要做 2017-03-31 22:41</a><br/>美中双方30日证实，4月6日至7日，两国元首将在川普总统位于佛州棕榈滩的马阿拉歌庄园会晤。白宫表示，川普期待与习近平建立个人关系，并说美中之间需要解决贸易、南海和朝鲜等重大问题。</td></tr>
 </table>
