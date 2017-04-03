@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">慎入：四川中学生没交保护费   被校霸活活打死5楼抛下（视频） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815828&from=ogGitn">传曾庆红家族贪污四百亿 再次被中纪委约谈 2017-04-03 13:00</a><br/>有关中共江派二号人物曾庆红家族的不利消息频传。港媒最新报导说，曾庆红、曾庆淮兄弟再次遭到中纪委约谈，曾庆红家族被指在国内外敛财资产高达450亿人民币。据报，中纪委已完全掌握上述情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 11:40</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815818&from=ogGitn">〝山东辱母杀人案〞持续发酵 涉案警察被查 2017-04-03 11:30</a><br/>山东聊城当地暴力催债问题猖獗，政府公职人员参与其中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815817&from=ogGitn">石涛：川习会在即 强人政治趋向〝私人化〞？ 2017-04-03 11:22</a><br/>日本首相已经三次会面川普，其中有一次也是在川普私人庄园，两人打高尔夫球，一起吃饭，两人有这样的活动。我个人以为习近平要求在私人庄园会面有自己的考量。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815585&from=ogGitn">冯崇义遭限制离境 海外学者吁放行 2017-03-31 17:24</a><br/>30号，来自澳大利亚、美国、英国和香港的80多位学者，联名致信习近平、李克强，敦促释放冯崇义。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815579&from=ogGitn">中国单身人口近2亿 男女比例失衡持续恶化 2017-03-31 17:07</a><br/>近日,一份调查报告指出，中国逾13亿人口中，单身人数近2亿人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815578&from=ogGitn">辱母案判决引民愤：法官无情 法律不公 2017-03-31 16:52</a><br/>山东辱母杀人案近期被刷屏，数百万网民留言，为刺死辱母者被判无期徒刑的于欢鸣不平。而判决中法官的无情和法律的不公义引起民众群情激愤，诸多法学教授也指责当局量刑过重。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815595&from=ogGitn">A股高送转后大股东减持 “割韭菜”没商量 2017-03-31 16:51</a><br/>今年前三个月，大陆股市出现大规模减持，尤其是上市公司高送转推高股价后，大股东减持的情况，备受大陆股市众多散户关注。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815573&from=ogGitn">【翻墙必看】被枪毙的“毒贩”又活了？吓到法官 2017-03-31 16:26</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 </table>
