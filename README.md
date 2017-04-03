@@ -2,11 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815876&from=ogGitn">习近平访美前夕 709案家属致函美国总统川普 2017-04-04 03:22</a><br/>中国领导人习近平将于本周访问美国，与美国总统川普（特朗普）会面。中国大陆涉及709逮捕案的家属第三次给美国总统川普写信，呼吁美国总统关注中国的人权问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815875&from=ogGitn">游客进山拍〝开往春天的列车〞 先交〝买路钱〞 2017-04-04 02:55</a><br/>民间有句俗语〝靠山吃山，靠水吃水〞，意思是说，无论依山还是傍水，当地人都能从中找到生财之道。有大陆记者发现，傍山的居庸关村民也找到了〝生财〞的门路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815873&from=ogGitn">雄安楼市〝炒出炸弹〞？  县长带特警驱散抢购人群 2017-04-04 02:02</a><br/>当局宣布将在河北成立雄安新区，当地楼市随即陷入疯狂，楼价从四千暴涨到一万五。新区内三县紧急叫停房产交易，雄县副县长警告〝有可能炒出个炸弹〞。但各地买家依然蜂拥而至，携现金私下交易购房，容城县长亲自指挥特警驱散抢购人群。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815874&from=ogGitn">被阻离境学者冯崇义返澳与家人团聚 2017-04-04 01:58</a><br/>4月2日早晨，悉尼科技大学的中国问题专家冯崇义教授终于返回悉尼。他去中国大陆进行学术访问遭警方扣留不让出境，引起国际舆论、澳洲政府、他所在学校、澳洲民间团体的关注。中共官方称其配合了调查而允许他由广州登机回到澳洲悉尼，但前中共外交官陈用林认为该事件彰显了澳洲自由民主的胜利。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815872&from=ogGitn">泸州校园暴力案警民冲突升级  当局箝制舆论开始抓人（视频） 2017-04-04 00:51</a><br/>四川泸县太伏镇中学生赵鑫死于校园暴力，警方和学校欲强制火化死者遗体引发警民冲突。当局调集大量特警到现场镇压并抓捕反抗民众，事态进一步恶化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815869&from=ogGitn">〝三重大山〞挤压 雄安新区面临一大难题 2017-04-04 00:12</a><br/>愚人节当天，中共要在河北设立雄安新区的消息引起轰动效应。港媒文章指，该地区面临北京、天津和石家庄三重大山的挤压，以及阴霾的威胁，并不具备区域经济优势。相反，新区的设立不过是给炒房和地方官员腐败提供更多的空间。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815877&from=ogGitn">黑市交易猖獗 雄安新区房价恐疯涨 2017-04-03 23:12</a><br/>日前，中共中央发通知成立河北雄安新区，有大批炒房客开始在当地进行私下交易，目前雄安新区三个县都已经冻结全部房产过户。但雄安新区周边房价已经开始疯涨，若雄安新区放开限制，当地房价恐随即上涨。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815863&from=ogGitn">川习会前 人权组织吁川普关注李明哲案 2017-04-03 23:11</a><br/>前台湾太阳花学运和香港雨伞运动成员，2日呼吁美国总统川普（特朗普）关注中国人权问题，在川习会上敦促大陆方面释放在押台湾人权工作者李明哲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815866&from=ogGitn">渝〝采花大盗〞辣手摧花泡茶  网民：素质差 2017-04-03 22:09</a><br/>樱花盛开的时节，正是人们相约踏青的好时光。但是在重庆的樱花，却屡遭人们的破坏，被〝辣手摧花〞，是樱花树变得光秃秃的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815871&from=ogGitn">俄地铁爆炸恐袭 约60死伤 当局追捕2嫌犯 2017-04-03 21:44</a><br/>俄罗斯圣彼得堡地铁系统内两列列车发生爆炸，造成至少10人死亡，据俄罗斯当局的消息。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815654&from=ogGitn">【中国禁闻】3月31日完整版 2017-04-01 03:45</a><br/>美大学教授 邀法轮功进课堂；港府清算占中人士 评：无益林郑施政；李明哲被抓 外界忧陆扩大攻击NGO；零口供 加拿大公民孙茜仍遭非法批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815620&from=ogGitn">河南30余名中学生疑遭强迫卖淫 多人未满14岁 2017-04-01 03:40</a><br/>近日，河南曝出30余名女中学生疑遭强迫卖淫案，其中多人未满14岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815622&from=ogGitn">河南逾30未成年女生被迫卖淫 人大代表及企业家涉案 2017-04-01 03:34</a><br/>河南开封尉氏县爆出一宗骇人听闻的强迫卖淫案，当地30多名未成年初中女生受害，其中7名未满14岁。涉案人员包括当地人大代表及知名企业家。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815638&from=ogGitn">十九大人事换届正式启动 习近平改变一大规则 2017-04-01 02:40</a><br/>中纪委官员近日表示，今年将重点监督产生中共十九大代表、中央〝两委〞委员和省级领导班子的换届工作。分析称，这表明十九大党代表〝选举〞将开始，十九大人事筹备正式启幕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815621&from=ogGitn">112岁老中医养生之道 养生贵在养心 2017-04-01 02:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
 </table>
