@@ -2,13 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815866&from=ogGitn">渝〝采花大盗〞辣手摧花泡茶  网民：素质差 2017-04-03 22:09</a><br/>樱花盛开的时节，正是人们相约踏青的好时光。但是在重庆的樱花，却屡遭人们的破坏，被〝辣手摧花〞，是樱花树变得光秃秃的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 21:19</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁淫乱外 跟两落马国级高官干了啥事 2017-04-03 21:13</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 19:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815857&from=ogGitn">大陆女〝入殓师〞谈恐怖经历   死者突睁眼打隔 2017-04-03 19:21</a><br/>第一次为逝者擦粉底时，擦的过程中不经意竖着擦了一下……没想到逝者眼睛突然张开了，吓得她赶紧说〝对不起，对不起〞，然后轻轻地将他的眼部闭合。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:13</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815856&from=ogGitn">〝灵鸟〞小凤凰现身广东   古人视为祥瑞之鸟 2017-04-03 19:10</a><br/>被古代称为〝灵鸟〞、〝小凤凰〞的五色雀，近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。古人将其称作瑞鸟，认为是吉祥之鸟，预示祥瑞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">中国10万亿资金外流  特权阶层洗钱术曝光 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815860&from=ogGitn">新区设立前 河北雄县前县委书记吴亚飞落马 2017-04-03 18:18</a><br/>就在北京当局宣布河北设立雄安新区之前，中共河北省保定市雄县前县委书记吴亚飞落马。据报，吴可能事前已掌握新区开发的内幕消息获利，而被调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815861&from=ogGitn">河南灭门血案 入赘男杀妻家4口后自杀 2017-04-03 18:18</a><br/>河南发生灭门惨案。4月2日消息，驻马店一名61岁的男子持匕首捅死妻子，又捅伤岳母及妻子的两名孙女，事后男子自杀身亡。5人中仅有一名孙女生还，仍在抢救中。</td></tr>
@@ -27,12 +28,12 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815838&from=ogGitn">云南村民食草乌炖肉 致14人中毒2人死亡 2017-04-03 15:43</a><br/>云南楚雄元谋县一村民召集家人和亲属煮食草乌炖肉，结果导致14人中毒，其中有2名中毒者经抢救无效死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815845&from=ogGitn">重庆钢铁年报巨亏 黄奇帆丑闻被摆上台 2017-04-03 15:35</a><br/>前重庆市长黄奇帆治下的重庆钢铁股份有限公司（简称：重庆钢铁）2016年再次巨亏46.86亿元（人民币，下同）。黄奇帆之子涉嫌导致重钢严重亏损，而其却从中捞取数十亿黑钱的丑闻再被翻出。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">传薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">传薄熙来申请通话薄瓜瓜不果 询问与谷开来离婚又被拒 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815831&from=ogGitn">传重庆公安局长何挺被调查 2017-04-03 15:11</a><br/>有报导说，中共重庆副市长、公安局长何挺目前正接受调查。不过，中共官方尚未有相关的报导证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">慎入：四川中学生没交保护费 被校霸活活打死5楼抛下（视频） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815828&from=ogGitn">传曾庆红家族贪污四百亿 再次被中纪委约谈 2017-04-03 13:00</a><br/>有关中共江派二号人物曾庆红家族的不利消息频传。港媒最新报导说，曾庆红、曾庆淮兄弟再次遭到中纪委约谈，曾庆红家族被指在国内外敛财资产高达450亿人民币。据报，中纪委已完全掌握上述情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 12:45</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
@@ -110,7 +111,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815715&from=ogGitn">颜丹：县政府当“老赖”不仅是信用问题 2017-04-02 02:56</a><br/>“一党独裁”的体制不解体，我们也只能对这些想贪就贪、贪完不必负责的“老赖”呵呵了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815718&from=ogGitn">千吨货船撞击广东莲溪大桥 桥身横移1米网友惊心 2017-04-02 02:44</a><br/>载有千吨货物的轮船，通过大桥时撞到了桥墩，导致桥身横移了一米以上，桥上铺设的自来水管因此破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815722&from=ogGitn">大陆楼市泡沫难抑制 “首付贷”死灰复燃 2017-04-02 02:03</a><br/>中国大陆楼市又开启一轮调控，包括限购和限贷等措施在各城市开始实施。日前，中共央行行长周小川表态，将收紧货币政策。信贷收紧对炒房者是个打击，而能加杠杆催大楼市泡沫的“首付贷”，正在中介机构的包装下死灰复燃。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815716&from=ogGitn">中共出口发动机吹嘘逆转  俄军舰试用首航即趴窝 2017-04-02 01:50</a><br/>中共军工发动机一直是短板，多年依靠进口。近期，俄罗斯因国际制裁不得不购买中国产发动机，中共曾为此吹嘘“大逆转”。不过俄军舰装备中国产发动机后，首次试航就出现故障，俄当局后悔之余，对引进中国产发动机的俄罗斯公司予以处罚。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815716&from=ogGitn">中共出口发动机吹嘘〝逆转〞  俄军舰试用首航即趴窝 2017-04-02 01:50</a><br/>中共军工发动机一直是短板，多年依靠进口。近期，俄罗斯因国际制裁不得不购买中国产发动机，中共曾为此吹嘘“大逆转”。不过俄军舰装备中国产发动机后，首次试航就出现故障，俄当局后悔之余，对引进中国产发动机的俄罗斯公司予以处罚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815759&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-02 01:15</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815713&from=ogGitn">川习会 贸易汇率料成绕不开的话题 2017-04-02 00:22</a><br/>3月30日，美中双方正式宣布，川习会（习特会）将于4月6至7日进行。中共央行也在30日发布报告，为汇率变动释放信号。接着，川普（特朗普）总统31日签发行政命令，要求调查各国对美国贸易顺差的情况。因此，外界预计，贸易与汇率将成为美中之间无法避免的话题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815712&from=ogGitn">羽戈：愿未来的么宁律师 永远不会遇到曾经的么宁检察官 2017-04-02 00:04</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报导：〝此语一出，让在场所有旁听者一片哗然……〞（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾〝招待〞李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗然。只不过，有些人哗然于李庄嫖娼，有些人哗然于重庆当局构陷李庄嫖娼。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815627&from=ogGitn">一线城市房价高企 白领“逃离北上广” 2017-04-01 00:13</a><br/>3月31日，大陆有关人才流动分析报告显示，因一线城市房价高企等，白领“逃离北上广”初现端倪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815610&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 王岐山亲信〝看管〞 2017-03-31 23:45</a><br/>3月28日，甘肃媒体率先公布山东省委常委、常务副省长孙伟调任甘肃省委副书记的消息。随后，山东官方亦证实，孙伟已辞任山东省原职务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815609&from=ogGitn">袁斌：重庆当局为何封杀〝翻墙〞 2017-03-31 23:40</a><br/>曾几何时，〝与时俱进〞成了中共特别爱用来自我标榜的一个热词。撇开别的且不说，至少在网路监管这方面它倒还真是不折不扣的做到了这一点。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815612&from=ogGitn">巴黎华人遭枪杀 法国男上海遇袭 中法关系紧张 2017-03-31 23:37</a><br/>一名中国男子上周日（26日）晚间在巴黎遭法国警察枪杀，引发当地华人持续抗议。29日一名法国人在上海遭到袭击。中法两国关系紧张。</td></tr>
 </table>
