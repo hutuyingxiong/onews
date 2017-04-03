@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:03</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 06:54</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815890&from=ogGitn">【禁闻】4月3日维权动态 2017-04-04 06:27</a><br/>山东退休教授孙文广清明期间被旅游；逼江天勇〝认罪〞 江父再被录视频；北京独立参选人李美青 遭暴徒殴打；河南抗强拆自杀身亡 家属遭抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815887&from=ogGitn">【禁闻】4月3日退党精选 2017-04-04 06:24</a><br/>江苏淮安的张来福说：我是一名退伍老兵，深受中共〝成份论〞所害，对中共邪恶的历史有所了解，在得知了中共残酷发动六四事件屠杀请愿学生，以及发动邪恶的镇压法轮功，法轮大法是佛法修炼且已洪传世界后，深切认识到中共的邪恶，果断声明三退，从内心抹去邪党的铬印，为自己选择美好的未来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815889&from=ogGitn">【禁闻】中共设新区 雄安房价一夜飙10倍 2017-04-04 05:53</a><br/>中共设新区 雄安房价一夜飙10倍；免起诉 撤案 两法轮功学员回家。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815644&from=ogGitn">“公车腐败”盛行 江苏曝公车月修费1.4万元 2017-04-01 07:16</a><br/>大陆“公车腐败”盛行，公车私用、虚报燃油费、维修费、套取现金等乱像屡遭媒体曝光，却不见收敛。近日，江苏某妇幼保健所的一辆公车，被爆出“天价修理费账单”，仅一个月修理费就高达1.4万余元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815632&from=ogGitn">大陆独立纪录片《凶年之畔》亮相巴黎 2017-04-01 06:51</a><br/>正在巴黎举行的第39届法国国际真实电影节3月29日晚在巴黎市中心的Forum des Images 放映了中国纪录片导演的作品《凶年之畔》。影片展示出中国农民工群体权利意识的觉醒过程以及他们在维权努力中面对的压力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815640&from=ogGitn">【禁闻 】3月31日维权动态 2017-04-01 06:45</a><br/>获刑4年 陈云飞：判刑太轻将上诉；广西暴力强拆 警察防爆棍暴打村民；山东平度80业主 市府门前讨要血汗钱；抗强拆 湖南怀化三代人被抓走。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815636&from=ogGitn">1分钟内30轮报价 南京土地竞拍激烈 2017-04-01 06:42</a><br/>3月30日，南京市有8块土地出让，现场竞拍激烈。第一块出让的土地在1分钟内有30轮报价，最后有6块地达到出让最高限价，进入封顶摇号。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815642&from=ogGitn">【禁闻 】3月31日退党精选 2017-04-01 06:33</a><br/>中共所谓吸引优秀人士入党，但暗中却有歧视，今天的退党精选，我们来看许栋福的经历。</td></tr>
 </table>
