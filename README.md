@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:13</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815856&from=ogGitn">〝灵鸟〞小凤凰现身广东   古人视为祥瑞之鸟 2017-04-03 19:10</a><br/>被古代称为〝灵鸟〞、〝小凤凰〞的五色雀，近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。古人将其称作瑞鸟，认为是吉祥之鸟，预示祥瑞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">中国10万亿资金外流  特权阶层洗钱术曝光 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 18:11</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815608&from=ogGitn">林辉：山本五十六座机被击落与中美合作所 2017-03-31 23:31</a><br/>对于〝中美合作所〞的印象，中国人基本上是来自小说《红岩》以及根据其改编的电影《烈火中永生》和歌剧《江姐》。在小说、电影和歌剧中，它成为了〝美蒋罪行〞的代名词，是一个〝反共集中营〞。然而，大量史实表明，长期被中共丑化的〝中美合作所〞，实际上是二战期间中美两国建立的跨国军事情报合作机构，1943年日本海军舰队司令长官山本五十六座机被击落就有其功劳，可以说，它是中美关系史上一个亮点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815606&from=ogGitn">王友群：为了法轮功学员家人与其他中国人免于恐惧 2017-03-31 23:28</a><br/>最近，中国山东〝辱母杀人案〞，在中国大陆，在全世界华人中，在地球上一切有良知的人中，引发强烈反响，网上留言高达上亿次，微博评论多达150万条，几乎一边倒的控诉法院判决不公，官黑勾结，警察不作为。日前，〝新浪福建〞官方微博发起了一项〝认为判决是否合理〞的投票，在近2万名参与者中，认为不合理的比例高达91.5%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815605&from=ogGitn">曾铮：真材实料的造假 2017-03-31 23:24</a><br/>今天看《外交家》上〝中国的器官移植问题〞这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：〝面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。〞看到这里我不禁连连点头，想起北京女子劳教所里一个〝真材实料〞的造假故事。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815641&from=ogGitn">豫地方检察院伪证构陷 法轮功律师法庭激辩 2017-03-31 23:21</a><br/>2017年3月21日，河南省信阳市浉河区法院对法轮功学员丁长敏非法开庭。庭审中，公诉人公然作伪证、构陷当事人；辩护律师激辩，指出该案属明显错案，应予纠正。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815604&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 23:21</a><br/>3月30日，河南同力水泥董事长张伟落马。去年7月，同力水泥总经理尚达平被双规。至此，这家国有上市公司的总经理、董事长双双被查。</td></tr>
 </table>
