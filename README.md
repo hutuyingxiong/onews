@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">港媒：薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815831&from=ogGitn">传重庆公安局长何挺被调查 2017-04-03 15:11</a><br/>有报导说，中共重庆副市长、公安局长何挺目前正接受调查。不过，中共官方尚未有相关的报导证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 14:40</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
@@ -30,6 +32,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815794&from=ogGitn">【禁闻】资产证券化或大规模登场 你该买吗？ 2017-04-03 04:57</a><br/>大陆去年重启资产证券化，四大中共国有银行目前又加大了布局力度，各分行和民营银行则已经开始了资产证券化操作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815806&from=ogGitn">清华教授：大陆穷人被强制接受羞辱 2017-04-03 04:55</a><br/>清华大学社会学教授孙立平日前刊文披露，他的一个企业朋友有一次去南方出差，当地老板请他到洗脚城洗脚，令他目瞪口呆的是，服务的盲妹竟然用舌头舔脚。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815835&from=ogGitn">谢天奇：王岐山启动专案 曾庆红不利信号云集 2017-04-03 04:42</a><br/>姜异康与王宪魁被免职，山东等江派窝点被清洗，是习阵营围剿曾庆红及其家族的最新动作。曾庆红及其家族不利信号云集之际，习、王针对上海帮及江泽民家族的清洗行动也在紧锣密鼓地展开。种种迹象显示，十九大前夕，习阵营针对江泽民、曾庆红的终极“打虎”行动或正在酝酿之中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815790&from=ogGitn">江泽民集团瓜分中国经济内幕（1） 2017-04-03 04:37</a><br/>古今中外，人类的历史上从未出过像中共总书记江泽民这号人物。他无法无天，带领党员干部公然抢劫了归13亿中国人民所有的国家财富、迫害了一亿人的正信。他构造了一个以贪腐为纽带的庞大犯罪团伙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815824&from=ogGitn">万家文化被“弃壳” 股价大跌套牢散户 2017-04-03 04:21</a><br/>3月31日晚间，万家文化发布公告称，万家集团与龙薇传媒决定终止本次股份转让事项,龙薇传媒曾支付2.5亿元定金将被返还。万家文化股价到目前几近腰斩，那些高位跟进的散户已然被套牢。有迹象表明，此次收购失败与肖建华的“明天系”有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815812&from=ogGitn">【中国禁闻】4月2日完整版 2017-04-03 04:10</a><br/>十九大前人事大调整 四省书记易主；</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815588&from=ogGitn">除了藏赃款 中共贪官买房还有其它目的 2017-03-31 18:48</a><br/>中共贪官为了藏匿贪污来的巨额现金，竟专门买一幢别墅。除此之外，还有贪官买房，是为了金屋藏娇，甚至是倒手炒房获利。为了钱，贪官们可谓洋相百出。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815586&from=ogGitn">中俄同意对朝动武？联合国通过〝重大措施〞 2017-03-31 18:43</a><br/>必要情况下，将采取〝额外重大措施〞。有分析认为，这份措辞强硬的声明获得〝一致〞通过，意味着中、俄双方也赞成在关键时刻对朝动武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815591&from=ogGitn">辽宁夫妻吵架妻子出走  快递幼女丈夫拒收 2017-03-31 18:34</a><br/>辽宁大连金石滩一对年轻夫妻吵架之后，妻子快递幼女，遭丈夫拒收。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815590&from=ogGitn">江苏女医院产子胎盘被炖了汤 家属讨说法 2017-03-31 17:44</a><br/>院方告知，胎盘被医院的清洁工人拿回家炖了汤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815635&from=ogGitn">周晓辉：信号彰显 江侄子吴志明坐等被查 2017-03-31 17:31</a><br/>据官方媒体报导，调到学校后，郑万新首创的“轮训轮值、战训合一”的公安教育新机制“得到了中央政法委、教育部、公安部等各方面的充分肯定”。2009年6月，时任中共中央政治局常委、中央政法委书记的周永康在吴志明的陪同下，来到上海公安专科学校视察，听取了郑万新的汇报，并予以充分肯定。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815581&from=ogGitn">河南商丘强拆2死 数千村民连日游行 2017-03-31 17:25</a><br/>27号晚上，强拆人员闯进睢阳区庞庄村一对中年夫妇的家，夫妻俩因反抗强拆，丈夫被活活打死，其妻住院，一百多名村民连日抬尸游行到区政府讨说法，多人被捕。</td></tr>
 </table>
