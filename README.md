@@ -7,7 +7,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815857&from=ogGitn">大陆女〝入殓师〞谈恐怖经历   死者突睁眼打隔 2017-04-03 19:21</a><br/>第一次为逝者擦粉底时，擦的过程中不经意竖着擦了一下……没想到逝者眼睛突然张开了，吓得她赶紧说〝对不起，对不起〞，然后轻轻地将他的眼部闭合。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:13</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815856&from=ogGitn">〝灵鸟〞小凤凰现身广东   古人视为祥瑞之鸟 2017-04-03 19:10</a><br/>被古代称为〝灵鸟〞、〝小凤凰〞的五色雀，近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。古人将其称作瑞鸟，认为是吉祥之鸟，预示祥瑞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">中国10万亿资金外流  特权阶层洗钱术曝光 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815860&from=ogGitn">新区设立前 河北雄县前县委书记吴亚飞落马 2017-04-03 18:18</a><br/>就在北京当局宣布河北设立雄安新区之前，中共河北省保定市雄县前县委书记吴亚飞落马。据报，吴可能事前已掌握新区开发的内幕消息获利，而被调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 18:11</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
@@ -26,12 +26,12 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815838&from=ogGitn">云南村民食草乌炖肉 致14人中毒2人死亡 2017-04-03 15:43</a><br/>云南楚雄元谋县一村民召集家人和亲属煮食草乌炖肉，结果导致14人中毒，其中有2名中毒者经抢救无效死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815845&from=ogGitn">重庆钢铁年报巨亏 黄奇帆丑闻被摆上台 2017-04-03 15:35</a><br/>前重庆市长黄奇帆治下的重庆钢铁股份有限公司（简称：重庆钢铁）2016年再次巨亏46.86亿元（人民币，下同）。黄奇帆之子涉嫌导致重钢严重亏损，而其却从中捞取数十亿黑钱的丑闻再被翻出。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">传薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">传薄熙来申请通话薄瓜瓜不果 询问与谷开来离婚又被拒 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815831&from=ogGitn">传重庆公安局长何挺被调查 2017-04-03 15:11</a><br/>有报导说，中共重庆副市长、公安局长何挺目前正接受调查。不过，中共官方尚未有相关的报导证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">慎入：四川中学生没交保护费 被校霸活活打死5楼抛下（视频） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815828&from=ogGitn">传曾庆红家族贪污四百亿 再次被中纪委约谈 2017-04-03 13:00</a><br/>有关中共江派二号人物曾庆红家族的不利消息频传。港媒最新报导说，曾庆红、曾庆淮兄弟再次遭到中纪委约谈，曾庆红家族被指在国内外敛财资产高达450亿人民币。据报，中纪委已完全掌握上述情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 12:45</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
