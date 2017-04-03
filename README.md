@@ -4,12 +4,14 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 18:11</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815852&from=ogGitn">深圳15岁女厕所产婴　丢垃圾桶后照常上班 2017-04-03 17:54</a><br/>中国大陆再现弃婴事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815848&from=ogGitn">黑龙江公墓突现50米龙卷风　网民：莫大冤情怨气冲天 2017-04-03 17:50</a><br/>临近清明节，民众纷纷回乡扫墓祭祖。日前，网上传出短片，黑龙江大庆市公墓出现了一幕怪异现象，晴空万里之下，突然刮起一股50米高的〝龙卷风〞。有网友看后惊呼此地〝有莫大冤情？〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815846&from=ogGitn">湖南一工厂发生窒息中毒事故 致4死1伤 2017-04-03 17:49</a><br/>4月3日11时35分左右，湖南湘乡澳泉食品有限公司发生一起窒息中毒事故，导致4人死亡1人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815843&from=ogGitn">川护士错用注射器 致12幼儿接种疫苗量超5倍 2017-04-03 17:46</a><br/>近日，四川凉山德昌县六所镇发生一起因护士用错注射器，给12名幼儿接种疫苗超量5倍事件。目前，12名幼儿正在医院接受治疗并观察。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815847&from=ogGitn">〝老虎伤人〞怪谁？西安村民收钱  助游客翻墙入动物园 2017-04-03 17:42</a><br/>有游客坦言，刚翻入动物园就听到狮吼声，现在想起都害怕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815842&from=ogGitn">恐丢官 大陆县长曝一天接待9批领导吃饭 2017-04-03 17:31</a><br/>“陪好领导，乌纱可保。”这个观念在中共庸腐体治下的各级官员中，已根深蒂固。大陆中部某县的一名王姓县长称，曾经一天执行过9拨领导。即使这样，还生怕没有侍候好上级丢了乌纱帽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815844&from=ogGitn">国土局长出国背死尸   陆媒揭外逃贪官众生相 2017-04-03 17:17</a><br/>俗语说〝法网恢恢，疏而不漏〞，不少中共贪官都印证了这句话。有些贪官虽逃至海外，免于法律制裁，可现实生活却给了他们一个深刻的教训。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815851&from=ogGitn">豆腐渣再现  武汉墓碑可徒手挖破 2017-04-03 17:11</a><br/>4月4号是中国传统的清明节，不少民众趁周末提前前往公墓扫墓祭祖。3号，有民众到武汉柏泉街长惠苑墓地祭拜先人，发现墓碑出现断裂、穿孔，甚至用手一抠就抠破。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815841&from=ogGitn">深圳15岁少女厕所产子 弃垃圾桶后如常上班 2017-04-03 16:57</a><br/>深圳一名15岁的女孩，在自家厕所产下女婴，然后竟狠心将婴儿丢弃在垃圾桶内，当日入常上班。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815839&from=ogGitn">杭州多名接触冥纸市民铅中毒 2017-04-03 16:53</a><br/>清明节前夕，杭州市有医院接诊了多位铅中毒患者，原来祭祖焚烧的冥纸、“银元宝”中或含有大量铅锡合金与含铅颜料。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 16:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815604&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 23:21</a><br/>3月30日，河南同力水泥董事长张伟落马。去年7月，同力水泥总经理尚达平被双规。至此，这家国有上市公司的总经理、董事长双双被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815607&from=ogGitn">川普自曝川习会议题 所有敏感问题全上桌面 2017-03-31 22:55</a><br/>一系列中美关系中的敏感议题都将在川习会中摆上桌面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815619&from=ogGitn">白宫谈川习会：两国有很多大事要做 2017-03-31 22:41</a><br/>美中双方30日证实，4月6日至7日，两国元首将在川普总统位于佛州棕榈滩的马阿拉歌庄园会晤。白宫表示，川普期待与习近平建立个人关系，并说美中之间需要解决贸易、南海和朝鲜等重大问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815601&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-03-31 22:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815600&from=ogGitn">云南官场持续“换血” 宗国英任副省长 2017-03-31 22:02</a><br/>近期中共云南官场人事密集调整，31日再次通过数个人事任免事项，因天津港爆炸事故受处分的宗国英出任云南省副省长。</td></tr>
 </table>
