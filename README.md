@@ -2,11 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 08:55</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815797&from=ogGitn">【禁闻】朴槿惠被收监 陆民叹：中国体制不行 2017-04-03 08:33</a><br/>朴槿惠被检方逮捕，她也由此成为首位被弹劾下台、并被关进监狱的国家最高领导人。中国民众纷纷把朴槿惠落马事件与中国对比，最后得出的结论是：中国体制不行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-03 07:47</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815802&from=ogGitn">【禁闻】河南逾30未成年女被迫卖淫 官商涉案 2017-04-03 06:51</a><br/>大陆网络上最近爆出一宗大规模强迫卖淫案。一份被曝光的〝简要案情汇报〞显示，河南尉氏县警方在2月13号接获报案，经调查发现，从2015年至今，尉氏县30多名未成年中学生被胁迫与人发生关系，其中7人案发时未满14岁。据法制晚报记者求证，消息属实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 06:33</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815796&from=ogGitn">三门峡两任书记互咬被查 权斗黑幕曝光 2017-04-03 06:24</a><br/>三门峡市市委书记杨树平与市长赵海燕，两人几乎水火不容，各自都曾向上级举报对方，结果双双落马。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815808&from=ogGitn">【禁闻】凌源又有3600多人联名举报江泽民 2017-04-03 05:52</a><br/>凌源又有3600多人联名举报江泽民；被禁离境一周冯崇义返抵澳洲</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815800&from=ogGitn">【禁闻】十九大前人事大调整 四省书记易主 2017-04-03 05:52</a><br/>中共十九大前的人事调整，4月1号出现高潮，当天，中共官方媒体连续报导四省省委书记更换的消息。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815801&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-03 05:20</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
@@ -17,7 +19,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815787&from=ogGitn">一周大事解读：习王总攻上海帮 围剿三常委 2017-04-03 03:41</a><br/>上周（2017年第13周；3月26日至4月1日），习阵营密集动作围剿江泽民老巢上海，以及江派三常委张德江、刘云山、张高丽的老巢和势力地盘。江派政法高官被密集审判、查处。省级官场人事大调整，江派地方大员罗保铭、王三运、姜异康、王宪魁被免职，近20省市逾30名省级常委或副省长换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815793&from=ogGitn">比小说还离奇 禁书如何被中国人偷带出朝鲜 2017-04-03 03:15</a><br/>一本批评朝鲜政权的书，被中国游客偷运出朝鲜。协助偷运的人说，过程比小说情节还离奇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815788&from=ogGitn">大陆房价越调越高 楼市政策被指服务富人 2017-04-03 03:14</a><br/>近期中国大陆各地出台各种楼市调控政策，但中共央行官员表示，只调控需求端会使房价越来越高。更有学者直指大陆各类楼市政策都是在为富人服务。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 02:38</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815786&from=ogGitn">传毛泽东的“红颜知己”谢静宜去世 2017-04-03 02:32</a><br/>北京独立记者高瑜4月1日晚在微信上爆料，毛泽东红颜知己、身边的机要秘书谢静宜已去世，终年81岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815781&from=ogGitn">颜丹：县政府当〝老赖〞不仅是信用问题 2017-04-03 02:17</a><br/>近日，大陆一个名为〝金融深度〞的微信公众号发布了一份不同寻常的〝老赖名单〞。名单上的〝老赖〞并不是普通人，而是分布在中国各地的20个市、区县的政府。不差钱的政府会当上〝老赖〞，这恐怕令人始料未及。然而，更值得一提的是，从它们所牵涉的案件中却不难发现，其行为早已超越了〝老赖〞的界限。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815780&from=ogGitn">周晓辉：四省书记更换 两大问题解决中 2017-04-03 02:09</a><br/>4月1日，中共官方媒体连续报导四省书记日前已被更换，即王宪魁不再担任黑龙江省委书记，由张庆伟接任；刘赐贵任海南省委书记，罗保铭卸任；林铎任甘肃省委书记，王三运卸任；刘家义任山东省委书记，姜异康卸任。对于卸任的四省书记的去向，官媒没有提及，但从其表述仍称他们为〝同志〞来看，按照惯例，他们应去全国人大任闲职。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815565&from=ogGitn">湖南男童遭军刀刺穿头部 父亲寻医疗救助 2017-03-31 12:52</a><br/>湖南隆回县横板桥镇中心小学，九岁肖小弟24日在学校门口被校保安用军刀刺穿头部，经过90小时以上的抢救，虽然目前已经无生命危险，但意识尚未恢复。其父亲向媒体求助，希望有医疗设备较先进，医术高明的医师能接手肖小弟的医疗救治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815569&from=ogGitn">与台湾断交 美判2非洲国得还债64亿台币 2017-03-31 12:21</a><br/>由台湾财政部监管的“中国输出入银行”向美国法院控告，两非洲前友邦中非共和国及刚果民主共和国转承认北京政权，应偿还债务合计共2亿1,200美元（约新台币64亿元）获得胜诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815564&from=ogGitn">东莞一企业发生大爆炸 大火腾空数十米高 2017-03-31 12:17</a><br/>3月30日晚9时许，广东东莞市道滘镇大罗沙工业园临近河边的一家工厂，先是起火，随即发声大爆炸。爆炸威力强大，大火腾空而起，至少有数十米之高，照亮夜空，有附近居民称如核爆。目前暂未有人员伤亡报告。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815563&from=ogGitn">每日三退声明精选（2017/03/30） 2017-03-31 11:54</a><br/>邪恶共产党，害人没商量。表面说人话，暗里坏心肠。谁要相信它，保你准上当。我要远离它，邪恶共产党！</td></tr>
 </table>
