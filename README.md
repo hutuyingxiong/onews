@@ -2,7 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 08:55</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 09:40</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815789&from=ogGitn">黄奇帆重庆免职挂名人大内幕：中纪委审查与薄王关系 2017-04-03 09:20</a><br/>港媒称黄奇帆免职后曾接受中纪委和中组部的审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815797&from=ogGitn">【禁闻】朴槿惠被收监 陆民叹：中国体制不行 2017-04-03 08:33</a><br/>朴槿惠被检方逮捕，她也由此成为首位被弹劾下台、并被关进监狱的国家最高领导人。中国民众纷纷把朴槿惠落马事件与中国对比，最后得出的结论是：中国体制不行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-03 07:47</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815802&from=ogGitn">【禁闻】河南逾30未成年女被迫卖淫 官商涉案 2017-04-03 06:51</a><br/>大陆网络上最近爆出一宗大规模强迫卖淫案。一份被曝光的〝简要案情汇报〞显示，河南尉氏县警方在2月13号接获报案，经调查发现，从2015年至今，尉氏县30多名未成年中学生被胁迫与人发生关系，其中7人案发时未满14岁。据法制晚报记者求证，消息属实。</td></tr>
@@ -14,7 +15,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815794&from=ogGitn">【禁闻】资产证券化或大规模登场 你该买吗？ 2017-04-03 04:57</a><br/>大陆去年重启资产证券化，四大中共国有银行目前又加大了布局力度，各分行和民营银行则已经开始了资产证券化操作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815790&from=ogGitn">江泽民集团瓜分中国经济内幕（1） 2017-04-03 04:37</a><br/>古今中外，人类的历史上从未出过像中共总书记江泽民这号人物。他无法无天，带领党员干部公然抢劫了归13亿中国人民所有的国家财富、迫害了一亿人的正信。他构造了一个以贪腐为纽带的庞大犯罪团伙。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815789&from=ogGitn">黄奇帆重庆免职挂名人大内幕：中纪委审查与薄王关系 2017-04-03 04:20</a><br/>港媒称黄奇帆免职后曾接受中纪委和中组部的审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815812&from=ogGitn">【中国禁闻】4月2日完整版 2017-04-03 04:10</a><br/>十九大前人事大调整 四省书记易主；</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁曾随两落马国级高官干了哪些事 2017-04-03 04:02</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815787&from=ogGitn">一周大事解读：习王总攻上海帮 围剿三常委 2017-04-03 03:41</a><br/>上周（2017年第13周；3月26日至4月1日），习阵营密集动作围剿江泽民老巢上海，以及江派三常委张德江、刘云山、张高丽的老巢和势力地盘。江派政法高官被密集审判、查处。省级官场人事大调整，江派地方大员罗保铭、王三运、姜异康、王宪魁被免职，近20省市逾30名省级常委或副省长换人。</td></tr>
