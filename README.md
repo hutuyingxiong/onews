@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 18:11</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815848&from=ogGitn">黑龙江公墓突现50米龙卷风　网民：莫大冤情怨气冲天 2017-04-03 17:50</a><br/>临近清明节，民众纷纷回乡扫墓祭祖。日前，网上传出短片，黑龙江大庆市公墓出现了一幕怪异现象，晴空万里之下，突然刮起一股50米高的〝龙卷风〞。有网友看后惊呼此地〝有莫大冤情？〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815846&from=ogGitn">湖南一工厂发生窒息中毒事故 致4死1伤 2017-04-03 17:49</a><br/>4月3日11时35分左右，湖南湘乡澳泉食品有限公司发生一起窒息中毒事故，导致4人死亡1人受伤。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815619&from=ogGitn">白宫谈川习会：两国有很多大事要做 2017-03-31 22:41</a><br/>美中双方30日证实，4月6日至7日，两国元首将在川普总统位于佛州棕榈滩的马阿拉歌庄园会晤。白宫表示，川普期待与习近平建立个人关系，并说美中之间需要解决贸易、南海和朝鲜等重大问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815601&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-03-31 22:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815600&from=ogGitn">云南官场持续“换血” 宗国英任副省长 2017-03-31 22:02</a><br/>近期中共云南官场人事密集调整，31日再次通过数个人事任免事项，因天津港爆炸事故受处分的宗国英出任云南省副省长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815597&from=ogGitn">沪京蒙高层人事变动 四川秘书长任上海常委 2017-03-31 21:57</a><br/>中共十九大前，习近平当局持续调整地方大员。刚卸任四川省委秘书长的吴靖平等两人任上海市委常委，上海班子还有多位置待补；科学技术部副部长阴和俊任北京市委常委；乌兰察布市委书记艾丽华等两人任内蒙古自治区副主席。</td></tr>
 </table>
