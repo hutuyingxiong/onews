@@ -2,12 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815797&from=ogGitn">【禁闻】朴槿惠被收监 陆民叹：中国体制不行 2017-04-03 08:33</a><br/>朴槿惠被检方逮捕，她也由此成为首位被弹劾下台、并被关进监狱的国家最高领导人。中国民众纷纷把朴槿惠落马事件与中国对比，最后得出的结论是：中国体制不行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-03 07:47</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815802&from=ogGitn">【禁闻】河南逾30未成年女被迫卖淫 官商涉案 2017-04-03 06:51</a><br/>大陆网络上最近爆出一宗大规模强迫卖淫案。一份被曝光的〝简要案情汇报〞显示，河南尉氏县警方在2月13号接获报案，经调查发现，从2015年至今，尉氏县30多名未成年中学生被胁迫与人发生关系，其中7人案发时未满14岁。据法制晚报记者求证，消息属实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 06:33</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815796&from=ogGitn">三门峡两任书记互咬被查 权斗黑幕曝光 2017-04-03 06:24</a><br/>三门峡市市委书记杨树平与市长赵海燕，两人几乎水火不容，各自都曾向上级举报对方，结果双双落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815800&from=ogGitn">【禁闻】十九大前人事大调整 四省书记易主 2017-04-03 05:52</a><br/>中共十九大前的人事调整，4月1号出现高潮，当天，中共官方媒体连续报导四省省委书记更换的消息。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815797&from=ogGitn">【禁闻】朴槿惠被收监 陆民叹：中国体制不行 2017-04-03 05:32</a><br/>朴槿惠被检方逮捕，她也由此成为首位被弹劾下台、并被关进监狱的国家最高领导人。中国民众纷纷把朴槿惠落马事件与中国对比，最后得出的结论是：中国体制不行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815801&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-03 05:20</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815794&from=ogGitn">【禁闻】资产证券化或大规模登场 你该买吗？ 2017-04-03 04:57</a><br/>大陆去年重启资产证券化，四大中共国有银行目前又加大了布局力度，各分行和民营银行则已经开始了资产证券化操作。</td></tr>
@@ -41,6 +41,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815785&from=ogGitn">陈思敏：债留山东 姜异康尽得张高丽真传 2017-04-02 16:26</a><br/>因迫害法轮功被民间称为“江魔头”。所以跟随江泽民迫害的张高丽、姜异康，走到那里都成祸害、滋生恶债，债重如山。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815750&from=ogGitn">河北血癌幼儿无钱手术   父亲绝望欲捐儿器官 2017-04-02 15:08</a><br/>河北29岁的宋洋洋，为给患血癌的儿子治病耗尽家资，还欠债几十万。近日医院称找到合适的骨髓配型，但需数十万手术费，宋洋洋表示如实在筹不到钱，走到绝望那一步，就将儿子的器官捐献回馈社会，感谢那些资助过他的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815754&from=ogGitn">山东少年遭围殴被逼用手抓大便 2017-04-02 14:53</a><br/>扇耳光、用脚踢、让其下跪、喊爷爷、并让他抓屎扔到房顶上??山东德州4名高个子男生围殴一名小个学生，该殴打视频被上传网络。事件虽引警方介入，但最后仍是以道歉、教育草草了结。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815807&from=ogGitn">山西民宅内炸药爆炸 已致9死7伤 2017-04-02 14:20</a><br/>4月1日晚，山西省浮山县城内南环西路一处居民住宅楼发生爆炸，造成9人死亡、7人受伤。1日晚10时半左右，浮山县南环西路一幢民宅发生爆炸，现场一幢至少2层高的民宅被炸成两半，倒塌的一半压在路边汽车上；另一半则炸至外墙剥落，露出屋内结构及钢筋。据陆媒报导，截至2日11:05，找到10名被埋者，9人无生命体征、1人生还。事故还造成周边6人受轻伤。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815749&from=ogGitn">冰毒8公斤子弹600发 大连现武装贩毒团伙 2017-04-02 14:17</a><br/>在中国大陆，横跨辽宁、广东等地有一条跨省贩毒链条。近日，17名贩毒嫌疑人在大连被抓获，同时被查获的还有8公斤冰毒，以及600余发子弹等物品。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815755&from=ogGitn">新任上海副市长曾处理与江家族相关企业 2017-04-02 14:10</a><br/>日前被任命为上海副市长的许昆林，曾在中共发改委任职期间掀起反垄断调查及重罚美国在华企业，被调查的两电信巨头及高通公司都与江泽民家族密切相关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815746&from=ogGitn">中共安徽党史网首页以九年前旧闻当新闻 2017-04-02 13:00</a><br/>近日，大陆传媒发现，中共安徽省委党史研究室主办的网站首页的一些栏目的资讯严重滞后，其中几日发布的置顶信息，具体内容竟为9年前的活动方案。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815569&from=ogGitn">与台湾断交 美判2非洲国得还债64亿台币 2017-03-31 12:21</a><br/>由台湾财政部监管的“中国输出入银行”向美国法院控告，两非洲前友邦中非共和国及刚果民主共和国转承认北京政权，应偿还债务合计共2亿1,200美元（约新台币64亿元）获得胜诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815564&from=ogGitn">东莞一企业发生大爆炸 大火腾空数十米高 2017-03-31 12:17</a><br/>3月30日晚9时许，广东东莞市道滘镇大罗沙工业园临近河边的一家工厂，先是起火，随即发声大爆炸。爆炸威力强大，大火腾空而起，至少有数十米之高，照亮夜空，有附近居民称如核爆。目前暂未有人员伤亡报告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815563&from=ogGitn">每日三退声明精选（2017/03/30） 2017-03-31 11:54</a><br/>邪恶共产党，害人没商量。表面说人话，暗里坏心肠。谁要相信它，保你准上当。我要远离它，邪恶共产党！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815561&from=ogGitn">王岐山坐镇 传中共上万退休高官及亲属被限出境 2017-03-31 11:35</a><br/>随着中共十九大临近，习当局反腐持续深入。有消息说，当局已列出一万二千五百多名被查的离退休省部级军级高官及亲属被限制出境的名单。</td></tr>
 </table>
