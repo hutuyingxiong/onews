@@ -10,6 +10,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815860&from=ogGitn">新区设立前 河北雄县前县委书记吴亚飞落马 2017-04-03 18:18</a><br/>就在北京当局宣布河北设立雄安新区之前，中共河北省保定市雄县前县委书记吴亚飞落马。据报，吴可能事前已掌握新区开发的内幕消息获利，而被调查。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815861&from=ogGitn">河南灭门血案 入赘男杀妻家4口后自杀 2017-04-03 18:18</a><br/>河南发生灭门惨案。4月2日消息，驻马店一名61岁的男子持匕首捅死妻子，又捅伤岳母及妻子的两名孙女，事后男子自杀身亡。5人中仅有一名孙女生还，仍在抢救中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 18:11</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815852&from=ogGitn">深圳15岁女厕所产婴　丢垃圾桶后照常上班 2017-04-03 17:54</a><br/>中国大陆再现弃婴事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815848&from=ogGitn">黑龙江公墓突现50米龙卷风　网民：莫大冤情怨气冲天 2017-04-03 17:50</a><br/>临近清明节，民众纷纷回乡扫墓祭祖。日前，网上传出短片，黑龙江大庆市公墓出现了一幕怪异现象，晴空万里之下，突然刮起一股50米高的〝龙卷风〞。有网友看后惊呼此地〝有莫大冤情？〞。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815610&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 王岐山亲信〝看管〞 2017-03-31 23:45</a><br/>3月28日，甘肃媒体率先公布山东省委常委、常务副省长孙伟调任甘肃省委副书记的消息。随后，山东官方亦证实，孙伟已辞任山东省原职务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815609&from=ogGitn">袁斌：重庆当局为何封杀〝翻墙〞 2017-03-31 23:40</a><br/>曾几何时，〝与时俱进〞成了中共特别爱用来自我标榜的一个热词。撇开别的且不说，至少在网路监管这方面它倒还真是不折不扣的做到了这一点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815612&from=ogGitn">巴黎华人遭枪杀 法国男上海遇袭 中法关系紧张 2017-03-31 23:37</a><br/>一名中国男子上周日（26日）晚间在巴黎遭法国警察枪杀，引发当地华人持续抗议。29日一名法国人在上海遭到袭击。中法两国关系紧张。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815608&from=ogGitn">林辉：山本五十六座机被击落与中美合作所 2017-03-31 23:31</a><br/>对于〝中美合作所〞的印象，中国人基本上是来自小说《红岩》以及根据其改编的电影《烈火中永生》和歌剧《江姐》。在小说、电影和歌剧中，它成为了〝美蒋罪行〞的代名词，是一个〝反共集中营〞。然而，大量史实表明，长期被中共丑化的〝中美合作所〞，实际上是二战期间中美两国建立的跨国军事情报合作机构，1943年日本海军舰队司令长官山本五十六座机被击落就有其功劳，可以说，它是中美关系史上一个亮点。</td></tr>
 </table>
