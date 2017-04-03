@@ -34,6 +34,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815868&from=ogGitn">可口可乐大陆供应商宣布违约 一周内第4家 2017-04-03 14:19</a><br/>大陆最大的饮料瓶生产企业之一、珠海中富实业股份有限公司3月28日晚宣布，无法按期兑付其2012年中期票据的本息。这是大陆7天内，有4家企业相继违约，涉及总金额超过360亿（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815828&from=ogGitn">传曾庆红家族贪污四百亿 再次被中纪委约谈 2017-04-03 13:00</a><br/>有关中共江派二号人物曾庆红家族的不利消息频传。港媒最新报导说，曾庆红、曾庆淮兄弟再次遭到中纪委约谈，曾庆红家族被指在国内外敛财资产高达450亿人民币。据报，中纪委已完全掌握上述情况。</td></tr>
@@ -112,7 +113,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815715&from=ogGitn">颜丹：县政府当“老赖”不仅是信用问题 2017-04-02 02:56</a><br/>“一党独裁”的体制不解体，我们也只能对这些想贪就贪、贪完不必负责的“老赖”呵呵了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815718&from=ogGitn">千吨货船撞击广东莲溪大桥 桥身横移1米网友惊心 2017-04-02 02:44</a><br/>载有千吨货物的轮船，通过大桥时撞到了桥墩，导致桥身横移了一米以上，桥上铺设的自来水管因此破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815722&from=ogGitn">大陆楼市泡沫难抑制 “首付贷”死灰复燃 2017-04-02 02:03</a><br/>中国大陆楼市又开启一轮调控，包括限购和限贷等措施在各城市开始实施。日前，中共央行行长周小川表态，将收紧货币政策。信贷收紧对炒房者是个打击，而能加杠杆催大楼市泡沫的“首付贷”，正在中介机构的包装下死灰复燃。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815716&from=ogGitn">中共出口发动机吹嘘逆转  俄军舰试用首航即趴窝 2017-04-02 01:50</a><br/>中共军工发动机一直是短板，多年依靠进口。近期，俄罗斯因国际制裁不得不购买中国产发动机，中共曾为此吹嘘“大逆转”。不过俄军舰装备中国产发动机后，首次试航就出现故障，俄当局后悔之余，对引进中国产发动机的俄罗斯公司予以处罚。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815716&from=ogGitn">中共出口发动机吹嘘〝逆转〞  俄军舰试用首航即趴窝 2017-04-02 01:50</a><br/>中共军工发动机一直是短板，多年依靠进口。近期，俄罗斯因国际制裁不得不购买中国产发动机，中共曾为此吹嘘“大逆转”。不过俄军舰装备中国产发动机后，首次试航就出现故障，俄当局后悔之余，对引进中国产发动机的俄罗斯公司予以处罚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815759&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-02 01:15</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815713&from=ogGitn">川习会 贸易汇率料成绕不开的话题 2017-04-02 00:22</a><br/>3月30日，美中双方正式宣布，川习会（习特会）将于4月6至7日进行。中共央行也在30日发布报告，为汇率变动释放信号。接着，川普（特朗普）总统31日签发行政命令，要求调查各国对美国贸易顺差的情况。因此，外界预计，贸易与汇率将成为美中之间无法避免的话题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815712&from=ogGitn">羽戈：愿未来的么宁律师 永远不会遇到曾经的么宁检察官 2017-04-02 00:04</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报导：〝此语一出，让在场所有旁听者一片哗然……〞（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾〝招待〞李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗然。只不过，有些人哗然于李庄嫖娼，有些人哗然于重庆当局构陷李庄嫖娼。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815616&from=ogGitn">小海豚珠海街头被宰杀 残忍画面激怒网民 2017-04-01 01:17</a><br/>这么可爱的白海豚，怎么能下的去手？日前，有网民爆料，广东珠海有人猎杀海豚，并当街宰杀，场面血腥。该消息及图片迅速在网络传开，引发民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815613&from=ogGitn">王友群：迫害法轮功18年是当今中国一切乱象的总根源 2017-04-01 00:49</a><br/>最近，山东〝辱母杀人案〞在海内外引发强烈反响。2016年4月13日，苏银霞因欠高利贷，遭11名黑社会成员上门催债。儿子于欢在母亲苏银霞长时间受辱骂、甚至当面猥亵、报警警察不理之下，奋起反抗，捅伤4人，其中一人不治身亡。2017年2月17日，山东聊城中级法院以〝故意伤害罪〞判处于欢无期徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815627&from=ogGitn">一线城市房价高企 白领“逃离北上广” 2017-04-01 00:13</a><br/>3月31日，大陆有关人才流动分析报告显示，因一线城市房价高企等，白领“逃离北上广”初现端倪。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815610&from=ogGitn">谢天奇：吴邦国大秘被调虎离山 王岐山亲信〝看管〞 2017-03-31 23:45</a><br/>3月28日，甘肃媒体率先公布山东省委常委、常务副省长孙伟调任甘肃省委副书记的消息。随后，山东官方亦证实，孙伟已辞任山东省原职务。</td></tr>
 </table>
