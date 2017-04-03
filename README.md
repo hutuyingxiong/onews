@@ -11,6 +11,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815836&from=ogGitn">陈思敏：“雄安新区”天津抢先北京表态的背后 2017-04-03 16:00</a><br/>4月1日官方公告，“以习近平为核心的中央”、国务院印发通知，决定设立“雄安新区”──范围涉及河北省雄县、容城、安新三县及周边部分区域，地处北京、天津、保定腹地。当此消息一出，做为腹地内的两大直辖市，天津抢先北京表态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815838&from=ogGitn">云南村民食草乌炖肉 致14人中毒2人死亡 2017-04-03 15:43</a><br/>云南楚雄元谋县一村民召集家人和亲属煮食草乌炖肉，结果导致14人中毒，其中有2名中毒者经抢救无效死亡。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815845&from=ogGitn">重庆钢铁年报巨亏 黄奇帆丑闻被摆上台 2017-04-03 15:35</a><br/>前重庆市长黄奇帆治下的重庆钢铁股份有限公司（简称：重庆钢铁）2016年再次巨亏46.86亿元（人民币，下同）。黄奇帆之子涉嫌导致重钢严重亏损，而其却从中捞取数十亿黑钱的丑闻再被翻出。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">港媒：薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815831&from=ogGitn">传重庆公安局长何挺被调查 2017-04-03 15:11</a><br/>有报导说，中共重庆副市长、公安局长何挺目前正接受调查。不过，中共官方尚未有相关的报导证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815543&from=ogGitn">见证：六四血腥清场 百姓搏命装甲车  学生舍身护军人 2017-03-31 21:30</a><br/>装甲车在人潮汹涌的长安街上旁若无人不停地来回高速奔驰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 21:20</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815602&from=ogGitn">哈尔滨女工程师控告江泽民 曾挺孕肚进京上访 2017-03-31 21:09</a><br/>哈尔滨市女工程师刘伯滨曾被医院确诊先天不孕，修炼法轮功后身心健康，怀孕生子。但18年来，她经历了无尽的骚扰、威胁、监控以及5年冤狱，家庭最终破裂。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815611&from=ogGitn">人民币兑美元再跌破6.9 市场预期续贬 2017-03-31 20:36</a><br/>人民币兑美元汇率本周持续走贬，中共央行一周累计下调中间价148个基点。3月31日人民币兑美元在岸价再次跌破6.9关口，市场预计人民币贬值压力仍大。</td></tr>
 </table>
