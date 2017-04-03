@@ -22,6 +22,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815794&from=ogGitn">【禁闻】资产证券化或大规模登场 你该买吗？ 2017-04-03 04:57</a><br/>大陆去年重启资产证券化，四大中共国有银行目前又加大了布局力度，各分行和民营银行则已经开始了资产证券化操作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815790&from=ogGitn">江泽民集团瓜分中国经济内幕（1） 2017-04-03 04:37</a><br/>古今中外，人类的历史上从未出过像中共总书记江泽民这号人物。他无法无天，带领党员干部公然抢劫了归13亿中国人民所有的国家财富、迫害了一亿人的正信。他构造了一个以贪腐为纽带的庞大犯罪团伙。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815824&from=ogGitn">万家文化被“弃壳” 股价大跌套牢散户 2017-04-03 04:21</a><br/>3月31日晚间，万家文化发布公告称，万家集团与龙薇传媒决定终止本次股份转让事项,龙薇传媒曾支付2.5亿元定金将被返还。万家文化股价到目前几近腰斩，那些高位跟进的散户已然被套牢。有迹象表明，此次收购失败与肖建华的“明天系”有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815812&from=ogGitn">【中国禁闻】4月2日完整版 2017-04-03 04:10</a><br/>十九大前人事大调整 四省书记易主；</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁曾随两落马国级高官干了哪些事 2017-04-03 04:02</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815787&from=ogGitn">一周大事解读：习王总攻上海帮 围剿三常委 2017-04-03 03:41</a><br/>上周（2017年第13周；3月26日至4月1日），习阵营密集动作围剿江泽民老巢上海，以及江派三常委张德江、刘云山、张高丽的老巢和势力地盘。江派政法高官被密集审判、查处。省级官场人事大调整，江派地方大员罗保铭、王三运、姜异康、王宪魁被免职，近20省市逾30名省级常委或副省长换人。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815576&from=ogGitn">调控频出 大陆部分楼市或再陷低迷 2017-03-31 16:07</a><br/>近来，大陆参与房地产调控的城市达到了30多座，随着调控措施越来越严，有业界人士认为，部分城市楼市可能再次进入低迷调整期，二季度或出现价格调整。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815535&from=ogGitn">【禁闻】学区房VS学历 哪个更值钱 2017-03-31 16:05</a><br/>不断飙升的房价，使一流学府毕业进入社会主流的精英也难以承受，有毕业于北大清华的年轻人发帖说，〝买不起房，更买不起学区房，该怎么办？〞引发对名校学历不如北京学区房值钱的热议与探究。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815572&from=ogGitn">深圳15岁女生网恋〝私奔〞遭拦截  大哭〝等我长大他就结婚了！〞 2017-03-31 15:32</a><br/>日前，深圳一名15岁女初中生与一名20岁男子网恋并与其〝私奔〞。其父母获悉后紧急报警，警方在一高铁站将其拦截。但少女对父母阻止她私奔一事非常牴触，不但不听劝说，还哭称〝等我长大他就结婚了！〞</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815589&from=ogGitn">一名法国男子在上海颈部被刺伤 2017-03-31 15:01</a><br/>3月29日，一名法国公民在上海被人严重刺伤，嫌犯当场逃逸，后被抓捕。目前尚未知其伤人动机。</td></tr>
 </table>
