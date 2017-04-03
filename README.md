@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815843&from=ogGitn">川护士错用注射器 致12幼儿接种疫苗量超5倍 2017-04-03 17:46</a><br/>近日，四川凉山德昌县六所镇发生一起因护士用错注射器，给12名幼儿接种疫苗超量5倍事件。目前，12名幼儿正在医院接受治疗并观察。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815842&from=ogGitn">恐丢官 大陆县长曝一天接待9批领导吃饭 2017-04-03 17:31</a><br/>“陪好领导，乌纱可保。”这个观念在中共庸腐体治下的各级官员中，已根深蒂固。大陆中部某县的一名王姓县长称，曾经一天执行过9拨领导。即使这样，还生怕没有侍候好上级丢了乌纱帽。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815844&from=ogGitn">国土局长出国背死尸   陆媒揭外逃贪官众生相 2017-04-03 17:17</a><br/>俗语说〝法网恢恢，疏而不漏〞，不少中共贪官都印证了这句话。有些贪官虽逃至海外，免于法律制裁，可现实生活却给了他们一个深刻的教训。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815841&from=ogGitn">深圳15岁少女厕所产子 弃垃圾桶后如常上班 2017-04-03 16:57</a><br/>深圳一名15岁的女孩，在自家厕所产下女婴，然后竟狠心将婴儿丢弃在垃圾桶内，当日入常上班。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815839&from=ogGitn">杭州多名接触冥纸市民铅中毒 2017-04-03 16:53</a><br/>清明节前夕，杭州市有医院接诊了多位铅中毒患者，原来祭祖焚烧的冥纸、“银元宝”中或含有大量铅锡合金与含铅颜料。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 16:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
@@ -116,7 +119,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815747&from=ogGitn">宋庄两艺术家工作室被强拆 发微信求救 2017-04-01 18:19</a><br/>3月28日，知名艺术家沈敬东、曹志文在北京通州的宋庄艺术村的工作室，在毫不知情的情况下遭到强拆。沈敬东一早在微信发出资讯请求声援。过程中沈敬东一度被保安用叉子叉在地上，随后同曹志文二人被以妨碍公务的名义带到派出所扣留至强拆结束。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815720&from=ogGitn">载千吨货船撞上珠海大桥 桥面移位逾1米 2017-04-01 17:52</a><br/>4月1日上午9时55分，广东斗门区莲溪大桥被货船撞至移位超过一米。桥上自来水管道已破裂，货船倾斜，暂无人员伤亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815714&from=ogGitn">愿未来的么宁律师，永远不会遇到曾经的么宁检察官 2017-04-01 17:49</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报道：“此语一出，让在场所有旁听者一片哗然……”（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾“招待”李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815714&from=ogGitn">愿未来的幺宁律师，永远不会遇到曾经的幺宁检察官 2017-04-01 17:49</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报道：“此语一出，让在场所有旁听者一片哗然……”（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾“招待”李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815737&from=ogGitn">上海维权女律师李天天下落不明13天 2017-04-01 17:27</a><br/>上海维权女律师李天天日前传出失踪的消息。3月20日，她在微信上发出被国保约谈的消息，此后开始失联，已达13天。上海一访民也证实李天天处于失踪状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815540&from=ogGitn">【中国禁闻】3月30日完整版 2017-03-31 21:20</a><br/>武长顺过堂受审  创纪录背后有含义；法国华人被枪杀 山东民众感叹；学区房VS学历 哪个更值钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815602&from=ogGitn">哈尔滨女工程师控告江泽民 曾挺孕肚进京上访 2017-03-31 21:09</a><br/>哈尔滨市女工程师刘伯滨曾被医院确诊先天不孕，修炼法轮功后身心健康，怀孕生子。但18年来，她经历了无尽的骚扰、威胁、监控以及5年冤狱，家庭最终破裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815611&from=ogGitn">人民币兑美元再跌破6.9 市场预期续贬 2017-03-31 20:36</a><br/>人民币兑美元汇率本周持续走贬，中共央行一周累计下调中间价148个基点。3月31日人民币兑美元在岸价再次跌破6.9关口，市场预计人民币贬值压力仍大。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815596&from=ogGitn">谷春立白雪山 吉林宁夏两首虎同日受审 2017-03-31 20:31</a><br/>黑龙江、陕西两“首虎”分别受审。黑龙江哈尔滨市中级法院宣判，吉林省原副省长谷春立受贿罪获刑12年；陕西西安市中级法院一审开庭，审理了宁夏回族自治区原副主席白雪山受贿一案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815594&from=ogGitn">清理遗毒 天津政坛大调整 四新人进常委 2017-03-31 20:10</a><br/>在中共官方频发清除黄兴国、武长顺“遗毒”之际，天津高层持续震荡。近日，天津有四名市委常委履新，其动作之大，外界认为非常罕见。武长顺、黄兴国落马后，天津政坛开始大规模重建，大批官员被查处或被调离。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815599&from=ogGitn">大陆各省上万失业教师罕见同日上访维权 2017-03-31 20:01</a><br/>近日，全国各地被辞退的“民代幼”教师纷纷到各自省份的信访局进行维权，要求官方改变当前不合理的待遇。这次罕见的维权行动被当地教师认为是维权史上人数最多，凝聚力最强，人心最齐的一次。</td></tr>
 </table>
