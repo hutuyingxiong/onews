@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815873&from=ogGitn">雄安楼市〝炒出炸弹〞？  县长带特警驱散抢购人群 2017-04-04 02:02</a><br/>当局宣布将在河北成立雄安新区，当地楼市随即陷入疯狂，楼价从四千暴涨到一万五。新区内三县紧急叫停房产交易，雄县副县长警告〝有可能炒出个炸弹〞。但各地买家依然蜂拥而至，携现金私下交易购房，容城县长亲自指挥特警驱散抢购人群。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815872&from=ogGitn">泸州校园暴力案警民冲突升级  当局箝制舆论开始抓人（视频） 2017-04-04 00:51</a><br/>四川泸县太伏镇中学生赵鑫死于校园暴力，警方和学校欲强制火化死者遗体引发警民冲突。当局调集大量特警到现场镇压并抓捕反抗民众，事态进一步恶化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815869&from=ogGitn">〝三重大山〞挤压 雄安新区面临一大难题 2017-04-04 00:12</a><br/>愚人节当天，中共要在河北设立雄安新区的消息引起轰动效应。港媒文章指，该地区面临北京、天津和石家庄三重大山的挤压，以及阴霾的威胁，并不具备区域经济优势。相反，新区的设立不过是给炒房和地方官员腐败提供更多的空间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815866&from=ogGitn">渝〝采花大盗〞辣手摧花泡茶  网民：素质差 2017-04-03 22:09</a><br/>樱花盛开的时节，正是人们相约踏青的好时光。但是在重庆的樱花，却屡遭人们的破坏，被〝辣手摧花〞，是樱花树变得光秃秃的。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815651&from=ogGitn">跳楼传闻四起 江苏副省长杨岳临时安排露面？ 2017-04-01 02:22</a><br/>在〝跳楼〞消息传出两天之后，中共政治新星、江苏省副省长杨岳3月31日亮相于一次官方会议。有消息称，杨岳露面有被安排〝辟谣〞的嫌疑。外界分析，〝杨岳跳楼〞的传闻背后或另有蹊跷。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815660&from=ogGitn">朱鎔基之子对话邓小平孙婿：你是空手套白狼 2017-04-01 02:14</a><br/>朱云来对安邦收购华尔道夫酒店，用民间俗语〝空手套白狼〞来评价。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815618&from=ogGitn">肃清黄兴国余毒？ 天津官场四进三出大换血 2017-04-01 02:06</a><br/>天津市常委原班子中的本土派已替换殆尽。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815615&from=ogGitn">每日三退声明精选（2017/03/31） 2017-04-01 01:23</a><br/>共产主义不信神它丧失了道德基础，它借由阶级斗争颠倒人类社会是非黑白，它看重物质利益让人恶的部分越来越显著。它迫害法轮大法的信奉者罪恶滔天。因此，我声明退出曾经加入的中国共产党、中国共青团、中国少年先锋队。</td></tr>
 </table>
