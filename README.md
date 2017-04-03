@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-03 07:47</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 06:33</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815796&from=ogGitn">三门峡两任书记互咬被查 陆媒曝权斗黑幕 2017-04-03 06:24</a><br/>三门峡市市委书记杨树平与市长赵海燕，两人几乎水火不容，各自都曾向上级举报对方，结果双双落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815800&from=ogGitn">【禁闻】十九大前人事大调整 四省书记易主 2017-04-03 05:52</a><br/>中共十九大前的人事调整，4月1号出现高潮，当天，中共官方媒体连续报导四省省委书记更换的消息。</td></tr>
@@ -116,7 +117,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815655&from=ogGitn">【禁闻】苏州墓地限购令 全国首个 引热议 2017-04-01 09:09</a><br/>据中共官媒3月30号报导，苏州市政府3月2号规定，新建墓穴，单穴不超过0.7平方米，双穴不超过1平方米；严禁为尚未死亡的人员购置墓穴；高龄人员因故确需购买墓穴的，由公墓所在单位报经属地民政部门批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 09:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815669&from=ogGitn">安徽产妇索要胎盘 医院员工：炖汤了 2017-04-01 08:47</a><br/>近日，一名来自安徽的产妇，在江苏常州某医院产下婴儿，按照家乡风俗，胎盘要带回家埋在土里，婴儿才能健康成长。但当孕妇家属向医院索要胎盘时，被一再拒绝，最后才被告知胎盘已经被医院清洁工拿回家炖了汤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-01 08:25</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815652&from=ogGitn">【禁闻】李明哲被抓 外界忧陆扩大攻击NGO 2017-04-01 08:23</a><br/>台湾非政府组织工作者李明哲，遭中共以违反〝国家安全〞之名逮捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815653&from=ogGitn">臧山：有人在给习近平添乱？ 2017-04-01 08:00</a><br/>澳洲悉尼科技大学中国研究中心负责人冯崇义副教授，最近被中国有关部门“边控”，禁止离开中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815661&from=ogGitn">异见人士陈云飞祭六四学生 被重判四年 2017-04-01 07:58</a><br/>四川异见人士陈云飞，因拜祭六四遇难学生被指涉嫌寻衅滋事罪，今日（31日）上午9点30分，在成都巿武候区法院开审，庭审过程推得很快，法官当庭宣判陈云飞四年刑期。听到宣判，陈云飞举起双手做了胜利的手势，并表示要再上诉。</td></tr>
