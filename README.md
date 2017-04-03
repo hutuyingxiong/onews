@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815817&from=ogGitn">石涛：川习会在即 强人政治趋向〝私人化〞？ 2017-04-03 11:22</a><br/>日本首相已经三次会面川普，其中有一次也是在川普私人庄园，两人打高尔夫球，一起吃饭，两人有这样的活动。我个人以为习近平要求在私人庄园会面有自己的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815814&from=ogGitn">雄安新区刚推出    雄县书记落马被查 2017-04-03 11:21</a><br/>日前，北京当局宣布设立雄安新区，就在消息公布前4日，官网通告，雄县原县委书记吴亚飞涉嫌严重违纪，落马被查。有消息指他可能涉及利用新区开发内幕消息获利。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815815&from=ogGitn">传王岐山握19大人选大权   放话公示财产〝动真格〞 2017-04-03 11:09</a><br/>王岐山手握审核19大人选大权，要求准中央委员、准候补中央委员、准中纪委委员必须公示财产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815816&from=ogGitn">【 石涛八方】明白之人 不会居于危墙之下 2017-04-03 11:07</a><br/>今天的你，设想着明天的辉煌，就会出很多事。表面上看是好事，但把时间点看死了。有人借你钱，是为了挣你钱。你说自己有能力还钱，那是站在现在的角度。明智的人不会居于危墙之下。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815589&from=ogGitn">一名法国男子在上海颈部被刺伤 2017-03-31 15:01</a><br/>3月29日，一名法国公民在上海被人严重刺伤，嫌犯当场逃逸，后被抓捕。目前尚未知其伤人动机。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815587&from=ogGitn">上海高层密集调整 许昆林任副市长 2017-03-31 14:47</a><br/>中共十九大前夕，地方高层人事调整密集。3月31日，上海通过人事任命，许昆林为上海市副市长。今年以来，习当局加快布局及清洗江泽民的老巢上海官场。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815570&from=ogGitn">大连夫妻闹矛盾 妻子快递女儿丈夫拒收 2017-03-31 14:08</a><br/>3月28日，辽宁省大连市一对夫妻闹矛盾，妻子离家出走前，雇了摩的司机将10个月大的女儿“快递”到丈夫那里。司机把女婴送到后，孩子的父亲却拒收。夫妻双方都表示不要孩子。目前，女婴暂时被送往福利院。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815593&from=ogGitn">中共拘捕李明哲 对境外NGO的打压恐扩大 2017-03-31 14:05</a><br/>台湾非政府组织、民主活动人士李明哲在大陆被拘留10日后， 3月29日称，中共称李明哲“因涉嫌从事危害国家安全活动”被拘留。此举引发人权组织和观察人士担忧，中共正在扩大对NGO（非政府组织机构）活动人士的攻击，并指中共应释放李明哲。</td></tr>
 </table>
