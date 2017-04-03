@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">慎入：四川中学生没交保护费   被校霸活活打死5楼抛下（视频） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 11:40</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815818&from=ogGitn">〝山东辱母杀人案〞持续发酵 涉案警察被查 2017-04-03 11:30</a><br/>山东聊城当地暴力催债问题猖獗，政府公职人员参与其中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815817&from=ogGitn">石涛：川习会在即 强人政治趋向〝私人化〞？ 2017-04-03 11:22</a><br/>日本首相已经三次会面川普，其中有一次也是在川普私人庄园，两人打高尔夫球，一起吃饭，两人有这样的活动。我个人以为习近平要求在私人庄园会面有自己的考量。</td></tr>
@@ -11,6 +12,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815816&from=ogGitn">【 石涛八方】明白之人 不会居于危墙之下 2017-04-03 11:07</a><br/>今天的你，设想着明天的辉煌，就会出很多事。表面上看是好事，但把时间点看死了。有人借你钱，是为了挣你钱。你说自己有能力还钱，那是站在现在的角度。明智的人不会居于危墙之下。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815813&from=ogGitn">大陆四省同日换帅 习十九大人事布局进入〝下半场〞 2017-04-03 11:00</a><br/>新上任的四省新任大员与习近平和王岐山关系密切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815789&from=ogGitn">黄奇帆重庆免职挂名人大内幕：中纪委审查与薄王关系 2017-04-03 09:20</a><br/>港媒称黄奇帆免职后曾接受中纪委和中组部的审查。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815827&from=ogGitn">安徽一油品仓库发生爆炸 已致5死3伤 2017-04-03 08:47</a><br/>4月3日凌晨1时55分，安徽安庆市大观开发区万华油品公司仓库发生闪爆。已经造成5人死亡，3人受伤，其中2人正在急救。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815797&from=ogGitn">【禁闻】朴槿惠被收监 陆民叹：中国体制不行 2017-04-03 08:33</a><br/>朴槿惠被检方逮捕，她也由此成为首位被弹劾下台、并被关进监狱的国家最高领导人。中国民众纷纷把朴槿惠落马事件与中国对比，最后得出的结论是：中国体制不行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815650&from=ogGitn">华人遭警枪杀案 法情报局查抗议活动幕后势力 2017-04-03 07:47</a><br/>巴黎警察枪击华人的抗议事件背后有黑社会？法国对内安全总局的一份“高度机密”文件被法媒披露后，在法国华人圈又掀起一阵轰动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815823&from=ogGitn">中国文联再现异常人事变动 党组书记被降职 2017-04-03 07:07</a><br/>日前，中国文联党组书记换人，原书记赵实罕见降职为党组成员。去年底，文联主席与作协主席首次由同一人担任；文联主席一贯由中共意识形态机构主管官员转任或兼任的惯例被打破。</td></tr>
@@ -22,6 +24,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815801&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-03 05:20</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815794&from=ogGitn">【禁闻】资产证券化或大规模登场 你该买吗？ 2017-04-03 04:57</a><br/>大陆去年重启资产证券化，四大中共国有银行目前又加大了布局力度，各分行和民营银行则已经开始了资产证券化操作。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815806&from=ogGitn">清华教授：大陆穷人被强制接受羞辱 2017-04-03 04:55</a><br/>清华大学社会学教授孙立平日前刊文披露，他的一个企业朋友有一次去南方出差，当地老板请他到洗脚城洗脚，令他目瞪口呆的是，服务的盲妹竟然用舌头舔脚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815790&from=ogGitn">江泽民集团瓜分中国经济内幕（1） 2017-04-03 04:37</a><br/>古今中外，人类的历史上从未出过像中共总书记江泽民这号人物。他无法无天，带领党员干部公然抢劫了归13亿中国人民所有的国家财富、迫害了一亿人的正信。他构造了一个以贪腐为纽带的庞大犯罪团伙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815824&from=ogGitn">万家文化被“弃壳” 股价大跌套牢散户 2017-04-03 04:21</a><br/>3月31日晚间，万家文化发布公告称，万家集团与龙薇传媒决定终止本次股份转让事项,龙薇传媒曾支付2.5亿元定金将被返还。万家文化股价到目前几近腰斩，那些高位跟进的散户已然被套牢。有迹象表明，此次收购失败与肖建华的“明天系”有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815812&from=ogGitn">【中国禁闻】4月2日完整版 2017-04-03 04:10</a><br/>十九大前人事大调整 四省书记易主；</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815595&from=ogGitn">A股高送转后大股东减持 “割韭菜”没商量 2017-03-31 16:51</a><br/>今年前三个月，大陆股市出现大规模减持，尤其是上市公司高送转推高股价后，大股东减持的情况，备受大陆股市众多散户关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815573&from=ogGitn">【翻墙必看】被枪毙的“毒贩”又活了？吓到法官 2017-03-31 16:26</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815580&from=ogGitn">陈思敏：河南国企反腐 李长春白手套被牵出 2017-03-31 16:17</a><br/>不过实业再大，获利俨然不若短线炒股，13亿赚9亿。多年来，李长春与他的白手套们互惠互利。例如天瑞系可以操盘股票市场与水泥行业，而李长春家族可以操控天瑞系的掌门人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815575&from=ogGitn">证监会开出史上最重罚单  资本〝大鳄〞鲜言罚没34.7亿 2017-03-31 16:10</a><br/>中共证监会对资本市场〝大鳄〞鲜言，开出高达34.7亿元的中共史上最大罚单。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815576&from=ogGitn">调控频出 大陆部分楼市或再陷低迷 2017-03-31 16:07</a><br/>近来，大陆参与房地产调控的城市达到了30多座，随着调控措施越来越严，有业界人士认为，部分城市楼市可能再次进入低迷调整期，二季度或出现价格调整。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815535&from=ogGitn">【禁闻】学区房VS学历 哪个更值钱 2017-03-31 16:05</a><br/>不断飙升的房价，使一流学府毕业进入社会主流的精英也难以承受，有毕业于北大清华的年轻人发帖说，〝买不起房，更买不起学区房，该怎么办？〞引发对名校学历不如北京学区房值钱的热议与探究。</td></tr>
 </table>
