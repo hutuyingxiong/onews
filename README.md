@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815814&from=ogGitn">雄安新区刚推出    雄县书记落马被查 2017-04-03 11:01</a><br/>日前，北京当局宣布设立雄安新区，就在消息公布前4日，官网通告，雄县原县委书记吴亚飞涉嫌严重违纪，落马被查。有消息指他可能涉及利用新区开发内幕消息获利。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815813&from=ogGitn">大陆四省同日换帅 习十九大人事布局进入〝下半场〞 2017-04-03 10:33</a><br/>新上任的四省新任大员与习近平和王岐山关系密切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 09:40</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815789&from=ogGitn">黄奇帆重庆免职挂名人大内幕：中纪委审查与薄王关系 2017-04-03 09:20</a><br/>港媒称黄奇帆免职后曾接受中纪委和中组部的审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815797&from=ogGitn">【禁闻】朴槿惠被收监 陆民叹：中国体制不行 2017-04-03 08:33</a><br/>朴槿惠被检方逮捕，她也由此成为首位被弹劾下台、并被关进监狱的国家最高领导人。中国民众纷纷把朴槿惠落马事件与中国对比，最后得出的结论是：中国体制不行。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815593&from=ogGitn">中共拘捕李明哲 对境外NGO的打压恐扩大 2017-03-31 14:05</a><br/>台湾非政府组织、民主活动人士李明哲在大陆被拘留10日后， 3月29日称，中共称李明哲“因涉嫌从事危害国家安全活动”被拘留。此举引发人权组织和观察人士担忧，中共正在扩大对NGO（非政府组织机构）活动人士的攻击，并指中共应释放李明哲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815687&from=ogGitn">当局破门强入 浙江多个教堂被强装监控器 2017-03-31 13:51</a><br/>据自由亚洲电台报导，浙江温州、平阳、乐清等地的多个基督教堂，在过去一周里遭到当地政府派来的人员破坏教会门锁，强行进入教会安装视频监控设备，乐清长林教会教堂的传达室甚至被夷为平地。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815574&from=ogGitn">曾铮：真材实料的造假 2017-03-31 13:46</a><br/>今天看《外交家》上“中国的器官移植问题”这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：“面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。”看到这里我不禁连连点头，想起北京女子劳教所里一个“真材实料”的造假故事。那是在2001...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815565&from=ogGitn">湖南男童遭军刀刺穿头部 父亲寻医疗救助 2017-03-31 12:52</a><br/>湖南隆回县横板桥镇中心小学，九岁肖小弟24日在学校门口被校保安用军刀刺穿头部，经过90小时以上的抢救，虽然目前已经无生命危险，但意识尚未恢复。其父亲向媒体求助，希望有医疗设备较先进，医术高明的医师能接手肖小弟的医疗救治。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815569&from=ogGitn">与台湾断交 美判2非洲国得还债64亿台币 2017-03-31 12:21</a><br/>由台湾财政部监管的“中国输出入银行”向美国法院控告，两非洲前友邦中非共和国及刚果民主共和国转承认北京政权，应偿还债务合计共2亿1,200美元（约新台币64亿元）获得胜诉。</td></tr>
 </table>
