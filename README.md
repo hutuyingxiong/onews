@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815839&from=ogGitn">杭州多名接触冥纸市民铅中毒 2017-04-03 16:53</a><br/>清明节前夕，杭州市有医院接诊了多位铅中毒患者，原来祭祖焚烧的冥纸、“银元宝”中或含有大量铅锡合金与含铅颜料。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 16:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815836&from=ogGitn">陈思敏：“雄安新区”天津抢先北京表态的背后 2017-04-03 16:00</a><br/>4月1日官方公告，“以习近平为核心的中央”、国务院印发通知，决定设立“雄安新区”──范围涉及河北省雄县、容城、安新三县及周边部分区域，地处北京、天津、保定腹地。当此消息一出，做为腹地内的两大直辖市，天津抢先北京表态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815838&from=ogGitn">云南村民食草乌炖肉 致14人中毒2人死亡 2017-04-03 15:43</a><br/>云南楚雄元谋县一村民召集家人和亲属煮食草乌炖肉，结果导致14人中毒，其中有2名中毒者经抢救无效死亡。</td></tr>
@@ -15,7 +16,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815828&from=ogGitn">传曾庆红家族贪污四百亿 再次被中纪委约谈 2017-04-03 13:00</a><br/>有关中共江派二号人物曾庆红家族的不利消息频传。港媒最新报导说，曾庆红、曾庆淮兄弟再次遭到中纪委约谈，曾庆红家族被指在国内外敛财资产高达450亿人民币。据报，中纪委已完全掌握上述情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 12:45</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 11:40</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815818&from=ogGitn">〝山东辱母杀人案〞持续发酵 涉案警察被查 2017-04-03 11:30</a><br/>山东聊城当地暴力催债问题猖獗，政府公职人员参与其中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815817&from=ogGitn">石涛：川习会在即 强人政治趋向〝私人化〞？ 2017-04-03 11:22</a><br/>日本首相已经三次会面川普，其中有一次也是在川普私人庄园，两人打高尔夫球，一起吃饭，两人有这样的活动。我个人以为习近平要求在私人庄园会面有自己的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815814&from=ogGitn">雄安新区刚推出    雄县书记落马被查 2017-04-03 11:21</a><br/>日前，北京当局宣布设立雄安新区，就在消息公布前4日，官网通告，雄县原县委书记吴亚飞涉嫌严重违纪，落马被查。有消息指他可能涉及利用新区开发内幕消息获利。</td></tr>
@@ -31,6 +31,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815796&from=ogGitn">三门峡两任书记互咬被查 权斗黑幕曝光 2017-04-03 06:24</a><br/>三门峡市市委书记杨树平与市长赵海燕，两人几乎水火不容，各自都曾向上级举报对方，结果双双落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815808&from=ogGitn">【禁闻】凌源又有3600多人联名举报江泽民 2017-04-03 05:52</a><br/>凌源又有3600多人联名举报江泽民；被禁离境一周冯崇义返抵澳洲</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815800&from=ogGitn">【禁闻】十九大前人事大调整 四省书记易主 2017-04-03 05:52</a><br/>中共十九大前的人事调整，4月1号出现高潮，当天，中共官方媒体连续报导四省省委书记更换的消息。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815840&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-03 05:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815801&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-03 05:20</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815794&from=ogGitn">【禁闻】资产证券化或大规模登场 你该买吗？ 2017-04-03 04:57</a><br/>大陆去年重启资产证券化，四大中共国有银行目前又加大了布局力度，各分行和民营银行则已经开始了资产证券化操作。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815594&from=ogGitn">清理遗毒 天津政坛大调整 四新人进常委 2017-03-31 20:10</a><br/>在中共官方频发清除黄兴国、武长顺“遗毒”之际，天津高层持续震荡。近日，天津有四名市委常委履新，其动作之大，外界认为非常罕见。武长顺、黄兴国落马后，天津政坛开始大规模重建，大批官员被查处或被调离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815599&from=ogGitn">大陆各省上万失业教师罕见同日上访维权 2017-03-31 20:01</a><br/>近日，全国各地被辞退的“民代幼”教师纷纷到各自省份的信访局进行维权，要求官方改变当前不合理的待遇。这次罕见的维权行动被当地教师认为是维权史上人数最多，凝聚力最强，人心最齐的一次。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815592&from=ogGitn">台湾投资大陆比重太高 柯文哲：分散是对的 2017-03-31 18:53</a><br/>台北市长柯文哲3月31日在台北与新德里产业布局论坛上大力促销台北投资商机，他在论坛后表示，中国大陆占台湾对外投资的40%，比重太高，政府的分散政策是对的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815598&from=ogGitn">广东多地遭暴雨雷电袭击 发布大风黄色预警 2017-03-31 18:52</a><br/>自3月30日晚开始，广东省部分市县降下狂风暴雨，电闪雷鸣，道路积水。全省日平均气温下降2℃至5℃。给市民生活还来影响。</td></tr>
 </table>
