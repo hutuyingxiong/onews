@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815885&from=ogGitn">【禁闻】李明哲妻欲赴京救夫 前路多崎岖？ 2017-04-04 05:25</a><br/>李明哲上个月前往中国，19号与家属失联，国台办29号称李明哲因〝涉嫌危害国家安全〞被抓，但拒绝透露具体指控。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815883&from=ogGitn">尾随习近平访雄安新区 王健林早已布局？ 2017-04-04 05:16</a><br/>4月1日，中共官媒报道称，河北将设立雄安新区。官方定位很高，称其可比肩深圳经济特区和上海浦东新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815882&from=ogGitn">4月3日全球看中国 2017-04-04 04:52</a><br/>雄安尚是概念 房价业已疯狂；新区设立前 河北雄县前县委书记吴亚飞落马；资金出境难促使中国公司转向境外融资；现代及起亚汽车称中国销售不振恐冲其他3月海外销售。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义:学术只对真理负责 2017-04-04 04:26</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
@@ -10,6 +11,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815876&from=ogGitn">习近平访美前夕 709案家属致函美国总统川普 2017-04-04 03:22</a><br/>中国领导人习近平将于本周访问美国，与美国总统川普（特朗普）会面。中国大陆涉及709逮捕案的家属第三次给美国总统川普写信，呼吁美国总统关注中国的人权问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815878&from=ogGitn">习近平敲打梁振英 两会交谈48秒内容曝光 2017-04-04 03:15</a><br/>梁振英宣布放弃连任香港特首，外界认为是出于北京对他的不满。不过，梁两会出任政协副主席，并和习近平握手寒暄长达48秒，一度被解读为习对梁的支持。不过日前港媒透露了习、梁48秒交谈的内容，习对梁敲打警告的意味明显。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815875&from=ogGitn">游客进山拍〝开往春天的列车〞 先交〝买路钱〞 2017-04-04 02:55</a><br/>民间有句俗语〝靠山吃山，靠水吃水〞，意思是说，无论依山还是傍水，当地人都能从中找到生财之道。有大陆记者发现，傍山的居庸关村民也找到了〝生财〞的门路。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815884&from=ogGitn">珍稀五色雀现身罗浮山 古称“灵鸟 小凤凰” 2017-04-04 02:16</a><br/>一只五色雀近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。五色雀在古代被称为“灵鸟”、“小凤凰”，被认为是吉祥之鸟，预示祥瑞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815873&from=ogGitn">雄安楼市〝炒出炸弹〞？  县长带特警驱散抢购人群 2017-04-04 02:02</a><br/>当局宣布将在河北成立雄安新区，当地楼市随即陷入疯狂，楼价从四千暴涨到一万五。新区内三县紧急叫停房产交易，雄县副县长警告〝有可能炒出个炸弹〞。但各地买家依然蜂拥而至，携现金私下交易购房，容城县长亲自指挥特警驱散抢购人群。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815874&from=ogGitn">被阻离境学者冯崇义返澳与家人团聚 2017-04-04 01:58</a><br/>4月2日早晨，悉尼科技大学的中国问题专家冯崇义教授终于返回悉尼。他去中国大陆进行学术访问遭警方扣留不让出境，引起国际舆论、澳洲政府、他所在学校、澳洲民间团体的关注。中共官方称其配合了调查而允许他由广州登机回到澳洲悉尼，但前中共外交官陈用林认为该事件彰显了澳洲自由民主的胜利。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815872&from=ogGitn">泸州校园暴力案警民冲突升级  当局箝制舆论开始抓人（视频） 2017-04-04 00:51</a><br/>四川泸县太伏镇中学生赵鑫死于校园暴力，警方和学校欲强制火化死者遗体引发警民冲突。当局调集大量特警到现场镇压并抓捕反抗民众，事态进一步恶化。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815624&from=ogGitn">美中互释信号 川习会将陷艰难谈判？ 2017-04-01 05:33</a><br/>川普（特朗普）总统30日说，这次会晤将“非常艰难”。31日，川普又颁布行政令，要求查明导致美国巨大贸易逆差的元凶。美商务部长罗斯直言“头号逆差来源就是中国”。而北京也做出回应，暗示中美贸易不平衡，与中国关系不大。分析指，美方这些举动为川习会定下了紧张基调，而中方的回应也显示，不会在贸易上做出让步。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815631&from=ogGitn">中纪委高官任吉林纪委书记 “吉林帮”被围剿 2017-04-01 05:24</a><br/>日前中央第十四巡视组组长陶治国“空降”吉林任省委常委、省纪委书记，接替转任中编办副主任的崔少鹏。2月底中央第二巡视组刚开始对吉林省进行“回头看”巡视。江派常委张德江的“吉林帮”人马形势不妙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815626&from=ogGitn">曾向天安门毛像泼漆 余志坚美国病逝 2017-04-01 05:07</a><br/>八九民运期间曾向北京天安门毛泽东像泼洒油漆的大陆教师余志坚，于当地时间3月30日在美国印第安纳州病逝，享年53岁。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815634&from=ogGitn">避引火烧身？ 赵薇放弃入股万家文化 2017-04-01 04:51</a><br/>万家文化被立案调查，龙薇传媒终止受让股权。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815630&from=ogGitn">美军事人员前往或过境中国 五角大楼要严审 2017-04-01 04:47</a><br/>因中共经常以不正当方式取得美国国防技术，五角大厦已提高美国军事人员前往和过境中国大陆的规定。发生多起意外事件后，美国国安官员要求军方人士避免过境中国大陆。</td></tr>
 </table>
