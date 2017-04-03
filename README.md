@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815869&from=ogGitn">〝三重大山〞挤压 雄安新区面临一大难题 2017-04-04 00:12</a><br/>愚人节当天，中共要在河北设立雄安新区的消息引起轰动效应。港媒文章指，该地区面临北京、天津和石家庄三重大山的挤压，以及阴霾的威胁，并不具备区域经济优势。相反，新区的设立不过是给炒房和地方官员腐败提供更多的空间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815866&from=ogGitn">渝〝采花大盗〞辣手摧花泡茶  网民：素质差 2017-04-03 22:09</a><br/>樱花盛开的时节，正是人们相约踏青的好时光。但是在重庆的樱花，却屡遭人们的破坏，被〝辣手摧花〞，是樱花树变得光秃秃的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 21:19</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁淫乱外 跟两落马国级高官干了啥事 2017-04-03 21:13</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815615&from=ogGitn">每日三退声明精选（2017/03/31） 2017-04-01 01:23</a><br/>共产主义不信神它丧失了道德基础，它借由阶级斗争颠倒人类社会是非黑白，它看重物质利益让人恶的部分越来越显著。它迫害法轮大法的信奉者罪恶滔天。因此，我声明退出曾经加入的中国共产党、中国共青团、中国少年先锋队。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815616&from=ogGitn">小海豚珠海街头被宰杀 残忍画面激怒网民 2017-04-01 01:17</a><br/>这么可爱的白海豚，怎么能下的去手？日前，有网民爆料，广东珠海有人猎杀海豚，并当街宰杀，场面血腥。该消息及图片迅速在网络传开，引发民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815613&from=ogGitn">王友群：迫害法轮功18年是当今中国一切乱象的总根源 2017-04-01 00:49</a><br/>最近，山东〝辱母杀人案〞在海内外引发强烈反响。2016年4月13日，苏银霞因欠高利贷，遭11名黑社会成员上门催债。儿子于欢在母亲苏银霞长时间受辱骂、甚至当面猥亵、报警警察不理之下，奋起反抗，捅伤4人，其中一人不治身亡。2017年2月17日，山东聊城中级法院以〝故意伤害罪〞判处于欢无期徒刑。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815627&from=ogGitn">一线城市房价高企 白领“逃离北上广” 2017-04-01 00:13</a><br/>3月31日，大陆有关人才流动分析报告显示，因一线城市房价高企等，白领“逃离北上广”初现端倪。</td></tr>
 </table>
