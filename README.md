@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 19:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815857&from=ogGitn">大陆女〝入殓师〞谈恐怖经历   死者突睁眼打隔 2017-04-03 19:21</a><br/>第一次为逝者擦粉底时，擦的过程中不经意竖着擦了一下……没想到逝者眼睛突然张开了，吓得她赶紧说〝对不起，对不起〞，然后轻轻地将他的眼部闭合。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:13</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815856&from=ogGitn">〝灵鸟〞小凤凰现身广东   古人视为祥瑞之鸟 2017-04-03 19:10</a><br/>被古代称为〝灵鸟〞、〝小凤凰〞的五色雀，近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。古人将其称作瑞鸟，认为是吉祥之鸟，预示祥瑞。</td></tr>
@@ -19,12 +20,11 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815851&from=ogGitn">豆腐渣再现  武汉墓碑可徒手挖破 2017-04-03 17:11</a><br/>4月4号是中国传统的清明节，不少民众趁周末提前前往公墓扫墓祭祖。3号，有民众到武汉柏泉街长惠苑墓地祭拜先人，发现墓碑出现断裂、穿孔，甚至用手一抠就抠破。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815841&from=ogGitn">深圳15岁少女厕所产子 弃垃圾桶后如常上班 2017-04-03 16:57</a><br/>深圳一名15岁的女孩，在自家厕所产下女婴，然后竟狠心将婴儿丢弃在垃圾桶内，当日入常上班。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815839&from=ogGitn">杭州多名接触冥纸市民铅中毒 2017-04-03 16:53</a><br/>清明节前夕，杭州市有医院接诊了多位铅中毒患者，原来祭祖焚烧的冥纸、“银元宝”中或含有大量铅锡合金与含铅颜料。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 16:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815836&from=ogGitn">陈思敏：“雄安新区”天津抢先北京表态的背后 2017-04-03 16:00</a><br/>4月1日官方公告，“以习近平为核心的中央”、国务院印发通知，决定设立“雄安新区”──范围涉及河北省雄县、容城、安新三县及周边部分区域，地处北京、天津、保定腹地。当此消息一出，做为腹地内的两大直辖市，天津抢先北京表态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815838&from=ogGitn">云南村民食草乌炖肉 致14人中毒2人死亡 2017-04-03 15:43</a><br/>云南楚雄元谋县一村民召集家人和亲属煮食草乌炖肉，结果导致14人中毒，其中有2名中毒者经抢救无效死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815845&from=ogGitn">重庆钢铁年报巨亏 黄奇帆丑闻被摆上台 2017-04-03 15:35</a><br/>前重庆市长黄奇帆治下的重庆钢铁股份有限公司（简称：重庆钢铁）2016年再次巨亏46.86亿元（人民币，下同）。黄奇帆之子涉嫌导致重钢严重亏损，而其却从中捞取数十亿黑钱的丑闻再被翻出。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">港媒：薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815833&from=ogGitn">传薄熙来申请和儿通话  询问和谷开来离婚情况 2017-04-03 15:34</a><br/>薄熙来申请和薄瓜瓜通电话却未获批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815831&from=ogGitn">传重庆公安局长何挺被调查 2017-04-03 15:11</a><br/>有报导说，中共重庆副市长、公安局长何挺目前正接受调查。不过，中共官方尚未有相关的报导证实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
