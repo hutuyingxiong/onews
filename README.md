@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815814&from=ogGitn">雄安新区刚推出    雄县书记落马被查 2017-04-03 11:01</a><br/>日前，北京当局宣布设立雄安新区，就在消息公布前4日，官网通告，雄县原县委书记吴亚飞涉嫌严重违纪，落马被查。有消息指他可能涉及利用新区开发内幕消息获利。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815814&from=ogGitn">雄安新区刚推出    雄县书记落马被查 2017-04-03 11:21</a><br/>日前，北京当局宣布设立雄安新区，就在消息公布前4日，官网通告，雄县原县委书记吴亚飞涉嫌严重违纪，落马被查。有消息指他可能涉及利用新区开发内幕消息获利。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815815&from=ogGitn">传王岐山握19大人选大权   放话公示财产〝动真格〞 2017-04-03 11:09</a><br/>王岐山手握审核19大人选大权，要求准中央委员、准候补中央委员、准中纪委委员必须公示财产。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815816&from=ogGitn">【 石涛八方】明白之人 不会居于危墙之下 2017-04-03 11:07</a><br/>今天的你，设想着明天的辉煌，就会出很多事。表面上看是好事，但把时间点看死了。有人借你钱，是为了挣你钱。你说自己有能力还钱，那是站在现在的角度。明智的人不会居于危墙之下。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815813&from=ogGitn">大陆四省同日换帅 习十九大人事布局进入〝下半场〞 2017-04-03 10:33</a><br/>新上任的四省新任大员与习近平和王岐山关系密切。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 09:40</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815789&from=ogGitn">黄奇帆重庆免职挂名人大内幕：中纪委审查与薄王关系 2017-04-03 09:20</a><br/>港媒称黄奇帆免职后曾接受中纪委和中组部的审查。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815587&from=ogGitn">上海高层密集调整 许昆林任副市长 2017-03-31 14:47</a><br/>中共十九大前夕，地方高层人事调整密集。3月31日，上海通过人事任命，许昆林为上海市副市长。今年以来，习当局加快布局及清洗江泽民的老巢上海官场。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815570&from=ogGitn">大连夫妻闹矛盾 妻子快递女儿丈夫拒收 2017-03-31 14:08</a><br/>3月28日，辽宁省大连市一对夫妻闹矛盾，妻子离家出走前，雇了摩的司机将10个月大的女儿“快递”到丈夫那里。司机把女婴送到后，孩子的父亲却拒收。夫妻双方都表示不要孩子。目前，女婴暂时被送往福利院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815593&from=ogGitn">中共拘捕李明哲 对境外NGO的打压恐扩大 2017-03-31 14:05</a><br/>台湾非政府组织、民主活动人士李明哲在大陆被拘留10日后， 3月29日称，中共称李明哲“因涉嫌从事危害国家安全活动”被拘留。此举引发人权组织和观察人士担忧，中共正在扩大对NGO（非政府组织机构）活动人士的攻击，并指中共应释放李明哲。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815687&from=ogGitn">当局破门强入 浙江多个教堂被强装监控器 2017-03-31 13:51</a><br/>据自由亚洲电台报导，浙江温州、平阳、乐清等地的多个基督教堂，在过去一周里遭到当地政府派来的人员破坏教会门锁，强行进入教会安装视频监控设备，乐清长林教会教堂的传达室甚至被夷为平地。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815574&from=ogGitn">曾铮：真材实料的造假 2017-03-31 13:46</a><br/>今天看《外交家》上“中国的器官移植问题”这篇文章时（http://thediplomat.com/…/03/chinas-organ-transplant-problem/），里面有这么一句话：“面对如此前后不一的器官捐献数字显示，不能（中共）官方说什么就信什么。”看到这里我不禁连连点头，想起北京女子劳教所里一个“真材实料”的造假故事。那是在2001...</td></tr>
 </table>
