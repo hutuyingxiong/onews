@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山再添新职   外交系统江系人马面临大清洗 2017-04-04 12:29</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815908&from=ogGitn">惨！湖南绿化施工车侧翻  致12死19伤（组图） 2017-04-04 11:27</a><br/>湖南郴州市日前发生一起严重交通意外，一辆载有多名工人的道路绿化施工车，在植树后回程途中突然侧翻，当场造成至少12人死亡，19人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815906&from=ogGitn">郭文贵曝李友换肝内幕：活摘器官的佐证 2017-04-04 11:04</a><br/>郭文贵称李友现在在309医院筹划第三次肝脏移植。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815667&from=ogGitn">传用粗俗语言骚扰女生 安徽退休官员被调查 2017-04-01 14:20</a><br/>近日，中共安徽六安民政局一名官员疑似在微信聊天中对一名女大学生发送粗俗不堪的骚扰信息，被网络曝光。对此，当地官方回应称，正在调查此事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815692&from=ogGitn">香港楼价指数连创四个月新高的背后 2017-04-01 13:55</a><br/>最新的公布的香港私人住宅楼价指数显示，今年2月份住宅售价指数为312.8，环比上升1.1%，同比上升14.6%，创过去一年来新高。这也是该指数连续四个月创新高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815666&from=ogGitn">空降两高官 习在上海“掺沙子” 2017-04-01 13:35</a><br/>近日，上海高层人事变动，当局“空降”两官员出任上海市委常委、上海副市长。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815664&from=ogGitn">黑龙江高层大变动 省委书记王宪魁被免职 2017-04-01 12:52</a><br/>中共十九大前再有新一轮人事调整。日前，河北省长张庆伟调任黑龙江省委书记，王宪魁被免职。王宪魁是被指是江派铁杆。据报，王宪魁执政黑龙江期间，官员腐败变本加厉。中共“十八大”以来，习王当局对黑龙江官场持续清洗。</td></tr>
 </table>
