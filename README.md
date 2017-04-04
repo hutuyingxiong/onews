@@ -8,6 +8,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815918&from=ogGitn">雄安光棍汉也〝涨价〞   53岁农民要娶25岁留学生 2017-04-04 13:43</a><br/>网传河北雄县单身与离异的男女，纷纷在网上打出征婚广告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815912&from=ogGitn">上访无门找死人告状？清明前大批访民到八宝山诉冤 2017-04-04 13:37</a><br/>北京警方派出数千警察、保安围追堵截和殴打访民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山再添新职   外交系统江系人马面临大清洗 2017-04-04 12:29</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815924&from=ogGitn">湖南发生车祸 12死19伤 或因货车违规载人 2017-04-04 12:21</a><br/>4月3日17时50分许，湖南郴州市苏仙区发生一起重大交通事故，已造成12人死亡，19人受伤，现场惨烈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815916&from=ogGitn">李友将第三次换肝 郭文贵发布信息公告 2017-04-04 12:15</a><br/>4月3日，大陆神秘富商郭文贵在推特上发布北大方正集团前CEO李友第三次换肝的关键文件，进一步佐证中共“活摘器官”罪行，他表示由于有关信息涉及有关敏感人员们，因此只公布一部分，一切都是刚刚开始。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815908&from=ogGitn">惨！湖南绿化施工车侧翻  致12死19伤（组图） 2017-04-04 11:27</a><br/>湖南郴州市日前发生一起严重交通意外，一辆载有多名工人的道路绿化施工车，在植树后回程途中突然侧翻，当场造成至少12人死亡，19人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815922&from=ogGitn">王宪魁被免职 黑龙江三起大案的黑手 2017-04-04 11:18</a><br/>日前，中共黑龙江省委书记王宪魁被卸职。王宪魁是江派铁杆，在黑龙江省大肆迫害法轮功，制造多起大规模绑架和判刑事件，至少63位法轮功学员在其主政期间被迫害致死。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815678&from=ogGitn">陆虐童案频发 陕男童遭继母电线绑手撞墙命危 2017-04-01 16:08</a><br/>目前，鹏鹏的继母因涉嫌虐待罪已被刑拘。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815677&from=ogGitn">吉林原副省长谷春立被判12年    暴力强拆被骂〝谷大扒〞 2017-04-01 16:03</a><br/>中共十八大后落马的吉林〝首虎〞吉林原副省长谷春立，被查受贿超过4000万，日前以受贿罪被判处有期徒刑十二年。谷春立主政鞍山期间，借城建项目贪污受贿，违规暴力强拆，群情激愤称其为〝谷大扒〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815680&from=ogGitn">陈思敏：湘禁毒队长落马 涉周强张春贤遗毒 2017-04-01 15:57</a><br/>4月1日，湖南省公安厅禁毒总队总队长唐国栋被查。唐国栋现职是今年2月才履新的，如今落马也让当时的任命多了“以毒攻毒”的意味。今年以来，湖南官场反腐明显提速，更明显的是，这些落马官员的履历显示，其任职期间及可能涉及的腐败，几乎都落在周强与张春贤两人主政时期，这也表示两人在湖南主政无方的劣迹斑斑，无疑也是对湖南地方的一种遗毒。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815676&from=ogGitn">周晓辉：江苏副省长“被跳楼后”露面无事？ 2017-04-01 15:56</a><br/>3月29日，新浪网官方认证的大陆媒体人“北京李海”发布一则快讯，称“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼”，消息很快被删，而官方则选择了沉默。31日，有微信曝出，当日杨岳参加了江苏省基础设施建设推进会，这无疑证实了其“跳楼”的传闻不实。</td></tr>
 </table>
