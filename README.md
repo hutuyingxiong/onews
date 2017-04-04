@@ -3,9 +3,9 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815886&from=ogGitn">雄县人卖房飙涨每平米约3万元 各方热议 2017-04-04 10:38</a><br/>对现在的河北雄县居民来说，大有〝一觉醒来、天堂地狱〞的感受。当地人调侃〝一觉醒来，发现自己成了特区人，然后又发现自己少赚了至少一百万。〞</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815906&from=ogGitn">郭文贵曝李友换肝内幕：活摘器官的佐证 2017-04-04 11:04</a><br/>郭文贵称李友现在在309医院筹划第三次肝脏移植。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 10:48</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815903&from=ogGitn">每日三退声明精选（2017/04/03） 2017-04-04 10:32</a><br/>共产党反天、反地、反人类，战天斗地残民于惩，用进化论、无神论和阶级斗争摧毁人类最基本的道德体系和对善恶的评判标准，人与人之间关系冷漠，互相猜忌，都是共产党长期洗脑的结果，更悲哀的是中国人失去做人的意义和对神佛的敬仰，我们看清楚这个恶党的本质，以自己曾经为该组织一员而耻，从这一刻起远离邪恶，抹去兽记，选择光明的未来。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 09:09</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815898&from=ogGitn">中共落马官员哪些被通报“有私生子”？ 2017-04-04 08:54</a><br/>在中共官方通报的省部级落马官员中，几乎人人都有“与他人通奸”的行为，因此中共被民间讽刺为“通奸党”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 08:40</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815901&from=ogGitn">【禁闻】泸州中学生被霸凌致死  警方掩盖真相 2017-04-04 08:37</a><br/>中国日前再发生校园霸凌事件，一名14岁的中学生因为没有交一万元保护费，怀疑在学校被校霸活生生打死。校方与当地警方随后公布说，这个学生是跳楼摔死，引发当地民众愤怒。死者的母亲当街哭诉，要求当局给出真相。</td></tr>
@@ -17,12 +17,14 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815904&from=ogGitn">重庆丰都“花园洋房”背后：农民的血和泪 2017-04-04 07:20</a><br/>近年来，重庆丰都县仙女湖镇在大力发展房地产过程中，出现大量侵占农民利益的事件，导致当地农民怨声载道，民不聊生。村民呼吁社会各界关注，还公道于世间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815899&from=ogGitn">【中国禁闻】4月3日完整版 2017-04-04 07:20</a><br/>川普：美国会出手解决朝鲜问题；返抵悉尼 冯崇义：学术只对真理负责；泸州中学生被霸凌致死  警方掩盖真相。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815896&from=ogGitn">港媒：中共是煽动〝独立〞和分裂中国的始作俑者 2017-04-04 06:37</a><br/>港媒文章指，中共近年来高调反对〝台独〞、〝港独〞，而事实上中共是在中国煽动〝独立〞的始作俑者，在夺取全国政权之前多次鼓动各地独立，并建立〝国中之国〞分裂民族。历史学者辛灏年更揭露，当今〝台独〞是当年中共一手培养的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815907&from=ogGitn">谢天奇：习设立雄安新区 释放对决江曾信号 2017-04-04 06:32</a><br/>习当局新设立7个自贸区与雄安新区，释放与江泽民集团在经济领域的对决信号。习当局如此大动作，向海内外释放重建经济格局的决心，不仅可以瓦解江泽民利益集团对中国经济的捆绑，防范、粉粹江派十九大前再度发动“经济政变”的企图，也可缓解因清洗江泽民集团政商圈而引发的对中国经济的震荡效应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815890&from=ogGitn">【禁闻】4月3日维权动态 2017-04-04 06:27</a><br/>山东退休教授孙文广清明期间被旅游；逼江天勇〝认罪〞 江父再被录视频；北京独立参选人李美青 遭暴徒殴打；河南抗强拆自杀身亡 家属遭抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815887&from=ogGitn">【禁闻】4月3日退党精选 2017-04-04 06:24</a><br/>江苏淮安的张来福说：我是一名退伍老兵，深受中共〝成份论〞所害，对中共邪恶的历史有所了解，在得知了中共残酷发动六四事件屠杀请愿学生，以及发动邪恶的镇压法轮功，法轮大法是佛法修炼且已洪传世界后，深切认识到中共的邪恶，果断声明三退，从内心抹去邪党的铬印，为自己选择美好的未来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815889&from=ogGitn">【禁闻】中共设新区 雄安房价一夜飙10倍 2017-04-04 05:53</a><br/>中共设新区 雄安房价一夜飙10倍；免起诉 撤案 两法轮功学员回家。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815885&from=ogGitn">【禁闻】李明哲妻欲赴京救夫 前路多崎岖？ 2017-04-04 05:25</a><br/>李明哲上个月前往中国，19号与家属失联，国台办29号称李明哲因〝涉嫌危害国家安全〞被抓，但拒绝透露具体指控。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815883&from=ogGitn">尾随习近平访雄安新区 王健林早已布局？ 2017-04-04 05:16</a><br/>4月1日，中共官媒报道称，河北将设立雄安新区。官方定位很高，称其可比肩深圳经济特区和上海浦东新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815893&from=ogGitn">习王三管齐下 四省书记换人后官场大换血 2017-04-04 05:04</a><br/>继海南、甘肃、山东、黑龙江四省书记换人后，习王当局对地方官场高层继续大换血， 主要方式有中央“空降”、异地调任 、本地调整，包括教育部副部长沈晓明“空降”海南任省委副书记，广西钦州市委书记肖莺子调任海南省委常委等。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815886&from=ogGitn">雄县人卖房飙涨每平米约3万元  各方热议 2017-04-04 04:59</a><br/>对现在的河北雄县居民来说，大有〝一觉醒来、天堂地狱〞的感受。当地人调侃〝一觉醒来，发现自己成了特区人，然后又发现自己少赚了至少一百万。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815882&from=ogGitn">4月3日全球看中国 2017-04-04 04:52</a><br/>雄安尚是概念 房价业已疯狂；新区设立前 河北雄县前县委书记吴亚飞落马；资金出境难促使中国公司转向境外融资；现代及起亚汽车称中国销售不振恐冲其他3月海外销售。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815881&from=ogGitn">雄安新区火热 域名“xiongan.com”喊价176万 2017-04-04 04:11</a><br/>官方宣布要在河北设立雄安新区后，雄安新区大热，域名“xiongan.com”喊价176万（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815880&from=ogGitn">习访雄安新区消息被推迟披露 一神秘人物随行 2017-04-04 03:54</a><br/>日前，大陆官方宣布成立河北雄安新区。官媒并首次公开，今年2月，习近平已考察河北，并召开雄安新区规划相关会议，有一神秘人物随行。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815665&from=ogGitn">央行广义信贷收缩 房地产泡沫根源在银行？ 2017-04-01 12:49</a><br/>大陆银行业面临央行MPA（宏观审慎评估体系）考核，房贷比或成考核重要内容，广义信贷将收缩。外界关注，大陆楼市泡沫的根源在银行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815662&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 12:41</a><br/>〝追查迫害法轮功国际组织〞3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815681&from=ogGitn">粤2名支持占中人士被判刑 公民表达声援 2017-04-01 12:24</a><br/>广东佛山维权人士苏昌兰、陈启棠“煽动颠覆国家政权罪”一案3月31日宣判，两人分别被判处有期徒刑3年及4年6个月，律师表示量刑过重。当天法院外戒备森严，不允许民众围观。而不少公民以录制视频声援苏、陈二人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815625&from=ogGitn">谢天奇：官场重洗牌四大特征 四省书记或换人 2017-04-01 11:50</a><br/>离十九大尚有半年时间，习当局重整省级官场，人事变动与官员查处同步进行,四直辖市再度震荡；江派各大窝点已然溃不成军，习阵营的系列动作已为深度清洗包括江泽民老巢上海在内的江派窝点埋下伏笔。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815657&from=ogGitn">川人：共产党的最高领导人为何都没有好下场？ 2017-04-01 10:30</a><br/>1924年1月21日，苏联共产党的最高领导人列宁在戈尔基公馆病死。苏联官方称，列宁是死于无法治愈的血管疾病，死前它一直处于昏迷状态。列宁一生经历过三次中风，其中1923年的第三次中风，使它一度失去了说话能力。无独有偶，1976年9月9日，中国共产党的最高领导人毛泽东病死于中南海202别墅，死前同样是失去了说话能力，同样是一直处于昏迷状态，死因同样是心血管疾病，另加肌萎缩性脊髓侧索硬化症。这两位伟大的无产阶级革命导师，共产党的最高领导人都用同样凄惨的方式结束了它们〝伟大的一生〞。</td></tr>
 </table>
