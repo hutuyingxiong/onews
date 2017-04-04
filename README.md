@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815992&from=ogGitn">交涉多年后 赵紫阳的骨灰终不进八宝山 2017-04-05 02:10</a><br/>中共前总书记赵紫阳去世已12年。一直未得到解决的赵骨灰入土问题终于有了答案。4月4日清明节赵紫阳的儿子赵二军表示，官方已同意，其父亲的骨灰不进八宝山，由家属自行处理安葬一事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815991&from=ogGitn">【今日点击】王岐山誓言清洗江系外交部 2017-04-05 02:01</a><br/>王岐山誓言清洗江系外交部</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815989&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 01:58</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。一、黑社会刚改革开放的时候，我们看香港的电影和电视剧，看到黑社会打打杀杀，认为那是娱乐，是编的，没有人认为是真实的。可后来，这类案件越来越多，中国怎么会变成这样的？这个案件的黑社会表现...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815985&from=ogGitn">姜维平：重庆断网“薄王”余党猖狂反扑 2017-04-05 01:56</a><br/>人们普遍感到惊奇，不是首都北京，也不是国际性大都市上海，而是处于中国西南一隅的重庆市，它的政府3月27日公布一项新的法规，凡是使用网路“翻墙”工具收看海外媒体的公民，一旦发现，将被警告，训诫，或处以罚款，如果构成犯罪，情节严重的，还要被追究刑事责任。这是近日重庆市公安机关网路监管行政处颁发 的一项法规的主要内容，由于它与宪法和刑法存在很大的矛盾，并进一步扩大...</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815772&from=ogGitn">河北设雄安新区引楼市炒风 买家私下交易 2017-04-02 17:06</a><br/>河北设立雄安新区的消息一公布，立刻涌来大批买楼人士，炒高房价。雄县政府查封多个售楼站，宣布停止一切售楼行为。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 16:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815785&from=ogGitn">陈思敏：债留山东 姜异康尽得张高丽真传 2017-04-02 16:26</a><br/>因迫害法轮功被民间称为“江魔头”。所以跟随江泽民迫害的张高丽、姜异康，走到那里都成祸害、滋生恶债，债重如山。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815902&from=ogGitn">112岁老中医养生之道 养生贵在养心（2） 2017-04-02 15:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
 </table>
