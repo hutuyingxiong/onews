@@ -2,8 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 07:39</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815895&from=ogGitn">习近平找对人？ 美媒揭川习会幕后操盘手 2017-04-04 07:21</a><br/>美媒报导，川普女婿库什纳在川普政府的中国政策中扮演重要角色，即将上演的川习会就是库什纳和中共驻美大使崔天凯幕后运作的结果。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:03</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 06:54</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815890&from=ogGitn">【禁闻】4月3日维权动态 2017-04-04 06:27</a><br/>山东退休教授孙文广清明期间被旅游；逼江天勇〝认罪〞 江父再被录视频；北京独立参选人李美青 遭暴徒殴打；河南抗强拆自杀身亡 家属遭抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815887&from=ogGitn">【禁闻】4月3日退党精选 2017-04-04 06:24</a><br/>江苏淮安的张来福说：我是一名退伍老兵，深受中共〝成份论〞所害，对中共邪恶的历史有所了解，在得知了中共残酷发动六四事件屠杀请愿学生，以及发动邪恶的镇压法轮功，法轮大法是佛法修炼且已洪传世界后，深切认识到中共的邪恶，果断声明三退，从内心抹去邪党的铬印，为自己选择美好的未来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815889&from=ogGitn">【禁闻】中共设新区 雄安房价一夜飙10倍 2017-04-04 05:53</a><br/>中共设新区 雄安房价一夜飙10倍；免起诉 撤案 两法轮功学员回家。</td></tr>
@@ -15,6 +16,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义:学术只对真理负责 2017-04-04 04:26</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815881&from=ogGitn">雄安新区火热 域名“xiongan.com”喊价176万 2017-04-04 04:11</a><br/>官方宣布要在河北设立雄安新区后，雄安新区大热，域名“xiongan.com”喊价176万（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815880&from=ogGitn">习访雄安新区消息被推迟披露 一神秘人物随行 2017-04-04 03:54</a><br/>日前，大陆官方宣布成立河北雄安新区。官媒并首次公开，今年2月，习近平已考察河北，并召开雄安新区规划相关会议，有一神秘人物随行。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815894&from=ogGitn">金正恩为何痴迷核武器 朝鲜前外交官有解答 2017-04-04 03:32</a><br/>根据投诚韩国的前朝鲜驻英国公使太勇浩（Thae Yong Ho）周日（4月2日）接受NBC的采访，金正恩如此痴迷核武器是因为他害怕自己的独裁政权像侯赛因及卡扎菲一样被推翻，相信只有核武器才能保证其统治。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815876&from=ogGitn">习近平访美前夕 709案家属致函美国总统川普 2017-04-04 03:22</a><br/>中国领导人习近平将于本周访问美国，与美国总统川普（特朗普）会面。中国大陆涉及709逮捕案的家属第三次给美国总统川普写信，呼吁美国总统关注中国的人权问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815878&from=ogGitn">习近平敲打梁振英 两会交谈48秒内容曝光 2017-04-04 03:15</a><br/>梁振英宣布放弃连任香港特首，外界认为是出于北京对他的不满。不过，梁两会出任政协副主席，并和习近平握手寒暄长达48秒，一度被解读为习对梁的支持。不过日前港媒透露了习、梁48秒交谈的内容，习对梁敲打警告的意味明显。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815875&from=ogGitn">游客进山拍〝开往春天的列车〞 先交〝买路钱〞 2017-04-04 02:55</a><br/>民间有句俗语〝靠山吃山，靠水吃水〞，意思是说，无论依山还是傍水，当地人都能从中找到生财之道。有大陆记者发现，傍山的居庸关村民也找到了〝生财〞的门路。</td></tr>
@@ -23,6 +25,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815874&from=ogGitn">被阻离境学者冯崇义返澳与家人团聚 2017-04-04 01:58</a><br/>4月2日早晨，悉尼科技大学的中国问题专家冯崇义教授终于返回悉尼。他去中国大陆进行学术访问遭警方扣留不让出境，引起国际舆论、澳洲政府、他所在学校、澳洲民间团体的关注。中共官方称其配合了调查而允许他由广州登机回到澳洲悉尼，但前中共外交官陈用林认为该事件彰显了澳洲自由民主的胜利。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815872&from=ogGitn">泸州校园暴力案警民冲突升级  当局箝制舆论开始抓人（视频） 2017-04-04 00:51</a><br/>四川泸县太伏镇中学生赵鑫死于校园暴力，警方和学校欲强制火化死者遗体引发警民冲突。当局调集大量特警到现场镇压并抓捕反抗民众，事态进一步恶化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815869&from=ogGitn">〝三重大山〞挤压 雄安新区面临一大难题 2017-04-04 00:12</a><br/>愚人节当天，中共要在河北设立雄安新区的消息引起轰动效应。港媒文章指，该地区面临北京、天津和石家庄三重大山的挤压，以及阴霾的威胁，并不具备区域经济优势。相反，新区的设立不过是给炒房和地方官员腐败提供更多的空间。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815770&from=ogGitn">专访作家杜斌：《长春饿殍战》写作历程 2017-04-03 23:41</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者、作家、纪录片制作人，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815877&from=ogGitn">黑市交易猖獗 雄安新区房价恐疯涨 2017-04-03 23:12</a><br/>日前，中共中央发通知成立河北雄安新区，有大批炒房客开始在当地进行私下交易，目前雄安新区三个县都已经冻结全部房产过户。但雄安新区周边房价已经开始疯涨，若雄安新区放开限制，当地房价恐随即上涨。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815863&from=ogGitn">川习会前 人权组织吁川普关注李明哲案 2017-04-03 23:11</a><br/>前台湾太阳花学运和香港雨伞运动成员，2日呼吁美国总统川普（特朗普）关注中国人权问题，在川习会上敦促大陆方面释放在押台湾人权工作者李明哲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815866&from=ogGitn">渝〝采花大盗〞辣手摧花泡茶  网民：素质差 2017-04-03 22:09</a><br/>樱花盛开的时节，正是人们相约踏青的好时光。但是在重庆的樱花，却屡遭人们的破坏，被〝辣手摧花〞，是樱花树变得光秃秃的。</td></tr>
@@ -127,7 +130,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815743&from=ogGitn">脱北者曝光金家王朝的秘密生意 2017-04-02 09:15</a><br/>目前居住在南韩首尔的脱北者金光镇，从前是朝鲜东北亚银行的一名经理，日前曝光十多年前为金家王朝从事的秘密生意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815727&from=ogGitn">每日三退声明精选（2017/04/01） 2017-04-02 08:40</a><br/>本人自愿退出曾经加入的一切共产党组织，共青团和少先队。此邪党不灭，天理难容。为了自己和后代子孙，拒绝沉默，拒绝洗脑，抹去兽性，回归人性。特此声明</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815753&from=ogGitn">子新：从近期河北法轮功学员无罪获释说起 2017-04-02 08:35</a><br/>随着法轮功学员的深入讲真相，越来越多的公检法司人员明白了法轮功真相，再加上目前公检法开始实施重大错案终身追责制，许多体制内人士出于自保，开始与江泽民邪恶集团迫害法轮功做出彻底切割。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815770&from=ogGitn">专访杜斌：《长春饿殍战》写作历程 2017-04-02 06:41</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者、作家、纪录片制作人，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815774&from=ogGitn">IMF首发报告证明人民币国际化或“再等等” 2017-04-02 05:35</a><br/>3月31日，国际货币基金组织（IMF）首次公布了将人民币作为外汇储备的全球持有情况，数据显示仅占成员国外储资产的1.07%。此前，有接近监管层的人士透露，高层认为当前的金融局势之下，人民币国际化“或许要再等一等”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815724&from=ogGitn">河南疯汉酿恐怖血案 手持筷子连杀3人 2017-04-02 04:46</a><br/>筷子也成了杀人的凶器！一名44岁男精神病患者，摆脱束缚后，用筷子向同病房的4名女精神病人攻击，造成1人当场死亡，另外两人也相继不治身亡，还有一人重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815731&from=ogGitn">极致命毒品在美国扩散 源头是中国地下工厂 2017-04-02 04:37</a><br/>全美染上芬太尼（fentanyl）毒瘾的人数越来越多，美国执法单位表示，来自中国大陆地下工厂的供应，加剧全美芬太尼成瘾问题的恶化。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815647&from=ogGitn">迪士尼在大陆遍地开花？原来是场骗局 2017-04-01 07:58</a><br/>迪士尼要在中国大陆扩展版图吗？除了上海外，似乎积极规划在郑州、包头及合肥等城市盖主题乐园，然而，这一切都变成一戳即破“幻影”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815643&from=ogGitn">迫害法轮功者出国？追查国际全面收集名单 2017-04-01 07:25</a><br/>“追查迫害法轮功国际组织”3月28日发布公告，对已经或计划出国的迫害法轮功人员名单进行全面收集，并呼吁公众举报。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815644&from=ogGitn">“公车腐败”盛行 江苏曝公车月修费1.4万元 2017-04-01 07:16</a><br/>大陆“公车腐败”盛行，公车私用、虚报燃油费、维修费、套取现金等乱像屡遭媒体曝光，却不见收敛。近日，江苏某妇幼保健所的一辆公车，被爆出“天价修理费账单”，仅一个月修理费就高达1.4万余元。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815632&from=ogGitn">大陆独立纪录片《凶年之畔》亮相巴黎 2017-04-01 06:51</a><br/>正在巴黎举行的第39届法国国际真实电影节3月29日晚在巴黎市中心的Forum des Images 放映了中国纪录片导演的作品《凶年之畔》。影片展示出中国农民工群体权利意识的觉醒过程以及他们在维权努力中面对的压力。</td></tr>
 </table>
