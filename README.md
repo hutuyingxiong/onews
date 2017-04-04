@@ -5,6 +5,8 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 中共为何忧心忡忡？ 2017-04-05 05:41</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 05:32</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815999&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不便答复 2017-04-05 05:25</a><br/>北大对美国之音有关郭文贵捐款去向的询问作出反应，称郭文贵的公开信不是正式向北大提交，因此校长不方便做出答复。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816002&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 05:25</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816001&from=ogGitn">梁木： 江泽民集团瓜分中国经济内幕（2） 2017-04-05 05:14</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拚死拚活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815996&from=ogGitn">十九大前人事调整 多省书记处于进退关键期 2017-04-05 05:01</a><br/>日前，中共地方数十名高层人事被再次密集换人。中共十九大前夕，还有浙江、福建、四川、宁夏等多名省委书记也处于可进可退的关键时刻。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815998&from=ogGitn">禁令、抓人止不住  雄安房产炒家继续疯狂扫货 2017-04-05 04:53</a><br/>河北雄安新区的炒楼潮愈遏愈盛，当局为控制井喷式炒楼潮，除重申禁卖楼令，警方还刑拘违规地产商，扣查违规代理。不过炒家置之不理，炒楼转入地下和周边三县，传新区楼价暴涨至每平四万元，周边楼价几日升逾五成。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815995&from=ogGitn">雄安新区爆热下诸多悬念 筹委会秘密办公 2017-04-05 02:53</a><br/>大陆雄安新区消息持续发酵。新区筹委会包下河北容城县整栋酒店办公，酒店守卫森严。外界关注，雄安新区有诸多悬念。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815775&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-03 00:59</a><br/>中国作家杜斌试图将厚重涂抹的历史撕开一角，让全世界的人看到在中国不能不面对的真实历史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815771&from=ogGitn">每日三退声明精选（2017/04/02） 2017-04-03 00:33</a><br/>我自愿退出共产党、共青团、少先队等中共各级组织，请大纪元作证，感谢您们多年来的无私贡献，有您们在，中国就有希望，一起加油！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815758&from=ogGitn">【翻墙必看】美国航母打击群将威慑朝鲜 2017-04-02 23:50</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815773&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-02 23:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815804&from=ogGitn">在华遭扣终返澳 冯崇义教授：中共屈服了 2017-04-02 22:31</a><br/>被中共当局禁止离境超过一周的澳洲中国籍学者冯崇义，周日（2日）终于返抵澳洲。谈起这一周多来每天遭中共国安讯问的经历，他表示，“我不怕他们”，今年将再回中国完成自己的研究。</td></tr>
 </table>
