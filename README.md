@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815897&from=ogGitn">石涛：十四岁男孩被校霸打死 雄安新区的疯狂 忘却人性的利益社会 2017-04-04 08:23</a><br/>校霸勒索1千块没得手，就勒索一万元，否则打死你，他们绝不是拿了这一个孩子的钱，他们这是要杀一儆百，这就是黑社会的言出必行。你看强拆的，城管，穿着共产党官衣的有多少人这么做？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 07:39</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815895&from=ogGitn">习近平找对人？ 美媒揭川习会幕后操盘手 2017-04-04 07:21</a><br/>美媒报导，川普女婿库什纳在川普政府的中国政策中扮演重要角色，即将上演的川习会就是库什纳和中共驻美大使崔天凯幕后运作的结果。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:03</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
@@ -36,6 +37,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 19:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815857&from=ogGitn">大陆女〝入殓师〞谈恐怖经历   死者突睁眼打隔 2017-04-03 19:21</a><br/>第一次为逝者擦粉底时，擦的过程中不经意竖着擦了一下……没想到逝者眼睛突然张开了，吓得她赶紧说〝对不起，对不起〞，然后轻轻地将他的眼部闭合。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:13</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 19:10</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815856&from=ogGitn">〝灵鸟〞小凤凰现身广东   古人视为祥瑞之鸟 2017-04-03 19:10</a><br/>被古代称为〝灵鸟〞、〝小凤凰〞的五色雀，近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。古人将其称作瑞鸟，认为是吉祥之鸟，预示祥瑞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
@@ -64,7 +66,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815868&from=ogGitn">可口可乐大陆供应商宣布违约 一周内第4家 2017-04-03 14:19</a><br/>大陆最大的饮料瓶生产企业之一、珠海中富实业股份有限公司3月28日晚宣布，无法按期兑付其2012年中期票据的本息。这是大陆7天内，有4家企业相继违约，涉及总金额超过360亿（人民币，下同）。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815828&from=ogGitn">传曾庆红家族贪污四百亿 再次被中纪委约谈 2017-04-03 13:00</a><br/>有关中共江派二号人物曾庆红家族的不利消息频传。港媒最新报导说，曾庆红、曾庆淮兄弟再次遭到中纪委约谈，曾庆红家族被指在国内外敛财资产高达450亿人民币。据报，中纪委已完全掌握上述情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 12:45</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815653&from=ogGitn">臧山：有人在给习近平添乱？ 2017-04-01 08:00</a><br/>澳洲悉尼科技大学中国研究中心负责人冯崇义副教授，最近被中国有关部门“边控”，禁止离开中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815661&from=ogGitn">异见人士陈云飞祭六四学生 被重判四年 2017-04-01 07:58</a><br/>四川异见人士陈云飞，因拜祭六四遇难学生被指涉嫌寻衅滋事罪，今日（31日）上午9点30分，在成都巿武候区法院开审，庭审过程推得很快，法官当庭宣判陈云飞四年刑期。听到宣判，陈云飞举起双手做了胜利的手势，并表示要再上诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815647&from=ogGitn">迪士尼在大陆遍地开花？原来是场骗局 2017-04-01 07:58</a><br/>迪士尼要在中国大陆扩展版图吗？除了上海外，似乎积极规划在郑州、包头及合肥等城市盖主题乐园，然而，这一切都变成一戳即破“幻影”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815646&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭？ 2017-04-01 07:26</a><br/>一桩桩惨剧，这一件件暴行，无一不是对江泽民集团的无声控诉，无一不是中共反人类的铁证！</td></tr>
 </table>
