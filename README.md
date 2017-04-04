@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815991&from=ogGitn">【今日点击】王岐山誓言清洗江系外交部 2017-04-05 02:01</a><br/>王岐山誓言清洗江系外交部</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815989&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 01:58</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。一、黑社会刚改革开放的时候，我们看香港的电影和电视剧，看到黑社会打打杀杀，认为那是娱乐，是编的，没有人认为是真实的。可后来，这类案件越来越多，中国怎么会变成这样的？这个案件的黑社会表现...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815985&from=ogGitn">姜维平：重庆断网“薄王”余党猖狂反扑 2017-04-05 01:56</a><br/>人们普遍感到惊奇，不是首都北京，也不是国际性大都市上海，而是处于中国西南一隅的重庆市，它的政府3月27日公布一项新的法规，凡是使用网路“翻墙”工具收看海外媒体的公民，一旦发现，将被警告，训诫，或处以罚款，如果构成犯罪，情节严重的，还要被追究刑事责任。这是近日重庆市公安机关网路监管行政处颁发 的一项法规的主要内容，由于它与宪法和刑法存在很大的矛盾，并进一步扩大...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815988&from=ogGitn">清明节冥纸银元宝惹祸 浙江多人铅中毒 2017-04-05 01:54</a><br/>近几天，浙江杭州市内的医院接诊多名铅中毒患者，均与冥纸、银元宝有过接触。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815990&from=ogGitn">组图：泸州学生死亡事件持续 千警封镇抓人 2017-04-05 01:51</a><br/>连续多日，四川泸州市泸县太伏镇太伏中学一学生离奇死亡事件仍然在持续，民愤不断，要求公道的呼声此起彼伏，当局调动大批警察进行镇压，四五十人被抓，现场通讯被屏蔽，整个太伏镇被封锁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815987&from=ogGitn">川中学女生校外打人 狂掴小女生14巴掌 2017-04-05 01:49</a><br/>视频中，一名黑衣女生在短短35秒内狂掴一名穿绿色校服的女生14巴掌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815986&from=ogGitn">中国10亿微信用户私人聊天受中共监控 2017-04-05 01:40</a><br/>近年愈来愈多大陆民众使用手机即时通讯软件微信（WeChat），注册用户已超过10亿。外媒披露，微信等平台因其收集的用户数据量前所未有的大，已成为中共专制政权监控民众的工具。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815981&from=ogGitn">任协华：论现代民主 2017-04-05 01:29</a><br/>基于全球政治秩序日趋复杂的前提，在论述到大陆民主转型时，就有必要就现代民主的内在精神与大陆社会的抗争运动进行政治意义上的阐述，以回应在抗争形态错综复杂的轮廓下，有关抗争进程的理性判断。同时，与其他地区争取民主和自由的手段不同，是在于大陆民主运动具有着历史层面与现实交叉的双重特征，也就是从对侵犯人权的统治体制的批评，转向于瓦解极权、建造当代范式中大陆现代民主及...</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 16:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815785&from=ogGitn">陈思敏：债留山东 姜异康尽得张高丽真传 2017-04-02 16:26</a><br/>因迫害法轮功被民间称为“江魔头”。所以跟随江泽民迫害的张高丽、姜异康，走到那里都成祸害、滋生恶债，债重如山。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815902&from=ogGitn">112岁老中医养生之道 养生贵在养心（2） 2017-04-02 15:24</a><br/>老中医：健康的根本在心。一切法从心生，心净则身净，所以得病了，不要向外求，要靠自己自身的修复系统来修复自己的疾病。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815750&from=ogGitn">河北血癌幼儿无钱手术   父亲绝望欲捐儿器官 2017-04-02 15:08</a><br/>河北29岁的宋洋洋，为给患血癌的儿子治病耗尽家资，还欠债几十万。近日医院称找到合适的骨髓配型，但需数十万手术费，宋洋洋表示如实在筹不到钱，走到绝望那一步，就将儿子的器官捐献回馈社会，感谢那些资助过他的人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815754&from=ogGitn">山东少年遭围殴被逼用手抓大便 2017-04-02 14:53</a><br/>扇耳光、用脚踢、让其下跪、喊爷爷、并让他抓屎扔到房顶上??山东德州4名高个子男生围殴一名小个学生，该殴打视频被上传网络。事件虽引警方介入，但最后仍是以道歉、教育草草了结。</td></tr>
 </table>
