@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815921&from=ogGitn">重庆公安局长落马细节传出 藏有1200瓶茅台 2017-04-04 14:36</a><br/>外界纷传中共重庆副市长、公安局长何挺落马之际，有港媒报导说，何挺已在3月31日被中纪委带走。消息称，中纪委在重庆公安局食堂查到1,200多瓶茅台酒。据说，何曾送3,000万珠宝（人民币，下同）贿赂周永康买官。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815919&from=ogGitn">《追问》诸多细节泄露落马官员原型 2017-04-04 14:04</a><br/>反腐新书《追问》面世后，其中的内容和一些细节泄露了落马官员的基本信息，让外界“对号入座”，找到了贪官原型。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815918&from=ogGitn">雄安光棍汉也〝涨价〞   53岁农民要娶25岁留学生 2017-04-04 13:43</a><br/>网传河北雄县单身与离异的男女，纷纷在网上打出征婚广告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815912&from=ogGitn">上访无门找死人告状？清明前大批访民到八宝山诉冤 2017-04-04 13:37</a><br/>北京警方派出数千警察、保安围追堵截和殴打访民。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815676&from=ogGitn">周晓辉：江苏副省长“被跳楼后”露面无事？ 2017-04-01 15:56</a><br/>3月29日，新浪网官方认证的大陆媒体人“北京李海”发布一则快讯，称“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼”，消息很快被删，而官方则选择了沉默。31日，有微信曝出，当日杨岳参加了江苏省基础设施建设推进会，这无疑证实了其“跳楼”的传闻不实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815628&from=ogGitn">【禁闻】港府清算占中人士 评：无益林郑施政 2017-04-01 15:53</a><br/>3月26号，林郑月娥在抗议声中以777票当选香港下一任行政长官。她承诺要修补香港社会撕裂。但话音刚落，港府就在第二天检控9名曾经参与占中运动的人士，这一事件引发舆论哗然。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815659&from=ogGitn">真实的土改故事：活体解剖与中共高官之死 2017-04-01 15:52</a><br/>静乐县在土改中杀地主有两种杀法：一种叫〝大抹〞，另一种叫〝咯利〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815675&from=ogGitn">颜丹：发展商业保理可减少企业借高利贷？ 2017-04-01 15:31</a><br/>近日，祸起“高利贷”的“刺死辱母者”案可谓是震惊了整个中国社会。大陆有媒体如是表示，“个别中小企业不惜通过借‘高利贷’融资，最后酿成惨剧”。对于中小企业为何要通过“高利贷”来融资的原因，某部委的部长在今年的“两会”上公开表示，“小微企业……融资难的问题仍然还很突出”；“很多中小企业被应收账款占用了大量的流动资金，导致资金链紧张”；“在银行等传统金融机构融资也...</td></tr>
 </table>
