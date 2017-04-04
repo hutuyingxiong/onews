@@ -2,6 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815930&from=ogGitn">四川泸州中学生被害激发万民抗暴    知情者曝内幕 
+										
+											?组图 2017-04-04 17:43</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815928&from=ogGitn">孙儿买LV包尽孝  祖母用来装鲜鱼  并称〝不漏水〞只是〝重了点〞 2017-04-04 17:22</a><br/>一位台湾网友说，特别买了一款名贵的LV包送给祖母，没想到祖母装日用杂货，包括鲜鱼。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815929&from=ogGitn">清明节 大陆访民八宝山诉冤被抓 2017-04-04 17:05</a><br/>4月4号清明节，数百名访民前往埋葬中共高官的北京八宝山万安公墓，以扫墓的形式抗议冤情长期得不到解决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815926&from=ogGitn">清明今年4月4 九大习俗要知道 
 										
 											?组图 2017-04-04 16:32</a><br/>尽管今年2月只有28天，但今年的清明节是4月4日。为什么是4月4日过清明呢？清明见民间有9大习俗，都是哪些呢？一起来看看吧。</td></tr>
@@ -201,7 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815689&from=ogGitn">谷春立过往：与温州女商人官商勾结 2017-04-01 17:20</a><br/>日前，中共吉林省前副省长谷春立被判刑。在其刚刚落马后，陆媒就深度起底了他在辽宁任职期间疯狂拆迁，并与温州女商人徐小艳的辽宁鞍山往事。他们通过官商勾结，进行利益输送，中饱私囊，但给当地留下若干烂尾工程及数目惊人的政府债务。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815670&from=ogGitn">黑龙江省委书记换人 王宪魁下场不妙 2017-04-01 17:16</a><br/>王宪魁卸任黑龙江省委书记一职。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815686&from=ogGitn">人与人之间最大的距离是价值观 2017-04-01 17:05</a><br/>我深切的认同这样的话：人与人最大的差距，不是地位、贫富、学历或者美丑，而是价值观的差距。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815683&from=ogGitn">〝国师〞王林雇凶杀人案　邹勇家属向5被告索赔3亿 2017-04-01 17:04</a><br/>邹勇被谋杀案，日前在江西省抚州市中级法院开庭审理，家属向5被告索赔3亿。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815679&from=ogGitn">江苏义犬跳河救主   身上伤痕累累 2017-04-01 16:49</a><br/>日前，江苏一条义犬为救不慎落水的小主人，挣脱了套住的绳索，跳进河里救人。小主人安然无恙，而义犬身上却伤痕累累。</td></tr>
 </table>
