@@ -2,15 +2,18 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815946&from=ogGitn">中共成亚洲祸根 学者：弃共才能保中国 2017-04-04 20:19</a><br/>亚洲近百年来战火不断，主战场聚焦亚洲最大国家——中国。近代中国，清政府积弱遭列强瓜分，催化出民族主义，推翻满清建立中华民国，再历经军阀割据、抗日战争、国共内战等，中国在动荡与战火蹂躏下，急于寻找出路，于是误信了共产党“人间天堂”谎言，马克斯唯物与暴力理论的欺骗，中国人陷入暗无天日苦难中。68年来，中共统治下的中国，诚如先总统蒋公所言：是一场最大灾难。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815944&from=ogGitn">清明节期间 大陆多地发生爆炸山火地震 2017-04-04 20:08</a><br/>清明节期间，大陆多地灾祸乱像频现。4月3日，大连市甘井子区一高层住宅发生燃气爆炸事故，一名女子从25楼被炸飞坠地身亡；同日，山西有4人在一场山火中死亡。此外，内蒙古及云南昭通还分别发生地震。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815941&from=ogGitn">福建现“死亡公路” 5年7套房被撞垮 2017-04-04 19:54</a><br/>在福建德化赤水街通往九仙山，有一段约1200米的长缓坡，被当地人称为“死亡公路”。日前，该地段又发生民房被土方车撞塌，致两人死亡的事件。这是近5年来，该地段有7套相连的老屋被撞毁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815939&from=ogGitn">网传王石离交出万科董事长一职不远了 2017-04-04 19:44</a><br/>日前，万科被收归国有，万科董事长王石成为正厅级干部的消息在网络流传。有文章认为从目前各方透露出的信息来看，王石应该离交出董事长一职不远了。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815945&from=ogGitn">河南疯汉持筷血洗病房 致3死1伤 2017-04-04 19:33</a><br/>近些年，由于欠缺管理，大陆各地精神病人引发的命案频频曝出河南省洛阳市洛宁大众医院一名男性精神病患者，于2月24日晚间，在9分钟内挣脱捆绑的绳索，手持筷子行凶，造成3人死亡，1人受伤的恶性案件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815930&from=ogGitn">四川泸州中学生被害激发万民抗暴 知情者曝内幕 
 										
 											?组图 2017-04-04 19:05</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 19:01</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山再添新职   外交系统江系人马面临大清洗 2017-04-04 18:58</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:55</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:30</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815928&from=ogGitn">孙儿买LV包尽孝  祖母用来装鲜鱼  并称〝不漏水〞只是〝重了点〞 2017-04-04 18:01</a><br/>一位台湾网友说，特别买了一款名贵的LV包送给祖母，没想到祖母装日用杂货，包括鲜鱼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815933&from=ogGitn">【翻墙必看】习当局设新区释放什么信号？ 2017-04-04 17:47</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
@@ -20,6 +23,7 @@
 											?组图 2017-04-04 16:32</a><br/>尽管今年2月只有28天，但今年的清明节是4月4日。为什么是4月4日过清明呢？清明见民间有9大习俗，都是哪些呢？一起来看看吧。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815940&from=ogGitn">西安男子跑步后去接水 突然倒地不治身亡 2017-04-04 15:51</a><br/>3月31日晚，陕西省西安市43岁的赵先生在家门口的健身会所健身。他在跑步机上运动了二十多分钟，之后到距离三十多米远的饮水机处接水时突然倒地，经抢救无效身亡。目前，警方初步排除外界暴力致死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815925&from=ogGitn">大陆老板淫辱盲人洗脚妹 清华教授曝内幕 2017-04-04 15:40</a><br/>孙立平描述，有钱老板请人到洗脚城洗脚的场景，服务的盲人妹竟然用舌头舔脚。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815943&from=ogGitn">姐维权遭殴 妹在美国计划拦截习近平车队 2017-04-04 15:24</a><br/>因房屋遭到中共强拆坚持维权的北京李美青女士，于4月1日，遭到当地村官雇佣打手再次将其头部殴伤。现流亡美国，李美青的妹妹李焕君表示，此次习近一访民，她将不顾一切再次拦截习近平车队喊冤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815927&from=ogGitn">中共制裁韩国适得其反 在韩华人成受害者 2017-04-04 15:13</a><br/>中共不断升级的“禁韩令”适得其反，如今在韩国，支持部署萨德系统的民众大增，在韩中国人亦感到为难，不少人甚至首当其冲成为经济制裁的受害者。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815923&from=ogGitn">听导航〝指示〞  安徽男把车开到河中央 2017-04-04 15:05</a><br/>驾驶员讲述，他对行车路线不熟，一路跟着导航提示，把车开到了河中央。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815921&from=ogGitn">重庆公安局长落马细节传出 藏有1200瓶茅台 2017-04-04 14:36</a><br/>外界纷传中共重庆副市长、公安局长何挺落马之际，有港媒报导说，何挺已在3月31日被中纪委带走。消息称，中纪委在重庆公安局食堂查到1,200多瓶茅台酒。据说，何曾送3,000万珠宝（人民币，下同）贿赂周永康买官。</td></tr>
@@ -31,6 +35,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815924&from=ogGitn">湖南发生车祸 12死19伤 或因货车违规载人 2017-04-04 12:21</a><br/>4月3日17时50分许，湖南郴州市苏仙区发生一起重大交通事故，已造成12人死亡，19人受伤，现场惨烈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815916&from=ogGitn">李友将第三次换肝 郭文贵发布信息公告 2017-04-04 12:15</a><br/>4月3日，大陆神秘富商郭文贵在推特上发布北大方正集团前CEO李友第三次换肝的关键文件，进一步佐证中共“活摘器官”罪行，他表示由于有关信息涉及有关敏感人员们，因此只公布一部分，一切都是刚刚开始。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815932&from=ogGitn">周晓辉：曾庆红被警告“放弃幻想”的话外音 2017-04-04 11:41</a><br/>据香港《争鸣》杂志2017年4月号披露，在中共“两会”结束不久后的3月18日，中纪委和中央书记处再次约谈了前中共国家副主席、政治局常委曾庆红和其弟弟、前文化部特别巡视员、文化部驻香港特区特派员曾庆淮。报导称，这是自2015年1月7日以来，当局对他们进行的第三次约谈，而且“情况已经发生变化”。二人被明确告知问题“很严重”，要放弃“不切实际的幻想”，自觉配合调查...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815907&from=ogGitn">谢天奇：习设立雄安新区 释放对决江曾信号 2017-04-04 11:32</a><br/>习当局新设立7个自贸区与雄安新区，释放与江泽民集团在经济领域的对决信号。习当局如此大动作，向海内外释放重建经济格局的决心，不仅可以瓦解江泽民利益集团对中国经济的捆绑，防范、粉粹江派十九大前再度发动“经济政变”的企图，也可缓解因清洗江泽民集团政商圈而引发的对中国经济的震荡效应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815908&from=ogGitn">惨！湖南绿化施工车侧翻  致12死19伤（组图） 2017-04-04 11:27</a><br/>湖南郴州市日前发生一起严重交通意外，一辆载有多名工人的道路绿化施工车，在植树后回程途中突然侧翻，当场造成至少12人死亡，19人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815922&from=ogGitn">王宪魁被免职 黑龙江三起大案的黑手 2017-04-04 11:18</a><br/>日前，中共黑龙江省委书记王宪魁被卸职。王宪魁是江派铁杆，在黑龙江省大肆迫害法轮功，制造多起大规模绑架和判刑事件，至少63位法轮功学员在其主政期间被迫害致死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
@@ -50,7 +55,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815904&from=ogGitn">重庆丰都“花园洋房”背后：农民的血和泪 2017-04-04 07:20</a><br/>近年来，重庆丰都县仙女湖镇在大力发展房地产过程中，出现大量侵占农民利益的事件，导致当地农民怨声载道，民不聊生。村民呼吁社会各界关注，还公道于世间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815899&from=ogGitn">【中国禁闻】4月3日完整版 2017-04-04 07:20</a><br/>川普：美国会出手解决朝鲜问题；返抵悉尼 冯崇义：学术只对真理负责；泸州中学生被霸凌致死  警方掩盖真相。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815896&from=ogGitn">港媒：中共是煽动〝独立〞和分裂中国的始作俑者 2017-04-04 06:37</a><br/>港媒文章指，中共近年来高调反对〝台独〞、〝港独〞，而事实上中共是在中国煽动〝独立〞的始作俑者，在夺取全国政权之前多次鼓动各地独立，并建立〝国中之国〞分裂民族。历史学者辛灏年更揭露，当今〝台独〞是当年中共一手培养的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815907&from=ogGitn">谢天奇：习设立雄安新区 释放对决江曾信号 2017-04-04 06:32</a><br/>习当局新设立7个自贸区与雄安新区，释放与江泽民集团在经济领域的对决信号。习当局如此大动作，向海内外释放重建经济格局的决心，不仅可以瓦解江泽民利益集团对中国经济的捆绑，防范、粉粹江派十九大前再度发动“经济政变”的企图，也可缓解因清洗江泽民集团政商圈而引发的对中国经济的震荡效应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815890&from=ogGitn">【禁闻】4月3日维权动态 2017-04-04 06:27</a><br/>山东退休教授孙文广清明期间被旅游；逼江天勇〝认罪〞 江父再被录视频；北京独立参选人李美青 遭暴徒殴打；河南抗强拆自杀身亡 家属遭抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815887&from=ogGitn">【禁闻】4月3日退党精选 2017-04-04 06:24</a><br/>江苏淮安的张来福说：我是一名退伍老兵，深受中共〝成份论〞所害，对中共邪恶的历史有所了解，在得知了中共残酷发动六四事件屠杀请愿学生，以及发动邪恶的镇压法轮功，法轮大法是佛法修炼且已洪传世界后，深切认识到中共的邪恶，果断声明三退，从内心抹去邪党的铬印，为自己选择美好的未来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815889&from=ogGitn">【禁闻】中共设新区 雄安房价一夜飙10倍 2017-04-04 05:53</a><br/>中共设新区 雄安房价一夜飙10倍；免起诉 撤案 两法轮功学员回家。</td></tr>
@@ -202,8 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815721&from=ogGitn">朴槿惠被捕后 吃1美元牢饭 住12平米牢房 2017-04-01 23:03</a><br/>韩国前总统朴槿惠3月31日被送往位于京畿道义王市的首尔拘留所，过上了拘留所生活。她住在12平方米的牢房里，只能吃到价值1.3美元（约9元人民币）的简单午餐，包括白饭配豆芽菜、泡菜、炖包心菜与海带。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815702&from=ogGitn">宗教监控升级 浙江教堂遭强装监控 2017-04-01 22:53</a><br/>浙江温州平阳、乐清等地的基督教堂，一周以来被当地政府人员强制安装监控设备，抵抗的信徒遭到殴打或是关押。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815701&from=ogGitn">陆企环保数据造假 民斥官纵容 2017-04-01 22:50</a><br/>大陆民间环保人士吴立红说，企业污染数据造假问题已经持续了几十年，他们一直都是用假数据来糊弄老百姓。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815699&from=ogGitn">辽宁人大贿选案 41名涉案官员获刑 2017-04-01 21:45</a><br/>近日，辽宁密集处理涉贿选案的腐败官员，除了  之外，还有41人在选举中共全国人大代表时，涉拉票贿选人员被判刑，其中，9人还涉贪污、受贿、行贿犯罪。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815658&from=ogGitn">从曹植到李白 盘点那些〝抄袭〞毛泽东诗词的古人 2017-04-01 20:29</a><br/>早在几年前，就有海外媒体称，毛的诗词抄袭现象非常严重。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815698&from=ogGitn">十九大前清洗江派窝点 四省省委书记被免职 2017-04-01 20:15</a><br/>中共“十九大”前，地方高层人事密集调整，多省书记换人。4月1日，刘赐贵、林铎、张庆伟分别任海南、甘肃、黑龙江省委书记，罗保铭、王三运、王宪魁被免职；范锐平升任成都市委书记。外界注意到，这三省一市的官场都是江派窝点，近年来被持续清洗。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815710&from=ogGitn">传万科被收归国有 王石官至正厅级 2017-04-01 18:58</a><br/>日前，大陆网络流传万科已经成为了深圳市属国资国企，而王石已经是正厅级官员了。</td></tr>
 </table>
