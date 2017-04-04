@@ -4,6 +4,7 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 中共为何忧心忡忡？ 2017-04-05 05:41</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 05:32</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816003&from=ogGitn">【禁闻】郭文贵再爆料：活摘器官血淋淋的佐证 2017-04-05 05:29</a><br/>川习会 法轮功将吁习法办江泽民；郭文贵再爆料：活摘器官血淋淋的佐证；李明哲妻宣布赴北京救夫出发日期。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815999&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不便答复 2017-04-05 05:25</a><br/>北大对美国之音有关郭文贵捐款去向的询问作出反应，称郭文贵的公开信不是正式向北大提交，因此校长不方便做出答复。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816002&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 05:25</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816001&from=ogGitn">梁木： 江泽民集团瓜分中国经济内幕（2） 2017-04-05 05:14</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拚死拚活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815791&from=ogGitn">上海整治商住楼 业主很受伤 2017-04-03 01:13</a><br/>近日，上海商住两用房整治中，负责拆除楼房设施的特勤人员和业主发生冲突，有的业主被打伤。业主认为，房子是用真金白银买来的，开发商从始至终都宣称房子是居住，开发商应该担责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815775&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-03 00:59</a><br/>中国作家杜斌试图将厚重涂抹的历史撕开一角，让全世界的人看到在中国不能不面对的真实历史。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815771&from=ogGitn">每日三退声明精选（2017/04/02） 2017-04-03 00:33</a><br/>我自愿退出共产党、共青团、少先队等中共各级组织，请大纪元作证，感谢您们多年来的无私贡献，有您们在，中国就有希望，一起加油！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815758&from=ogGitn">【翻墙必看】美国航母打击群将威慑朝鲜 2017-04-02 23:50</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 </table>
