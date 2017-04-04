@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 09:40</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 09:09</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815898&from=ogGitn">中共落马官员哪些被通报“有私生子”？ 2017-04-04 08:54</a><br/>在中共官方通报的省部级落马官员中，几乎人人都有“与他人通奸”的行为，因此中共被民间讽刺为“通奸党”。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815901&from=ogGitn">【禁闻】泸州中学生被霸凌致死  警方掩盖真相 2017-04-04 08:37</a><br/>中国日前再发生校园霸凌事件，一名14岁的中学生因为没有交一万元保护费，怀疑在学校被校霸活生生打死。校方与当地警方随后公布说，这个学生是跳楼摔死，引发当地民众愤怒。死者的母亲当街哭诉，要求当局给出真相。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815897&from=ogGitn">石涛：十四岁男孩被校霸打死 雄安新区的疯狂 忘却人性的利益社会 2017-04-04 08:23</a><br/>校霸勒索1千块没得手，就勒索一万元，否则打死你，他们绝不是拿了这一个孩子的钱，他们这是要杀一儆百，这就是黑社会的言出必行。你看强拆的，城管，穿着共产党官衣的有多少人这么做？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:48</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 07:39</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
@@ -18,7 +20,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815893&from=ogGitn">习王三管齐下 四省书记换人后官场大换血 2017-04-04 05:04</a><br/>继海南、甘肃、山东、黑龙江四省书记换人后，习王当局对地方官场高层继续大换血， 主要方式有中央“空降”、异地调任 、本地调整，包括教育部副部长沈晓明“空降”海南任省委副书记，广西钦州市委书记肖莺子调任海南省委常委等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815886&from=ogGitn">雄县人卖房飙涨每平米约3万元  各方热议 2017-04-04 04:59</a><br/>对现在的河北雄县居民来说，大有〝一觉醒来、天堂地狱〞的感受。当地人调侃〝一觉醒来，发现自己成了特区人，然后又发现自己少赚了至少一百万。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815882&from=ogGitn">4月3日全球看中国 2017-04-04 04:52</a><br/>雄安尚是概念 房价业已疯狂；新区设立前 河北雄县前县委书记吴亚飞落马；资金出境难促使中国公司转向境外融资；现代及起亚汽车称中国销售不振恐冲其他3月海外销售。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 04:26</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815881&from=ogGitn">雄安新区火热 域名“xiongan.com”喊价176万 2017-04-04 04:11</a><br/>官方宣布要在河北设立雄安新区后，雄安新区大热，域名“xiongan.com”喊价176万（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815880&from=ogGitn">习访雄安新区消息被推迟披露 一神秘人物随行 2017-04-04 03:54</a><br/>日前，大陆官方宣布成立河北雄安新区。官媒并首次公开，今年2月，习近平已考察河北，并召开雄安新区规划相关会议，有一神秘人物随行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815894&from=ogGitn">金正恩为何痴迷核武器 朝鲜前外交官有解答 2017-04-04 03:32</a><br/>根据投诚韩国的前朝鲜驻英国公使太勇浩（Thae Yong Ho）周日（4月2日）接受NBC的采访，金正恩如此痴迷核武器是因为他害怕自己的独裁政权像侯赛因及卡扎菲一样被推翻，相信只有核武器才能保证其统治。</td></tr>
@@ -37,11 +38,12 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815871&from=ogGitn">俄地铁爆炸恐袭 约60死伤 当局追捕2嫌犯 2017-04-03 21:44</a><br/>俄罗斯圣彼得堡地铁系统内两列列车发生爆炸，造成至少10人死亡，据俄罗斯当局的消息。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 21:19</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁淫乱外 跟两落马国级高官干了啥事 2017-04-03 21:13</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 19:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 19:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 19:30</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815857&from=ogGitn">大陆女〝入殓师〞谈恐怖经历   死者突睁眼打隔 2017-04-03 19:21</a><br/>第一次为逝者擦粉底时，擦的过程中不经意竖着擦了一下……没想到逝者眼睛突然张开了，吓得她赶紧说〝对不起，对不起〞，然后轻轻地将他的眼部闭合。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:13</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815856&from=ogGitn">〝灵鸟〞小凤凰现身广东   古人视为祥瑞之鸟 2017-04-03 19:10</a><br/>被古代称为〝灵鸟〞、〝小凤凰〞的五色雀，近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。古人将其称作瑞鸟，认为是吉祥之鸟，预示祥瑞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 18:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815860&from=ogGitn">新区设立前 河北雄县前县委书记吴亚飞落马 2017-04-03 18:18</a><br/>就在北京当局宣布河北设立雄安新区之前，中共河北省保定市雄县前县委书记吴亚飞落马。据报，吴可能事前已掌握新区开发的内幕消息获利，而被调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815861&from=ogGitn">河南灭门血案 入赘男杀妻家4口后自杀 2017-04-03 18:18</a><br/>河南发生灭门惨案。4月2日消息，驻马店一名61岁的男子持匕首捅死妻子，又捅伤岳母及妻子的两名孙女，事后男子自杀身亡。5人中仅有一名孙女生还，仍在抢救中。</td></tr>
@@ -68,7 +70,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815868&from=ogGitn">可口可乐大陆供应商宣布违约 一周内第4家 2017-04-03 14:19</a><br/>大陆最大的饮料瓶生产企业之一、珠海中富实业股份有限公司3月28日晚宣布，无法按期兑付其2012年中期票据的本息。这是大陆7天内，有4家企业相继违约，涉及总金额超过360亿（人民币，下同）。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 13:25</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815828&from=ogGitn">传曾庆红家族贪污四百亿 再次被中纪委约谈 2017-04-03 13:00</a><br/>有关中共江派二号人物曾庆红家族的不利消息频传。港媒最新报导说，曾庆红、曾庆淮兄弟再次遭到中纪委约谈，曾庆红家族被指在国内外敛财资产高达450亿人民币。据报，中纪委已完全掌握上述情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 12:45</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815655&from=ogGitn">【禁闻】苏州墓地限购令 全国首个 引热议 2017-04-01 09:09</a><br/>据中共官媒3月30号报导，苏州市政府3月2号规定，新建墓穴，单穴不超过0.7平方米，双穴不超过1平方米；严禁为尚未死亡的人员购置墓穴；高龄人员因故确需购买墓穴的，由公墓所在单位报经属地民政部门批准。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815645&from=ogGitn">石涛：朴瑾惠被捕入狱 金三胖要与美国开战 习近平放弃朝鲜？ 2017-04-01 09:06</a><br/>作为总统的女儿，朴瑾惠从1961年走到今天，什么都不缺，她不嫁人有着自己的理由，也体现了她有着自己绝对的自由，她有这个权力，她拥有的权力和自由同样带来了她生命中的苦闷，从而有了闺蜜的出现，就奠定了今天她悲剧的基础。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815669&from=ogGitn">安徽产妇索要胎盘 医院员工：炖汤了 2017-04-01 08:47</a><br/>近日，一名来自安徽的产妇，在江苏常州某医院产下婴儿，按照家乡风俗，胎盘要带回家埋在土里，婴儿才能健康成长。但当孕妇家属向医院索要胎盘时，被一再拒绝，最后才被告知胎盘已经被医院清洁工拿回家炖了汤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815652&from=ogGitn">【禁闻】李明哲被抓 外界忧陆扩大攻击NGO 2017-04-01 08:23</a><br/>台湾非政府组织工作者李明哲，遭中共以违反〝国家安全〞之名逮捕。</td></tr>
 </table>
