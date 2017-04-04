@@ -2,11 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 06:33</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816009&from=ogGitn">川习会在即 三大问题将摆上桌 2017-04-05 05:45</a><br/>6日至7日，川普（特朗普）将与习近平进行首次面对面会晤。有美国媒体认为，朝鲜核问题、中美贸易以及南海问题，将成为摆上桌面的3大头号问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 05:45</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 中共为何忧心忡忡？ 2017-04-05 05:41</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816005&from=ogGitn">【禁闻】追查国际收集犯罪名单 呼应美新法案 2017-04-05 05:37</a><br/>3月30号，《追查国际》发出公告称，自1999年以来，由中共前党魁江泽民为首的中共犯罪集团，利用国家机器在全国范围内对法轮功学员进行迫害，特别是用大量活摘器官的方式，对法轮功学员实施了群体灭绝性的大屠杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816004&from=ogGitn">4月4日全球看中国 2017-04-05 05:33</a><br/>雄安新区房地产点土成金 当局严打炒房奏效否?;清明节〝六四〞难属遭公安严控 孙文广教授被旅游;特朗普停止资助人口基金 与中国有关？;韩国现代和起亚汽车在中国减产 因中韩外交关系紧张。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 05:32</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816003&from=ogGitn">【禁闻】郭文贵再爆料：活摘器官血淋淋的佐证 2017-04-05 05:29</a><br/>川习会 法轮功将吁习法办江泽民；郭文贵再爆料：活摘器官血淋淋的佐证；李明哲妻宣布赴北京救夫出发日期。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816007&from=ogGitn">陈默：左右何以逢源 2017-04-05 05:28</a><br/>受曾建元教授邀请出席〝丁酉反右60周年〞国际学术研讨会，因故无法成行。又忙于世俗之事，匆匆拙笔，以补缺席之憾。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815999&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不便答复 2017-04-05 05:25</a><br/>北大对美国之音有关郭文贵捐款去向的询问作出反应，称郭文贵的公开信不是正式向北大提交，因此校长不方便做出答复。</td></tr>
@@ -27,13 +28,14 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815981&from=ogGitn">任协华：论现代民主 2017-04-05 01:29</a><br/>基于全球政治秩序日趋复杂的前提，在论述到大陆民主转型时，就有必要就现代民主的内在精神与大陆社会的抗争运动进行政治意义上的阐述，以回应在抗争形态错综复杂的轮廓下，有关抗争进程的理性判断。同时，与其他地区争取民主和自由的手段不同，是在于大陆民主运动具有着历史层面与现实交叉的双重特征，也就是从对侵犯人权的统治体制的批评，转向于瓦解极权、建造当代范式中大陆现代民主及...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815977&from=ogGitn">百年僵局的突破口和中日友好关系的真正基础 2017-04-05 01:11</a><br/>对华关系是日本外交的一个难题，由于中日两国都有一些难以挑战的“政治正确”的存在，人们很难全面准确地审视中日关系的历史与现实困境。中日两国有着长期交往的历史，有着相近的文化传统。十九世纪上半期，当西方贸易借助军事力量向亚洲推进的时候，起初，中日采取了相似的闭关锁国政策，但很快都发现了这种政策的无效，被迫打开国门。日本的明治维新与中国的洋务运动几乎在同一...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815982&from=ogGitn">安徽一邮递员专拆纪委信件 和贪官做交易 2017-04-05 00:54</a><br/>据陆媒报导，安徽一邮递员因私拆举报信卖给被举报者，被判刑。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815984&from=ogGitn">江泽民集团瓜分中国经济内幕（2） 2017-04-05 00:38</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拼死拼活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815984&from=ogGitn">江泽民带领儿子率先哄抢“公有制经济” 2017-04-05 00:38</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拼死拼活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815976&from=ogGitn">周晓辉：习近平访美前官媒蹊跷〝抗美援朝〞 2017-04-05 00:36</a><br/>中共官媒新华社4月1日报导称，16名中共志愿军〝烈士〞后人当日来到朝鲜平安南道祭扫志愿军烈士陵园，而在祭扫活动前，中共驻朝鲜大使李进军会见了他们，并〝高度评价抗美援朝战争的伟大历史意义以及志愿军战士与朝鲜军民并肩浴血奋战、保家卫国的光辉业绩〞。随即，大陆澎湃新闻网以〝志愿军烈士后人赴朝鲜祭扫，中国驻朝大使高度评价抗美援朝〞为题转载了该新闻，其它门户网站也相继转载。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815975&from=ogGitn">汇文：遭遇共产党是中国人的最大不幸 2017-04-05 00:33</a><br/>中华民族是个伟大的民族。她的伟大，不是体现在人种、地域上，而是体现在文化上。而这个文化却不是人类发明创造的，是由神传给人的，因此被称作神传文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815973&from=ogGitn">赵紫阳之子：当局首度同意家人建议 父骨灰不入八宝山 2017-04-05 00:27</a><br/>4月4日清明节，大批民众到中共前总书记赵紫阳北京故居祭奠。当局虽按惯例监控但未扣押祭奠人士。赵子女透露，中办已基本同意家属条件，让父亲骨灰入土为安，但不入中共公墓八宝山。据报，赵生前多次要求退党，已于中共决裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815974&from=ogGitn">组图：文革中自杀的留美归国科学家 2017-04-05 00:04</a><br/>中共从1949年建政以来，其暴行愈演愈烈，用鲜血和谎言写成的历史，背后的故事不仅惨绝人寰，且鲜为人知，以至于许多良知尚存、迄今还对它抱有幻想的人不敢相信：中共为什么要杀人？为什么很多人被中共逼到自杀？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815966&from=ogGitn">九天剑：杀人害命 骗人诛心 2017-04-04 23:57</a><br/>上一篇《骗人为杀人洗地》刚发出去没多久就发现，在下还是说错了骗人与杀人的关系和危害度数：严谨讲，洗地是杀人之后遮掩，骗术布局则多在杀人之前。最典型的如江大蛤蟆及其党羽李东生们策划的臭名昭着的〝法轮功天安门自焚〞伪案。所以前篇应改题为《骗人为杀人磨刀》更贴切些。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815965&from=ogGitn">丁抒：执政初期的镇反与土改阳谋 2017-04-04 23:49</a><br/>〝一些阶级胜利了，一些阶级消灭了。这就是历史，这就是几千年的文明史。〞这是毛泽东对马克思阶级斗争学说的归纳，也是中共理论家引用得最多的毛语录之一。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815933&from=ogGitn">【翻墙必看】习当局设新区释放什么信号？ 2017-04-04 23:47</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815964&from=ogGitn">仲维光：推荐阅读俄国革命百年反思专辑《致命的利宁》 
 										
 											?组图 2017-04-04 23:46</a><br/>这应该是毛遂自荐吧，因为这本书刊载了我的一篇最新的长文，〝德国极权主义研究大师布拉赫及其二十世纪研究〞，大约六万五千字。因此在图书上市的时候，我也来推荐一下。</td></tr>
@@ -57,6 +59,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815946&from=ogGitn">中共成亚洲祸根 学者：弃共才能保中国 2017-04-04 20:19</a><br/>亚洲近百年来战火不断，主战场聚焦亚洲最大国家——中国。近代中国，清政府积弱遭列强瓜分，催化出民族主义，推翻满清建立中华民国，再历经军阀割据、抗日战争、国共内战等，中国在动荡与战火蹂躏下，急于寻找出路，于是误信了共产党“人间天堂”谎言，马克斯唯物与暴力理论的欺骗，中国人陷入暗无天日苦难中。68年来，中共统治下的中国，诚如先总统蒋公所言：是一场最大灾难。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815957&from=ogGitn">在京访民举牌呼吁释放无故被刑拘的维权人士 2017-04-04 20:14</a><br/>江苏维权人士吴继新在失联半个月后，家属接获通知，吴继新被以“寻衅滋事罪”刑事拘留在北京丰台看守所，3月30日下午，来自全国的部分访民，在北京为遭受失去自由的吴继新举牌呼吁，希望他早日无罪释放。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815944&from=ogGitn">清明节期间 大陆多地发生爆炸山火地震 2017-04-04 20:08</a><br/>清明节期间，大陆多地灾祸乱像频现。4月3日，大连市甘井子区一高层住宅发生燃气爆炸事故，一名女子从25楼被炸飞坠地身亡；同日，山西有4人在一场山火中死亡。此外，内蒙古及云南昭通还分别发生地震。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816008&from=ogGitn">中共资本管控 大陆公司转向境外融资 2017-04-04 20:05</a><br/>因中共实施严格的资金管控，造成大陆企业海外并购困难，中资公司转向海外融资。最新的数据显示，今年第一季度，中资公司到海外发行债券的数额几乎是去年同期的五倍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815948&from=ogGitn">清明扫墓多地引山火 山西湖南7人身亡 2017-04-04 20:03</a><br/>清明时节，民众上山扫墓祭祖，接连引发山火。山西、湖南共造成7人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815941&from=ogGitn">福建现“死亡公路” 5年7套房被撞垮 2017-04-04 19:54</a><br/>在福建德化赤水街通往九仙山，有一段约1200米的长缓坡，被当地人称为“死亡公路”。日前，该地段又发生民房被土方车撞塌，致两人死亡的事件。这是近5年来，该地段有7套相连的老屋被撞毁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815952&from=ogGitn">汇文：江泽民与中共的败亡路 2017-04-04 19:51</a><br/>任何妄想挽救中共的企图，到头来只是逆天意而动，不仅劳而无功，还将断送了自己的前程，天灭中共乃是上天的旨意，因为它为祸人间、迫害善良，必遭天谴。</td></tr>
@@ -71,7 +74,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815928&from=ogGitn">孙儿买LV包尽孝  祖母用来装鲜鱼  并称〝不漏水〞只是〝重了点〞 2017-04-04 18:01</a><br/>一位台湾网友说，特别买了一款名贵的LV包送给祖母，没想到祖母装日用杂货，包括鲜鱼。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815933&from=ogGitn">【翻墙必看】习当局设新区释放什么信号？ 2017-04-04 17:47</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815929&from=ogGitn">清明节 大陆访民八宝山诉冤被抓 2017-04-04 17:05</a><br/>4月4号清明节，数百名访民前往埋葬中共高官的北京八宝山万安公墓，以扫墓的形式抗议冤情长期得不到解决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815926&from=ogGitn">清明今年4月4 九大习俗要知道 
 										
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815780&from=ogGitn">周晓辉：四省书记更换 两大问题解决中 2017-04-03 02:09</a><br/>4月1日，中共官方媒体连续报导四省书记日前已被更换，即王宪魁不再担任黑龙江省委书记，由张庆伟接任；刘赐贵任海南省委书记，罗保铭卸任；林铎任甘肃省委书记，王三运卸任；刘家义任山东省委书记，姜异康卸任。对于卸任的四省书记的去向，官媒没有提及，但从其表述仍称他们为〝同志〞来看，按照惯例，他们应去全国人大任闲职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815783&from=ogGitn">山东债务连环劫 区域性金融风险陆续爆发 2017-04-03 02:08</a><br/>近日，中国山东多家集团性质的公司陷入债务危机，并引发银行业恐慌。结合各地不断成立坏帐银行可以看出，区域性金融风险在陆续爆发。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815779&from=ogGitn">子新：从近期河北法轮功学员无罪获释说起 2017-04-03 01:58</a><br/>二零一七年一月八日，河北邯郸武安市检察院撤消对武安市法轮功学员白晶杰的起诉。在经历了五个月的冤狱后，白晶杰被无罪释放。这是自二零一三年二月二日，武安市检察院和武安市法院无罪释放法轮功学员王洪亮后，武安市无罪释放法轮功学员的第二个案例。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815778&from=ogGitn">佚名：人 为什么会坏到这个地步 2017-04-03 01:52</a><br/>不过这本书倒是一点不枯燥，至少我看着不枯燥，几乎是一口气读完的。当然了，读完以后，能被牢牢记住的还是一些具体的、生动的细节。这些细节让我既震动，又好奇。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815777&from=ogGitn">陈思敏：债留山东 姜异康尽得张高丽真传 2017-04-03 01:48</a><br/>在姜异康卸任之际，山东模板的债务崩盘也来到临界点。民间高利贷方面，特别是官黑勾结的高利贷，背后是民营中小实体企业靠此强撑的残酷现况。区域金融风险方面，特别是大集团深陷债务泥潭，例如齐星集团欠债上百亿，靠地方当局牵头立〝公约〞，如天信集团进入破产重整，百亿债权酝酿打包转让，这些反映出的是山东有多少知名企业其实都是靠官方硬撑。不仅如此，据称，接下来可能也要全线崩盘的还有山东的煤矿和焦化产业。</td></tr>
 </table>
