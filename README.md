@@ -2,8 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815947&from=ogGitn">“带病提拔”致中共短命官频出 幕后有大佬 2017-04-04 20:26</a><br/>在习当局的反腐运动中，近年出现了一些“短命官员”——上任没多久就被拿下，这些短命官员是“带病提拔”导致的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815946&from=ogGitn">中共成亚洲祸根 学者：弃共才能保中国 2017-04-04 20:19</a><br/>亚洲近百年来战火不断，主战场聚焦亚洲最大国家——中国。近代中国，清政府积弱遭列强瓜分，催化出民族主义，推翻满清建立中华民国，再历经军阀割据、抗日战争、国共内战等，中国在动荡与战火蹂躏下，急于寻找出路，于是误信了共产党“人间天堂”谎言，马克斯唯物与暴力理论的欺骗，中国人陷入暗无天日苦难中。68年来，中共统治下的中国，诚如先总统蒋公所言：是一场最大灾难。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815944&from=ogGitn">清明节期间 大陆多地发生爆炸山火地震 2017-04-04 20:08</a><br/>清明节期间，大陆多地灾祸乱像频现。4月3日，大连市甘井子区一高层住宅发生燃气爆炸事故，一名女子从25楼被炸飞坠地身亡；同日，山西有4人在一场山火中死亡。此外，内蒙古及云南昭通还分别发生地震。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815948&from=ogGitn">清明扫墓多地引山火 山西湖南7人身亡 2017-04-04 20:03</a><br/>清明时节，民众上山扫墓祭祖，接连引发山火。山西、湖南共造成7人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815941&from=ogGitn">福建现“死亡公路” 5年7套房被撞垮 2017-04-04 19:54</a><br/>在福建德化赤水街通往九仙山，有一段约1200米的长缓坡，被当地人称为“死亡公路”。日前，该地段又发生民房被土方车撞塌，致两人死亡的事件。这是近5年来，该地段有7套相连的老屋被撞毁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815939&from=ogGitn">网传王石离交出万科董事长一职不远了 2017-04-04 19:44</a><br/>日前，万科被收归国有，万科董事长王石成为正厅级干部的消息在网络流传。有文章认为从目前各方透露出的信息来看，王石应该离交出董事长一职不远了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815945&from=ogGitn">河南疯汉持筷血洗病房 致3死1伤 2017-04-04 19:33</a><br/>近些年，由于欠缺管理，大陆各地精神病人引发的命案频频曝出河南省洛阳市洛宁大众医院一名男性精神病患者，于2月24日晚间，在9分钟内挣脱捆绑的绳索，手持筷子行凶，造成3人死亡，1人受伤的恶性案件。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815705&from=ogGitn">臧山：有人在给习近平添乱 2017-04-01 23:37</a><br/>澳洲悉尼科技大学中国研究中心负责人冯崇义副教授，最近被中国有关部门〝边控〞，禁止离开中国。持中国护照的冯崇义教授，在澳洲政治学者中，一直以来对中共采取批判态度，并十分关心近期中国发生的各种事情。他在中国天津、云南等地旅行时，就已经被国安官员〝约谈〞喝茶，结果在广州准备离境回澳洲时，被告知不得离开。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815704&from=ogGitn">袁斌：对法轮功的迫害毁了多少幸福的家庭 2017-04-01 23:33</a><br/>十八年前，法轮功学员王洪岩一家住在吉林农安县杨树林乡牛尾巴山村，父亲王启波是乡信用社信贷员，母亲孙士英是小学教师，王洪岩还有个姐姐，叫王洪艳。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815721&from=ogGitn">朴槿惠被捕后 吃1美元牢饭 住12平米牢房 2017-04-01 23:03</a><br/>韩国前总统朴槿惠3月31日被送往位于京畿道义王市的首尔拘留所，过上了拘留所生活。她住在12平方米的牢房里，只能吃到价值1.3美元（约9元人民币）的简单午餐，包括白饭配豆芽菜、泡菜、炖包心菜与海带。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815702&from=ogGitn">宗教监控升级 浙江教堂遭强装监控 2017-04-01 22:53</a><br/>浙江温州平阳、乐清等地的基督教堂，一周以来被当地政府人员强制安装监控设备，抵抗的信徒遭到殴打或是关押。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815701&from=ogGitn">陆企环保数据造假 民斥官纵容 2017-04-01 22:50</a><br/>大陆民间环保人士吴立红说，企业污染数据造假问题已经持续了几十年，他们一直都是用假数据来糊弄老百姓。</td></tr>
 </table>
