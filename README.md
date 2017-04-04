@@ -2,9 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 05:45</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 中共为何忧心忡忡？ 2017-04-05 05:41</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816005&from=ogGitn">【禁闻】追查国际收集犯罪名单 呼应美新法案 2017-04-05 05:37</a><br/>3月30号，《追查国际》发出公告称，自1999年以来，由中共前党魁江泽民为首的中共犯罪集团，利用国家机器在全国范围内对法轮功学员进行迫害，特别是用大量活摘器官的方式，对法轮功学员实施了群体灭绝性的大屠杀。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816004&from=ogGitn">4月4日全球看中国 2017-04-05 05:33</a><br/>雄安新区房地产点土成金 当局严打炒房奏效否?;清明节〝六四〞难属遭公安严控 孙文广教授被旅游;特朗普停止资助人口基金 与中国有关？;韩国现代和起亚汽车在中国减产 因中韩外交关系紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 05:32</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816003&from=ogGitn">【禁闻】郭文贵再爆料：活摘器官血淋淋的佐证 2017-04-05 05:29</a><br/>川习会 法轮功将吁习法办江泽民；郭文贵再爆料：活摘器官血淋淋的佐证；李明哲妻宣布赴北京救夫出发日期。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816007&from=ogGitn">陈默：左右何以逢源 2017-04-05 05:28</a><br/>受曾建元教授邀请出席〝丁酉反右60周年〞国际学术研讨会，因故无法成行。又忙于世俗之事，匆匆拙笔，以补缺席之憾。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815999&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不便答复 2017-04-05 05:25</a><br/>北大对美国之音有关郭文贵捐款去向的询问作出反应，称郭文贵的公开信不是正式向北大提交，因此校长不方便做出答复。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816002&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 05:25</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816001&from=ogGitn">梁木： 江泽民集团瓜分中国经济内幕（2） 2017-04-05 05:14</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拚死拚活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
@@ -204,8 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815779&from=ogGitn">子新：从近期河北法轮功学员无罪获释说起 2017-04-03 01:58</a><br/>二零一七年一月八日，河北邯郸武安市检察院撤消对武安市法轮功学员白晶杰的起诉。在经历了五个月的冤狱后，白晶杰被无罪释放。这是自二零一三年二月二日，武安市检察院和武安市法院无罪释放法轮功学员王洪亮后，武安市无罪释放法轮功学员的第二个案例。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815778&from=ogGitn">佚名：人 为什么会坏到这个地步 2017-04-03 01:52</a><br/>不过这本书倒是一点不枯燥，至少我看着不枯燥，几乎是一口气读完的。当然了，读完以后，能被牢牢记住的还是一些具体的、生动的细节。这些细节让我既震动，又好奇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815777&from=ogGitn">陈思敏：债留山东 姜异康尽得张高丽真传 2017-04-03 01:48</a><br/>在姜异康卸任之际，山东模板的债务崩盘也来到临界点。民间高利贷方面，特别是官黑勾结的高利贷，背后是民营中小实体企业靠此强撑的残酷现况。区域金融风险方面，特别是大集团深陷债务泥潭，例如齐星集团欠债上百亿，靠地方当局牵头立〝公约〞，如天信集团进入破产重整，百亿债权酝酿打包转让，这些反映出的是山东有多少知名企业其实都是靠官方硬撑。不仅如此，据称，接下来可能也要全线崩盘的还有山东的煤矿和焦化产业。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815776&from=ogGitn">王友琴：摧毁日记的革命（上） 2017-04-03 01:41</a><br/>文革害死了以百万计的受难者的生命，毁坏了无数的书籍和文物。此外，文革还破坏了什么呢？不被注意或者未被意识到的一项是：文革摧毁了中国人的日记。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815791&from=ogGitn">上海整治商住楼 业主很受伤 2017-04-03 01:13</a><br/>近日，上海商住两用房整治中，负责拆除楼房设施的特勤人员和业主发生冲突，有的业主被打伤。业主认为，房子是用真金白银买来的，开发商从始至终都宣称房子是居住，开发商应该担责。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815775&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道啊 2017-04-03 00:59</a><br/>中国作家杜斌试图将厚重涂抹的历史撕开一角，让全世界的人看到在中国不能不面对的真实历史。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815771&from=ogGitn">每日三退声明精选（2017/04/02） 2017-04-03 00:33</a><br/>我自愿退出共产党、共青团、少先队等中共各级组织，请大纪元作证，感谢您们多年来的无私贡献，有您们在，中国就有希望，一起加油！</td></tr>
 </table>
