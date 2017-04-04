@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815923&from=ogGitn">听导航〝指示〞  安徽男把车开到河中央 2017-04-04 15:05</a><br/>驾驶员讲述，他对行车路线不熟，一路跟着导航提示，把车开到了河中央。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815921&from=ogGitn">重庆公安局长落马细节传出 藏有1200瓶茅台 2017-04-04 14:36</a><br/>外界纷传中共重庆副市长、公安局长何挺落马之际，有港媒报导说，何挺已在3月31日被中纪委带走。消息称，中纪委在重庆公安局食堂查到1,200多瓶茅台酒。据说，何曾送3,000万珠宝（人民币，下同）贿赂周永康买官。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815919&from=ogGitn">《追问》诸多细节泄露落马官员原型 2017-04-04 14:04</a><br/>反腐新书《追问》面世后，其中的内容和一些细节泄露了落马官员的基本信息，让外界“对号入座”，找到了贪官原型。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815918&from=ogGitn">雄安光棍汉也〝涨价〞   53岁农民要娶25岁留学生 2017-04-04 13:43</a><br/>网传河北雄县单身与离异的男女，纷纷在网上打出征婚广告。</td></tr>
@@ -9,6 +10,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山再添新职   外交系统江系人马面临大清洗 2017-04-04 12:29</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815916&from=ogGitn">李友将第三次换肝 郭文贵发布信息公告 2017-04-04 12:15</a><br/>4月3日，大陆神秘富商郭文贵在推特上发布北大方正集团前CEO李友第三次换肝的关键文件，进一步佐证中共“活摘器官”罪行，他表示由于有关信息涉及有关敏感人员们，因此只公布一部分，一切都是刚刚开始。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815908&from=ogGitn">惨！湖南绿化施工车侧翻  致12死19伤（组图） 2017-04-04 11:27</a><br/>湖南郴州市日前发生一起严重交通意外，一辆载有多名工人的道路绿化施工车，在植树后回程途中突然侧翻，当场造成至少12人死亡，19人受伤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815922&from=ogGitn">王宪魁被免职 黑龙江三起大案的黑手 2017-04-04 11:18</a><br/>日前，中共黑龙江省委书记王宪魁被卸职。王宪魁是江派铁杆，在黑龙江省大肆迫害法轮功，制造多起大规模绑架和判刑事件，至少63位法轮功学员在其主政期间被迫害致死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815906&from=ogGitn">郭文贵曝李友换肝内幕：活摘器官的佐证 2017-04-04 11:04</a><br/>郭文贵称李友现在在309医院筹划第三次肝脏移植。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 10:48</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815677&from=ogGitn">吉林原副省长谷春立被判12年    暴力强拆被骂〝谷大扒〞 2017-04-01 16:03</a><br/>中共十八大后落马的吉林〝首虎〞吉林原副省长谷春立，被查受贿超过4000万，日前以受贿罪被判处有期徒刑十二年。谷春立主政鞍山期间，借城建项目贪污受贿，违规暴力强拆，群情激愤称其为〝谷大扒〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815680&from=ogGitn">陈思敏：湘禁毒队长落马 涉周强张春贤遗毒 2017-04-01 15:57</a><br/>4月1日，湖南省公安厅禁毒总队总队长唐国栋被查。唐国栋现职是今年2月才履新的，如今落马也让当时的任命多了“以毒攻毒”的意味。今年以来，湖南官场反腐明显提速，更明显的是，这些落马官员的履历显示，其任职期间及可能涉及的腐败，几乎都落在周强与张春贤两人主政时期，这也表示两人在湖南主政无方的劣迹斑斑，无疑也是对湖南地方的一种遗毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815676&from=ogGitn">周晓辉：江苏副省长“被跳楼后”露面无事？ 2017-04-01 15:56</a><br/>3月29日，新浪网官方认证的大陆媒体人“北京李海”发布一则快讯，称“十八届中央候补委员、江苏省委常委、常务副省长杨岳今天上午跳楼”，消息很快被删，而官方则选择了沉默。31日，有微信曝出，当日杨岳参加了江苏省基础设施建设推进会，这无疑证实了其“跳楼”的传闻不实。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815628&from=ogGitn">【禁闻】港府清算占中人士 评：无益林郑施政 2017-04-01 15:53</a><br/>3月26号，林郑月娥在抗议声中以777票当选香港下一任行政长官。她承诺要修补香港社会撕裂。但话音刚落，港府就在第二天检控9名曾经参与占中运动的人士，这一事件引发舆论哗然。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815659&from=ogGitn">真实的土改故事：活体解剖与中共高官之死 2017-04-01 15:52</a><br/>静乐县在土改中杀地主有两种杀法：一种叫〝大抹〞，另一种叫〝咯利〞。</td></tr>
 </table>
