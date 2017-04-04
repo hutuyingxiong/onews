@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815926&from=ogGitn">清明今年4月4 九大习俗要知道 
+										
+											?组图 2017-04-04 16:32</a><br/>尽管今年2月只有28天，但今年的清明节是4月4日。为什么是4月4日过清明呢？清明见民间有9大习俗，都是哪些呢？一起来看看吧。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815925&from=ogGitn">大陆老板淫辱盲人洗脚妹 清华教授曝内幕 2017-04-04 15:40</a><br/>孙立平描述，有钱老板请人到洗脚城洗脚的场景，服务的盲人妹竟然用舌头舔脚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815923&from=ogGitn">听导航〝指示〞  安徽男把车开到河中央 2017-04-04 15:05</a><br/>驾驶员讲述，他对行车路线不熟，一路跟着导航提示，把车开到了河中央。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815921&from=ogGitn">重庆公安局长落马细节传出 藏有1200瓶茅台 2017-04-04 14:36</a><br/>外界纷传中共重庆副市长、公安局长何挺落马之际，有港媒报导说，何挺已在3月31日被中纪委带走。消息称，中纪委在重庆公安局食堂查到1,200多瓶茅台酒。据说，何曾送3,000万珠宝（人民币，下同）贿赂周永康买官。</td></tr>
@@ -201,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815683&from=ogGitn">〝国师〞王林雇凶杀人案　邹勇家属向5被告索赔3亿 2017-04-01 17:04</a><br/>邹勇被谋杀案，日前在江西省抚州市中级法院开庭审理，家属向5被告索赔3亿。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815679&from=ogGitn">江苏义犬跳河救主   身上伤痕累累 2017-04-01 16:49</a><br/>日前，江苏一条义犬为救不慎落水的小主人，挣脱了套住的绳索，跳进河里救人。小主人安然无恙，而义犬身上却伤痕累累。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815678&from=ogGitn">陆虐童案频发 陕男童遭继母电线绑手撞墙命危 2017-04-01 16:08</a><br/>目前，鹏鹏的继母因涉嫌虐待罪已被刑拘。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815677&from=ogGitn">吉林原副省长谷春立被判12年    暴力强拆被骂〝谷大扒〞 2017-04-01 16:03</a><br/>中共十八大后落马的吉林〝首虎〞吉林原副省长谷春立，被查受贿超过4000万，日前以受贿罪被判处有期徒刑十二年。谷春立主政鞍山期间，借城建项目贪污受贿，违规暴力强拆，群情激愤称其为〝谷大扒〞。</td></tr>
 </table>
