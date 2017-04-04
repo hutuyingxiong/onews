@@ -9,6 +9,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815944&from=ogGitn">清明节期间 大陆多地发生爆炸山火地震 2017-04-04 20:08</a><br/>清明节期间，大陆多地灾祸乱像频现。4月3日，大连市甘井子区一高层住宅发生燃气爆炸事故，一名女子从25楼被炸飞坠地身亡；同日，山西有4人在一场山火中死亡。此外，内蒙古及云南昭通还分别发生地震。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815948&from=ogGitn">清明扫墓多地引山火 山西湖南7人身亡 2017-04-04 20:03</a><br/>清明时节，民众上山扫墓祭祖，接连引发山火。山西、湖南共造成7人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815941&from=ogGitn">福建现“死亡公路” 5年7套房被撞垮 2017-04-04 19:54</a><br/>在福建德化赤水街通往九仙山，有一段约1200米的长缓坡，被当地人称为“死亡公路”。日前，该地段又发生民房被土方车撞塌，致两人死亡的事件。这是近5年来，该地段有7套相连的老屋被撞毁。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815952&from=ogGitn">汇文：江泽民与中共的败亡路 2017-04-04 19:51</a><br/>任何妄想挽救中共的企图，到头来只是逆天意而动，不仅劳而无功，还将断送了自己的前程，天灭中共乃是上天的旨意，因为它为祸人间、迫害善良，必遭天谴。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815939&from=ogGitn">网传王石离交出万科董事长一职不远了 2017-04-04 19:44</a><br/>日前，万科被收归国有，万科董事长王石成为正厅级干部的消息在网络流传。有文章认为从目前各方透露出的信息来看，王石应该离交出董事长一职不远了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815945&from=ogGitn">河南疯汉持筷血洗病房 致3死1伤 2017-04-04 19:33</a><br/>近些年，由于欠缺管理，大陆各地精神病人引发的命案频频曝出河南省洛阳市洛宁大众医院一名男性精神病患者，于2月24日晚间，在9分钟内挣脱捆绑的绳索，手持筷子行凶，造成3人死亡，1人受伤的恶性案件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815930&from=ogGitn">四川泸州中学生被害激发万民抗暴 知情者曝内幕 
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815707&from=ogGitn">林辉：造假的江姐受刑与《红岩》作者自杀 2017-04-01 23:47</a><br/>在中共治下的中国，一本叫《红岩》的小说曾经广为流行，其作者罗广斌把主人翁江姐塑造成〝光辉形象〞。电影、歌剧《江姐》的出现，以及薄熙来重庆〝唱红打黑〞时大颂江姐，都在说明，江姐已成为中共不可或缺的〝红色英雄〞。然而，真实的历史是：江姐是个不折不扣的〝第三者〞，并没有受过《红岩》中所说的酷刑，至于炮制者罗广斌则走上了自杀之路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815668&from=ogGitn">【翻墙必看】省级官场大换血埋下一个伏笔 2017-04-01 23:44</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815706&from=ogGitn">谢天奇：19大换届启动 直辖市再震荡 4省书记或换人 2017-04-01 23:40</a><br/>自3月28日开始，近20省市逾30名省级常委或副省长换人，显示习当局已全面展开〝十九大〞前的省级官场人事调整。分析此轮官场调整特点，可以发现习在解构、重建省级官场的同时，已为深度清洗江派地方势力埋下伏笔。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815705&from=ogGitn">臧山：有人在给习近平添乱 2017-04-01 23:37</a><br/>澳洲悉尼科技大学中国研究中心负责人冯崇义副教授，最近被中国有关部门〝边控〞，禁止离开中国。持中国护照的冯崇义教授，在澳洲政治学者中，一直以来对中共采取批判态度，并十分关心近期中国发生的各种事情。他在中国天津、云南等地旅行时，就已经被国安官员〝约谈〞喝茶，结果在广州准备离境回澳洲时，被告知不得离开。</td></tr>
 </table>
