@@ -2,7 +2,6 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815906&from=ogGitn">郭文贵新曝李友第3次换肝：〝活摘器官血淋淋的佐证〞 2017-04-04 22:09</a><br/>郭文贵称李友现在在309医院筹划第三次肝脏移植。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815951&from=ogGitn">清明节 安徽泗县两幼童遭母亲毒杀 2017-04-04 20:33</a><br/>清明节前夕，大陆再传出母亲以残忍手法毒杀子女事件。此前类似的事件发生后，引起社会对贫穷的农村村民对生活绝望等问题的关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815947&from=ogGitn">“带病提拔”致中共短命官频出 幕后有大佬 2017-04-04 20:26</a><br/>在习当局的反腐运动中，近年出现了一些“短命官员”——上任没多久就被拿下，这些短命官员是“带病提拔”导致的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815946&from=ogGitn">中共成亚洲祸根 学者：弃共才能保中国 2017-04-04 20:19</a><br/>亚洲近百年来战火不断，主战场聚焦亚洲最大国家——中国。近代中国，清政府积弱遭列强瓜分，催化出民族主义，推翻满清建立中华民国，再历经军阀割据、抗日战争、国共内战等，中国在动荡与战火蹂躏下，急于寻找出路，于是误信了共产党“人间天堂”谎言，马克斯唯物与暴力理论的欺骗，中国人陷入暗无天日苦难中。68年来，中共统治下的中国，诚如先总统蒋公所言：是一场最大灾难。</td></tr>
@@ -16,7 +15,7 @@
 										
 											?组图 2017-04-04 19:05</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 19:01</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山添新职动刀外交系 放重话〝不解决死不瞑目〞 2017-04-04 18:58</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山再添新职   外交系统江系人马面临大清洗 2017-04-04 18:58</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:55</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
@@ -46,6 +45,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815908&from=ogGitn">惨！湖南绿化施工车侧翻  致12死19伤（组图） 2017-04-04 11:27</a><br/>湖南郴州市日前发生一起严重交通意外，一辆载有多名工人的道路绿化施工车，在植树后回程途中突然侧翻，当场造成至少12人死亡，19人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815922&from=ogGitn">王宪魁被免职 黑龙江三起大案的黑手 2017-04-04 11:18</a><br/>日前，中共黑龙江省委书记王宪魁被卸职。王宪魁是江派铁杆，在黑龙江省大肆迫害法轮功，制造多起大规模绑架和判刑事件，至少63位法轮功学员在其主政期间被迫害致死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815906&from=ogGitn">郭文贵曝李友换肝内幕：活摘器官的佐证 2017-04-04 11:04</a><br/>郭文贵称李友现在在309医院筹划第三次肝脏移植。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 10:48</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815886&from=ogGitn">雄县人卖房飙涨每平米约3万元 各方热议 2017-04-04 10:38</a><br/>对现在的河北雄县居民来说，大有〝一觉醒来、天堂地狱〞的感受。当地人调侃〝一觉醒来，发现自己成了特区人，然后又发现自己少赚了至少一百万。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815903&from=ogGitn">每日三退声明精选（2017/04/03） 2017-04-04 10:32</a><br/>共产党反天、反地、反人类，战天斗地残民于惩，用进化论、无神论和阶级斗争摧毁人类最基本的道德体系和对善恶的评判标准，人与人之间关系冷漠，互相猜忌，都是共产党长期洗脑的结果，更悲哀的是中国人失去做人的意义和对神佛的敬仰，我们看清楚这个恶党的本质，以自己曾经为该组织一员而耻，从这一刻起远离邪恶，抹去兽记，选择光明的未来。</td></tr>
