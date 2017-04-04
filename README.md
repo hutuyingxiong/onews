@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 05:32</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815996&from=ogGitn">十九大前人事调整 多省书记处于进退关键期 2017-04-05 05:01</a><br/>日前，中共地方数十名高层人事被再次密集换人。中共十九大前夕，还有浙江、福建、四川、宁夏等多名省委书记也处于可进可退的关键时刻。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815995&from=ogGitn">雄安新区爆热下诸多悬念 筹委会秘密办公 2017-04-05 02:53</a><br/>大陆雄安新区消息持续发酵。新区筹委会包下河北容城县整栋酒店办公，酒店守卫森严。外界关注，雄安新区有诸多悬念。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815994&from=ogGitn">重庆官场大震荡  孙政才辣手整治意在19大入常？ 2017-04-05 02:38</a><br/>遭批清除〝薄、王〞遗毒不彻底后，重庆官场持续震荡，公安局长亦落马。港媒分析，重庆市委书记孙政才抓紧动作，或为力搏十九大入常。此前有文章分析，孙政才打不开重庆局面，无力平反薄熙来当年〝打黑〞冤案，引起习近平不满。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815992&from=ogGitn">交涉多年后 赵紫阳的骨灰终不进八宝山 2017-04-05 02:10</a><br/>中共前总书记赵紫阳去世已12年。一直未得到解决的赵骨灰入土问题终于有了答案。4月4日清明节赵紫阳的儿子赵二军表示，官方已同意，其父亲的骨灰不进八宝山，由家属自行处理安葬一事。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815769&from=ogGitn">专访作家杜斌：不翻墙真是什么都不知道 2017-04-02 22:27</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者、作家、纪录片制作人，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815768&from=ogGitn">山西民宅爆炸 九人死亡 疑似囤积炸药 2017-04-02 21:55</a><br/>爆炸发生在当地时间晚上10点28分，地点位于距离临汾市不足40公里的浮山县城内南环西路一处居民住宅楼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815751&from=ogGitn">聂树斌案仅获索赔两成 引发网路巨大抗议声浪 2017-04-02 19:41</a><br/>由于聂树斌案存在太多黑幕和不公，案件赔付结果再次引起舆论对中共轻视百姓生命的谴责。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 18:43</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815782&from=ogGitn">上海前检察长陈旭被查内幕 2017-04-02 18:00</a><br/>从上海市检察院前检察长陈旭近日被调查，再到上海市公安局前政治部副主任郑万新日前被提起公诉，近期落马的上海官员几乎无一例外的“拔出萝卜带出泥”，背后都有江派重量级人物。种种信号表明上海“政法王”吴志明处境不妙。朝开会夕被查 上海“头号法枭”陈旭落马内幕中共“两会”前夕，当局“打虎”节奏加快。3月1日傍晚，中纪委网站发布消息，上海市检察院前检察长陈旭涉嫌...</td></tr>
 </table>
