@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:30</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 18:11</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815933&from=ogGitn">【翻墙必看】习当局设新区释放什么信号？ 2017-04-04 17:47</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815930&from=ogGitn">四川泸州中学生被害激发万民抗暴 知情者曝内幕 
 										
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815617&from=ogGitn">国防部暗示八一大阅兵  习近平因何两破常规？ 2017-04-01 17:50</a><br/>中共十九大召开前夕，很可能再有大阅兵。中共国防部发言人一句答记者问，显示习近平很可能继2015年庆祝抗战胜利七十周年之后，再次打破常规，举行除〝十一〞外的大阅兵。但也有体制内声音否定八一阅兵的可能性。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815714&from=ogGitn">愿未来的幺宁律师，永远不会遇到曾经的幺宁检察官 2017-04-01 17:49</a><br/>关于么宁的种种争论，源自一个极具戏剧性的情节：2009年12月31日1点20分，李庄涉嫌辩护人伪造证据、妨害作证罪一案在重庆市江北区人民法院挑灯夜审到最后关头，公诉人么宁突然指控被告嫖娼。按媒体报道：“此语一出，让在场所有旁听者一片哗然……”（《重庆晚报》2010年1月10日第三版《龚刚模弟弟龚刚华曾“招待”李庄嫖娼》）岂止旁听席哗然呢，消息传出，简直举国哗...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815737&from=ogGitn">上海维权女律师李天天下落不明13天 2017-04-01 17:27</a><br/>上海维权女律师李天天日前传出失踪的消息。3月20日，她在微信上发出被国保约谈的消息，此后开始失联，已达13天。上海一访民也证实李天天处于失踪状态。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
 </table>
