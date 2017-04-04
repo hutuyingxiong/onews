@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815933&from=ogGitn">【翻墙必看】习当局设新区释放什么信号？ 2017-04-04 17:47</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815930&from=ogGitn">四川泸州中学生被害激发万民抗暴    知情者曝内幕 
 										
 											?组图 2017-04-04 17:43</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
@@ -16,10 +17,11 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815921&from=ogGitn">重庆公安局长落马细节传出 藏有1200瓶茅台 2017-04-04 14:36</a><br/>外界纷传中共重庆副市长、公安局长何挺落马之际，有港媒报导说，何挺已在3月31日被中纪委带走。消息称，中纪委在重庆公安局食堂查到1,200多瓶茅台酒。据说，何曾送3,000万珠宝（人民币，下同）贿赂周永康买官。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815919&from=ogGitn">《追问》诸多细节泄露落马官员原型 2017-04-04 14:04</a><br/>反腐新书《追问》面世后，其中的内容和一些细节泄露了落马官员的基本信息，让外界“对号入座”，找到了贪官原型。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815918&from=ogGitn">雄安光棍汉也〝涨价〞   53岁农民要娶25岁留学生 2017-04-04 13:43</a><br/>网传河北雄县单身与离异的男女，纷纷在网上打出征婚广告。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815912&from=ogGitn">上访无门找死人告状？清明前大批访民到八宝山诉冤 2017-04-04 13:37</a><br/>北京警方派出数千警察、保安围追堵截和殴打访民。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815912&from=ogGitn">上访无门找死人告状？清明节大批访民到八宝山诉冤 2017-04-04 13:37</a><br/>北京警方派出数千警察、保安围追堵截和殴打访民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山再添新职   外交系统江系人马面临大清洗 2017-04-04 12:29</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815924&from=ogGitn">湖南发生车祸 12死19伤 或因货车违规载人 2017-04-04 12:21</a><br/>4月3日17时50分许，湖南郴州市苏仙区发生一起重大交通事故，已造成12人死亡，19人受伤，现场惨烈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815916&from=ogGitn">李友将第三次换肝 郭文贵发布信息公告 2017-04-04 12:15</a><br/>4月3日，大陆神秘富商郭文贵在推特上发布北大方正集团前CEO李友第三次换肝的关键文件，进一步佐证中共“活摘器官”罪行，他表示由于有关信息涉及有关敏感人员们，因此只公布一部分，一切都是刚刚开始。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815932&from=ogGitn">周晓辉：曾庆红被警告“放弃幻想”的话外音 2017-04-04 11:41</a><br/>据香港《争鸣》杂志2017年4月号披露，在中共“两会”结束不久后的3月18日，中纪委和中央书记处再次约谈了前中共国家副主席、政治局常委曾庆红和其弟弟、前文化部特别巡视员、文化部驻香港特区特派员曾庆淮。报导称，这是自2015年1月7日以来，当局对他们进行的第三次约谈，而且“情况已经发生变化”。二人被明确告知问题“很严重”，要放弃“不切实际的幻想”，自觉配合调查...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815908&from=ogGitn">惨！湖南绿化施工车侧翻  致12死19伤（组图） 2017-04-04 11:27</a><br/>湖南郴州市日前发生一起严重交通意外，一辆载有多名工人的道路绿化施工车，在植树后回程途中突然侧翻，当场造成至少12人死亡，19人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815922&from=ogGitn">王宪魁被免职 黑龙江三起大案的黑手 2017-04-04 11:18</a><br/>日前，中共黑龙江省委书记王宪魁被卸职。王宪魁是江派铁杆，在黑龙江省大肆迫害法轮功，制造多起大规模绑架和判刑事件，至少63位法轮功学员在其主政期间被迫害致死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
@@ -204,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815688&from=ogGitn">湖南官场风声鹤唳    40天连擒5虎 2017-04-01 17:30</a><br/>两会之后，中共中纪委再出重拳，湖南官场大震荡40天连擒5虎。湖南省纪委今早（4月1日）发布消息，湖南省公安厅禁毒总队总队长唐国栋涉嫌严重违纪被查，另有4名湖南高官先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815737&from=ogGitn">上海维权女律师李天天下落不明13天 2017-04-01 17:27</a><br/>上海维权女律师李天天日前传出失踪的消息。3月20日，她在微信上发出被国保约谈的消息，此后开始失联，已达13天。上海一访民也证实李天天处于失踪状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815685&from=ogGitn">山西男子设骗局 内外勾结骗银行逾10亿元 2017-04-01 17:26</a><br/>近日，山西曝出一宗男子通过伪造印章和材料，与银行内部职员勾结骗取14亿元（人民币，下同）诈骗案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815689&from=ogGitn">谷春立过往：与温州女商人官商勾结 2017-04-01 17:20</a><br/>日前，中共吉林省前副省长谷春立被判刑。在其刚刚落马后，陆媒就深度起底了他在辽宁任职期间疯狂拆迁，并与温州女商人徐小艳的辽宁鞍山往事。他们通过官商勾结，进行利益输送，中饱私囊，但给当地留下若干烂尾工程及数目惊人的政府债务。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815670&from=ogGitn">黑龙江省委书记换人 王宪魁下场不妙 2017-04-01 17:16</a><br/>王宪魁卸任黑龙江省委书记一职。</td></tr>
 </table>
