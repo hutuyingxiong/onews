@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815918&from=ogGitn">雄安光棍汉也〝涨价〞   53岁农民要娶25岁留学生 2017-04-04 13:43</a><br/>网传河北雄县单身与离异的男女，纷纷在网上打出征婚广告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815912&from=ogGitn">上访无门找死人告状？清明前大批访民到八宝山诉冤 2017-04-04 13:37</a><br/>北京警方派出数千警察、保安围追堵截和殴打访民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山再添新职   外交系统江系人马面临大清洗 2017-04-04 12:29</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815916&from=ogGitn">李友将第三次换肝 郭文贵发布信息公告 2017-04-04 12:15</a><br/>4月3日，大陆神秘富商郭文贵在推特上发布北大方正集团前CEO李友第三次换肝的关键文件，进一步佐证中共“活摘器官”罪行，他表示由于有关信息涉及有关敏感人员们，因此只公布一部分，一切都是刚刚开始。</td></tr>
@@ -27,6 +28,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815890&from=ogGitn">【禁闻】4月3日维权动态 2017-04-04 06:27</a><br/>山东退休教授孙文广清明期间被旅游；逼江天勇〝认罪〞 江父再被录视频；北京独立参选人李美青 遭暴徒殴打；河南抗强拆自杀身亡 家属遭抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815887&from=ogGitn">【禁闻】4月3日退党精选 2017-04-04 06:24</a><br/>江苏淮安的张来福说：我是一名退伍老兵，深受中共〝成份论〞所害，对中共邪恶的历史有所了解，在得知了中共残酷发动六四事件屠杀请愿学生，以及发动邪恶的镇压法轮功，法轮大法是佛法修炼且已洪传世界后，深切认识到中共的邪恶，果断声明三退，从内心抹去邪党的铬印，为自己选择美好的未来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815889&from=ogGitn">【禁闻】中共设新区 雄安房价一夜飙10倍 2017-04-04 05:53</a><br/>中共设新区 雄安房价一夜飙10倍；免起诉 撤案 两法轮功学员回家。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815917&from=ogGitn">深圳男误将3万当300捐款 慈善基金会拒退回 2017-04-04 05:47</a><br/>大陆深圳市民李先生，日前在网上看到一项爱心捐款项目，本想捐300元，谁知没有看清小数点，不小心捐了3万元。当李先生尝试联系该慈善基金会后，请求希望能够退回金额，却遭到对方拒绝。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815915&from=ogGitn">大陆40城楼市调控 多地提高“购房税” 2017-04-04 05:34</a><br/>中国大陆开启新一轮楼市调控，近40个城市出台了各种楼市调控政策120余次，超过十个城市增加个税或社保缴纳年限。财经分析人士认为，增加社保年限等于一次性提高购房税。经济学家表示，目前调控政策的目标主要是防止房地产泡沫引发系统性风险。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815885&from=ogGitn">【禁闻】李明哲妻欲赴京救夫 前路多崎岖？ 2017-04-04 05:25</a><br/>李明哲上个月前往中国，19号与家属失联，国台办29号称李明哲因〝涉嫌危害国家安全〞被抓，但拒绝透露具体指控。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815883&from=ogGitn">尾随习近平访雄安新区 王健林早已布局？ 2017-04-04 05:16</a><br/>4月1日，中共官媒报道称，河北将设立雄安新区。官方定位很高，称其可比肩深圳经济特区和上海浦东新区。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815659&from=ogGitn">真实的土改故事：活体解剖与中共高官之死 2017-04-01 15:52</a><br/>静乐县在土改中杀地主有两种杀法：一种叫〝大抹〞，另一种叫〝咯利〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815675&from=ogGitn">颜丹：发展商业保理可减少企业借高利贷？ 2017-04-01 15:31</a><br/>近日，祸起“高利贷”的“刺死辱母者”案可谓是震惊了整个中国社会。大陆有媒体如是表示，“个别中小企业不惜通过借‘高利贷’融资，最后酿成惨剧”。对于中小企业为何要通过“高利贷”来融资的原因，某部委的部长在今年的“两会”上公开表示，“小微企业……融资难的问题仍然还很突出”；“很多中小企业被应收账款占用了大量的流动资金，导致资金链紧张”；“在银行等传统金融机构融资也...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815682&from=ogGitn">湖南医闹队如黑社会 扬言带300人砸平医院 2017-04-01 15:29</a><br/>大陆各地医闹事件不断恶化，近日，有湖南衡阳医生爆料称，当地有一支专门的医闹队伍，连续在多家医院闹事，讹诈“赔偿金”。其中有人扬言，衡东县医院如果不赔偿，将找300人砸平医院。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815671&from=ogGitn">任重：为什么越“限购”房价越高？ 2017-04-01 15:27</a><br/>客观的说，如今大陆的房地产市场就是一个大赌场，政府就是大庄家。在高企的房价中，也就是百姓的买房钱中，政府在各个环节拿走7成以上。其实，政府利用“限购”调控房价让百姓买得起房是假，维护赌场的秩序，大小官员借机在各自岗位上捞钱是真。只要赌场在，只要能捞到钱，管你百姓死活，管你离不离婚，管你有没有房住。这就是为什么调空房价不从根本的地价入手的原因，也是房价越“限购...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815684&from=ogGitn">湖南靖州公安副局长落马 辽宁两官员被查处 2017-04-01 15:22</a><br/>近两日习当局再查处一批官员。湖南靖州公安副局长陈再安落马，广东河南两官员被查；辽宁辽宁省人大常委会原委员尹亮、省政协原常委周连科被开除党籍；重庆新疆两官员被双开。</td></tr>
 </table>
