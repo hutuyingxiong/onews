@@ -3,11 +3,11 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 10:48</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815886&from=ogGitn">雄县人卖房飙涨每平米约3万元 各方热议 2017-04-04 10:38</a><br/>对现在的河北雄县居民来说，大有〝一觉醒来、天堂地狱〞的感受。当地人调侃〝一觉醒来，发现自己成了特区人，然后又发现自己少赚了至少一百万。〞</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 10:36</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815903&from=ogGitn">每日三退声明精选（2017/04/03） 2017-04-04 10:32</a><br/>共产党反天、反地、反人类，战天斗地残民于惩，用进化论、无神论和阶级斗争摧毁人类最基本的道德体系和对善恶的评判标准，人与人之间关系冷漠，互相猜忌，都是共产党长期洗脑的结果，更悲哀的是中国人失去做人的意义和对神佛的敬仰，我们看清楚这个恶党的本质，以自己曾经为该组织一员而耻，从这一刻起远离邪恶，抹去兽记，选择光明的未来。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 09:40</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815898&from=ogGitn">中共落马官员哪些被通报“有私生子”？ 2017-04-04 08:54</a><br/>在中共官方通报的省部级落马官员中，几乎人人都有“与他人通奸”的行为，因此中共被民间讽刺为“通奸党”。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 08:40</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815901&from=ogGitn">【禁闻】泸州中学生被霸凌致死  警方掩盖真相 2017-04-04 08:37</a><br/>中国日前再发生校园霸凌事件，一名14岁的中学生因为没有交一万元保护费，怀疑在学校被校霸活生生打死。校方与当地警方随后公布说，这个学生是跳楼摔死，引发当地民众愤怒。死者的母亲当街哭诉，要求当局给出真相。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815897&from=ogGitn">石涛：十四岁男孩被校霸打死 雄安新区的疯狂 忘却人性的利益社会 2017-04-04 08:23</a><br/>校霸勒索1千块没得手，就勒索一万元，否则打死你，他们绝不是拿了这一个孩子的钱，他们这是要杀一儆百，这就是黑社会的言出必行。你看强拆的，城管，穿着共产党官衣的有多少人这么做？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815869&from=ogGitn">〝三重大山〞挤压 雄安新区面临一大难题 2017-04-04 08:20</a><br/>愚人节当天，中共要在河北设立雄安新区的消息引起轰动效应。港媒文章指，该地区面临北京、天津和石家庄三重大山的挤压，以及阴霾的威胁，并不具备区域经济优势。相反，新区的设立不过是给炒房和地方官员腐败提供更多的空间。</td></tr>
@@ -41,11 +41,11 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815871&from=ogGitn">俄地铁爆炸恐袭 约60死伤 当局追捕2嫌犯 2017-04-03 21:44</a><br/>俄罗斯圣彼得堡地铁系统内两列列车发生爆炸，造成至少10人死亡，据俄罗斯当局的消息。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 21:19</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁淫乱外 跟两落马国级高官干了啥事 2017-04-03 21:13</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:55</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 19:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 19:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 19:30</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815857&from=ogGitn">大陆女〝入殓师〞谈恐怖经历   死者突睁眼打隔 2017-04-03 19:21</a><br/>第一次为逝者擦粉底时，擦的过程中不经意竖着擦了一下……没想到逝者眼睛突然张开了，吓得她赶紧说〝对不起，对不起〞，然后轻轻地将他的眼部闭合。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:13</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815856&from=ogGitn">〝灵鸟〞小凤凰现身广东   古人视为祥瑞之鸟 2017-04-03 19:10</a><br/>被古代称为〝灵鸟〞、〝小凤凰〞的五色雀，近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。古人将其称作瑞鸟，认为是吉祥之鸟，预示祥瑞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815860&from=ogGitn">新区设立前 河北雄县前县委书记吴亚飞落马 2017-04-03 18:18</a><br/>就在北京当局宣布河北设立雄安新区之前，中共河北省保定市雄县前县委书记吴亚飞落马。据报，吴可能事前已掌握新区开发的内幕消息获利，而被调查。</td></tr>
