@@ -16,6 +16,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815956&from=ogGitn">汇文：江泽民与中共的败亡路 2017-04-04 23:21</a><br/>中共表面看是一个党派，但实质却和其它党派有着本质的不同。中共是《圣经．启示录》中的撒旦，也叫赤龙（红色恶龙），是一个集古今中外邪恶之大全的邪恶生灵。它侵入中华后，就开始了毁灭中华民族的罪恶之路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815955&from=ogGitn">王友琴：摧毁日记的革命（下） 2017-04-04 23:18</a><br/>极少人在文革期间依然一如既往地写日记，北大中文系王力教授是其中之一。其中的原因也许很多：那时他是一级教授，铁定了的〝反动学术权威〞，文革重点打击对像，日记这样的事情反倒不会成为他被清查的重点；他1966年时60岁，写日记的习惯更为悠久深厚，不易改变。另外，他的日记非常简短，客观，中性，好像会计的账簿。他不发议论，不臧否人物，不谈个人感想。这种类型的日记如被拿走审查，相对比较安全。他的行动表明他始终拒绝接受一种不准记录的生活，虽然他没有说及这一点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815954&from=ogGitn">夏小强：郭文贵公布〝活摘血淋淋的佐证〞 2017-04-04 23:14</a><br/>4月3日，身在美国的富商郭文贵在其推特上，披露了北大方正集团前CEO李友在北京309医院请〝中国权威〞的赵主任筹划他的第三次肝脏移植，并附上解放军总医院诊断李友为肝癌的资料。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815968&from=ogGitn">赵紫阳之子：北京当局让步 父骨灰不入八宝山 2017-04-04 22:56</a><br/>4月4日清明节，大批民众到中共前总书记赵紫阳北京故居祭奠。当局虽按惯例监控但未扣押祭奠人士。赵子女透露，中办已基本同意家属条件，让父亲骨灰入土为安，但不入中共公墓八宝山。据报，赵生前多次要求退党，已于中共决裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815953&from=ogGitn">北京动物园游客拔孔雀毛 惹网民斥责无公德 2017-04-04 22:27</a><br/>昨天（4月3日），北京八达岭野生动物园再传惊恐事件，一家四口追到孔雀后，残忍的拔下孔雀尾巴毛。网民对其行为纷纷斥责。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815906&from=ogGitn">郭文贵新曝李友第3次换肝：〝活摘器官血淋淋的佐证〞 2017-04-04 22:09</a><br/>郭文贵称李友现在在309医院筹划第三次肝脏移植。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815951&from=ogGitn">清明节 安徽泗县两幼童遭母亲毒杀 2017-04-04 20:33</a><br/>清明节前夕，大陆再传出母亲以残忍手法毒杀子女事件。此前类似的事件发生后，引起社会对贫穷的农村村民对生活绝望等问题的关注。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815731&from=ogGitn">极致命毒品在美国扩散 源头是中国地下工厂 2017-04-02 04:37</a><br/>全美染上芬太尼（fentanyl）毒瘾的人数越来越多，美国执法单位表示，来自中国大陆地下工厂的供应，加剧全美芬太尼成瘾问题的恶化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815738&from=ogGitn">“五腐上将”先后落马 中共军队尚能战否 2017-04-02 04:17</a><br/>中共十八大以来，已有徐才厚、郭伯雄、田修思、王建平、王喜斌等“五腐上将”，及一大批中将、少将先后被查，引发外界对中共军队“尚能战否”的质疑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815726&from=ogGitn">周晓辉：四省书记更换 两大问题解决中 2017-04-02 03:40</a><br/>下一步的看点将是上海、北京的高层更换和江氏家族的命运，而从最新四省书记被更换看，阻碍变革的两个关键性问题仍处于进行时，但在中共十九大前，或见分晓。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815717&from=ogGitn">王林徒弟被杀焚尸细节曝光 家属索赔3亿 2017-04-02 03:36</a><br/>王林弟子邹勇被黄钰刚、刘锋、朱理通等人打死、焚尸灭迹的详细细节日前曝光。邹勇案代理律师徐振武披露，家属提交索赔3亿元的诉状。</td></tr>
 </table>
