@@ -3,9 +3,9 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815897&from=ogGitn">石涛：十四岁男孩被校霸打死 雄安新区的疯狂 忘却人性的利益社会 2017-04-04 08:23</a><br/>校霸勒索1千块没得手，就勒索一万元，否则打死你，他们绝不是拿了这一个孩子的钱，他们这是要杀一儆百，这就是黑社会的言出必行。你看强拆的，城管，穿着共产党官衣的有多少人这么做？</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:48</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 07:39</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815895&from=ogGitn">习近平找对人？ 美媒揭川习会幕后操盘手 2017-04-04 07:21</a><br/>美媒报导，川普女婿库什纳在川普政府的中国政策中扮演重要角色，即将上演的川习会就是库什纳和中共驻美大使崔天凯幕后运作的结果。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:03</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815896&from=ogGitn">港媒：中共是煽动〝独立〞和分裂中国的始作俑者 2017-04-04 06:37</a><br/>港媒文章指，中共近年来高调反对〝台独〞、〝港独〞，而事实上中共是在中国煽动〝独立〞的始作俑者，在夺取全国政权之前多次鼓动各地独立，并建立〝国中之国〞分裂民族。历史学者辛灏年更揭露，当今〝台独〞是当年中共一手培养的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815890&from=ogGitn">【禁闻】4月3日维权动态 2017-04-04 06:27</a><br/>山东退休教授孙文广清明期间被旅游；逼江天勇〝认罪〞 江父再被录视频；北京独立参选人李美青 遭暴徒殴打；河南抗强拆自杀身亡 家属遭抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815887&from=ogGitn">【禁闻】4月3日退党精选 2017-04-04 06:24</a><br/>江苏淮安的张来福说：我是一名退伍老兵，深受中共〝成份论〞所害，对中共邪恶的历史有所了解，在得知了中共残酷发动六四事件屠杀请愿学生，以及发动邪恶的镇压法轮功，法轮大法是佛法修炼且已洪传世界后，深切认识到中共的邪恶，果断声明三退，从内心抹去邪党的铬印，为自己选择美好的未来。</td></tr>
