@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815994&from=ogGitn">重庆官场大震荡  孙政才辣手整治意在19大入常？ 2017-04-05 02:38</a><br/>遭批清除〝薄、王〞遗毒不彻底后，重庆官场持续震荡，公安局长亦落马。港媒分析，重庆市委书记孙政才抓紧动作，或为力搏十九大入常。此前有文章分析，孙政才打不开重庆局面，无力平反薄熙来当年〝打黑〞冤案，引起习近平不满。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815992&from=ogGitn">交涉多年后 赵紫阳的骨灰终不进八宝山 2017-04-05 02:10</a><br/>中共前总书记赵紫阳去世已12年。一直未得到解决的赵骨灰入土问题终于有了答案。4月4日清明节赵紫阳的儿子赵二军表示，官方已同意，其父亲的骨灰不进八宝山，由家属自行处理安葬一事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815991&from=ogGitn">【今日点击】王岐山誓言清洗江系外交部 2017-04-05 02:01</a><br/>王岐山誓言清洗江系外交部</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815989&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 01:58</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。一、黑社会刚改革开放的时候，我们看香港的电影和电视剧，看到黑社会打打杀杀，认为那是娱乐，是编的，没有人认为是真实的。可后来，这类案件越来越多，中国怎么会变成这样的？这个案件的黑社会表现...</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815736&from=ogGitn">曾庆红家族被查资产超400亿    传曾伟4年未敢回国 2017-04-02 18:43</a><br/>随着北京当局对曾氏兄弟追查的力度不断加大，曾庆红独子曾伟已4年未返国探亲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815782&from=ogGitn">上海前检察长陈旭被查内幕 2017-04-02 18:00</a><br/>从上海市检察院前检察长陈旭近日被调查，再到上海市公安局前政治部副主任郑万新日前被提起公诉，近期落马的上海官员几乎无一例外的“拔出萝卜带出泥”，背后都有江派重量级人物。种种信号表明上海“政法王”吴志明处境不妙。朝开会夕被查 上海“头号法枭”陈旭落马内幕中共“两会”前夕，当局“打虎”节奏加快。3月1日傍晚，中纪委网站发布消息，上海市检察院前检察长陈旭涉嫌...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815772&from=ogGitn">河北设雄安新区引楼市炒风 买家私下交易 2017-04-02 17:06</a><br/>河北设立雄安新区的消息一公布，立刻涌来大批买楼人士，炒高房价。雄县政府查封多个售楼站，宣布停止一切售楼行为。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815748&from=ogGitn">逾2千中国游客美签被拒 无法赴夏威夷会议 2017-04-02 16:29</a><br/>二千多名中国及香港的Nu Skin经销商，原本计划下个月到夏威夷参加商务会议，因美签被拒确定无法成行。</td></tr>
 </table>
