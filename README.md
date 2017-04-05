@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816067&from=ogGitn">南京男子残忍杀死前妻父母 2017-04-05 20:28</a><br/>4月4日凌晨，南京市栖霞区靖安街道发生一起恶性杀人案件，一男子持刀杀死前岳父岳母后逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816064&from=ogGitn">中国“共享单车”乱象引关注 2017-04-05 20:16</a><br/>“共享单车”自去年在大陆蜂拥而上，呈爆炸式增长。随之带来的问题是，由于管理不到位加之民众素质有待提高，使得偷车、毁车、占道乱停车等现象达到近乎失控的混乱状态，引发社会舆论关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816065&from=ogGitn">山东三起重大丑闻 都发生在姜异康任内 2017-04-05 20:08</a><br/>近年来，山东曾发生三起引起舆论抨击的公共事件，如“辱母杀人案”、“山东疫苗案”、“陈光诚事件”。有分析认为，山东一次又一次以负面形象出现在中共政坛。折射出山东官场官官相护，上有政策下有对策的不作为。外界也注意到，上述三大事件都在中共山东省委书记姜异康的任内发生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">禁毒总队总队长被查 湖南1个月5官员落马 2017-04-05 19:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
@@ -10,8 +11,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  当局谎言败露（慎入） 2017-04-05 18:59</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816058&from=ogGitn">毛泽东的八句话骗了中国十多亿人！ 2017-04-05 18:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816061&from=ogGitn">山东14岁少女玩手机  颈椎老化如50岁老人 2017-04-05 18:49</a><br/>山东青岛14岁少女小婷，因每天都玩手机，颈椎出现了〝曲度变直〞，老化程度如50岁老人。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816060&from=ogGitn">中国地下钱庄一年〝搬走〞9000亿手法大揭秘 2017-04-05 18:41</a><br/>有媒体揭秘，中国地下钱庄一年内是如何〝搬走〞9000亿的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816062&from=ogGitn">退休两年后 四川公安厅高官被立案侦查 2017-04-05 17:47</a><br/>日前，中共四川公安厅原副厅级侦察员何宗志以涉嫌“受贿罪、滥用职权罪”被立案侦查。中共“十八大”后，习当局对四川官场持续清洗，大批官员落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816060&from=ogGitn">中国地下钱庄一年〝搬走〞9000亿手法大揭秘 2017-04-05 17:41</a><br/>有媒体揭秘，中国地下钱庄一年内是如何〝搬走〞9000亿的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816019&from=ogGitn">石涛：王岐山通杀外交部 强人政治摧毁制度邪恶 2017-04-05 17:42</a><br/>习近平以政治强人的概念想摧毁政治强权的制度，在把军队拿掉之后，先砍掉了国安部，然后冲着外交部，外交部包括港澳台等外交事务，这里已经包括统战部和政协了。政法委体系中对等着，我们看到了一样的场面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816059&from=ogGitn">深圳湾公园遭共享单车挤爆   清明假日万车入园 2017-04-05 17:27</a><br/>大陆近来共享单车大行其道，但也造成不少乱象。清明节期间，深圳湾公园被上万部共享单车塞爆，引来舆论热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816066&from=ogGitn">外媒猜测清华大学将率先迁至雄安 2017-04-05 17:12</a><br/>设立河北省雄安新区的消息传出后，有外媒猜测清华大学有可能率先搬迁到新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816057&from=ogGitn">政府征地未补偿 黑龙江联富村民抗议遭镇压 2017-04-05 17:06</a><br/>近日，黑龙江省齐齐哈尔市联富村村民要求村政府归还十年前征用村民的土地，并且支付未补偿的承包费，遭到当地警方暴力镇压。该村多名村民被特警殴打，同时警方封锁消息，当地学生被警察勒令删除网络上的相关信息。</td></tr>
@@ -38,7 +40,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816024&from=ogGitn">北京地铁有多挤？男子被挤成四肢瘫痪地铁公司判赔 2017-04-05 10:07</a><br/>近日，北京昌平法院一审判决地铁公司赔偿王涛医疗费等共26万余元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816028&from=ogGitn">广东男子驾车冲民宅 向人群喷火 汽车爆炸 2017-04-05 09:35</a><br/>4月4日，广东一男子驾驶一辆面包车冲进中山小榄镇联丰社区一民宅内，用自制喷火装置向聚餐人群喷火，导致汽车发生爆炸，致1死3重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816013&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-05 09:13</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816019&from=ogGitn">石涛：王岐山通杀外交部 强人政治摧毁制度邪恶 2017-04-05 09:10</a><br/>习近平以政治强人的概念想摧毁政治强权的制度，在把军队拿掉之后，先砍掉了国安部，然后冲着外交部，外交部包括港澳台等外交事务，这里已经包括统战部和政协了。政法委体系中对等着，我们看到了一样的场面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816015&from=ogGitn">【禁闻】内外夹击 中共被迫收紧货币政策 2017-04-05 08:50</a><br/>在博鳌论坛上，周小川表示，不能过分依赖货币政策，货币政策在经过多年的量化宽松之后，目前全球已经到达了这次周期的尾部，这意味着货币政策将不再是宽松的政策，全球需要逐渐变成比较审慎的货币政策。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 08:15</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816025&from=ogGitn">分析：川习会合作与冲突并存 贸易战延后 2017-04-05 08:14</a><br/>“川习会”在即，外界判断川普以及习近平的施政重点在国内事务，对外政策都希望尽量维持现状，所以双方可能会倾向约束朝鲜不要胡来；而美中贸易也可能达成一定程度上的合作，进入新的温和期。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815844&from=ogGitn">国土局长出国背死尸   陆媒揭外逃贪官众生相 2017-04-03 17:17</a><br/>俗语说〝法网恢恢，疏而不漏〞，不少中共贪官都印证了这句话。有些贪官虽逃至海外，免于法律制裁，可现实生活却给了他们一个深刻的教训。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815851&from=ogGitn">豆腐渣再现  武汉墓碑可徒手挖破 2017-04-03 17:11</a><br/>4月4号是中国传统的清明节，不少民众趁周末提前前往公墓扫墓祭祖。3号，有民众到武汉柏泉街长惠苑墓地祭拜先人，发现墓碑出现断裂、穿孔，甚至用手一抠就抠破。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815841&from=ogGitn">深圳15岁少女厕所产子 弃垃圾桶后如常上班 2017-04-03 16:57</a><br/>深圳一名15岁的女孩，在自家厕所产下女婴，然后竟狠心将婴儿丢弃在垃圾桶内，当日入常上班。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815839&from=ogGitn">杭州多名接触冥纸市民铅中毒 2017-04-03 16:53</a><br/>清明节前夕，杭州市有医院接诊了多位铅中毒患者，原来祭祖焚烧的冥纸、“银元宝”中或含有大量铅锡合金与含铅颜料。</td></tr>
 </table>
