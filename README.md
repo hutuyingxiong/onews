@@ -2,14 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  当局谎言败露（慎入） 2017-04-05 21:27</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816067&from=ogGitn">南京男子残忍杀死前妻父母 2017-04-05 20:28</a><br/>4月4日凌晨，南京市栖霞区靖安街道发生一起恶性杀人案件，一男子持刀杀死前岳父岳母后逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816064&from=ogGitn">中国“共享单车”乱象引关注 2017-04-05 20:16</a><br/>“共享单车”自去年在大陆蜂拥而上，呈爆炸式增长。随之带来的问题是，由于管理不到位加之民众素质有待提高，使得偷车、毁车、占道乱停车等现象达到近乎失控的混乱状态，引发社会舆论关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816065&from=ogGitn">山东三起重大丑闻 都发生在姜异康任内 2017-04-05 20:08</a><br/>近年来，山东曾发生三起引起舆论抨击的公共事件，如“辱母杀人案”、“山东疫苗案”、“陈光诚事件”。有分析认为，山东一次又一次以负面形象出现在中共政坛。折射出山东官场官官相护，上有政策下有对策的不作为。外界也注意到，上述三大事件都在中共山东省委书记姜异康的任内发生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">禁毒总队总队长被查 湖南1个月5官员落马 2017-04-05 19:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-05 19:29</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  当局谎言败露（慎入） 2017-04-05 18:59</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816056&from=ogGitn">密传〝川习会〞或达共识：斩首金正恩  中国旁观 2017-04-05 19:03</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816058&from=ogGitn">毛泽东的八句话骗了中国十多亿人！ 2017-04-05 18:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816056&from=ogGitn">密传〝川习会〞或达共识：斩首金正恩  中国旁观 2017-04-05 18:53</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816061&from=ogGitn">山东14岁少女玩手机  颈椎老化如50岁老人 2017-04-05 18:49</a><br/>山东青岛14岁少女小婷，因每天都玩手机，颈椎出现了〝曲度变直〞，老化程度如50岁老人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816062&from=ogGitn">退休两年后 四川公安厅高官被立案侦查 2017-04-05 17:47</a><br/>日前，中共四川公安厅原副厅级侦察员何宗志以涉嫌“受贿罪、滥用职权罪”被立案侦查。中共“十八大”后，习当局对四川官场持续清洗，大批官员落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816019&from=ogGitn">石涛：王岐山通杀外交部 强人政治摧毁制度邪恶 2017-04-05 17:42</a><br/>习近平以政治强人的概念想摧毁政治强权的制度，在把军队拿掉之后，先砍掉了国安部，然后冲着外交部，外交部包括港澳台等外交事务，这里已经包括统战部和政协了。政法委体系中对等着，我们看到了一样的场面。</td></tr>
