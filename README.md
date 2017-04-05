@@ -7,6 +7,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816092&from=ogGitn">林辉：苏军东北施暴 中共置若罔闻 2017-04-05 23:58</a><br/>第二次世界大战后期，在1945年2月苏、美、英三国首脑斯大林、罗斯福和丘吉尔举行的雅尔塔会议上，一个重要议题就是苏联出兵中国东北。三方就苏联出兵东北的政治条件进行了试探性的会谈，并最终签订了《雅尔塔协定》。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816091&from=ogGitn">袁斌：清明 我的六炷香 2017-04-05 23:55</a><br/>今年的清明节，祭奠过祖先亲人之后，我又给那些因为中共的极权统治而失去生命的亡魂也分别上了香。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816090&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 23:53</a><br/>这几天，大陆最火爆的，莫过于设立河北雄安新区这件事。消息一传出，全国各地的投资人、投机商、中介、个人买房者等，一窝蜂地涌向雄安新区。于是，去当地的火车票几乎卖光，当地的酒店人满为患，街道上到处停的都是外地车辆。人们以最快的速度去雄安新区，就想抢在别人的前面，以最低的价格买入房子，复制大陆房地产赚钱的模式，实现自己的发财梦想。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816098&from=ogGitn">河北安新县冻结户籍变更 居民排长队结婚 2017-04-05 23:50</a><br/>大陆官方宣布在河北设立雄安新区，继热炒楼市后，安新县又冻结户籍变更等，当地出现居民排长队结婚的现象。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816088&from=ogGitn">谢田：纽时为何走入共产主义圈套 2017-04-05 23:31</a><br/>共产主义的追随者们在前苏联篡夺政权，是1922年，但奠定这个共产国家基础的，是1917年的俄国二月和十月革命。到今天，100年过去了。共产政权百年之际，出现了许多反思共产主义对人类荼毒的文章。美国主流媒体如《纽约时报》也发表一系列有关共产主义的评论。但《纽约时报》中文版今年2月张彦的文章〈共产党是如何引导中国走向成功的？〉，却真正的让人们跌破了眼镜，感叹纽时为何如此自相情愿的走入了共产主义的圈套，发出了《人民日报》才能发出、中共大外宣计画梦寐以求的声音？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816087&from=ogGitn">陈思敏：雄安新区推出前的一件腐败大案 2017-04-05 23:27</a><br/>在雄安新区、〝雄安协议失效〞成为新闻热点后，外界这才回头关注到，在消息发布前四天被查的保定市雄县县委书记吴亚飞，或是涉及签约的官员。其实在相关问题上，吴亚飞只是小角色。有比他问题大、级别高的官员，早在去年6月已经被拿下。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816086&from=ogGitn">丁抒：〝三反〞〝五反〞下指标逼供信 2017-04-05 23:23</a><br/>镇反、土改刚结束，毛泽东又发动了一个他称之为〝如同镇压反革命斗争一样重要〞的〝三反〞运动。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815871&from=ogGitn">俄地铁爆炸恐袭 约60死伤 当局追捕2嫌犯 2017-04-03 21:44</a><br/>俄罗斯圣彼得堡地铁系统内两列列车发生爆炸，造成至少10人死亡，据俄罗斯当局的消息。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 21:19</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁淫乱外 跟两落马国级高官干了啥事 2017-04-03 21:13</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:55</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 </table>
