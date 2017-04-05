@@ -2,13 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】习川会谈什么议题？ 2017-04-05 16:40</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816051&from=ogGitn">大陆清明习俗变味   扫墓烧〝纸二奶〞 2017-04-05 16:24</a><br/>中国大陆社会乱象近年来已经蔓延到丧葬行业，不仅出现利用〝孝心〞炫富奢侈攀比的现象，还出现了烧〝纸二奶〞变异怪事。据统计清明节全国〝白色消费〞高达一百多亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816050&from=ogGitn">安徽邮递员私拆举报信卖〝情报〞  获刑22个月 2017-04-05 16:17</a><br/>2月7日，法院以私自开拆、隐匿邮件罪，判处鲍某有期徒刑1年10个月。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816047&from=ogGitn">当局放松监控 陆民成功拜祭赵紫阳 2017-04-05 16:08</a><br/>同情六四学生的赵紫阳逝世已经12年了，至今仍未能安葬，骨灰一直保留在北京富强胡同6号故居，每年清明节，都有大批维权人士和访民，前往拜祭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816049&from=ogGitn">大陆环保部揭企业造假离谱　排污监测数据为负数 2017-04-05 16:03</a><br/>中国环保部机动督查组在调查中发现，有些企业的二氧化硫在线监测数据显示是负数。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816046&from=ogGitn">动真格？传下届中共高层必须公示财产 2017-04-05 15:45</a><br/>传中央政治局已通过决议，要求下届中央委员、候补委员、中纪委委员，必须在“十九大”召开前公示财产，以及申报配偶子女在外国的居留权和外国国籍情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816044&from=ogGitn">辽宁国资委原纪委书记贪千万判刑9年 民斥太轻 2017-04-05 15:45</a><br/>4日，中共官媒报导，刘凯因非法收受他人财物1249万余元，获刑9年。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死  所有亲属被政府警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死 受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816042&from=ogGitn">女婿复婚不果泄愤  南京老夫妇睡梦中被杀 2017-04-05 15:32</a><br/>4日凌晨，江苏南京栖霞区，一对老夫妇在睡梦中被人杀死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816052&from=ogGitn">大陆地下钱庄使用三种方法 一年转出九千亿 2017-04-05 15:16</a><br/>大陆地下钱庄依然在中国盛行，今年以来仅广东省被查的地下钱庄涉及金额近千亿元人民币。地下钱庄运用四种方法，在2016年就转出了9000亿元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">湖南禁毒总队总队长被查 1个月5名官员落马 2017-04-05 14:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815868&from=ogGitn">可口可乐大陆供应商宣布违约 一周内第4家 2017-04-03 14:19</a><br/>大陆最大的饮料瓶生产企业之一、珠海中富实业股份有限公司3月28日晚宣布，无法按期兑付其2012年中期票据的本息。这是大陆7天内，有4家企业相继违约，涉及总金额超过360亿（人民币，下同）。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815826&from=ogGitn">业界人士揭大陆房价越调控越高原因 2017-04-03 13:18</a><br/>中国大陆的楼市陷入了越调控房价越涨的怪圈，有业界人士表示，只是限购控制需求而不增加土地供应，楼价只会越调控越高。</td></tr>
 </table>
