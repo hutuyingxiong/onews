@@ -3,13 +3,13 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816056&from=ogGitn">密传〝川习会〞或达共识：斩首金正恩  中国旁观 2017-04-05 19:03</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  当局掩盖真相失败（慎入） 2017-04-05 18:59</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816058&from=ogGitn">毛泽东的八句话骗了中国十多亿人！ 2017-04-05 18:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816061&from=ogGitn">山东14岁少女玩手机  颈椎老化如50岁老人 2017-04-05 18:49</a><br/>山东青岛14岁少女小婷，因每天都玩手机，颈椎出现了〝曲度变直〞，老化程度如50岁老人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816060&from=ogGitn">中国地下钱庄一年〝搬走〞9000亿手法大揭秘 2017-04-05 18:41</a><br/>有媒体揭秘，中国地下钱庄一年内是如何〝搬走〞9000亿的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816062&from=ogGitn">退休两年后 四川公安厅高官被立案侦查 2017-04-05 17:47</a><br/>日前，中共四川公安厅原副厅级侦察员何宗志以涉嫌“受贿罪、滥用职权罪”被立案侦查。中共“十八大”后，习当局对四川官场持续清洗，大批官员落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816059&from=ogGitn">深圳湾公园遭共享单车挤爆   清明假日万车入园 2017-04-05 17:27</a><br/>大陆近来共享单车大行其道，但也造成不少乱象。清明节期间，深圳湾公园被上万部共享单车塞爆，引来舆论热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816057&from=ogGitn">政府征地未补偿 黑龙江联富村民抗议遭镇压 2017-04-05 17:06</a><br/>近日，黑龙江省齐齐哈尔市联富村村民要求村政府归还十年前征用村民的土地，并且支付未补偿的承包费，遭到当地警方暴力镇压。该村多名村民被特警殴打，同时警方封锁消息，当地学生被警察勒令删除网络上的相关信息。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  当局掩盖真相失败（慎入） 2017-04-05 17:06</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】习川会谈什么议题？ 2017-04-05 16:40</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816051&from=ogGitn">大陆清明习俗变味   扫墓烧〝纸二奶〞 2017-04-05 16:24</a><br/>中国大陆社会乱象近年来已经蔓延到丧葬行业，不仅出现利用〝孝心〞炫富奢侈攀比的现象，还出现了烧〝纸二奶〞变异怪事。据统计清明节全国〝白色消费〞高达一百多亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816050&from=ogGitn">安徽邮递员私拆举报信卖〝情报〞  获刑22个月 2017-04-05 16:17</a><br/>2月7日，法院以私自开拆、隐匿邮件罪，判处鲍某有期徒刑1年10个月。</td></tr>
