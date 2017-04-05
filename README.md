@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816044&from=ogGitn">辽宁国资委原纪委书记贪千万判刑9年 民斥太轻 2017-04-05 15:45</a><br/>4日，中共官媒报导，刘凯因非法收受他人财物1249万余元，获刑9年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死  受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816042&from=ogGitn">女婿复婚不果泄愤  南京老夫妇睡梦中被杀 2017-04-05 15:32</a><br/>4日凌晨，江苏南京栖霞区，一对老夫妇在睡梦中被人杀死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">湖南禁毒总队总队长被查 1个月5名官员落马 2017-04-05 14:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815814&from=ogGitn">雄安新区刚推出    雄县书记落马被查 2017-04-03 11:21</a><br/>日前，北京当局宣布设立雄安新区，就在消息公布前4日，官网通告，雄县原县委书记吴亚飞涉嫌严重违纪，落马被查。有消息指他可能涉及利用新区开发内幕消息获利。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815815&from=ogGitn">传王岐山握19大人选大权   放话公示财产〝动真格〞 2017-04-03 11:09</a><br/>王岐山手握审核19大人选大权，要求准中央委员、准候补中央委员、准中纪委委员必须公示财产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815816&from=ogGitn">【 石涛八方】明白之人 不会居于危墙之下 2017-04-03 11:07</a><br/>今天的你，设想着明天的辉煌，就会出很多事。表面上看是好事，但把时间点看死了。有人借你钱，是为了挣你钱。你说自己有能力还钱，那是站在现在的角度。明智的人不会居于危墙之下。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815813&from=ogGitn">大陆四省同日换帅 习十九大人事布局进入〝下半场〞 2017-04-03 11:00</a><br/>新上任的四省新任大员与习近平和王岐山关系密切。</td></tr>
 </table>
