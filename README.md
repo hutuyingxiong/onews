@@ -6,6 +6,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816079&from=ogGitn">四川学生被打死 连日爆发警民冲突 2017-04-05 21:58</a><br/>赵鑫被强收保护费不成，1号遭5名校霸暴力殴打致死后，当地官方通报说是坠楼死亡，校方不让家长见遗体，试图强行火化遗体。2号、3号，愤怒的民众连日包围校门口抗议。据网上传出的视频显示，现场多次爆发激烈警民冲突。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816078&from=ogGitn">姜维平曝何挺落马内情：替张德江〝捂盖子〞 2017-04-05 21:42</a><br/>近日，重庆市公安局长何挺被曝已遭〝双规〞。据指，这是王歧山〝清除薄熙来和王立军余毒〞行动的一部分。媒体人披露，何是周永康得意门生，后台还有张德江。何挺领会张德江〝捂盖子〞、〝保江派〞旨意，曾力阻重庆〝打黑〞冤案平反。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  官方谎言败露（慎入） 2017-04-05 21:27</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816082&from=ogGitn">太爱玩手机 山东14岁少女颈椎老化如50岁 2017-04-05 20:52</a><br/>山东省青岛市14岁少女小婷，每天玩手机约5、6个小时，近日，她出现头晕、颈部酸痛等症状，其去医院检查后发现，其颈椎老化如50岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-05 20:45</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816067&from=ogGitn">南京男子残忍杀死前妻父母 2017-04-05 20:28</a><br/>4月4日凌晨，南京市栖霞区靖安街道发生一起恶性杀人案件，一男子持刀杀死前岳父岳母后逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816064&from=ogGitn">中国“共享单车”乱象引关注 2017-04-05 20:16</a><br/>“共享单车”自去年在大陆蜂拥而上，呈爆炸式增长。随之带来的问题是，由于管理不到位加之民众素质有待提高，使得偷车、毁车、占道乱停车等现象达到近乎失控的混乱状态，引发社会舆论关注。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815843&from=ogGitn">川护士错用注射器 致12幼儿接种疫苗量超5倍 2017-04-03 17:46</a><br/>近日，四川凉山德昌县六所镇发生一起因护士用错注射器，给12名幼儿接种疫苗超量5倍事件。目前，12名幼儿正在医院接受治疗并观察。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815847&from=ogGitn">〝老虎伤人〞怪谁？西安村民收钱  助游客翻墙入动物园 2017-04-03 17:42</a><br/>有游客坦言，刚翻入动物园就听到狮吼声，现在想起都害怕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815854&from=ogGitn">四川中学生没钱交保护费被打死 2017-04-03 17:35</a><br/>1号，太伏中学一名学生被打死的消息在网上传开。当天，泸县县委宣传部官方微信发布公告称：14岁赵姓学生在住宿楼外死亡。2号傍晚，再次发布公告称：该生损伤符合高坠伤特征，官方掩盖真相引发民愤，爆发警民冲突。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815842&from=ogGitn">恐丢官 大陆县长曝一天接待9批领导吃饭 2017-04-03 17:31</a><br/>“陪好领导，乌纱可保。”这个观念在中共庸腐体治下的各级官员中，已根深蒂固。大陆中部某县的一名王姓县长称，曾经一天执行过9拨领导。即使这样，还生怕没有侍候好上级丢了乌纱帽。</td></tr>
 </table>
