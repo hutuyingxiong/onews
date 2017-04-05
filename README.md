@@ -13,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816085&from=ogGitn">雄安新区环绕白洋淀 昔日〝华北明珠〞已成生态灾难 2017-04-05 22:57</a><br/>河北建立雄安新区的消息传出后，这个不起眼的荒芜之地瞬间映入全国人眼簾。炒房客也随之蜂拥而至。而新区内全华北最大的淡水湖泊白洋淀，也再次引起关注。一度有〝华北明珠〞或〝华北之肾〞的白洋淀，目前已成了一个生态灾难。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816083&from=ogGitn">涉嫌受贿 四川公安厅高官何宗志被查 2017-04-05 22:39</a><br/>检方指，何宗志不按规定如实报告个人有关事项，在干部选拔任用中为他人谋取利益、收受财物；违规收受礼金，违规从事营利活动等罪。按规定取消其退休待遇，移送司法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816081&from=ogGitn">王友群：法轮功为什么那么受欢迎？ 2017-04-05 22:39</a><br/>3月29日，新唐人电视台网站发表一篇法轮功学员的修炼故事《台湾风水师惊见金色光柱方知世间真有高人》。我一直在跟踪这篇文章的点击量，到我写作此文时，点击量已达到34154人次，这还是在中共用防火墙全面封网情况下的点击量。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816097&from=ogGitn">陆文：谁能改变因果律？ 2017-04-05 22:18</a><br/>金钱、权势都有一定的作用。可是在用它们摆脱这个因果的同时又掉进另一个因果的窠臼，循环往复，无有穷尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-05 22:03</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816079&from=ogGitn">四川学生被打死 连日爆发警民冲突 2017-04-05 21:58</a><br/>赵鑫被强收保护费不成，1号遭5名校霸暴力殴打致死后，当地官方通报说是坠楼死亡，校方不让家长见遗体，试图强行火化遗体。2号、3号，愤怒的民众连日包围校门口抗议。据网上传出的视频显示，现场多次爆发激烈警民冲突。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816078&from=ogGitn">姜维平曝何挺落马内情：替张德江〝捂盖子〞 2017-04-05 21:42</a><br/>近日，重庆市公安局长何挺被曝已遭〝双规〞。据指，这是王歧山〝清除薄熙来和王立军余毒〞行动的一部分。媒体人披露，何是周永康得意门生，后台还有张德江。何挺领会张德江〝捂盖子〞、〝保江派〞旨意，曾力阻重庆〝打黑〞冤案平反。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 21:19</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁淫乱外 跟两落马国级高官干了啥事 2017-04-03 21:13</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:55</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 19:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
 </table>
