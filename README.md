@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816101&from=ogGitn">川普高参将出席川习会 曾遭中共国安殴打 2017-04-06 03:58</a><br/>4月6、7日全球都将聚焦川习会，届时美中双方都会带上重要团队。对于川普（特朗普）来说，自然少不了带上其亚洲政策高参、前驻华记者博明（Matt Pottinger）。《纽约时报》称，川普的这位高参曾在中国被中共国安殴打。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816099&from=ogGitn">泸州学生命案疑涉3官二代 千警装甲车镇压抗议民众(视频) 2017-04-06 01:15</a><br/>四川泸州初中生赵鑫死亡事件引发民众抗议，遭官方猛力镇压。当地民众向外媒爆料，5名涉事凶手中3人为官二代，故官方刻意包庇。目前抗议民众有数百人被抓，军队装甲车已进驻封锁太伏镇，当局还派逾百名警察到殡仪馆抢尸抓人。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816100&from=ogGitn">3月份中共6只大“老虎”受审 2017-04-06 01:03</a><br/>3月，中共6名“老虎”受审，认罪。他们各有特点，如白雪山被戏称“白乱拆”，武长顺被戏称“武爷” ，他涉贪腐5个多亿元，包养数名情妇，4名女警官为其生私生子等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816095&from=ogGitn">夏侯：苏共暴政下的群体灭绝（下） 2017-04-06 00:08</a><br/>种族灭绝也称为群体灭绝，指人为的、系统的对某个群体或民族、宗教团体进行全部或局部的屠杀，最早于1944年由波兰籍犹太法律学者拉斐尔．莱姆金提出。二战结束后，国际法庭对德国纳粹战犯的罪名指控，包括群体灭绝。对于斯大林时代苏共的暴行，至今虽未得到国际法庭的审判，不过在俄罗斯制作的大型历史记录片《20世纪俄罗斯历史》以及拉脱维亚历史记录片《苏联故事》（The Soviet Story）里，采用翔实的史料、解密的原始文件为斯大林时代的罪行做出诠释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816093&from=ogGitn">夏侯：苏共暴政下的群体灭绝（上） 2017-04-06 00:04</a><br/>在上个世纪二战期间并存过两个极权主义政权：德国纳粹和苏联共产党。这两种制度虽然形式不同，称法有别，但却有着共同的一面，都留下数以千计的万人坑、大屠杀、集中营等这些反人类的罪恶遗迹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816092&from=ogGitn">林辉：苏军东北施暴 中共置若罔闻 2017-04-05 23:58</a><br/>第二次世界大战后期，在1945年2月苏、美、英三国首脑斯大林、罗斯福和丘吉尔举行的雅尔塔会议上，一个重要议题就是苏联出兵中国东北。三方就苏联出兵东北的政治条件进行了试探性的会谈，并最终签订了《雅尔塔协定》。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815877&from=ogGitn">黑市交易猖獗 雄安新区房价恐疯涨 2017-04-03 23:12</a><br/>日前，中共中央发通知成立河北雄安新区，有大批炒房客开始在当地进行私下交易，目前雄安新区三个县都已经冻结全部房产过户。但雄安新区周边房价已经开始疯涨，若雄安新区放开限制，当地房价恐随即上涨。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815863&from=ogGitn">川习会前 人权组织吁川普关注李明哲案 2017-04-03 23:11</a><br/>前台湾太阳花学运和香港雨伞运动成员，2日呼吁美国总统川普（特朗普）关注中国人权问题，在川习会上敦促大陆方面释放在押台湾人权工作者李明哲。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815866&from=ogGitn">渝〝采花大盗〞辣手摧花泡茶  网民：素质差 2017-04-03 22:09</a><br/>樱花盛开的时节，正是人们相约踏青的好时光。但是在重庆的樱花，却屡遭人们的破坏，被〝辣手摧花〞，是樱花树变得光秃秃的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815871&from=ogGitn">俄地铁爆炸恐袭 约60死伤 当局追捕2嫌犯 2017-04-03 21:44</a><br/>俄罗斯圣彼得堡地铁系统内两列列车发生爆炸，造成至少10人死亡，据俄罗斯当局的消息。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815849&from=ogGitn">【翻墙必看】2016年金正恩专列险被炸 2017-04-03 21:19</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 </table>
