@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816088&from=ogGitn">谢田：纽时为何走入共产主义圈套 2017-04-05 23:31</a><br/>共产主义的追随者们在前苏联篡夺政权，是1922年，但奠定这个共产国家基础的，是1917年的俄国二月和十月革命。到今天，100年过去了。共产政权百年之际，出现了许多反思共产主义对人类荼毒的文章。美国主流媒体如《纽约时报》也发表一系列有关共产主义的评论。但《纽约时报》中文版今年2月张彦的文章〈共产党是如何引导中国走向成功的？〉，却真正的让人们跌破了眼镜，感叹纽时为何如此自相情愿的走入了共产主义的圈套，发出了《人民日报》才能发出、中共大外宣计画梦寐以求的声音？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816087&from=ogGitn">陈思敏：雄安新区推出前的一件腐败大案 2017-04-05 23:27</a><br/>在雄安新区、〝雄安协议失效〞成为新闻热点后，外界这才回头关注到，在消息发布前四天被查的保定市雄县县委书记吴亚飞，或是涉及签约的官员。其实在相关问题上，吴亚飞只是小角色。有比他问题大、级别高的官员，早在去年6月已经被拿下。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816086&from=ogGitn">丁抒：〝三反〞〝五反〞下指标逼供信 2017-04-05 23:23</a><br/>镇反、土改刚结束，毛泽东又发动了一个他称之为〝如同镇压反革命斗争一样重要〞的〝三反〞运动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816085&from=ogGitn">雄安新区环绕白洋淀 昔日〝华北明珠〞已成生态灾难 2017-04-05 22:57</a><br/>河北建立雄安新区的消息传出后，这个不起眼的荒芜之地瞬间映入全国人眼簾。炒房客也随之蜂拥而至。而新区内全华北最大的淡水湖泊白洋淀，也再次引起关注。一度有〝华北明珠〞或〝华北之肾〞的白洋淀，目前已成了一个生态灾难。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815850&from=ogGitn">四川现校园暴力 一女生35秒内被扇14次耳光 2017-04-03 18:22</a><br/>近日，一段四川“彭州隆丰中学校园暴力”的视频在微博流传。这是大陆近期又一起校园暴力事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815860&from=ogGitn">新区设立前 河北雄县前县委书记吴亚飞落马 2017-04-03 18:18</a><br/>就在北京当局宣布河北设立雄安新区之前，中共河北省保定市雄县前县委书记吴亚飞落马。据报，吴可能事前已掌握新区开发的内幕消息获利，而被调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815861&from=ogGitn">河南灭门血案 入赘男杀妻家4口后自杀 2017-04-03 18:18</a><br/>河南发生灭门惨案。4月2日消息，驻马店一名61岁的男子持匕首捅死妻子，又捅伤岳母及妻子的两名孙女，事后男子自杀身亡。5人中仅有一名孙女生还，仍在抢救中。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815852&from=ogGitn">深圳15岁女厕所产婴　丢垃圾桶后照常上班 2017-04-03 17:54</a><br/>中国大陆再现弃婴事件。</td></tr>
 </table>
