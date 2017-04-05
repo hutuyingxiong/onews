@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816030&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 12:26</a><br/>大陆的一切乱象，“内鬼”是始作俑者。要改变现状，就必须改变产生“内鬼”的体制。体制不改，一切都是空谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816012&from=ogGitn">谢天奇：川习仓促会晤 五大议题背后的秘密 2017-04-05 11:28</a><br/>离十九大召开还有半年时间，习近平紧急寻求与川普会谈，五大热门议题均与中国内政尤其十九大前夕习江斗态势发展密切相关。这或预示习阵营后续针对江泽民、曾庆红等江派高层及其家族贪腐的清洗大动作已在酝酿之中。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 11:14</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816022&from=ogGitn">每日三退声明精选（2017/04/04） 2017-04-05 10:25</a><br/>共产党很坏。以前觉得自己已经出国多年，年龄又大了。早就不是少先队员了。但是我知道毕竟以前宣过誓为它奋斗的，就算过了年龄，走到天涯海角还是最终要兑现的。为了不为它陪葬，今天宣布当年的誓言作废。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816023&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不方便答覆 2017-04-05 10:19</a><br/>郭文贵在信中控诉北大〝动用国家专案组力量〞恐吓他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816024&from=ogGitn">北京地铁有多挤？男子被挤成四肢瘫痪地铁公司判赔 2017-04-05 10:07</a><br/>近日，北京昌平法院一审判决地铁公司赔偿王涛医疗费等共26万余元人民币。</td></tr>
@@ -18,7 +20,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816011&from=ogGitn">【禁闻】4月4日退党精选 2017-04-05 06:27</a><br/>张建莲说：我是佳木斯监狱的警察，我们小区有一个法轮功学员，冬天义务为大家清雪，夏天义务种花的，我敬佩的好人。他告诉我说因为患了严重的心脏病，医生建议安起搏器，他没安起搏器，而炼法轮功好了。他就按照法轮功〝心怀真善忍，修己利与民〞为大家尽的义务。他说炼法轮功的都是好人，不要迫害法轮功。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816010&from=ogGitn">【禁闻】4月4日维权动态 2017-04-05 06:25</a><br/>律师两次要求会见黄琦 遭拒绝；警方阻挠租房 倪玉兰面临流落街头；北京季新华诉丰台公安局案开庭；709谢阳案律师遭当局强行更换。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816009&from=ogGitn">川习会在即 三大问题将摆上桌 2017-04-05 05:45</a><br/>6日至7日，川普（特朗普）将与习近平进行首次面对面会晤。有美国媒体认为，朝鲜核问题、中美贸易以及南海问题，将成为摆上桌面的3大头号问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 05:45</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816005&from=ogGitn">【禁闻】追查国际收集犯罪名单 呼应美新法案 2017-04-05 05:37</a><br/>3月30号，《追查国际》发出公告称，自1999年以来，由中共前党魁江泽民为首的中共犯罪集团，利用国家机器在全国范围内对法轮功学员进行迫害，特别是用大量活摘器官的方式，对法轮功学员实施了群体灭绝性的大屠杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816004&from=ogGitn">4月4日全球看中国 2017-04-05 05:33</a><br/>雄安新区房地产点土成金 当局严打炒房奏效否?;清明节〝六四〞难属遭公安严控 孙文广教授被旅游;特朗普停止资助人口基金 与中国有关？;韩国现代和起亚汽车在中国减产 因中韩外交关系紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816003&from=ogGitn">【禁闻】郭文贵再爆料：活摘器官血淋淋的佐证 2017-04-05 05:29</a><br/>川习会 法轮功将吁习法办江泽民；郭文贵再爆料：活摘器官血淋淋的佐证；李明哲妻宣布赴北京救夫出发日期。</td></tr>
@@ -30,6 +31,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815998&from=ogGitn">禁令、抓人止不住  雄安房产炒家继续疯狂扫货 2017-04-05 04:53</a><br/>河北雄安新区的炒楼潮愈遏愈盛，当局为控制井喷式炒楼潮，除重申禁卖楼令，警方还刑拘违规地产商，扣查违规代理。不过炒家置之不理，炒楼转入地下和周边三县，传新区楼价暴涨至每平四万元，周边楼价几日升逾五成。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815995&from=ogGitn">雄安新区爆热下诸多悬念 筹委会秘密办公 2017-04-05 02:53</a><br/>大陆雄安新区消息持续发酵。新区筹委会包下河北容城县整栋酒店办公，酒店守卫森严。外界关注，雄安新区有诸多悬念。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815994&from=ogGitn">重庆官场大震荡  孙政才辣手整治意在19大入常？ 2017-04-05 02:38</a><br/>遭批清除〝薄、王〞遗毒不彻底后，重庆官场持续震荡，公安局长亦落马。港媒分析，重庆市委书记孙政才抓紧动作，或为力搏十九大入常。此前有文章分析，孙政才打不开重庆局面，无力平反薄熙来当年〝打黑〞冤案，引起习近平不满。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816029&from=ogGitn">陈默：左右何以逢源 2017-04-05 02:12</a><br/>受曾建元教授邀请出席“丁酉反右60周年”国际学术研讨会，因故无法成行。又忙于世俗之事，匆匆拙笔，以补缺席之憾。“左”、“右”的概念之于我这个出生于上世纪六十年代中期的晚辈来讲，其实是模糊的。所有关于“左”“右”概念的认知，均源于少年与青年时期的教科书和中共党史的文字熏陶，盖因我辈成长期，均未有机会得益于儒释道中华传统文化作为认知的基本参照系之故。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815992&from=ogGitn">交涉多年后 赵紫阳的骨灰终不进八宝山 2017-04-05 02:10</a><br/>中共前总书记赵紫阳去世已12年。一直未得到解决的赵骨灰入土问题终于有了答案。4月4日清明节赵紫阳的儿子赵二军表示，官方已同意，其父亲的骨灰不进八宝山，由家属自行处理安葬一事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815991&from=ogGitn">【今日点击】王岐山誓言清洗江系外交部 2017-04-05 02:01</a><br/>王岐山誓言清洗江系外交部</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815989&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 01:58</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。一、黑社会刚改革开放的时候，我们看香港的电影和电视剧，看到黑社会打打杀杀，认为那是娱乐，是编的，没有人认为是真实的。可后来，这类案件越来越多，中国怎么会变成这样的？这个案件的黑社会表现...</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815802&from=ogGitn">【禁闻】河南逾30未成年女被迫卖淫 官商涉案 2017-04-03 06:51</a><br/>大陆网络上最近爆出一宗大规模强迫卖淫案。一份被曝光的〝简要案情汇报〞显示，河南尉氏县警方在2月13号接获报案，经调查发现，从2015年至今，尉氏县30多名未成年中学生被胁迫与人发生关系，其中7人案发时未满14岁。据法制晚报记者求证，消息属实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815796&from=ogGitn">三门峡两任书记互咬被查 权斗黑幕曝光 2017-04-03 06:24</a><br/>三门峡市市委书记杨树平与市长赵海燕，两人几乎水火不容，各自都曾向上级举报对方，结果双双落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815808&from=ogGitn">【禁闻】凌源又有3600多人联名举报江泽民 2017-04-03 05:52</a><br/>凌源又有3600多人联名举报江泽民；被禁离境一周冯崇义返抵澳洲</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815800&from=ogGitn">【禁闻】十九大前人事大调整 四省书记易主 2017-04-03 05:52</a><br/>中共十九大前的人事调整，4月1号出现高潮，当天，中共官方媒体连续报导四省省委书记更换的消息。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815840&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-03 05:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
 </table>
