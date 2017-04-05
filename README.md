@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死  受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816042&from=ogGitn">女婿复婚不果泄愤  南京老夫妇睡梦中被杀 2017-04-05 15:32</a><br/>4日凌晨，江苏南京栖霞区，一对老夫妇在睡梦中被人杀死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">湖南禁毒总队总队长被查 1个月5名官员落马 2017-04-05 14:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816037&from=ogGitn">网传李瑞环视频 今年元老露面战开启？ 2017-04-05 13:02</a><br/>目前正是习当局“十九大”布局的关键时期，近期中共退休高层连番以各种形式露面。习阵营中除胡锦涛密集露面外，网传李瑞环也出现在公开场所。而江派亲信陈炳德亦公开露面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816031&from=ogGitn">周晓辉：朝鲜再发射导弹 搅局习川会 2017-04-05 12:38</a><br/>4月6日至7日，美国总统川普（特朗普）和中国国家主席习近平将在佛州举行会晤，商讨中美关系中的一些重大问题。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815815&from=ogGitn">传王岐山握19大人选大权   放话公示财产〝动真格〞 2017-04-03 11:09</a><br/>王岐山手握审核19大人选大权，要求准中央委员、准候补中央委员、准中纪委委员必须公示财产。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815816&from=ogGitn">【 石涛八方】明白之人 不会居于危墙之下 2017-04-03 11:07</a><br/>今天的你，设想着明天的辉煌，就会出很多事。表面上看是好事，但把时间点看死了。有人借你钱，是为了挣你钱。你说自己有能力还钱，那是站在现在的角度。明智的人不会居于危墙之下。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815813&from=ogGitn">大陆四省同日换帅 习十九大人事布局进入〝下半场〞 2017-04-03 11:00</a><br/>新上任的四省新任大员与习近平和王岐山关系密切。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815789&from=ogGitn">黄奇帆重庆免职挂名人大内幕：中纪委审查与薄王关系 2017-04-03 09:20</a><br/>港媒称黄奇帆免职后曾接受中纪委和中组部的审查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815827&from=ogGitn">安徽一油品仓库发生爆炸 已致5死3伤 2017-04-03 08:47</a><br/>4月3日凌晨1时55分，安徽安庆市大观开发区万华油品公司仓库发生闪爆。已经造成5人死亡，3人受伤，其中2人正在急救。</td></tr>
 </table>
