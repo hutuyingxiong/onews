@@ -40,6 +40,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815933&from=ogGitn">【翻墙必看】习当局设新区释放什么信号？ 2017-04-05 01:47</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815986&from=ogGitn">中国10亿微信用户私人聊天受中共监控 2017-04-05 01:40</a><br/>近年愈来愈多大陆民众使用手机即时通讯软件微信（WeChat），注册用户已超过10亿。外媒披露，微信等平台因其收集的用户数据量前所未有的大，已成为中共专制政权监控民众的工具。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815981&from=ogGitn">任协华：论现代民主 2017-04-05 01:29</a><br/>基于全球政治秩序日趋复杂的前提，在论述到大陆民主转型时，就有必要就现代民主的内在精神与大陆社会的抗争运动进行政治意义上的阐述，以回应在抗争形态错综复杂的轮廓下，有关抗争进程的理性判断。同时，与其他地区争取民主和自由的手段不同，是在于大陆民主运动具有着历史层面与现实交叉的双重特征，也就是从对侵犯人权的统治体制的批评，转向于瓦解极权、建造当代范式中大陆现代民主及...</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816026&from=ogGitn">四川虐杀学生事件 特警部队镇压万名申冤民众 2017-04-05 01:21</a><br/>旅居海外的四川泸州人4月3日晚向大纪元记者提供了多个视频显示，中共已调用了重庆特警部队、四川警察部队、公安等，镇压万名替四川泸州14岁初二学生赵鑫离奇死亡案申冤的民众。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815977&from=ogGitn">百年僵局的突破口和中日友好关系的真正基础 2017-04-05 01:11</a><br/>对华关系是日本外交的一个难题，由于中日两国都有一些难以挑战的“政治正确”的存在，人们很难全面准确地审视中日关系的历史与现实困境。中日两国有着长期交往的历史，有着相近的文化传统。十九世纪上半期，当西方贸易借助军事力量向亚洲推进的时候，起初，中日采取了相似的闭关锁国政策，但很快都发现了这种政策的无效，被迫打开国门。日本的明治维新与中国的洋务运动几乎在同一...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815982&from=ogGitn">安徽一邮递员专拆纪委信件 和贪官做交易 2017-04-05 00:54</a><br/>据陆媒报导，安徽一邮递员因私拆举报信卖给被举报者，被判刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815984&from=ogGitn">江泽民带领儿子率先哄抢“公有制经济” 2017-04-05 00:38</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拼死拼活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815840&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-03 05:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815801&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-03 05:20</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815794&from=ogGitn">【禁闻】资产证券化或大规模登场 你该买吗？ 2017-04-03 04:57</a><br/>大陆去年重启资产证券化，四大中共国有银行目前又加大了布局力度，各分行和民营银行则已经开始了资产证券化操作。</td></tr>
 </table>
