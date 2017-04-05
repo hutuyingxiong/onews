@@ -10,7 +10,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816049&from=ogGitn">大陆环保部揭企业造假离谱　排污监测数据为负数 2017-04-05 16:03</a><br/>中国环保部机动督查组在调查中发现，有些企业的二氧化硫在线监测数据显示是负数。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816046&from=ogGitn">动真格？传下届中共高层必须公示财产 2017-04-05 15:45</a><br/>传中央政治局已通过决议，要求下届中央委员、候补委员、中纪委委员，必须在“十九大”召开前公示财产，以及申报配偶子女在外国的居留权和外国国籍情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816044&from=ogGitn">辽宁国资委原纪委书记贪千万判刑9年 民斥太轻 2017-04-05 15:45</a><br/>4日，中共官媒报导，刘凯因非法收受他人财物1249万余元，获刑9年。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死  所有亲属被政府警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死 受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816042&from=ogGitn">女婿复婚不果泄愤  南京老夫妇睡梦中被杀 2017-04-05 15:32</a><br/>4日凌晨，江苏南京栖霞区，一对老夫妇在睡梦中被人杀死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816052&from=ogGitn">大陆地下钱庄使用三种方法 一年转出九千亿 2017-04-05 15:16</a><br/>大陆地下钱庄依然在中国盛行，今年以来仅广东省被查的地下钱庄涉及金额近千亿元人民币。地下钱庄运用四种方法，在2016年就转出了9000亿元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">湖南禁毒总队总队长被查 1个月5名官员落马 2017-04-05 14:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
@@ -69,7 +69,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815975&from=ogGitn">汇文：遭遇共产党是中国人的最大不幸 2017-04-05 00:33</a><br/>中华民族是个伟大的民族。她的伟大，不是体现在人种、地域上，而是体现在文化上。而这个文化却不是人类发明创造的，是由神传给人的，因此被称作神传文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815973&from=ogGitn">赵紫阳之子：当局首度同意家人建议 父骨灰不入八宝山 2017-04-05 00:27</a><br/>4月4日清明节，大批民众到中共前总书记赵紫阳北京故居祭奠。当局虽按惯例监控但未扣押祭奠人士。赵子女透露，中办已基本同意家属条件，让父亲骨灰入土为安，但不入中共公墓八宝山。据报，赵生前多次要求退党，已于中共决裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815974&from=ogGitn">组图：文革中自杀的留美归国科学家 2017-04-05 00:04</a><br/>中共从1949年建政以来，其暴行愈演愈烈，用鲜血和谎言写成的历史，背后的故事不仅惨绝人寰，且鲜为人知，以至于许多良知尚存、迄今还对它抱有幻想的人不敢相信：中共为什么要杀人？为什么很多人被中共逼到自杀？</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山添新职动刀外交系 放重话〝不解决死不瞑目〞 2017-04-04 23:58</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815966&from=ogGitn">九天剑：杀人害命 骗人诛心 2017-04-04 23:57</a><br/>上一篇《骗人为杀人洗地》刚发出去没多久就发现，在下还是说错了骗人与杀人的关系和危害度数：严谨讲，洗地是杀人之后遮掩，骗术布局则多在杀人之前。最典型的如江大蛤蟆及其党羽李东生们策划的臭名昭着的〝法轮功天安门自焚〞伪案。所以前篇应改题为《骗人为杀人磨刀》更贴切些。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815965&from=ogGitn">丁抒：执政初期的镇反与土改阳谋 2017-04-04 23:49</a><br/>〝一些阶级胜利了，一些阶级消灭了。这就是历史，这就是几千年的文明史。〞这是毛泽东对马克思阶级斗争学说的归纳，也是中共理论家引用得最多的毛语录之一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815964&from=ogGitn">仲维光：推荐阅读俄国革命百年反思专辑《致命的利宁》 
@@ -106,6 +105,7 @@
 										
 											?组图 2017-04-04 19:05</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 19:01</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山添新职动刀外交系 放重话〝不解决死不瞑目〞 2017-04-04 18:58</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:55</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
