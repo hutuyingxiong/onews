@@ -2,8 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816113&from=ogGitn">4月5日维权动态 2017-04-06 06:30</a><br/>江苏宝应公路站职工拉横幅 讨血汗钱；武汉两访民被打致骨折 疑上访遭报复；大连访民盛兰福被送精神病院。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816112&from=ogGitn">【禁闻】4月5日退党精选 2017-04-06 06:29</a><br/>化名〝重生〞的大陆民众发表了近300字的退党声明，声明退出一切组织，为澄清玉宇尽绵薄之力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 06:01</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816111&from=ogGitn">【禁闻】传泸州中学生死亡事件 涉官二代 2017-04-06 05:48</a><br/>川习会前 朝鲜再射导弹；传泸州中学生死亡事件 涉官二代；清明节 大陆三个墓地为禁区。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816114&from=ogGitn">【热点透视】中国第一贪不抓 反腐难成功 2017-04-06 05:36</a><br/>贪官越抓越多，贪腐金额越来越大，因此当局称“反腐永远在路上”。许多官员在高压态势下仍然前赴后继地贪腐，“十八大后仍不收敛、不收手”，主要的原因何在？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816107&from=ogGitn">上海空降新副市长许昆林分管敏感工作 2017-04-06 05:17</a><br/>中共上海市市长、副市长的工作分工4月5日出台，前发改委副秘书长、新任上海副市长许昆林分管外事、涉港澳事务、民族与宗教等重要工作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816108&from=ogGitn">【微视频】昨日无力报母 今朝无力护雏 2017-04-06 05:09</a><br/>蜀中泸州恶官横行，鱼肉乡里。泸州县令某并捕快某，皆有子顽劣，常于学堂之上，勒索同窗之人，曰〝保护费〞。民赵某之子家贫，求宽限数日，不准。再辩，竟遭殴毙。益州刺史遣军夺其尸，自此民怨益沸腾，皆曰〝昨日无力报母，今朝无力护雏，人伦自此丧尽矣！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816106&from=ogGitn">【禁闻】人事异动余波未了 为清理江派埋伏笔？ 2017-04-06 05:04</a><br/>4月1号，海南、甘肃、山东、黑龙江四省省委书记同时换人，罗保铭、王三运、王宪魁、姜异康被更换。</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815881&from=ogGitn">雄安新区火热 域名“xiongan.com”喊价176万 2017-04-04 04:11</a><br/>官方宣布要在河北设立雄安新区后，雄安新区大热，域名“xiongan.com”喊价176万（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815880&from=ogGitn">习访雄安新区消息被推迟披露 一神秘人物随行 2017-04-04 03:54</a><br/>日前，大陆官方宣布成立河北雄安新区。官媒并首次公开，今年2月，习近平已考察河北，并召开雄安新区规划相关会议，有一神秘人物随行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815894&from=ogGitn">金正恩为何痴迷核武器 朝鲜前外交官有解答 2017-04-04 03:32</a><br/>根据投诚韩国的前朝鲜驻英国公使太勇浩（Thae Yong Ho）周日（4月2日）接受NBC的采访，金正恩如此痴迷核武器是因为他害怕自己的独裁政权像侯赛因及卡扎菲一样被推翻，相信只有核武器才能保证其统治。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815876&from=ogGitn">习近平访美前夕 709案家属致函美国总统川普 2017-04-04 03:22</a><br/>中国领导人习近平将于本周访问美国，与美国总统川普（特朗普）会面。中国大陆涉及709逮捕案的家属第三次给美国总统川普写信，呼吁美国总统关注中国的人权问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815878&from=ogGitn">习近平敲打梁振英 两会交谈48秒内容曝光 2017-04-04 03:15</a><br/>梁振英宣布放弃连任香港特首，外界认为是出于北京对他的不满。不过，梁两会出任政协副主席，并和习近平握手寒暄长达48秒，一度被解读为习对梁的支持。不过日前港媒透露了习、梁48秒交谈的内容，习对梁敲打警告的意味明显。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815875&from=ogGitn">游客进山拍〝开往春天的列车〞 先交〝买路钱〞 2017-04-04 02:55</a><br/>民间有句俗语〝靠山吃山，靠水吃水〞，意思是说，无论依山还是傍水，当地人都能从中找到生财之道。有大陆记者发现，傍山的居庸关村民也找到了〝生财〞的门路。</td></tr>
 </table>
