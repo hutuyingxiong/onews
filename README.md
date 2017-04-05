@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816064&from=ogGitn">中国“共享单车”乱象引关注 2017-04-05 20:16</a><br/>“共享单车”自去年在大陆蜂拥而上，呈爆炸式增长。随之带来的问题是，由于管理不到位加之民众素质有待提高，使得偷车、毁车、占道乱停车等现象达到近乎失控的混乱状态，引发社会舆论关注。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816065&from=ogGitn">山东三起重大丑闻 都发生在姜异康任内 2017-04-05 20:08</a><br/>近年来，山东曾发生三起引起舆论抨击的公共事件，如“辱母杀人案”、“山东疫苗案”、“陈光诚事件”。有分析认为，山东一次又一次以负面形象出现在中共政坛。折射出山东官场官官相护，上有政策下有对策的不作为。外界也注意到，上述三大事件都在中共山东省委书记姜异康的任内发生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">禁毒总队总队长被查 湖南1个月5官员落马 2017-04-05 19:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-05 19:29</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816056&from=ogGitn">密传〝川习会〞或达共识：斩首金正恩  中国旁观 2017-04-05 19:03</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
@@ -12,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816062&from=ogGitn">退休两年后 四川公安厅高官被立案侦查 2017-04-05 17:47</a><br/>日前，中共四川公安厅原副厅级侦察员何宗志以涉嫌“受贿罪、滥用职权罪”被立案侦查。中共“十八大”后，习当局对四川官场持续清洗，大批官员落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816060&from=ogGitn">中国地下钱庄一年〝搬走〞9000亿手法大揭秘 2017-04-05 17:41</a><br/>有媒体揭秘，中国地下钱庄一年内是如何〝搬走〞9000亿的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816059&from=ogGitn">深圳湾公园遭共享单车挤爆   清明假日万车入园 2017-04-05 17:27</a><br/>大陆近来共享单车大行其道，但也造成不少乱象。清明节期间，深圳湾公园被上万部共享单车塞爆，引来舆论热议。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816066&from=ogGitn">外媒猜测清华大学将率先迁至雄安 2017-04-05 17:12</a><br/>设立河北省雄安新区的消息传出后，有外媒猜测清华大学有可能率先搬迁到新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816057&from=ogGitn">政府征地未补偿 黑龙江联富村民抗议遭镇压 2017-04-05 17:06</a><br/>近日，黑龙江省齐齐哈尔市联富村村民要求村政府归还十年前征用村民的土地，并且支付未补偿的承包费，遭到当地警方暴力镇压。该村多名村民被特警殴打，同时警方封锁消息，当地学生被警察勒令删除网络上的相关信息。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816051&from=ogGitn">大陆清明习俗变味   扫墓烧〝纸二奶〞 2017-04-05 16:24</a><br/>中国大陆社会乱象近年来已经蔓延到丧葬行业，不仅出现利用〝孝心〞炫富奢侈攀比的现象，还出现了烧〝纸二奶〞变异怪事。据统计清明节全国〝白色消费〞高达一百多亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816050&from=ogGitn">安徽邮递员私拆举报信卖〝情报〞  获刑22个月 2017-04-05 16:17</a><br/>2月7日，法院以私自开拆、隐匿邮件罪，判处鲍某有期徒刑1年10个月。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815851&from=ogGitn">豆腐渣再现  武汉墓碑可徒手挖破 2017-04-03 17:11</a><br/>4月4号是中国传统的清明节，不少民众趁周末提前前往公墓扫墓祭祖。3号，有民众到武汉柏泉街长惠苑墓地祭拜先人，发现墓碑出现断裂、穿孔，甚至用手一抠就抠破。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815841&from=ogGitn">深圳15岁少女厕所产子 弃垃圾桶后如常上班 2017-04-03 16:57</a><br/>深圳一名15岁的女孩，在自家厕所产下女婴，然后竟狠心将婴儿丢弃在垃圾桶内，当日入常上班。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815839&from=ogGitn">杭州多名接触冥纸市民铅中毒 2017-04-03 16:53</a><br/>清明节前夕，杭州市有医院接诊了多位铅中毒患者，原来祭祖焚烧的冥纸、“银元宝”中或含有大量铅锡合金与含铅颜料。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815836&from=ogGitn">陈思敏：“雄安新区”天津抢先北京表态的背后 2017-04-03 16:00</a><br/>4月1日官方公告，“以习近平为核心的中央”、国务院印发通知，决定设立“雄安新区”──范围涉及河北省雄县、容城、安新三县及周边部分区域，地处北京、天津、保定腹地。当此消息一出，做为腹地内的两大直辖市，天津抢先北京表态。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815834&from=ogGitn">雄安新区现购房潮  当局〝冻结过户〞难挡私下交易 2017-04-03 15:57</a><br/>官方恐防炒楼潮〝炒出炸弹〞，冻结当地房产过户，但仍有不少买家涌到周边乡镇〝私下交易〞。</td></tr>
 </table>
