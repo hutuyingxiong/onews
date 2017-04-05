@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816087&from=ogGitn">陈思敏：雄安新区推出前的一件腐败大案 2017-04-05 23:27</a><br/>在雄安新区、〝雄安协议失效〞成为新闻热点后，外界这才回头关注到，在消息发布前四天被查的保定市雄县县委书记吴亚飞，或是涉及签约的官员。其实在相关问题上，吴亚飞只是小角色。有比他问题大、级别高的官员，早在去年6月已经被拿下。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816086&from=ogGitn">丁抒：〝三反〞〝五反〞下指标逼供信 2017-04-05 23:23</a><br/>镇反、土改刚结束，毛泽东又发动了一个他称之为〝如同镇压反革命斗争一样重要〞的〝三反〞运动。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816085&from=ogGitn">雄安新区环绕白洋淀 昔日〝华北明珠〞已成生态灾难 2017-04-05 22:57</a><br/>河北建立雄安新区的消息传出后，这个不起眼的荒芜之地瞬间映入全国人眼簾。炒房客也随之蜂拥而至。而新区内全华北最大的淡水湖泊白洋淀，也再次引起关注。一度有〝华北明珠〞或〝华北之肾〞的白洋淀，目前已成了一个生态灾难。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816083&from=ogGitn">涉嫌受贿 四川公安厅高官何宗志被查 2017-04-05 22:39</a><br/>检方指，何宗志不按规定如实报告个人有关事项，在干部选拔任用中为他人谋取利益、收受财物；违规收受礼金，违规从事营利活动等罪。按规定取消其退休待遇，移送司法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816081&from=ogGitn">王友群：法轮功为什么那么受欢迎？ 2017-04-05 22:39</a><br/>3月29日，新唐人电视台网站发表一篇法轮功学员的修炼故事《台湾风水师惊见金色光柱方知世间真有高人》。我一直在跟踪这篇文章的点击量，到我写作此文时，点击量已达到34154人次，这还是在中共用防火墙全面封网情况下的点击量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816079&from=ogGitn">四川学生被打死 连日爆发警民冲突 2017-04-05 21:58</a><br/>赵鑫被强收保护费不成，1号遭5名校霸暴力殴打致死后，当地官方通报说是坠楼死亡，校方不让家长见遗体，试图强行火化遗体。2号、3号，愤怒的民众连日包围校门口抗议。据网上传出的视频显示，现场多次爆发激烈警民冲突。</td></tr>
@@ -10,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816082&from=ogGitn">太爱玩手机 山东14岁少女颈椎老化如50岁 2017-04-05 20:52</a><br/>山东省青岛市14岁少女小婷，每天玩手机约5、6个小时，近日，她出现头晕、颈部酸痛等症状，其去医院检查后发现，其颈椎老化如50岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-05 20:45</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816067&from=ogGitn">南京男子残忍杀死前妻父母 2017-04-05 20:28</a><br/>4月4日凌晨，南京市栖霞区靖安街道发生一起恶性杀人案件，一男子持刀杀死前岳父岳母后逃离。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816084&from=ogGitn">韩国汽车在大陆销量下降 2017-04-05 20:27</a><br/>韩国现代和起亚两家汽车制造商日前表示，3月份在大陆的销量大幅下滑。有分析师认为两家公司可能不得不减产以应对。这是大陆民众反韩情绪的又一个受害者。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816064&from=ogGitn">中国“共享单车”乱象引关注 2017-04-05 20:16</a><br/>“共享单车”自去年在大陆蜂拥而上，呈爆炸式增长。随之带来的问题是，由于管理不到位加之民众素质有待提高，使得偷车、毁车、占道乱停车等现象达到近乎失控的混乱状态，引发社会舆论关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">禁毒总队总队长被查 湖南1个月5高官落马 2017-04-05 19:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816017&from=ogGitn">美中高峰会 习近平川普各自关心什么 2017-04-05 19:42</a><br/>3月30日，美中两国正式确认美国总统川普（特朗普）和中国领导人习近平下周在佛州马尔拉歌庄园会晤。川普称会见将是艰难的讨论，有诸多敏感议题将摆上桌面。中方则表示，希望中美高层会谈成功。鉴于中美近来冲突不断，外界关注，两国首脑谈什么？能达成协议？未来中美关系走向如何？</td></tr>
@@ -204,8 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815860&from=ogGitn">新区设立前 河北雄县前县委书记吴亚飞落马 2017-04-03 18:18</a><br/>就在北京当局宣布河北设立雄安新区之前，中共河北省保定市雄县前县委书记吴亚飞落马。据报，吴可能事前已掌握新区开发的内幕消息获利，而被调查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815861&from=ogGitn">河南灭门血案 入赘男杀妻家4口后自杀 2017-04-03 18:18</a><br/>河南发生灭门惨案。4月2日消息，驻马店一名61岁的男子持匕首捅死妻子，又捅伤岳母及妻子的两名孙女，事后男子自杀身亡。5人中仅有一名孙女生还，仍在抢救中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815852&from=ogGitn">深圳15岁女厕所产婴　丢垃圾桶后照常上班 2017-04-03 17:54</a><br/>中国大陆再现弃婴事件。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815848&from=ogGitn">黑龙江公墓突现50米龙卷风　网民：莫大冤情怨气冲天 2017-04-03 17:50</a><br/>临近清明节，民众纷纷回乡扫墓祭祖。日前，网上传出短片，黑龙江大庆市公墓出现了一幕怪异现象，晴空万里之下，突然刮起一股50米高的〝龙卷风〞。有网友看后惊呼此地〝有莫大冤情？〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815846&from=ogGitn">湖南一工厂发生窒息中毒事故 致4死1伤 2017-04-03 17:49</a><br/>4月3日11时35分左右，湖南湘乡澳泉食品有限公司发生一起窒息中毒事故，导致4人死亡1人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815843&from=ogGitn">川护士错用注射器 致12幼儿接种疫苗量超5倍 2017-04-03 17:46</a><br/>近日，四川凉山德昌县六所镇发生一起因护士用错注射器，给12名幼儿接种疫苗超量5倍事件。目前，12名幼儿正在医院接受治疗并观察。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815847&from=ogGitn">〝老虎伤人〞怪谁？西安村民收钱  助游客翻墙入动物园 2017-04-03 17:42</a><br/>有游客坦言，刚翻入动物园就听到狮吼声，现在想起都害怕。</td></tr>
 </table>
