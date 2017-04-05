@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 11:14</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816022&from=ogGitn">每日三退声明精选（2017/04/04） 2017-04-05 10:25</a><br/>共产党很坏。以前觉得自己已经出国多年，年龄又大了。早就不是少先队员了。但是我知道毕竟以前宣过誓为它奋斗的，就算过了年龄，走到天涯海角还是最终要兑现的。为了不为它陪葬，今天宣布当年的誓言作废。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816023&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不方便答覆 2017-04-05 10:19</a><br/>郭文贵在信中控诉北大〝动用国家专案组力量〞恐吓他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816024&from=ogGitn">北京地铁有多挤？男子被挤成四肢瘫痪地铁公司判赔 2017-04-05 10:07</a><br/>近日，北京昌平法院一审判决地铁公司赔偿王涛医疗费等共26万余元人民币。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816028&from=ogGitn">广东男子驾车冲民宅 向人群喷火 汽车爆炸 2017-04-05 09:35</a><br/>4月4日，广东一男子驾驶一辆面包车冲进中山小榄镇联丰社区一民宅内，用自制喷火装置向聚餐人群喷火，导致汽车发生爆炸，致1死3重伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816013&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-05 09:13</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816019&from=ogGitn">石涛：王岐山通杀外交部 强人政治摧毁制度邪恶 2017-04-05 09:10</a><br/>习近平以政治强人的概念想摧毁政治强权的制度，在把军队拿掉之后，先砍掉了国安部，然后冲着外交部，外交部包括港澳台等外交事务，这里已经包括统战部和政协了。政法委体系中对等着，我们看到了一样的场面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816015&from=ogGitn">【禁闻】内外夹击 中共被迫收紧货币政策 2017-04-05 08:50</a><br/>在博鳌论坛上，周小川表示，不能过分依赖货币政策，货币政策在经过多年的量化宽松之后，目前全球已经到达了这次周期的尾部，这意味着货币政策将不再是宽松的政策，全球需要逐渐变成比较审慎的货币政策。</td></tr>
@@ -17,7 +19,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816011&from=ogGitn">【禁闻】4月4日退党精选 2017-04-05 06:27</a><br/>张建莲说：我是佳木斯监狱的警察，我们小区有一个法轮功学员，冬天义务为大家清雪，夏天义务种花的，我敬佩的好人。他告诉我说因为患了严重的心脏病，医生建议安起搏器，他没安起搏器，而炼法轮功好了。他就按照法轮功〝心怀真善忍，修己利与民〞为大家尽的义务。他说炼法轮功的都是好人，不要迫害法轮功。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816010&from=ogGitn">【禁闻】4月4日维权动态 2017-04-05 06:25</a><br/>律师两次要求会见黄琦 遭拒绝；警方阻挠租房 倪玉兰面临流落街头；北京季新华诉丰台公安局案开庭；709谢阳案律师遭当局强行更换。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816009&from=ogGitn">川习会在即 三大问题将摆上桌 2017-04-05 05:45</a><br/>6日至7日，川普（特朗普）将与习近平进行首次面对面会晤。有美国媒体认为，朝鲜核问题、中美贸易以及南海问题，将成为摆上桌面的3大头号问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 05:45</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816005&from=ogGitn">【禁闻】追查国际收集犯罪名单 呼应美新法案 2017-04-05 05:37</a><br/>3月30号，《追查国际》发出公告称，自1999年以来，由中共前党魁江泽民为首的中共犯罪集团，利用国家机器在全国范围内对法轮功学员进行迫害，特别是用大量活摘器官的方式，对法轮功学员实施了群体灭绝性的大屠杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816004&from=ogGitn">4月4日全球看中国 2017-04-05 05:33</a><br/>雄安新区房地产点土成金 当局严打炒房奏效否?;清明节〝六四〞难属遭公安严控 孙文广教授被旅游;特朗普停止资助人口基金 与中国有关？;韩国现代和起亚汽车在中国减产 因中韩外交关系紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816003&from=ogGitn">【禁闻】郭文贵再爆料：活摘器官血淋淋的佐证 2017-04-05 05:29</a><br/>川习会 法轮功将吁习法办江泽民；郭文贵再爆料：活摘器官血淋淋的佐证；李明哲妻宣布赴北京救夫出发日期。</td></tr>
@@ -59,6 +60,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815960&from=ogGitn">杨宁：在中国失去安全感的红色记者斯特朗 2017-04-04 23:31</a><br/>在上个世纪那个风云变幻的年代，有这样一个美国记者：她爱苏联、爱中共甚于爱自己的国家；她为了共产党，写了数篇扭曲事实的报导和几本书籍，从而欺骗了包括美国政府在内的无数世人；在她被苏联以〝间谍〞的罪名驱逐后，她选择了中国作为永久居住地，并在文革初期加入了红卫兵，成为为数不多的加入红卫兵的外国人中的一个。然而，最终，她却发现在中国她竟然失去了安全感。她的名字是安娜．路易斯．斯特朗（Anna Louise Strong）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815959&from=ogGitn">陈思敏：〝雄安囤地王〞起家过程涉人大高官 2017-04-04 23:27</a><br/>4月3日媒体报导，此前就〝雄安新区协议失效〞之说在一天之内出尔反尔的地产商华夏幸福（全称：华夏幸福基业有限公司），截至目前，已在新区区域内与保定市、雄县政府签下协议，且受委托开发的土地面积达500平方公里。这个数字几近整个新区的二分之一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815958&from=ogGitn">Iphone7又爆炸啦！江苏女正品手机充电爆炸 2017-04-04 23:25</a><br/>Iphone7也爆炸了！江苏宿迁的女子殷某刚买了4个月的iphone7，充电中突然发生了爆炸，苹果公司人员确认，这部爆炸手机是正品行货。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816027&from=ogGitn">近代社会学家潘光旦的“4S遗言” 2017-04-04 23:21</a><br/>近代社会学家潘光旦，以风趣、健谈著称。晚年时他有一句著名的“4S”遗言，用四个英文单词精简犀利地概括本人与同时代所有中国知识分子的共同命运：SUBMIT（服从）、SUSTAIN（坚持）、SURVIVE（生存）、SUCCUMB（死亡）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815956&from=ogGitn">汇文：江泽民与中共的败亡路 2017-04-04 23:21</a><br/>中共表面看是一个党派，但实质却和其它党派有着本质的不同。中共是《圣经．启示录》中的撒旦，也叫赤龙（红色恶龙），是一个集古今中外邪恶之大全的邪恶生灵。它侵入中华后，就开始了毁灭中华民族的罪恶之路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815955&from=ogGitn">王友琴：摧毁日记的革命（下） 2017-04-04 23:18</a><br/>极少人在文革期间依然一如既往地写日记，北大中文系王力教授是其中之一。其中的原因也许很多：那时他是一级教授，铁定了的〝反动学术权威〞，文革重点打击对像，日记这样的事情反倒不会成为他被清查的重点；他1966年时60岁，写日记的习惯更为悠久深厚，不易改变。另外，他的日记非常简短，客观，中性，好像会计的账簿。他不发议论，不臧否人物，不谈个人感想。这种类型的日记如被拿走审查，相对比较安全。他的行动表明他始终拒绝接受一种不准记录的生活，虽然他没有说及这一点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815954&from=ogGitn">夏小强：郭文贵公布〝活摘血淋淋的佐证〞 2017-04-04 23:14</a><br/>4月3日，身在美国的富商郭文贵在其推特上，披露了北大方正集团前CEO李友在北京309医院请〝中国权威〞的赵主任筹划他的第三次肝脏移植，并附上解放军总医院诊断李友为肝癌的资料。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815808&from=ogGitn">【禁闻】凌源又有3600多人联名举报江泽民 2017-04-03 05:52</a><br/>凌源又有3600多人联名举报江泽民；被禁离境一周冯崇义返抵澳洲</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815800&from=ogGitn">【禁闻】十九大前人事大调整 四省书记易主 2017-04-03 05:52</a><br/>中共十九大前的人事调整，4月1号出现高潮，当天，中共官方媒体连续报导四省省委书记更换的消息。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815840&from=ogGitn">《外交学人》：中国肝移植增加400倍 器官来源令人不安 2017-04-03 05:36</a><br/>中国肝移植数量在十几年内增加了400倍，而2000年是爆发式增长的开端。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815801&from=ogGitn">【血色禁史】大饥荒的〝二号病〞 2017-04-03 05:20</a><br/>1959年到1961年中国的三年大饥荒，是人类历史上最惨烈的饥荒记录。超过3000万中国人被饿死。鲜为人知的是，大饥荒期间，中共曾下令用〝二号病〞的说法，来掩盖饥荒。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815795&from=ogGitn">上海省部级人事调动的两大看点 2017-04-03 05:14</a><br/>最近，上海高层人事变动频繁，引外界关注。随着上海市长、副市长的变动，此次上海省部级人事调动还有两大看点:统战部长转任人大常委副主任，将来由谁接任；上海政法委书记姜平已兼任政协副主席，政法委书记将由谁接任。</td></tr>
 </table>
