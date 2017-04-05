@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816031&from=ogGitn">周晓辉：朝鲜再发射导弹 搅局习川会 2017-04-05 12:38</a><br/>4月6日至7日，美国总统川普（特朗普）和中国国家主席习近平将在佛州举行会晤，商讨中美关系中的一些重大问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816030&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 12:26</a><br/>大陆的一切乱象，“内鬼”是始作俑者。要改变现状，就必须改变产生“内鬼”的体制。体制不改，一切都是空谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816012&from=ogGitn">谢天奇：川习仓促会晤 五大议题背后的秘密 2017-04-05 11:28</a><br/>离十九大召开还有半年时间，习近平紧急寻求与川普会谈，五大热门议题均与中国内政尤其十九大前夕习江斗态势发展密切相关。这或预示习阵营后续针对江泽民、曾庆红等江派高层及其家族贪腐的清洗大动作已在酝酿之中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 11:14</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815823&from=ogGitn">中国文联再现异常人事变动 党组书记被降职 2017-04-03 07:07</a><br/>日前，中国文联党组书记换人，原书记赵实罕见降职为党组成员。去年底，文联主席与作协主席首次由同一人担任；文联主席一贯由中共意识形态机构主管官员转任或兼任的惯例被打破。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815802&from=ogGitn">【禁闻】河南逾30未成年女被迫卖淫 官商涉案 2017-04-03 06:51</a><br/>大陆网络上最近爆出一宗大规模强迫卖淫案。一份被曝光的〝简要案情汇报〞显示，河南尉氏县警方在2月13号接获报案，经调查发现，从2015年至今，尉氏县30多名未成年中学生被胁迫与人发生关系，其中7人案发时未满14岁。据法制晚报记者求证，消息属实。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815796&from=ogGitn">三门峡两任书记互咬被查 权斗黑幕曝光 2017-04-03 06:24</a><br/>三门峡市市委书记杨树平与市长赵海燕，两人几乎水火不容，各自都曾向上级举报对方，结果双双落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815808&from=ogGitn">【禁闻】凌源又有3600多人联名举报江泽民 2017-04-03 05:52</a><br/>凌源又有3600多人联名举报江泽民；被禁离境一周冯崇义返抵澳洲</td></tr>
 </table>
