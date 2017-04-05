@@ -2,16 +2,17 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816017&from=ogGitn">川习会 中美各自算盘 2017-04-05 08:02</a><br/>3月30日，美中两国正式确认美国总统川普（特朗普）和中国领导人习近平下周在佛州马尔拉歌庄园会晤。川普称会见将是艰难的讨论，有诸多敏感议题将摆上桌面。中方则表示，希望中美高层会谈成功。鉴于中美近来冲突不断，外界关注，两国首脑谈什么？能达成协议？未来中美关系走向如何？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816014&from=ogGitn">【中国禁闻】4月4日完整版 2017-04-05 07:09</a><br/>中国设〝雄安新区〞 再现疯狂炒房潮；追查国际收集犯罪名单 呼应美新法案；纪录片《掩埋》 揭唐山大地震实情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816015&from=ogGitn">【禁闻】内外夹击 中共被迫收紧货币政策 2017-04-05 07:07</a><br/>在博鳌论坛上，周小川表示，不能过分依赖货币政策，货币政策在经过多年的量化宽松之后，目前全球已经到达了这次周期的尾部，这意味着货币政策将不再是宽松的政策，全球需要逐渐变成比较审慎的货币政策。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816012&from=ogGitn">谢天奇：川习仓促会晤 五大议题背后的秘密 2017-04-05 07:00</a><br/>离十九大召开还有半年时间，习近平紧急寻求与川普会谈，五大热门议题均与中国内政尤其十九大前夕习江斗态势发展密切相关。这或预示习阵营后续针对江泽民、曾庆红等江派高层及其家族贪腐的清洗大动作已在酝酿之中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816013&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-05 06:54</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 令中共忧心的三个原因 2017-04-05 06:47</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 06:33</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816011&from=ogGitn">【禁闻】4月4日退党精选 2017-04-05 06:27</a><br/>张建莲说：我是佳木斯监狱的警察，我们小区有一个法轮功学员，冬天义务为大家清雪，夏天义务种花的，我敬佩的好人。他告诉我说因为患了严重的心脏病，医生建议安起搏器，他没安起搏器，而炼法轮功好了。他就按照法轮功〝心怀真善忍，修己利与民〞为大家尽的义务。他说炼法轮功的都是好人，不要迫害法轮功。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816010&from=ogGitn">【禁闻】4月4日维权动态 2017-04-05 06:25</a><br/>律师两次要求会见黄琦 遭拒绝；警方阻挠租房 倪玉兰面临流落街头；北京季新华诉丰台公安局案开庭；709谢阳案律师遭当局强行更换。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816009&from=ogGitn">川习会在即 三大问题将摆上桌 2017-04-05 05:45</a><br/>6日至7日，川普（特朗普）将与习近平进行首次面对面会晤。有美国媒体认为，朝鲜核问题、中美贸易以及南海问题，将成为摆上桌面的3大头号问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 05:45</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 中共为何忧心忡忡？ 2017-04-05 05:41</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816005&from=ogGitn">【禁闻】追查国际收集犯罪名单 呼应美新法案 2017-04-05 05:37</a><br/>3月30号，《追查国际》发出公告称，自1999年以来，由中共前党魁江泽民为首的中共犯罪集团，利用国家机器在全国范围内对法轮功学员进行迫害，特别是用大量活摘器官的方式，对法轮功学员实施了群体灭绝性的大屠杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816004&from=ogGitn">4月4日全球看中国 2017-04-05 05:33</a><br/>雄安新区房地产点土成金 当局严打炒房奏效否?;清明节〝六四〞难属遭公安严控 孙文广教授被旅游;特朗普停止资助人口基金 与中国有关？;韩国现代和起亚汽车在中国减产 因中韩外交关系紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816003&from=ogGitn">【禁闻】郭文贵再爆料：活摘器官血淋淋的佐证 2017-04-05 05:29</a><br/>川习会 法轮功将吁习法办江泽民；郭文贵再爆料：活摘器官血淋淋的佐证；李明哲妻宣布赴北京救夫出发日期。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815824&from=ogGitn">万家文化被“弃壳” 股价大跌套牢散户 2017-04-03 04:21</a><br/>3月31日晚间，万家文化发布公告称，万家集团与龙薇传媒决定终止本次股份转让事项,龙薇传媒曾支付2.5亿元定金将被返还。万家文化股价到目前几近腰斩，那些高位跟进的散户已然被套牢。有迹象表明，此次收购失败与肖建华的“明天系”有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815812&from=ogGitn">【中国禁闻】4月2日完整版 2017-04-03 04:10</a><br/>十九大前人事大调整 四省书记易主；</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815787&from=ogGitn">一周大事解读：习王总攻上海帮 围剿三常委 2017-04-03 03:41</a><br/>上周（2017年第13周；3月26日至4月1日），习阵营密集动作围剿江泽民老巢上海，以及江派三常委张德江、刘云山、张高丽的老巢和势力地盘。江派政法高官被密集审判、查处。省级官场人事大调整，江派地方大员罗保铭、王三运、姜异康、王宪魁被免职，近20省市逾30名省级常委或副省长换人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815793&from=ogGitn">比小说还离奇 禁书如何被中国人偷带出朝鲜 2017-04-03 03:15</a><br/>一本批评朝鲜政权的书，被中国游客偷运出朝鲜。协助偷运的人说，过程比小说情节还离奇。</td></tr>
 </table>
