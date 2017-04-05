@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816095&from=ogGitn">夏侯：苏共暴政下的群体灭绝（下） 2017-04-06 00:08</a><br/>种族灭绝也称为群体灭绝，指人为的、系统的对某个群体或民族、宗教团体进行全部或局部的屠杀，最早于1944年由波兰籍犹太法律学者拉斐尔．莱姆金提出。二战结束后，国际法庭对德国纳粹战犯的罪名指控，包括群体灭绝。对于斯大林时代苏共的暴行，至今虽未得到国际法庭的审判，不过在俄罗斯制作的大型历史记录片《20世纪俄罗斯历史》以及拉脱维亚历史记录片《苏联故事》（The Soviet Story）里，采用翔实的史料、解密的原始文件为斯大林时代的罪行做出诠释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816093&from=ogGitn">夏侯：苏共暴政下的群体灭绝（上） 2017-04-06 00:04</a><br/>在上个世纪二战期间并存过两个极权主义政权：德国纳粹和苏联共产党。这两种制度虽然形式不同，称法有别，但却有着共同的一面，都留下数以千计的万人坑、大屠杀、集中营等这些反人类的罪恶遗迹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816092&from=ogGitn">林辉：苏军东北施暴 中共置若罔闻 2017-04-05 23:58</a><br/>第二次世界大战后期，在1945年2月苏、美、英三国首脑斯大林、罗斯福和丘吉尔举行的雅尔塔会议上，一个重要议题就是苏联出兵中国东北。三方就苏联出兵东北的政治条件进行了试探性的会谈，并最终签订了《雅尔塔协定》。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816091&from=ogGitn">袁斌：清明 我的六炷香 2017-04-05 23:55</a><br/>今年的清明节，祭奠过祖先亲人之后，我又给那些因为中共的极权统治而失去生命的亡魂也分别上了香。</td></tr>
@@ -12,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816085&from=ogGitn">雄安新区环绕白洋淀 昔日〝华北明珠〞已成生态灾难 2017-04-05 22:57</a><br/>河北建立雄安新区的消息传出后，这个不起眼的荒芜之地瞬间映入全国人眼簾。炒房客也随之蜂拥而至。而新区内全华北最大的淡水湖泊白洋淀，也再次引起关注。一度有〝华北明珠〞或〝华北之肾〞的白洋淀，目前已成了一个生态灾难。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816083&from=ogGitn">涉嫌受贿 四川公安厅高官何宗志被查 2017-04-05 22:39</a><br/>检方指，何宗志不按规定如实报告个人有关事项，在干部选拔任用中为他人谋取利益、收受财物；违规收受礼金，违规从事营利活动等罪。按规定取消其退休待遇，移送司法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816081&from=ogGitn">王友群：法轮功为什么那么受欢迎？ 2017-04-05 22:39</a><br/>3月29日，新唐人电视台网站发表一篇法轮功学员的修炼故事《台湾风水师惊见金色光柱方知世间真有高人》。我一直在跟踪这篇文章的点击量，到我写作此文时，点击量已达到34154人次，这还是在中共用防火墙全面封网情况下的点击量。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-05 22:03</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816079&from=ogGitn">四川学生被打死 连日爆发警民冲突 2017-04-05 21:58</a><br/>赵鑫被强收保护费不成，1号遭5名校霸暴力殴打致死后，当地官方通报说是坠楼死亡，校方不让家长见遗体，试图强行火化遗体。2号、3号，愤怒的民众连日包围校门口抗议。据网上传出的视频显示，现场多次爆发激烈警民冲突。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816078&from=ogGitn">姜维平曝何挺落马内情：替张德江〝捂盖子〞 2017-04-05 21:42</a><br/>近日，重庆市公安局长何挺被曝已遭〝双规〞。据指，这是王歧山〝清除薄熙来和王立军余毒〞行动的一部分。媒体人披露，何是周永康得意门生，后台还有张德江。何挺领会张德江〝捂盖子〞、〝保江派〞旨意，曾力阻重庆〝打黑〞冤案平反。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  官方谎言败露（慎入） 2017-04-05 21:27</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
@@ -76,6 +78,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815998&from=ogGitn">禁令、抓人止不住  雄安房产炒家继续疯狂扫货 2017-04-05 04:53</a><br/>河北雄安新区的炒楼潮愈遏愈盛，当局为控制井喷式炒楼潮，除重申禁卖楼令，警方还刑拘违规地产商，扣查违规代理。不过炒家置之不理，炒楼转入地下和周边三县，传新区楼价暴涨至每平四万元，周边楼价几日升逾五成。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815995&from=ogGitn">雄安新区爆热下诸多悬念 筹委会秘密办公 2017-04-05 02:53</a><br/>大陆雄安新区消息持续发酵。新区筹委会包下河北容城县整栋酒店办公，酒店守卫森严。外界关注，雄安新区有诸多悬念。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815994&from=ogGitn">重庆官场大震荡  孙政才辣手整治意在19大入常？ 2017-04-05 02:38</a><br/>遭批清除〝薄、王〞遗毒不彻底后，重庆官场持续震荡，公安局长亦落马。港媒分析，重庆市委书记孙政才抓紧动作，或为力搏十九大入常。此前有文章分析，孙政才打不开重庆局面，无力平反薄熙来当年〝打黑〞冤案，引起习近平不满。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816094&from=ogGitn">500访民聚集八宝山喊冤 千警戒备 2017-04-05 02:21</a><br/>大陆500多名访民藉清明节之际，到北京八宝山公墓喊冤，甚至有人高喊“打倒共产党”，却遭到中共上千名警察、保安的围追堵截及殴打。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816029&from=ogGitn">陈默：左右何以逢源 2017-04-05 02:12</a><br/>受曾建元教授邀请出席“丁酉反右60周年”国际学术研讨会，因故无法成行。又忙于世俗之事，匆匆拙笔，以补缺席之憾。“左”、“右”的概念之于我这个出生于上世纪六十年代中期的晚辈来讲，其实是模糊的。所有关于“左”“右”概念的认知，均源于少年与青年时期的教科书和中共党史的文字熏陶，盖因我辈成长期，均未有机会得益于儒释道中华传统文化作为认知的基本参照系之故。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815992&from=ogGitn">交涉多年后 赵紫阳的骨灰终不进八宝山 2017-04-05 02:10</a><br/>中共前总书记赵紫阳去世已12年。一直未得到解决的赵骨灰入土问题终于有了答案。4月4日清明节赵紫阳的儿子赵二军表示，官方已同意，其父亲的骨灰不进八宝山，由家属自行处理安葬一事。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815991&from=ogGitn">【今日点击】王岐山誓言清洗江系外交部 2017-04-05 02:01</a><br/>王岐山誓言清洗江系外交部</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815792&from=ogGitn">王宪魁淫乱外 跟两落马国级高官干了啥事 2017-04-03 21:13</a><br/>中共黑龙江省委书记王宪魁4月1日被免职，他曾长期是落马副国级“老虎”苏荣的副手，涉嫌贪腐丑闻；王宪魁曾追随正国级的周永康残酷迫害法轮功，还跟他与俄罗斯妓女玩性游戏。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815855&from=ogGitn">重庆又出了个王立军？传公安局长何挺被查 2017-04-03 19:55</a><br/>何挺被指是江派大员、中共前政法委书记周永康的亲信。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815853&from=ogGitn">国有资产疯狂失血 中国逾10万亿资金外流 2017-04-03 19:50</a><br/>资金外流对中国的经济造成了很大的影响，港媒近日报导中共国务院公布，有约有10万亿人民币资金流失海外，中共特权阶层洗钱有术，利用地下钱庄等多种渠道，将资金往境外转移。当局虽严控但资金外流仍呈扩大趋势。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815784&from=ogGitn">港媒：19大高层人事编制出台 不设党主席总理有军权 2017-04-03 19:30</a><br/>意见包括十九大后中共中央政治局不设党主席，国务院总理享有军委委员的权力。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815825&from=ogGitn">川中学生没交保护费 被校霸活活打死5楼抛下（视频、慎入） 2017-04-03 19:30</a><br/>四川一名中学生赵鑫日前因无钱交保护费，在学校被校霸活活打死，从5楼抛下。学校和警方为掩盖真相，谎称赵鑫失足坠楼摔死，不等学生家长来看现场，就要强行将尸体火化。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815857&from=ogGitn">大陆女〝入殓师〞谈恐怖经历   死者突睁眼打隔 2017-04-03 19:21</a><br/>第一次为逝者擦粉底时，擦的过程中不经意竖着擦了一下……没想到逝者眼睛突然张开了，吓得她赶紧说〝对不起，对不起〞，然后轻轻地将他的眼部闭合。</td></tr>
 </table>
