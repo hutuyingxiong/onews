@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816102&from=ogGitn">刘鹤副手力压吴邦国大秘 料任甘肃新省长 2017-04-06 04:09</a><br/>近日，甘肃省高层持续调整。中财办主任刘鹤副手唐仁健，力压吴邦国大秘孙伟出任甘肃省政府党组书记，将成为甘肃新省长。唐、孙两人几乎同时调任该省省委副书记。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816101&from=ogGitn">川普高参将出席川习会 曾遭中共国安殴打 2017-04-06 03:58</a><br/>4月6、7日全球都将聚焦川习会，届时美中双方都会带上重要团队。对于川普（特朗普）来说，自然少不了带上其亚洲政策高参、前驻华记者博明（Matt Pottinger）。《纽约时报》称，川普的这位高参曾在中国被中共国安殴打。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816099&from=ogGitn">泸州学生命案疑涉3官二代 千警装甲车镇压抗议民众(视频) 2017-04-06 01:15</a><br/>四川泸州初中生赵鑫死亡事件引发民众抗议，遭官方猛力镇压。当地民众向外媒爆料，5名涉事凶手中3人为官二代，故官方刻意包庇。目前抗议民众有数百人被抓，军队装甲车已进驻封锁太伏镇，当局还派逾百名警察到殡仪馆抢尸抓人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816100&from=ogGitn">3月份中共6只大“老虎”受审 2017-04-06 01:03</a><br/>3月，中共6名“老虎”受审，认罪。他们各有特点，如白雪山被戏称“白乱拆”，武长顺被戏称“武爷” ，他涉贪腐5个多亿元，包养数名情妇，4名女警官为其生私生子等。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815770&from=ogGitn">专访作家杜斌：《长春饿殍战》写作历程 2017-04-03 23:41</a><br/>从1999年之前的官媒摄影记者，到关注维权人士、揭共产党真相的独立记者、作家、纪录片制作人，杜斌被中共称为“专门挖政府伤疤的人”。他因此丢掉了《纽约时报》的工作，一度被非法拘禁，但他说，“我做的事情我觉得很值。”在新著《长春饿殍战》面世之际，杜斌接受大纪元专访，畅谈心路历程。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815877&from=ogGitn">黑市交易猖獗 雄安新区房价恐疯涨 2017-04-03 23:12</a><br/>日前，中共中央发通知成立河北雄安新区，有大批炒房客开始在当地进行私下交易，目前雄安新区三个县都已经冻结全部房产过户。但雄安新区周边房价已经开始疯涨，若雄安新区放开限制，当地房价恐随即上涨。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815863&from=ogGitn">川习会前 人权组织吁川普关注李明哲案 2017-04-03 23:11</a><br/>前台湾太阳花学运和香港雨伞运动成员，2日呼吁美国总统川普（特朗普）关注中国人权问题，在川习会上敦促大陆方面释放在押台湾人权工作者李明哲。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815866&from=ogGitn">渝〝采花大盗〞辣手摧花泡茶  网民：素质差 2017-04-03 22:09</a><br/>樱花盛开的时节，正是人们相约踏青的好时光。但是在重庆的樱花，却屡遭人们的破坏，被〝辣手摧花〞，是樱花树变得光秃秃的。</td></tr>
 </table>
