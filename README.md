@@ -2,11 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816047&from=ogGitn">当局放松监控 陆民成功拜祭赵紫阳 2017-04-05 16:08</a><br/>同情六四学生的赵紫阳逝世已经12年了，至今仍未能安葬，骨灰一直保留在北京富强胡同6号故居，每年清明节，都有大批维权人士和访民，前往拜祭。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816046&from=ogGitn">动真格？传下届中共高层必须公示财产 2017-04-05 15:45</a><br/>传中央政治局已通过决议，要求下届中央委员、候补委员、中纪委委员，必须在“十九大”召开前公示财产，以及申报配偶子女在外国的居留权和外国国籍情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816044&from=ogGitn">辽宁国资委原纪委书记贪千万判刑9年 民斥太轻 2017-04-05 15:45</a><br/>4日，中共官媒报导，刘凯因非法收受他人财物1249万余元，获刑9年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死  受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816042&from=ogGitn">女婿复婚不果泄愤  南京老夫妇睡梦中被杀 2017-04-05 15:32</a><br/>4日凌晨，江苏南京栖霞区，一对老夫妇在睡梦中被人杀死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">湖南禁毒总队总队长被查 1个月5名官员落马 2017-04-05 14:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816037&from=ogGitn">网传李瑞环视频 今年元老露面战开启？ 2017-04-05 13:02</a><br/>目前正是习当局“十九大”布局的关键时期，近期中共退休高层连番以各种形式露面。习阵营中除胡锦涛密集露面外，网传李瑞环也出现在公开场所。而江派亲信陈炳德亦公开露面。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816048&from=ogGitn">谢田：纽时为何走入共产主义圈套 2017-04-05 12:54</a><br/>共产主义的追随者们在前苏联篡夺政权，是1922年，但奠定这个共产国家基础的，是1917年的俄国二月和十月革命。到今天，100年过去了。共产政权百年之际，出现了许多反思共产主义对人类荼毒的文章。美国主流媒体如《纽约时报》也发表一系列有关共产主义的评论。但《纽约时报》中文版今年2月张彦的文章〈共产党是如何引导中国走向成功的？〉，却真正的让人们跌破了眼镜，感叹纽时...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816031&from=ogGitn">周晓辉：朝鲜再发射导弹 搅局习川会 2017-04-05 12:38</a><br/>4月6日至7日，美国总统川普（特朗普）和中国国家主席习近平将在佛州举行会晤，商讨中美关系中的一些重大问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816030&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 12:26</a><br/>大陆的一切乱象，“内鬼”是始作俑者。要改变现状，就必须改变产生“内鬼”的体制。体制不改，一切都是空谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816039&from=ogGitn">被警察打无人管 维权人士告公安局案6日开庭 2017-04-05 11:31</a><br/>北京维权人士季新华控告丰台公安分局不作为案，将于4月6日在丰台法院开庭审理。4月3日季新华透过“玫瑰中国”网，希望关注此案件的朋友能参与旁听。</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815799&from=ogGitn">对抗朝鲜 川普：北京若不协助 美国自己来 2017-04-03 12:45</a><br/>美国总统川普（特朗普）表示，如果习近平不对平壤施加更大压力，美国绝对会采取单方面行动解决这个问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815818&from=ogGitn">〝山东辱母杀人案〞持续发酵 涉案警察被查 2017-04-03 11:30</a><br/>山东聊城当地暴力催债问题猖獗，政府公职人员参与其中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815817&from=ogGitn">石涛：川习会在即 强人政治趋向〝私人化〞？ 2017-04-03 11:22</a><br/>日本首相已经三次会面川普，其中有一次也是在川普私人庄园，两人打高尔夫球，一起吃饭，两人有这样的活动。我个人以为习近平要求在私人庄园会面有自己的考量。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815814&from=ogGitn">雄安新区刚推出    雄县书记落马被查 2017-04-03 11:21</a><br/>日前，北京当局宣布设立雄安新区，就在消息公布前4日，官网通告，雄县原县委书记吴亚飞涉嫌严重违纪，落马被查。有消息指他可能涉及利用新区开发内幕消息获利。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815815&from=ogGitn">传王岐山握19大人选大权   放话公示财产〝动真格〞 2017-04-03 11:09</a><br/>王岐山手握审核19大人选大权，要求准中央委员、准候补中央委员、准中纪委委员必须公示财产。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815816&from=ogGitn">【 石涛八方】明白之人 不会居于危墙之下 2017-04-03 11:07</a><br/>今天的你，设想着明天的辉煌，就会出很多事。表面上看是好事，但把时间点看死了。有人借你钱，是为了挣你钱。你说自己有能力还钱，那是站在现在的角度。明智的人不会居于危墙之下。</td></tr>
 </table>
