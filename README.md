@@ -2,10 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816019&from=ogGitn">石涛：王岐山通杀外交部 强人政治摧毁制度邪恶 2017-04-05 09:10</a><br/>习近平以政治强人的概念想摧毁政治强权的制度，在把军队拿掉之后，先砍掉了国安部，然后冲着外交部，外交部包括港澳台等外交事务，这里已经包括统战部和政协了。政法委体系中对等着，我们看到了一样的场面。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816015&from=ogGitn">【禁闻】内外夹击 中共被迫收紧货币政策 2017-04-05 08:50</a><br/>在博鳌论坛上，周小川表示，不能过分依赖货币政策，货币政策在经过多年的量化宽松之后，目前全球已经到达了这次周期的尾部，这意味着货币政策将不再是宽松的政策，全球需要逐渐变成比较审慎的货币政策。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816013&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-05 08:06</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816017&from=ogGitn">川习会 中美各自算盘 2017-04-05 08:02</a><br/>3月30日，美中两国正式确认美国总统川普（特朗普）和中国领导人习近平下周在佛州马尔拉歌庄园会晤。川普称会见将是艰难的讨论，有诸多敏感议题将摆上桌面。中方则表示，希望中美高层会谈成功。鉴于中美近来冲突不断，外界关注，两国首脑谈什么？能达成协议？未来中美关系走向如何？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816014&from=ogGitn">【中国禁闻】4月4日完整版 2017-04-05 07:09</a><br/>中国设〝雄安新区〞 再现疯狂炒房潮；追查国际收集犯罪名单 呼应美新法案；纪录片《掩埋》 揭唐山大地震实情。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816015&from=ogGitn">【禁闻】内外夹击 中共被迫收紧货币政策 2017-04-05 07:07</a><br/>在博鳌论坛上，周小川表示，不能过分依赖货币政策，货币政策在经过多年的量化宽松之后，目前全球已经到达了这次周期的尾部，这意味着货币政策将不再是宽松的政策，全球需要逐渐变成比较审慎的货币政策。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816012&from=ogGitn">谢天奇：川习仓促会晤 五大议题背后的秘密 2017-04-05 07:00</a><br/>离十九大召开还有半年时间，习近平紧急寻求与川普会谈，五大热门议题均与中国内政尤其十九大前夕习江斗态势发展密切相关。这或预示习阵营后续针对江泽民、曾庆红等江派高层及其家族贪腐的清洗大动作已在酝酿之中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 令中共忧心的三个原因 2017-04-05 06:47</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 06:33</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
@@ -82,6 +83,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815928&from=ogGitn">孙儿买LV包尽孝  祖母用来装鲜鱼  并称〝不漏水〞只是〝重了点〞 2017-04-04 18:01</a><br/>一位台湾网友说，特别买了一款名贵的LV包送给祖母，没想到祖母装日用杂货，包括鲜鱼。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816020&from=ogGitn">【谈股论金】Tesla市值超越福特的启示 2017-04-04 17:40</a><br/>特斯拉的市值与福特汽车形成黄金交叉颇具有历史意义，首先，前者成立于2003年，而后者成立于1903年，二者相差100年，这象征着汽车产业正在进行百年的世代交替。特斯拉首季出货2.5万台，而福特在美国就销售61.7万台，也象征电动车仍在萌芽的初期，未来仍有很大的增长空间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815929&from=ogGitn">清明节 大陆访民八宝山诉冤被抓 2017-04-04 17:05</a><br/>4月4号清明节，数百名访民前往埋葬中共高官的北京八宝山万安公墓，以扫墓的形式抗议冤情长期得不到解决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815926&from=ogGitn">清明今年4月4 九大习俗要知道 
 										
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815835&from=ogGitn">谢天奇：王岐山启动专案 曾庆红不利信号云集 2017-04-03 04:42</a><br/>姜异康与王宪魁被免职，山东等江派窝点被清洗，是习阵营围剿曾庆红及其家族的最新动作。曾庆红及其家族不利信号云集之际，习、王针对上海帮及江泽民家族的清洗行动也在紧锣密鼓地展开。种种迹象显示，十九大前夕，习阵营针对江泽民、曾庆红的终极“打虎”行动或正在酝酿之中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815790&from=ogGitn">江泽民集团瓜分中国经济内幕（1） 2017-04-03 04:37</a><br/>古今中外，人类的历史上从未出过像中共总书记江泽民这号人物。他无法无天，带领党员干部公然抢劫了归13亿中国人民所有的国家财富、迫害了一亿人的正信。他构造了一个以贪腐为纽带的庞大犯罪团伙。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815824&from=ogGitn">万家文化被“弃壳” 股价大跌套牢散户 2017-04-03 04:21</a><br/>3月31日晚间，万家文化发布公告称，万家集团与龙薇传媒决定终止本次股份转让事项,龙薇传媒曾支付2.5亿元定金将被返还。万家文化股价到目前几近腰斩，那些高位跟进的散户已然被套牢。有迹象表明，此次收购失败与肖建华的“明天系”有关。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815812&from=ogGitn">【中国禁闻】4月2日完整版 2017-04-03 04:10</a><br/>十九大前人事大调整 四省书记易主；</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815787&from=ogGitn">一周大事解读：习王总攻上海帮 围剿三常委 2017-04-03 03:41</a><br/>上周（2017年第13周；3月26日至4月1日），习阵营密集动作围剿江泽民老巢上海，以及江派三常委张德江、刘云山、张高丽的老巢和势力地盘。江派政法高官被密集审判、查处。省级官场人事大调整，江派地方大员罗保铭、王三运、姜异康、王宪魁被免职，近20省市逾30名省级常委或副省长换人。</td></tr>
 </table>
