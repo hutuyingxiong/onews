@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 06:01</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816111&from=ogGitn">【禁闻】传泸州中学生死亡事件 涉官二代 2017-04-06 05:48</a><br/>川习会前 朝鲜再射导弹；传泸州中学生死亡事件 涉官二代；清明节 大陆三个墓地为禁区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816107&from=ogGitn">上海空降新副市长许昆林分管敏感工作 2017-04-06 05:17</a><br/>中共上海市市长、副市长的工作分工4月5日出台，前发改委副秘书长、新任上海副市长许昆林分管外事、涉港澳事务、民族与宗教等重要工作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816108&from=ogGitn">【微视频】昨日无力报母 今朝无力护雏 2017-04-06 05:09</a><br/>蜀中泸州恶官横行，鱼肉乡里。泸州县令某并捕快某，皆有子顽劣，常于学堂之上，勒索同窗之人，曰〝保护费〞。民赵某之子家贫，求宽限数日，不准。再辩，竟遭殴毙。益州刺史遣军夺其尸，自此民怨益沸腾，皆曰〝昨日无力报母，今朝无力护雏，人伦自此丧尽矣！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816106&from=ogGitn">【禁闻】人事异动余波未了 为清理江派埋伏笔？ 2017-04-06 05:04</a><br/>4月1号，海南、甘肃、山东、黑龙江四省省委书记同时换人，罗保铭、王三运、王宪魁、姜异康被更换。</td></tr>
@@ -10,6 +11,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816102&from=ogGitn">刘鹤副手力压吴邦国大秘 料任甘肃新省长 2017-04-06 04:09</a><br/>近日，甘肃省高层持续调整。中财办主任刘鹤副手唐仁健，力压吴邦国大秘孙伟出任甘肃省政府党组书记，将成为甘肃新省长。唐、孙两人几乎同时调任该省省委副书记。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816104&from=ogGitn">台媒：川普叫阵金正恩 平壤赏中共一耳光 2017-04-06 04:02</a><br/>川普放言要〝单独解决朝鲜〞，朝鲜马上试射导弹。台媒称朝鲜赏中共一计耳光。专家分析，美国不具备单独军事打击朝鲜的条件，川普意在敦促中共出手。而支持朝鲜核武的中共江派下台后，中朝日行渐远，但分析称中共并不希望金正恩倒台。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816101&from=ogGitn">川普高参将出席川习会 曾遭中共国安殴打 2017-04-06 03:58</a><br/>4月6、7日全球都将聚焦川习会，届时美中双方都会带上重要团队。对于川普（特朗普）来说，自然少不了带上其亚洲政策高参、前驻华记者博明（Matt Pottinger）。《纽约时报》称，川普的这位高参曾在中国被中共国安殴打。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816110&from=ogGitn">27岁鼻炎患者术后坠亡 家属起诉医院与百度 2017-04-06 02:31</a><br/>继“魏则西事件”、尿毒症等患者受骗后，27岁的鼻炎患者张瑞再次因百度搜索“乌鲁木齐鼻炎医院”，找到排名第一的“乌鲁木齐爱德华医院”就医，但术后出现情绪控制能力弱，脑皮层呈抑制、疲劳状态，心理障碍、伴精神病等症状。半个月后，张瑞跳楼自杀身亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816103&from=ogGitn">A股雄安概念集体涨停 相关企业发通告澄清 2017-04-06 02:07</a><br/>4月5日是官方宣布设立雄安新区后A股的首个交易日，沪深两市大涨，雄安概念集体涨停。近日，相关企业纷纷发通告澄清。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816099&from=ogGitn">泸州学生命案疑涉3官二代 千警装甲车镇压抗议民众(视频) 2017-04-06 01:15</a><br/>四川泸州初中生赵鑫死亡事件引发民众抗议，遭官方猛力镇压。当地民众向外媒爆料，5名涉事凶手中3人为官二代，故官方刻意包庇。目前抗议民众有数百人被抓，军队装甲车已进驻封锁太伏镇，当局还派逾百名警察到殡仪馆抢尸抓人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816100&from=ogGitn">“武爷”“白乱拆”等六大老虎上月受审 2017-04-06 01:03</a><br/>3月，中共6名“老虎”受审，认罪。他们各有特点，如白雪山被戏称“白乱拆”，武长顺被戏称“武爷” ，他涉贪腐5个多亿元，包养数名情妇，4名女警官为其生私生子等。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815876&from=ogGitn">习近平访美前夕 709案家属致函美国总统川普 2017-04-04 03:22</a><br/>中国领导人习近平将于本周访问美国，与美国总统川普（特朗普）会面。中国大陆涉及709逮捕案的家属第三次给美国总统川普写信，呼吁美国总统关注中国的人权问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815878&from=ogGitn">习近平敲打梁振英 两会交谈48秒内容曝光 2017-04-04 03:15</a><br/>梁振英宣布放弃连任香港特首，外界认为是出于北京对他的不满。不过，梁两会出任政协副主席，并和习近平握手寒暄长达48秒，一度被解读为习对梁的支持。不过日前港媒透露了习、梁48秒交谈的内容，习对梁敲打警告的意味明显。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815875&from=ogGitn">游客进山拍〝开往春天的列车〞 先交〝买路钱〞 2017-04-04 02:55</a><br/>民间有句俗语〝靠山吃山，靠水吃水〞，意思是说，无论依山还是傍水，当地人都能从中找到生财之道。有大陆记者发现，傍山的居庸关村民也找到了〝生财〞的门路。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815993&from=ogGitn">最新时政段子集：雄安新区与“白高兴新区” 2017-04-04 02:19</a><br/>时政段子集：【白高兴新区】中央决定成立“雄安新区”的消息传出后，保定一片欢腾。然而美中不足的是白沟、高碑店、定兴三地未能纳入特区。三地遂决定也将联合成立新区，取名“白高兴新区”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815884&from=ogGitn">珍稀五色雀现身罗浮山 古称“灵鸟 小凤凰” 2017-04-04 02:16</a><br/>一只五色雀近日现身广东省惠州市葛洪博物馆，巧合的是，馆内正好有五色雀的铜雕。五色雀在古代被称为“灵鸟”、“小凤凰”，被认为是吉祥之鸟，预示祥瑞。</td></tr>
 </table>
