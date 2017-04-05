@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816056&from=ogGitn">密传〝川习会〞或达共识：斩首金正恩  中国旁观 2017-04-05 18:23</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  当局掩盖真相失败（慎入） 2017-04-05 17:06</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】习川会谈什么议题？ 2017-04-05 16:40</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816051&from=ogGitn">大陆清明习俗变味   扫墓烧〝纸二奶〞 2017-04-05 16:24</a><br/>中国大陆社会乱象近年来已经蔓延到丧葬行业，不仅出现利用〝孝心〞炫富奢侈攀比的现象，还出现了烧〝纸二奶〞变异怪事。据统计清明节全国〝白色消费〞高达一百多亿元。</td></tr>
@@ -69,6 +70,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815975&from=ogGitn">汇文：遭遇共产党是中国人的最大不幸 2017-04-05 00:33</a><br/>中华民族是个伟大的民族。她的伟大，不是体现在人种、地域上，而是体现在文化上。而这个文化却不是人类发明创造的，是由神传给人的，因此被称作神传文化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815973&from=ogGitn">赵紫阳之子：当局首度同意家人建议 父骨灰不入八宝山 2017-04-05 00:27</a><br/>4月4日清明节，大批民众到中共前总书记赵紫阳北京故居祭奠。当局虽按惯例监控但未扣押祭奠人士。赵子女透露，中办已基本同意家属条件，让父亲骨灰入土为安，但不入中共公墓八宝山。据报，赵生前多次要求退党，已于中共决裂。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815974&from=ogGitn">组图：文革中自杀的留美归国科学家 2017-04-05 00:04</a><br/>中共从1949年建政以来，其暴行愈演愈烈，用鲜血和谎言写成的历史，背后的故事不仅惨绝人寰，且鲜为人知，以至于许多良知尚存、迄今还对它抱有幻想的人不敢相信：中共为什么要杀人？为什么很多人被中共逼到自杀？</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山添新职动刀外交系 放重话〝不解决死不瞑目〞 2017-04-04 23:58</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815966&from=ogGitn">九天剑：杀人害命 骗人诛心 2017-04-04 23:57</a><br/>上一篇《骗人为杀人洗地》刚发出去没多久就发现，在下还是说错了骗人与杀人的关系和危害度数：严谨讲，洗地是杀人之后遮掩，骗术布局则多在杀人之前。最典型的如江大蛤蟆及其党羽李东生们策划的臭名昭着的〝法轮功天安门自焚〞伪案。所以前篇应改题为《骗人为杀人磨刀》更贴切些。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815965&from=ogGitn">丁抒：执政初期的镇反与土改阳谋 2017-04-04 23:49</a><br/>〝一些阶级胜利了，一些阶级消灭了。这就是历史，这就是几千年的文明史。〞这是毛泽东对马克思阶级斗争学说的归纳，也是中共理论家引用得最多的毛语录之一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815964&from=ogGitn">仲维光：推荐阅读俄国革命百年反思专辑《致命的利宁》 
@@ -105,7 +107,6 @@
 										
 											?组图 2017-04-04 19:05</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 19:01</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815911&from=ogGitn">王岐山添新职动刀外交系 放重话〝不解决死不瞑目〞 2017-04-04 18:58</a><br/>王岐山再添新职，兼任中央涉外工作小组的组长，将全面整顿改革外事、外交界。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:55</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815832&from=ogGitn">大陆畅销高价净水机近半不合格 2017-04-03 14:58</a><br/>近日，大陆净水器市场上曝出，部分热销的品牌有将近一半的产品标签说明书不合格。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815910&from=ogGitn">载25人大巴陕西翻入山沟 致4死3重伤 2017-04-03 14:26</a><br/>1日晚10点，一辆客运班车在陕西汉中镇巴翻入山沟，当时车内共有25人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815830&from=ogGitn">大陆一周新增17宗禽流感 3人死亡 2017-04-03 14:25</a><br/>3月24日至30日一周内，中国大陆共新增加17宗人类感染H7N9病例，其中3人死亡。山东4月1日发现一宗新病例；甘肃酒泉一鲜鸡店发现H7N9病毒。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815829&from=ogGitn">中国H7N9持续扩散   一周增17宗3死 2017-04-03 14:22</a><br/>中国卫计委通报，在3月底一周内，共新增17宗人类感染H7N9禽流感个案。</td></tr>
 </table>
