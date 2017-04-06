@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真   雄安新区影射毛泽东的罪过 2017-04-06 16:03</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816152&from=ogGitn">一年违规使用4亿元 河南逾两千官员被查 2017-04-06 15:07</a><br/>河南省于2016年对全省2116名官员进行经济责任审计，结果显示负直接责任违规使用资金达4.26亿元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816154&from=ogGitn">22名中共贪官忏悔录  3种心态最常见 2017-04-06 15:02</a><br/>近日，中共中纪委网站公布了中共四川省农业厅原巡视员胡相全的悔过书。至此，从2015年2月末开始，已有22名中共贪官的悔过书被披露。这些贪官最常见的三种心态是侥幸、贪欲、或是不平衡心态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816155&from=ogGitn">泸县校园命案维稳升级  官媒记者叹忍无可忍 2017-04-06 14:43</a><br/>中共党媒记者到泸县采访也遭到围堵威胁，而当地的种种电话骚扰，更让党媒记者忍无可忍。</td></tr>
@@ -16,6 +17,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816135&from=ogGitn">重庆公安局长何挺与周永康勾结内幕 2017-04-06 12:43</a><br/>中共重庆副市长、公安局长何挺落马的消息在网络纷传。前资深媒体人姜维平发文透露何挺已被“双规”的内幕，何被指控贪污受贿及包庇薄王时期的涉嫌犯罪的警察。文章预示，重庆将有大变局，现在只是刚开始的序幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816140&from=ogGitn">一集电视剧5亿人看？ 大陆网络点击量9成造假 2017-04-06 11:19</a><br/>大陆电视剧片方出钱刷点击量，已是业界公开的秘密。有业内人士披露，电视剧网络点击量9成涉嫌造假。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816159&from=ogGitn">袁斌：泸州中学生死亡事件为何越闹越大？ 2017-04-06 10:37</a><br/>日前发生的泸州中学生死亡事件，本是一个在很小范围就能解决的问题，不料想竟迅速演变成了一场当地政府和民众之间的尖锐对抗，甚至有愈演愈烈的势头。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 10:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815937&from=ogGitn">在大陆停用手机号 支付宝等信息仍泄露无遗 2017-04-04 14:17</a><br/>大多数用户可能还不知道，在将自己手机号码办理停号后，商家会将停用的号码销号回收，二次放号给其他人用。而前卡主的支付宝等信息，仍会被泄露无遗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815919&from=ogGitn">《追问》诸多细节泄露落马官员原型 2017-04-04 14:04</a><br/>反腐新书《追问》面世后，其中的内容和一些细节泄露了落马官员的基本信息，让外界“对号入座”，找到了贪官原型。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815912&from=ogGitn">上访无门找死人告状？清明节大批访民到八宝山诉冤 2017-04-04 13:37</a><br/>北京警方派出数千警察、保安围追堵截和殴打访民。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815936&from=ogGitn">大陆公募基金5年来首次全线亏损 整体亏千亿 2017-04-04 13:26</a><br/>大陆基金去年年报3月31日出炉，数据显示公募基金5年来第一次全线亏损，而基金总体亏损达到1754.70亿元人民币。网民感叹投资真是太难了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815924&from=ogGitn">湖南发生车祸 12死19伤 或因货车违规载人 2017-04-04 12:21</a><br/>4月3日17时50分许，湖南郴州市苏仙区发生一起重大交通事故，已造成12人死亡，19人受伤，现场惨烈。</td></tr>
 </table>
