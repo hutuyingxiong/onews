@@ -2,9 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 12:48</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816135&from=ogGitn">重庆公安局长何挺与周永康勾结内幕 2017-04-06 12:43</a><br/>中共重庆副市长、公安局长何挺落马的消息在网络纷传。前资深媒体人姜维平发文透露何挺已被“双规”的内幕，何被指控贪污受贿及包庇薄王时期的涉嫌犯罪的警察。文章预示，重庆将有大变局，现在只是刚开始的序幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 10:40</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 10:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
