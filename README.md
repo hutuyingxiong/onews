@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816118&from=ogGitn">【中国禁闻】4月5日完整版 2017-04-06 07:31</a><br/>习川会五大议题 哪些是重头？人事异动余波未了 为清理江派埋伏笔？四川中学生死亡 公安辟谣 民众愤怒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816117&from=ogGitn">【禁闻】四川中学生死亡 公安辟谣 民众愤怒 2017-04-06 07:17</a><br/>中国泸县中学生赵姓同学惨死案继续发酵，校方和警方事后声称，这名学生是坠楼死亡，激起家属和当地民众的愤怒。当局派出大批特警进驻，警方与抗议民众多次爆发激烈冲突，场面一度失控。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816113&from=ogGitn">4月5日维权动态 2017-04-06 06:30</a><br/>江苏宝应公路站职工拉横幅 讨血汗钱；武汉两访民被打致骨折 疑上访遭报复；大连访民盛兰福被送精神病院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816112&from=ogGitn">【禁闻】4月5日退党精选 2017-04-06 06:29</a><br/>化名〝重生〞的大陆民众发表了近300字的退党声明，声明退出一切组织，为澄清玉宇尽绵薄之力。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815885&from=ogGitn">【禁闻】李明哲妻欲赴京救夫 前路多崎岖？ 2017-04-04 05:25</a><br/>李明哲上个月前往中国，19号与家属失联，国台办29号称李明哲因〝涉嫌危害国家安全〞被抓，但拒绝透露具体指控。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815883&from=ogGitn">尾随习近平访雄安新区 王健林早已布局？ 2017-04-04 05:16</a><br/>4月1日，中共官媒报道称，河北将设立雄安新区。官方定位很高，称其可比肩深圳经济特区和上海浦东新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815893&from=ogGitn">习王三管齐下 四省书记换人后官场大换血 2017-04-04 05:04</a><br/>继海南、甘肃、山东、黑龙江四省书记换人后，习王当局对地方官场高层继续大换血， 主要方式有中央“空降”、异地调任 、本地调整，包括教育部副部长沈晓明“空降”海南任省委副书记，广西钦州市委书记肖莺子调任海南省委常委等。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815882&from=ogGitn">4月3日全球看中国 2017-04-04 04:52</a><br/>雄安尚是概念 房价业已疯狂；新区设立前 河北雄县前县委书记吴亚飞落马；资金出境难促使中国公司转向境外融资；现代及起亚汽车称中国销售不振恐冲其他3月海外销售。</td></tr>
 </table>
