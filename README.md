@@ -5,7 +5,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816167&from=ogGitn">川校园死亡事件疑点多 中共当局封锁升级 2017-04-06 17:05</a><br/>再来关注中国的消息。四川泸州太伏镇中学生疑遭霸凌死亡事件，连日来引发群众抗议。当地民众透露，当地政府为了封锁消息，从5号到16号，泸州大规模停电，目前死者的家属被软禁，警察持续抓捕抗议民众，还传出曾有网民发起游行被抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 17:03</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 17:00</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 16:58</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816166&from=ogGitn">武汉一条狗引发血案 狗主人被刺死 2017-04-06 15:34</a><br/>湖北武汉人杨建平因摸了一下宠物狗，狗主人彭某某邀约另2人持洋镐上门报复，被杨建平、杨建伟兄弟二人刺死。是否属防卫是控辩双方辩论的焦点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
