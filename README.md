@@ -8,6 +8,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816128&from=ogGitn">周晓辉：财新传媒主编谈“习川会”传信息 2017-04-06 09:27</a><br/>4月6日至7日，习近平将在佛州与美国总统川普（特朗普）举行会晤，对于这场世界颇为关注的会面，有习阵营背景的大陆财新网于5日在重要位置，刊发了财新传媒总编辑胡舒立撰写的《举世关注首次“习特会”》一文。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816134&from=ogGitn">推销核武原料 朝鲜驻华外交官登广告 2017-04-06 09:23</a><br/>日前，朝鲜驻北京大使馆三等秘书被曝登广告推销高纯度锂6，从中国丹东港发货。锂6是核武原料，能迅速让普通的原子弹变成氢弹，朝鲜此举引起全球情报机构的注意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 09:08</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816108&from=ogGitn">【微视频】昨日无力报母 今朝无力护雏 2017-04-06 08:44</a><br/>蜀中泸州恶官横行，鱼肉乡里。泸州县令某并捕快某，皆有子顽劣，常于学堂之上，勒索同窗之人，曰〝保护费〞。民赵某之子家贫，求宽限数日，不准。再辩，竟遭殴毙。益州刺史遣军夺其尸，自此民怨益沸腾，皆曰〝昨日无力报母，今朝无力护雏，人伦自此丧尽矣！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816117&from=ogGitn">【禁闻】四川中学生死亡 公安辟谣 民众愤怒 2017-04-06 08:43</a><br/>中国泸县中学生赵姓同学惨死案继续发酵，校方和警方事后声称，这名学生是坠楼死亡，激起家属和当地民众的愤怒。当局派出大批特警进驻，警方与抗议民众多次爆发激烈冲突，场面一度失控。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:48</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 07:39</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815904&from=ogGitn">重庆丰都“花园洋房”背后：农民的血和泪 2017-04-04 07:20</a><br/>近年来，重庆丰都县仙女湖镇在大力发展房地产过程中，出现大量侵占农民利益的事件，导致当地农民怨声载道，民不聊生。村民呼吁社会各界关注，还公道于世间。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815899&from=ogGitn">【中国禁闻】4月3日完整版 2017-04-04 07:20</a><br/>川普：美国会出手解决朝鲜问题；返抵悉尼 冯崇义：学术只对真理负责；泸州中学生被霸凌致死  警方掩盖真相。</td></tr>
 </table>
