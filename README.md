@@ -8,6 +8,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816119&from=ogGitn">姜维平：重庆何挺被“双规”，终于没能挺太久 2017-04-06 07:01</a><br/>重庆消息人士说，2017年3月31日，重庆市公安局长何挺，已经被中纪委专案组“双规”，估计官媒会在近期公布消息，指控他的主要罪名是贪污受贿和包庇薄王时期徇私枉法的涉嫌犯罪的警察，据称，这是落实中纪委书记王歧山提出的“重庆清除薄熙来和王立军余毒”，和抓捕“薄王余党”行动的一部分。何挺是周永康的嫡系，也是多年来力阻重庆平反冤假错案，造成中国民企老板“移民潮”继续...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816113&from=ogGitn">4月5日维权动态 2017-04-06 06:30</a><br/>江苏宝应公路站职工拉横幅 讨血汗钱；武汉两访民被打致骨折 疑上访遭报复；大连访民盛兰福被送精神病院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816112&from=ogGitn">【禁闻】4月5日退党精选 2017-04-06 06:29</a><br/>化名〝重生〞的大陆民众发表了近300字的退党声明，声明退出一切组织，为澄清玉宇尽绵薄之力。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816122&from=ogGitn">川普等政治素人将如何应付一群共产党官僚 2017-04-06 06:05</a><br/>这边厢，川普（特朗普）发誓“要让美国再次伟大”，那边厢，习近平在推动“中国梦”。他们两人将于周四（4月6日）在佛州棕榈滩首次会晤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 06:01</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816111&from=ogGitn">【禁闻】传泸州中学生死亡事件 涉官二代 2017-04-06 05:48</a><br/>川习会前 朝鲜再射导弹；传泸州中学生死亡事件 涉官二代；清明节 大陆三个墓地为禁区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816114&from=ogGitn">【热点透视】中国第一贪不抓 反腐难成功 2017-04-06 05:36</a><br/>贪官越抓越多，贪腐金额越来越大，因此当局称“反腐永远在路上”。许多官员在高压态势下仍然前赴后继地贪腐，“十八大后仍不收敛、不收手”，主要的原因何在？</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815917&from=ogGitn">深圳男误将3万当300捐款 慈善基金会拒退回 2017-04-04 05:47</a><br/>大陆深圳市民李先生，日前在网上看到一项爱心捐款项目，本想捐300元，谁知没有看清小数点，不小心捐了3万元。当李先生尝试联系该慈善基金会后，请求希望能够退回金额，却遭到对方拒绝。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815915&from=ogGitn">大陆40城楼市调控 多地提高“购房税” 2017-04-04 05:34</a><br/>中国大陆开启新一轮楼市调控，近40个城市出台了各种楼市调控政策120余次，超过十个城市增加个税或社保缴纳年限。财经分析人士认为，增加社保年限等于一次性提高购房税。经济学家表示，目前调控政策的目标主要是防止房地产泡沫引发系统性风险。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815885&from=ogGitn">【禁闻】李明哲妻欲赴京救夫 前路多崎岖？ 2017-04-04 05:25</a><br/>李明哲上个月前往中国，19号与家属失联，国台办29号称李明哲因〝涉嫌危害国家安全〞被抓，但拒绝透露具体指控。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815883&from=ogGitn">尾随习近平访雄安新区 王健林早已布局？ 2017-04-04 05:16</a><br/>4月1日，中共官媒报道称，河北将设立雄安新区。官方定位很高，称其可比肩深圳经济特区和上海浦东新区。</td></tr>
 </table>
