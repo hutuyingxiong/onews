@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816179&from=ogGitn">向黄兴国泄密的中纪委内鬼 帮商人揽工程收贿 2017-04-06 20:09</a><br/>近期，吉林华运房地产开发有限公司董事长黄保国被判刑5年。其被指控向中纪委官员袁卫华行贿数百万元（人民币、下同）。此前，袁被指以“故意泄露案情”换取利益，黄兴国落马前曾找他打探案情。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816180&from=ogGitn">川习会 美议员吁释放中国人权律师等人士 2017-04-06 19:51</a><br/>美国国会及行政当局中国委员会（CECC）主席鲁比奥参议员和共同主席史密斯众议员本周发起一项名为“让中国的英雄自由”计划，呼吁川习会关注包括被关押或被失踪的中国人权律师在内的人权活动人士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-06 18:37</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
@@ -16,6 +17,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816177&from=ogGitn">川习会在即 中国访民誓死要拦车鸣冤 2017-04-06 15:46</a><br/>在美中两国元首即将在佛罗里达棕榈滩的海湖庄园举行会晤之际，来自美国各地的中国访民都在习近平到来之前纷纷赶到棕榈滩，为拦截习近平车队做准备。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816166&from=ogGitn">武汉一条狗引发血案 狗主人被刺死 2017-04-06 15:34</a><br/>湖北武汉人杨建平因摸了一下宠物狗，狗主人彭某某邀约另2人持洋镐上门报复，被杨建平、杨建伟兄弟二人刺死。是否属防卫是控辩双方辩论的焦点。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-06 15:28</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816152&from=ogGitn">一年违规使用4亿元 河南逾两千官员被查 2017-04-06 15:07</a><br/>河南省于2016年对全省2116名官员进行经济责任审计，结果显示负直接责任违规使用资金达4.26亿元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816154&from=ogGitn">22名中共贪官忏悔录  3种心态最常见 2017-04-06 15:02</a><br/>近日，中共中纪委网站公布了中共四川省农业厅原巡视员胡相全的悔过书。至此，从2015年2月末开始，已有22名中共贪官的悔过书被披露。这些贪官最常见的三种心态是侥幸、贪欲、或是不平衡心态。</td></tr>
@@ -49,7 +51,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816148&from=ogGitn">阴霾再袭京津冀 14城发布重污染橙色预警 2017-04-06 06:18</a><br/>近日，大陆京津冀等地区再遭重污染袭击， 14城发布橙色预警，5城发布黄色预警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816122&from=ogGitn">川普等政治素人将如何应付一群共产党官僚 2017-04-06 06:05</a><br/>这边厢，川普（特朗普）发誓“要让美国再次伟大”，那边厢，习近平在推动“中国梦”。他们两人将于周四（4月6日）在佛州棕榈滩首次会晤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816111&from=ogGitn">【禁闻】传泸州中学生死亡事件 涉官二代 2017-04-06 05:48</a><br/>川习会前 朝鲜再射导弹；传泸州中学生死亡事件 涉官二代；清明节 大陆三个墓地为禁区。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-06 05:28</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816114&from=ogGitn">【热点透视】中国第一贪不抓 反腐难成功 2017-04-06 05:25</a><br/>贪官越抓越多，贪腐金额越来越大，因此当局称“反腐永远在路上”。许多官员在高压态势下仍然前赴后继地贪腐，“十八大后仍不收敛、不收手”，主要的原因何在？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816142&from=ogGitn">炒房客蜂拥而至 河北雄安新区周边9县市限购 2017-04-06 05:22</a><br/>河北雄安新区掀炒楼市，并波及周边县市。近日，雄安新区周边9县市形成限购包围圈，北京扩大限购范围。有评论表示，雄安新区疯炒楼市，反映了大陆社会人心虚浮。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816107&from=ogGitn">上海空降新副市长许昆林分管敏感工作 2017-04-06 05:17</a><br/>中共上海市市长、副市长的工作分工4月5日出台，前发改委副秘书长、新任上海副市长许昆林分管外事、涉港澳事务、民族与宗教等重要工作。</td></tr>
@@ -205,5 +206,4 @@
 											?组图 2017-04-04 19:05</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 19:01</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:55</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
 </table>
