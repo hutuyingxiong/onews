@@ -2,10 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背天理民心 2017-04-06 18:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816167&from=ogGitn">川校园死亡事件疑点多 中共当局封锁升级 2017-04-06 17:05</a><br/>再来关注中国的消息。四川泸州太伏镇中学生疑遭霸凌死亡事件，连日来引发群众抗议。当地民众透露，当地政府为了封锁消息，从5号到16号，泸州大规模停电，目前死者的家属被软禁，警察持续抓捕抗议民众，还传出曾有网民发起游行被抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 17:03</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 16:58</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 17:00</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816170&from=ogGitn">河北再有公安系统高官落马 徐大志被审查 2017-04-06 16:25</a><br/>4月6日，中共河北唐山市曹妃甸区公安局党委委员、临港治安分局局长徐大志（副处级）涉嫌“严重违纪”，目前正接受审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816166&from=ogGitn">武汉一条狗引发血案 狗主人被刺死 2017-04-06 15:34</a><br/>湖北武汉人杨建平因摸了一下宠物狗，狗主人彭某某邀约另2人持洋镐上门报复，被杨建平、杨建伟兄弟二人刺死。是否属防卫是控辩双方辩论的焦点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815940&from=ogGitn">西安男子跑步后去接水 突然倒地不治身亡 2017-04-04 15:51</a><br/>3月31日晚，陕西省西安市43岁的赵先生在家门口的健身会所健身。他在跑步机上运动了二十多分钟，之后到距离三十多米远的饮水机处接水时突然倒地，经抢救无效身亡。目前，警方初步排除外界暴力致死。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815925&from=ogGitn">大陆老板淫辱盲人洗脚妹 清华教授曝内幕 2017-04-04 15:40</a><br/>孙立平描述，有钱老板请人到洗脚城洗脚的场景，服务的盲人妹竟然用舌头舔脚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815943&from=ogGitn">姐维权遭殴 妹在美国计划拦截习近平车队 2017-04-04 15:24</a><br/>因房屋遭到中共强拆坚持维权的北京李美青女士，于4月1日，遭到当地村官雇佣打手再次将其头部殴伤。现流亡美国，李美青的妹妹李焕君表示，此次习近一访民，她将不顾一切再次拦截习近平车队喊冤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815927&from=ogGitn">中共制裁韩国适得其反 在韩华人成受害者 2017-04-04 15:13</a><br/>中共不断升级的“禁韩令”适得其反，如今在韩国，支持部署萨德系统的民众大增，在韩中国人亦感到为难，不少人甚至首当其冲成为经济制裁的受害者。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815923&from=ogGitn">听导航〝指示〞  安徽男把车开到河中央 2017-04-04 15:05</a><br/>驾驶员讲述，他对行车路线不熟，一路跟着导航提示，把车开到了河中央。</td></tr>
 </table>
