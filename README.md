@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">十九大前 31省委书记江派丢7成 换届后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 05:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816224&from=ogGitn">【禁闻】作古十年污名上身 刘文彩善人变恶霸 2017-04-07 05:04</a><br/>即便今年已经年过七旬，但刘小飞仍然在持续奔走。他试图靠个人的力量来洗刷掉执政党让他爷爷背负的污名。早从1973年他就开始相关调查，考虑到洗冤可能付出的代价，他至今还是独身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816223&from=ogGitn">【禁闻】纪录片《共犯》 大陆工人血泪史 2017-04-07 04:50</a><br/>纪录片《共犯》讲述在深圳和广州的电子产品制造工厂里，因暴露在有毒化学品环境中而患病的工人的经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816222&from=ogGitn">【禁闻】中共反萨德 评：关键是不懂参数 2017-04-07 04:49</a><br/>萨德的拦截弹对中国威胁不大——它只拦截下降中的弹道末段的目标，但中国战略导弹，包括从黄海或渤海发射的潜射导弹，经过韩国附近时，还在上升中的助推段。</td></tr>
@@ -200,6 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815990&from=ogGitn">组图：泸州学生死亡事件升级 千警封镇抓人 2017-04-05 01:51</a><br/>连续多日，四川泸州市泸县太伏镇太伏中学一学生离奇死亡事件仍然在持续，民愤不断，要求公道的呼声此起彼伏，当局调动大批警察进行镇压，四五十人被抓，现场通讯被屏蔽，整个太伏镇被封锁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815907&from=ogGitn">谢天奇：习设立雄安新区 释放对决江曾信号 2017-04-05 01:50</a><br/>习当局新设立7个自贸区与雄安新区，释放与江泽民集团在经济领域的对决信号。习当局如此大动作，向海内外释放重建经济格局的决心，不仅可以瓦解江泽民利益集团对中国经济的捆绑，防范、粉粹江派十九大前再度发动“经济政变”的企图，也可缓解因清洗江泽民集团政商圈而引发的对中国经济的震荡效应。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815987&from=ogGitn">川中学女生校外打人 狂掴小女生14巴掌 2017-04-05 01:49</a><br/>视频中，一名黑衣女生在短短35秒内狂掴一名穿绿色校服的女生14巴掌。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815933&from=ogGitn">【翻墙必看】习当局设新区释放什么信号？ 2017-04-05 01:47</a><br/>大纪元每天为读者梳理翻墙必看的文章：</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815986&from=ogGitn">中国10亿微信用户私人聊天受中共监控 2017-04-05 01:40</a><br/>近年愈来愈多大陆民众使用手机即时通讯软件微信（WeChat），注册用户已超过10亿。外媒披露，微信等平台因其收集的用户数据量前所未有的大，已成为中共专制政权监控民众的工具。</td></tr>
 </table>
