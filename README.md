@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真   雄安新区影射毛泽东的罪过 2017-04-06 16:03</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 16:58</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 16:03</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816152&from=ogGitn">一年违规使用4亿元 河南逾两千官员被查 2017-04-06 15:07</a><br/>河南省于2016年对全省2116名官员进行经济责任审计，结果显示负直接责任违规使用资金达4.26亿元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816154&from=ogGitn">22名中共贪官忏悔录  3种心态最常见 2017-04-06 15:02</a><br/>近日，中共中纪委网站公布了中共四川省农业厅原巡视员胡相全的悔过书。至此，从2015年2月末开始，已有22名中共贪官的悔过书被披露。这些贪官最常见的三种心态是侥幸、贪欲、或是不平衡心态。</td></tr>
@@ -47,6 +49,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-06 02:45</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816110&from=ogGitn">27岁鼻炎患者术后坠亡 家属起诉医院与百度 2017-04-06 02:31</a><br/>继“魏则西事件”、尿毒症等患者受骗后，27岁的鼻炎患者张瑞再次因百度搜索“乌鲁木齐鼻炎医院”，找到排名第一的“乌鲁木齐爱德华医院”就医，但术后出现情绪控制能力弱，脑皮层呈抑制、疲劳状态，心理障碍、伴精神病等症状。半个月后，张瑞跳楼自杀身亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816103&from=ogGitn">A股雄安概念集体涨停 相关企业发通告澄清 2017-04-06 02:07</a><br/>4月5日是官方宣布设立雄安新区后A股的首个交易日，沪深两市大涨，雄安概念集体涨停。近日，相关企业纷纷发通告澄清。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816161&from=ogGitn">网传蒂勒森访华达6共识：美日韩斩首金正恩中方中立 2017-04-06 01:20</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816099&from=ogGitn">泸州学生命案疑涉3官二代 千警装甲车镇压抗议民众(视频) 2017-04-06 01:15</a><br/>四川泸州初中生赵鑫死亡事件引发民众抗议，遭官方猛力镇压。当地民众向外媒爆料，5名涉事凶手中3人为官二代，故官方刻意包庇。目前抗议民众有数百人被抓，军队装甲车已进驻封锁太伏镇，当局还派逾百名警察到殡仪馆抢尸抓人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816100&from=ogGitn">“武爷”“白乱拆”等六大老虎上月受审 2017-04-06 01:03</a><br/>3月，中共6名“老虎”受审，认罪。他们各有特点，如白雪山被戏称“白乱拆”，武长顺被戏称“武爷” ，他涉贪腐5个多亿元，包养数名情妇，4名女警官为其生私生子等。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816129&from=ogGitn">初中生死亡疑涉官二代 军方封镇阻众声援 2017-04-06 00:57</a><br/>四川省泸州市初中生死亡事件受到官方猛力镇压，有当地民众向自由亚洲电台爆出背后的原因，五名涉事凶手中，其中三人均为官二代，疑官方刻意包庇。事件持续发酵，大批民众连日来聚集抗议，先后有数百示威者被抓。有当地民众反映，军队已进驻及封锁太伏镇，阻挡外省民众前来声援。</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815918&from=ogGitn">雄安光棍汉也〝涨价〞   53岁农民要娶25岁留学生 2017-04-04 14:43</a><br/>网传河北雄县单身与离异的男女，纷纷在网上打出征婚广告。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815921&from=ogGitn">重庆公安局长落马细节传出 藏有1200瓶茅台 2017-04-04 14:36</a><br/>外界纷传中共重庆副市长、公安局长何挺落马之际，有港媒报导说，何挺已在3月31日被中纪委带走。消息称，中纪委在重庆公安局食堂查到1,200多瓶茅台酒。据说，何曾送3,000万珠宝（人民币，下同）贿赂周永康买官。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815895&from=ogGitn">习近平找对人？ 美媒揭川习会幕后操盘手 2017-04-04 14:21</a><br/>美媒报导，川普女婿库什纳在川普政府的中国政策中扮演重要角色，即将上演的川习会就是库什纳和中共驻美大使崔天凯幕后运作的结果。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815869&from=ogGitn">〝三重大山〞挤压 雄安新区面临一大难题 2017-04-04 14:20</a><br/>愚人节当天，中共要在河北设立雄安新区的消息引起轰动效应。港媒文章指，该地区面临北京、天津和石家庄三重大山的挤压，以及阴霾的威胁，并不具备区域经济优势。相反，新区的设立不过是给炒房和地方官员腐败提供更多的空间。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815937&from=ogGitn">在大陆停用手机号 支付宝等信息仍泄露无遗 2017-04-04 14:17</a><br/>大多数用户可能还不知道，在将自己手机号码办理停号后，商家会将停用的号码销号回收，二次放号给其他人用。而前卡主的支付宝等信息，仍会被泄露无遗。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815919&from=ogGitn">《追问》诸多细节泄露落马官员原型 2017-04-04 14:04</a><br/>反腐新书《追问》面世后，其中的内容和一些细节泄露了落马官员的基本信息，让外界“对号入座”，找到了贪官原型。</td></tr>
 </table>
