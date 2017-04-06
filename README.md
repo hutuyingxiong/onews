@@ -13,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 09:08</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816108&from=ogGitn">【微视频】昨日无力报母 今朝无力护雏 2017-04-06 08:44</a><br/>蜀中泸州恶官横行，鱼肉乡里。泸州县令某并捕快某，皆有子顽劣，常于学堂之上，勒索同窗之人，曰〝保护费〞。民赵某之子家贫，求宽限数日，不准。再辩，竟遭殴毙。益州刺史遣军夺其尸，自此民怨益沸腾，皆曰〝昨日无力报母，今朝无力护雏，人伦自此丧尽矣！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816117&from=ogGitn">【禁闻】四川中学生死亡 公安辟谣 民众愤怒 2017-04-06 08:43</a><br/>中国泸县中学生赵姓同学惨死案继续发酵，校方和警方事后声称，这名学生是坠楼死亡，激起家属和当地民众的愤怒。当局派出大批特警进驻，警方与抗议民众多次爆发激烈冲突，场面一度失控。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816137&from=ogGitn">习近平访芬兰 法轮功呼吁法办江泽民 2017-04-06 07:44</a><br/>4月5日，来自芬兰和瑞典的部分法轮功学员在芬兰的总统府附近举行和平请愿，敦促习近平制止对法轮功的迫害，并把迫害法轮功的元凶江泽民绳之以法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816118&from=ogGitn">【中国禁闻】4月5日完整版 2017-04-06 07:31</a><br/>习川会五大议题 哪些是重头？人事异动余波未了 为清理江派埋伏笔？四川中学生死亡 公安辟谣 民众愤怒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816119&from=ogGitn">姜维平：重庆何挺被“双规”，终于没能挺太久 2017-04-06 07:01</a><br/>重庆消息人士说，2017年3月31日，重庆市公安局长何挺，已经被中纪委专案组“双规”，估计官媒会在近期公布消息，指控他的主要罪名是贪污受贿和包庇薄王时期徇私枉法的涉嫌犯罪的警察，据称，这是落实中纪委书记王歧山提出的“重庆清除薄熙来和王立军余毒”，和抓捕“薄王余党”行动的一部分。何挺是周永康的嫡系，也是多年来力阻重庆平反冤假错案，造成中国民企老板“移民潮”继续...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816113&from=ogGitn">4月5日维权动态 2017-04-06 06:30</a><br/>江苏宝应公路站职工拉横幅 讨血汗钱；武汉两访民被打致骨折 疑上访遭报复；大连访民盛兰福被送精神病院。</td></tr>
@@ -20,6 +21,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816122&from=ogGitn">川普等政治素人将如何应付一群共产党官僚 2017-04-06 06:05</a><br/>这边厢，川普（特朗普）发誓“要让美国再次伟大”，那边厢，习近平在推动“中国梦”。他们两人将于周四（4月6日）在佛州棕榈滩首次会晤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816111&from=ogGitn">【禁闻】传泸州中学生死亡事件 涉官二代 2017-04-06 05:48</a><br/>川习会前 朝鲜再射导弹；传泸州中学生死亡事件 涉官二代；清明节 大陆三个墓地为禁区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816114&from=ogGitn">【热点透视】中国第一贪不抓 反腐难成功 2017-04-06 05:25</a><br/>贪官越抓越多，贪腐金额越来越大，因此当局称“反腐永远在路上”。许多官员在高压态势下仍然前赴后继地贪腐，“十八大后仍不收敛、不收手”，主要的原因何在？</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816142&from=ogGitn">炒房客蜂拥而至 河北雄安新区周边9县市限购 2017-04-06 05:22</a><br/>河北雄安新区掀炒楼市，并波及周边县市。近日，雄安新区周边9县市形成限购包围圈，北京扩大限购范围。有评论表示，雄安新区疯炒楼市，反映了大陆社会人心虚浮。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816107&from=ogGitn">上海空降新副市长许昆林分管敏感工作 2017-04-06 05:17</a><br/>中共上海市市长、副市长的工作分工4月5日出台，前发改委副秘书长、新任上海副市长许昆林分管外事、涉港澳事务、民族与宗教等重要工作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816106&from=ogGitn">【禁闻】人事异动余波未了 为清理江派埋伏笔？ 2017-04-06 05:04</a><br/>4月1号，海南、甘肃、山东、黑龙江四省省委书记同时换人，罗保铭、王三运、王宪魁、姜异康被更换。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816105&from=ogGitn">【禁闻】习川会五大议题 哪些是重头？ 2017-04-06 05:03</a><br/>习近平和川普的首次会面，美国白宫方面曾在3月底表示，两位领导人将就〝双方共同关心的国际、地区以及双边议题〞展开讨论。</td></tr>
@@ -35,6 +37,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816095&from=ogGitn">夏侯：苏共暴政下的群体灭绝（下） 2017-04-06 00:08</a><br/>种族灭绝也称为群体灭绝，指人为的、系统的对某个群体或民族、宗教团体进行全部或局部的屠杀，最早于1944年由波兰籍犹太法律学者拉斐尔．莱姆金提出。二战结束后，国际法庭对德国纳粹战犯的罪名指控，包括群体灭绝。对于斯大林时代苏共的暴行，至今虽未得到国际法庭的审判，不过在俄罗斯制作的大型历史记录片《20世纪俄罗斯历史》以及拉脱维亚历史记录片《苏联故事》（The Soviet Story）里，采用翔实的史料、解密的原始文件为斯大林时代的罪行做出诠释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816093&from=ogGitn">夏侯：苏共暴政下的群体灭绝（上） 2017-04-06 00:04</a><br/>在上个世纪二战期间并存过两个极权主义政权：德国纳粹和苏联共产党。这两种制度虽然形式不同，称法有别，但却有着共同的一面，都留下数以千计的万人坑、大屠杀、集中营等这些反人类的罪恶遗迹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816092&from=ogGitn">林辉：苏军东北施暴 中共置若罔闻 2017-04-05 23:58</a><br/>第二次世界大战后期，在1945年2月苏、美、英三国首脑斯大林、罗斯福和丘吉尔举行的雅尔塔会议上，一个重要议题就是苏联出兵中国东北。三方就苏联出兵东北的政治条件进行了试探性的会谈，并最终签订了《雅尔塔协定》。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816013&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-05 23:55</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816091&from=ogGitn">袁斌：清明 我的六炷香 2017-04-05 23:55</a><br/>今年的清明节，祭奠过祖先亲人之后，我又给那些因为中共的极权统治而失去生命的亡魂也分别上了香。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816090&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 23:53</a><br/>这几天，大陆最火爆的，莫过于设立河北雄安新区这件事。消息一传出，全国各地的投资人、投机商、中介、个人买房者等，一窝蜂地涌向雄安新区。于是，去当地的火车票几乎卖光，当地的酒店人满为患，街道上到处停的都是外地车辆。人们以最快的速度去雄安新区，就想抢在别人的前面，以最低的价格买入房子，复制大陆房地产赚钱的模式，实现自己的发财梦想。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816098&from=ogGitn">河北安新县冻结户籍变更 居民排长队结婚 2017-04-05 23:50</a><br/>大陆官方宣布在河北设立雄安新区，继热炒楼市后，安新县又冻结户籍变更等，当地出现居民排长队结婚的现象。</td></tr>
@@ -90,7 +93,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816023&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不方便答覆 2017-04-05 10:19</a><br/>郭文贵在信中控诉北大〝动用国家专案组力量〞恐吓他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816024&from=ogGitn">北京地铁有多挤？男子被挤成四肢瘫痪地铁公司判赔 2017-04-05 10:07</a><br/>近日，北京昌平法院一审判决地铁公司赔偿王涛医疗费等共26万余元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816028&from=ogGitn">广东男子驾车冲民宅 向人群喷火 汽车爆炸 2017-04-05 09:35</a><br/>4月4日，广东一男子驾驶一辆面包车冲进中山小榄镇联丰社区一民宅内，用自制喷火装置向聚餐人群喷火，导致汽车发生爆炸，致1死3重伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816013&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-05 09:13</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816015&from=ogGitn">【禁闻】内外夹击 中共被迫收紧货币政策 2017-04-05 08:50</a><br/>在博鳌论坛上，周小川表示，不能过分依赖货币政策，货币政策在经过多年的量化宽松之后，目前全球已经到达了这次周期的尾部，这意味着货币政策将不再是宽松的政策，全球需要逐渐变成比较审慎的货币政策。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815997&from=ogGitn">蜀电视台副台长等落马 辽纪委官员获刑9年 2017-04-05 08:15</a><br/>近日又一批中共官员落马。四川广播电视台党委原副台长张翊、广东省科技厅副厅长钟小平、青海省玉树藏族自治州政协主席王秀琴被审查。另外，辽宁省国资委原纪委书记刘凯以受贿1249万余元被判九年徒刑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816025&from=ogGitn">分析：川习会合作与冲突并存 贸易战延后 2017-04-05 08:14</a><br/>“川习会”在即，外界判断川普以及习近平的施政重点在国内事务，对外政策都希望尽量维持现状，所以双方可能会倾向约束朝鲜不要胡来；而美中贸易也可能达成一定程度上的合作，进入新的温和期。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 08:40</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815901&from=ogGitn">【禁闻】泸州中学生被霸凌致死  警方掩盖真相 2017-04-04 08:37</a><br/>中国日前再发生校园霸凌事件，一名14岁的中学生因为没有交一万元保护费，怀疑在学校被校霸活生生打死。校方与当地警方随后公布说，这个学生是跳楼摔死，引发当地民众愤怒。死者的母亲当街哭诉，要求当局给出真相。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815897&from=ogGitn">石涛：十四岁男孩被校霸打死 雄安新区的疯狂 忘却人性的利益社会 2017-04-04 08:23</a><br/>校霸勒索1千块没得手，就勒索一万元，否则打死你，他们绝不是拿了这一个孩子的钱，他们这是要杀一儆百，这就是黑社会的言出必行。你看强拆的，城管，穿着共产党官衣的有多少人这么做？</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815892&from=ogGitn">公开叫板习当局 薄熙来铁杆女支持者被捕 2017-04-04 07:48</a><br/>毛左的代表性人物、薄熙来的铁杆支持者王铮近日被捕。薄熙来倒台后王铮一直为薄喊冤，并叫板习近平当局。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 07:39</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
 </table>
