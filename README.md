@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816229&from=ogGitn">打女人丝毫不手软 城管围殴业主 棍棒铁锹齐上 2017-04-07 05:33</a><br/>中国城管的暴力执法，一直备受人们指责。现在，网友再度热传一段视频，显示一群城管，暴力殴打餐馆等小业主，非常凶残。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">十九大前 31省委书记江派丢7成 换届后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 05:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816224&from=ogGitn">【禁闻】作古十年污名上身 刘文彩善人变恶霸 2017-04-07 05:04</a><br/>即便今年已经年过七旬，但刘小飞仍然在持续奔走。他试图靠个人的力量来洗刷掉执政党让他爷爷背负的污名。早从1973年他就开始相关调查，考虑到洗冤可能付出的代价，他至今还是独身。</td></tr>
@@ -15,6 +16,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816217&from=ogGitn">泸州校园命案 官方通报发布会姗姗来迟 2017-04-07 03:44</a><br/>四川泸州赵姓初中生死亡事件，因民众质疑警方隐瞒案情，爆发大规模警民冲突。当地政府封路封网，抓捕民众，软禁家属，甚至阻挠中央党媒记者采访。事件发生后的第6天，当地官方终于公开对外说明，但依然继续否认死者生前遭到霸凌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816211&from=ogGitn">泸州惨案遭镇压 军车进驻 校园下封口令 2017-04-07 02:20</a><br/>四川泸州太伏镇中学生被打死事件已过去6天，官方一直未有可让人信服的结论，反而调动大批特警、军警，甚至装甲车开进城镇，封锁一切消息进行镇压，学生被下封口令。湖南衡州律师事务所廖曜中律师主动联系死者父亲愿为其提供法律帮助，却因官方干扰无法实现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816215&from=ogGitn">川普谈川习会 “没有人知道会发生什么” 2017-04-07 02:03</a><br/>川普（特朗普）总统周四（4月6日）早上说，他跟中共主席习近平的会晤“没有人知道会发生什么”。他说，围绕贸易和朝鲜最近导弹测试的问题预计将摆上桌面。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-07 01:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816225&from=ogGitn">夏林：引狼入室与无作为 2017-04-07 01:33</a><br/>最近加拿大媒体报道，加拿大自由党政府不顾加拿大国家安全机构的警告，已经撤销上届哈珀政府对中国公司收购加国军事科技公司的内阁禁令，下令重新审理总部位于香港的中国公司O-Net Communications提出收购蒙特利尔ITF Technologies科技公司的要求。这件事普遍引起加拿大社会和反对党的担忧。事件起源于2015年，总部位于香港的中国公司O...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816209&from=ogGitn">瑞士《新苏黎世报》：中国房价 2017-04-07 01:28</a><br/>《新苏黎世报》关注了中国的房地产市场及其带来的社会问题。文章介绍，中国城市房价高企，早已非普通工薪阶层所能承受。习近平去年年底就表示，“房子是用来住的，不是用来炒的”；不久前李克强也强调，要让老百姓住上能负担得起的住房。看来房价问题已经被北京领导层提上了重要议事日程。“北京意识到这一社会矛盾的危险性，北京、上海这样的大都市的房价已经完全离谱。对许多中...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816213&from=ogGitn">川习会在即 中国访民誓死要告御状 2017-04-07 00:17</a><br/>在美中两国元首即将在佛罗里达棕榈滩的海湖庄园举行会晤之际，来自美国各地的中国访民都在习近平到来之前纷纷赶到棕榈滩，为拦截习近平车队做准备。</td></tr>
@@ -41,7 +43,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816210&from=ogGitn">河北母女离奇坠楼亡 家暴下无助的孩子 2017-04-06 21:49</a><br/>4月3日，河北省石家庄市新华区某小区一对母女坠楼身亡，据传女子长期遭家暴，当日“先将女儿推下再跳下”。警方表示具体原因正在调查中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816184&from=ogGitn">四川泸州学生命案 警方与家属20分钟对话录音曝光 2017-04-06 21:30</a><br/>四川泸州初中生赵鑫死亡事件遭猛力镇压。民众爆料，官二代涉案，官方刻意包庇。目前有数百抗议民众被抓，军队装甲车进驻封锁。日前网上流传一份被软禁的家属和警方20分钟对话录音全文翻译，对了解真相有很大的参考价值。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816192&from=ogGitn">川农被打死 11年维权无果 家属报案情至省长 2017-04-06 20:52</a><br/>四川省武胜县赛马镇雀林村农民工尹才平、尹洪平十七年前被打死一案至今未给家属合理答复。堂弟尹才春和他的伯父、两位嫂嫂及父亲从十一年前维权一直到现在，仍没有结果。4月1日下午，尹才春将堂哥们的案情材料寄送给四川省省长尹力，期盼这桩十几年前的案子能有结果，但是他表示由于是中共执政，所以对此并不抱希望，只是尽自己的努力去帮助已死的哥哥们讨回公道。...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-06 20:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816183&from=ogGitn">武汉精神病患者从医院3楼出逃后“失踪” 2017-04-06 20:18</a><br/>湖北武汉天祐医院精神病科一名患者4月4日逃离医院后，至今还是“失踪”状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816179&from=ogGitn">向黄兴国泄密的中纪委内鬼 帮商人揽工程收贿 2017-04-06 20:09</a><br/>近期，吉林华运房地产开发有限公司董事长黄保国被判刑5年。其被指控向中纪委官员袁卫华行贿数百万元（人民币、下同）。此前，袁被指以“故意泄露案情”换取利益，黄兴国落马前曾找他打探案情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816180&from=ogGitn">川习会 美议员吁释放中国人权律师等人士 2017-04-06 19:51</a><br/>美国国会及行政当局中国委员会（CECC）主席鲁比奥参议员和共同主席史密斯众议员本周发起一项名为“让中国的英雄自由”计划，呼吁川习会关注包括被关押或被失踪的中国人权律师在内的人权活动人士。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815988&from=ogGitn">清明节冥纸银元宝惹祸 浙江多人铅中毒 2017-04-05 01:54</a><br/>近几天，浙江杭州市内的医院接诊多名铅中毒患者，均与冥纸、银元宝有过接触。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815990&from=ogGitn">组图：泸州学生死亡事件升级 千警封镇抓人 2017-04-05 01:51</a><br/>连续多日，四川泸州市泸县太伏镇太伏中学一学生离奇死亡事件仍然在持续，民愤不断，要求公道的呼声此起彼伏，当局调动大批警察进行镇压，四五十人被抓，现场通讯被屏蔽，整个太伏镇被封锁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815907&from=ogGitn">谢天奇：习设立雄安新区 释放对决江曾信号 2017-04-05 01:50</a><br/>习当局新设立7个自贸区与雄安新区，释放与江泽民集团在经济领域的对决信号。习当局如此大动作，向海内外释放重建经济格局的决心，不仅可以瓦解江泽民利益集团对中国经济的捆绑，防范、粉粹江派十九大前再度发动“经济政变”的企图，也可缓解因清洗江泽民集团政商圈而引发的对中国经济的震荡效应。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815987&from=ogGitn">川中学女生校外打人 狂掴小女生14巴掌 2017-04-05 01:49</a><br/>视频中，一名黑衣女生在短短35秒内狂掴一名穿绿色校服的女生14巴掌。</td></tr>
 </table>
