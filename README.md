@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 10:40</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 10:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815904&from=ogGitn">重庆丰都“花园洋房”背后：农民的血和泪 2017-04-04 07:20</a><br/>近年来，重庆丰都县仙女湖镇在大力发展房地产过程中，出现大量侵占农民利益的事件，导致当地农民怨声载道，民不聊生。村民呼吁社会各界关注，还公道于世间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815899&from=ogGitn">【中国禁闻】4月3日完整版 2017-04-04 07:20</a><br/>川普：美国会出手解决朝鲜问题；返抵悉尼 冯崇义：学术只对真理负责；泸州中学生被霸凌致死  警方掩盖真相。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815950&from=ogGitn">台湾老奶奶用上千美元的LV包装虱目鱼 2017-04-04 06:52</a><br/>孝顺是拿钱买不到的，不懂时尚的台湾老奶奶用上千美元的LV包背鱼，孝顺的孙子却没有当面指出奶奶的错误。这不是一个显阔的故事，而是充满爱心的生活经历。记住下次看到长辈不适当使用贵重物品时，先想想这个故事。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815896&from=ogGitn">港媒：中共是煽动〝独立〞和分裂中国的始作俑者 2017-04-04 06:37</a><br/>港媒文章指，中共近年来高调反对〝台独〞、〝港独〞，而事实上中共是在中国煽动〝独立〞的始作俑者，在夺取全国政权之前多次鼓动各地独立，并建立〝国中之国〞分裂民族。历史学者辛灏年更揭露，当今〝台独〞是当年中共一手培养的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815890&from=ogGitn">【禁闻】4月3日维权动态 2017-04-04 06:27</a><br/>山东退休教授孙文广清明期间被旅游；逼江天勇〝认罪〞 江父再被录视频；北京独立参选人李美青 遭暴徒殴打；河南抗强拆自杀身亡 家属遭抓捕。</td></tr>
 </table>
