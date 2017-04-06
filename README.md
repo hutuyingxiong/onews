@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:01</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 06:56</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816232&from=ogGitn">【禁闻】特首选举遭操控？廉署抓人 建制指控 2017-04-07 05:47</a><br/>根据香港媒体报导，廉政公署早前接获投诉，指有人涉嫌在去年的立法会资讯科技功能界别选举中，作出违反《选举条例》的舞弊行为，因此从上周二起廉政公署展开为期3天、代号〝雪豹〞的行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816233&from=ogGitn">【禁闻】川习会 法轮功海湖庄园外吁法办江泽民 2017-04-07 05:47</a><br/>川习会 法轮功海湖庄园外吁法办江泽民；江苏、辽宁 两名法轮功学员无罪获释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816230&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:45</a><br/>今天，您将在美国佛罗里达州的马阿拉歌渡假村跟中国国家主席习近平实现第一次历史性会见，特再给您写这封信，并通过您强烈要求习近平主席立即抓捕江泽民。</td></tr>
@@ -18,6 +20,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816220&from=ogGitn">4月6日全球看中国 2017-04-07 03:56</a><br/>华人父女被控美国投资移民项目作假 帮助中国逃犯骗取绿卡；中国学生命案令当局重维稳 官媒撞铁板；林郑周日上京接受任命 惟未上任民望已呈负数；中国环保部通报一些地方政府在重污染天气应对工作中推诿扯皮。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816219&from=ogGitn">杀子悲剧再现   安徽一母亲疑因无钱毒杀两儿女 2017-04-07 03:55</a><br/>清明节假期，安徽泗县的一名母亲亲手毒害了自己的两个孩子。网友爆料称〝还想因为没有钱花吧〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816217&from=ogGitn">泸州校园命案 官方通报发布会姗姗来迟 2017-04-07 03:44</a><br/>四川泸州赵姓初中生死亡事件，因民众质疑警方隐瞒案情，爆发大规模警民冲突。当地政府封路封网，抓捕民众，软禁家属，甚至阻挠中央党媒记者采访。事件发生后的第6天，当地官方终于公开对外说明，但依然继续否认死者生前遭到霸凌。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816234&from=ogGitn">河北太行水镇官商勾结 保安与村民爆冲突 2017-04-07 03:28</a><br/>近日，河北省保定易县恋乡．太行水镇一群青少年被该地开发商百悦集团雇用的保安打伤，其中有一个孩子头部受重伤，仍在ICU抢救，事件导致当地村民与保安发生冲突，保安亦被村民打成重伤。另外，该地200多家摊位被迫停业。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816211&from=ogGitn">泸州惨案遭镇压 军车进驻 校园下封口令 2017-04-07 02:20</a><br/>四川泸州太伏镇中学生被打死事件已过去6天，官方一直未有可让人信服的结论，反而调动大批特警、军警，甚至装甲车开进城镇，封锁一切消息进行镇压，学生被下封口令。湖南衡州律师事务所廖曜中律师主动联系死者父亲愿为其提供法律帮助，却因官方干扰无法实现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816215&from=ogGitn">川普谈川习会 “没有人知道会发生什么” 2017-04-07 02:03</a><br/>川普（特朗普）总统周四（4月6日）早上说，他跟中共主席习近平的会晤“没有人知道会发生什么”。他说，围绕贸易和朝鲜最近导弹测试的问题预计将摆上桌面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-07 01:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815994&from=ogGitn">重庆官场大震荡  孙政才辣手整治意在19大入常？ 2017-04-05 02:38</a><br/>遭批清除〝薄、王〞遗毒不彻底后，重庆官场持续震荡，公安局长亦落马。港媒分析，重庆市委书记孙政才抓紧动作，或为力搏十九大入常。此前有文章分析，孙政才打不开重庆局面，无力平反薄熙来当年〝打黑〞冤案，引起习近平不满。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816094&from=ogGitn">500访民聚集八宝山喊冤 千警戒备 2017-04-05 02:21</a><br/>大陆500多名访民藉清明节之际，到北京八宝山公墓喊冤，甚至有人高喊“打倒共产党”，却遭到中共上千名警察、保安的围追堵截及殴打。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816029&from=ogGitn">陈默：左右何以逢源 2017-04-05 02:12</a><br/>受曾建元教授邀请出席“丁酉反右60周年”国际学术研讨会，因故无法成行。又忙于世俗之事，匆匆拙笔，以补缺席之憾。“左”、“右”的概念之于我这个出生于上世纪六十年代中期的晚辈来讲，其实是模糊的。所有关于“左”“右”概念的认知，均源于少年与青年时期的教科书和中共党史的文字熏陶，盖因我辈成长期，均未有机会得益于儒释道中华传统文化作为认知的基本参照系之故。...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815992&from=ogGitn">交涉多年后 赵紫阳的骨灰终不进八宝山 2017-04-05 02:10</a><br/>中共前总书记赵紫阳去世已12年。一直未得到解决的赵骨灰入土问题终于有了答案。4月4日清明节赵紫阳的儿子赵二军表示，官方已同意，其父亲的骨灰不进八宝山，由家属自行处理安葬一事。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815991&from=ogGitn">【今日点击】王岐山誓言清洗江系外交部 2017-04-05 02:01</a><br/>王岐山誓言清洗江系外交部</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815989&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 01:58</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。一、黑社会刚改革开放的时候，我们看香港的电影和电视剧，看到黑社会打打杀杀，认为那是娱乐，是编的，没有人认为是真实的。可后来，这类案件越来越多，中国怎么会变成这样的？这个案件的黑社会表现...</td></tr>
 </table>
