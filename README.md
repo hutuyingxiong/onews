@@ -3,16 +3,17 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816184&from=ogGitn">四川泸州学生命案 警方与家属20分钟对话录音曝光 2017-04-06 21:30</a><br/>四川泸州初中生赵鑫死亡事件遭猛力镇压。民众爆料，官二代涉案，官方刻意包庇。目前有数百抗议民众被抓，军队装甲车进驻封锁。日前网上流传一份被软禁的家属和警方20分钟对话录音全文翻译，对了解真相有很大的参考价值。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-06 20:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816183&from=ogGitn">武汉精神病患者从医院3楼出逃后“失踪” 2017-04-06 20:18</a><br/>湖北武汉天祐医院精神病科一名患者4月4日逃离医院后，至今还是“失踪”状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816179&from=ogGitn">向黄兴国泄密的中纪委内鬼 帮商人揽工程收贿 2017-04-06 20:09</a><br/>近期，吉林华运房地产开发有限公司董事长黄保国被判刑5年。其被指控向中纪委官员袁卫华行贿数百万元（人民币、下同）。此前，袁被指以“故意泄露案情”换取利益，黄兴国落马前曾找他打探案情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816180&from=ogGitn">川习会 美议员吁释放中国人权律师等人士 2017-04-06 19:51</a><br/>美国国会及行政当局中国委员会（CECC）主席鲁比奥参议员和共同主席史密斯众议员本周发起一项名为“让中国的英雄自由”计划，呼吁川习会关注包括被关押或被失踪的中国人权律师在内的人权活动人士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-06 18:37</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 18:27</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816171&from=ogGitn">浙江义乌疑泄漏煤气爆炸 有伤亡 2017-04-06 18:05</a><br/>周四(4月6日)，浙江省义乌市发生煤气爆炸事故，目前已知有1人丧生，多人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背人之常情 2017-04-06 18:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816178&from=ogGitn">江西一商城发生血案3人身亡 2017-04-06 17:32</a><br/>近期，大陆多地天灾人祸频发。4月6日上午11时许，江西鹰潭月湖区发生命案，一对开布店夫妻被杀身亡，嫌犯自杀。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816186&from=ogGitn">四川再出校园惨案 15岁女生6楼卫生间坠亡 2017-04-06 17:21</a><br/>就在泸县一名14岁男生离奇坠楼事件持续发酵之际，四川省再传校园惨案，西昌市一名15岁女生近日从学校6楼卫生间坠亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816167&from=ogGitn">川校园死亡事件疑点多 中共当局封锁升级 2017-04-06 17:05</a><br/>再来关注中国的消息。四川泸州太伏镇中学生疑遭霸凌死亡事件，连日来引发群众抗议。当地民众透露，当地政府为了封锁消息，从5号到16号，泸州大规模停电，目前死者的家属被软禁，警察持续抓捕抗议民众，还传出曾有网民发起游行被抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 17:00</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
@@ -203,5 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815941&from=ogGitn">福建现“死亡公路” 5年7套房被撞垮 2017-04-04 19:54</a><br/>在福建德化赤水街通往九仙山，有一段约1200米的长缓坡，被当地人称为“死亡公路”。日前，该地段又发生民房被土方车撞塌，致两人死亡的事件。这是近5年来，该地段有7套相连的老屋被撞毁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815952&from=ogGitn">汇文：江泽民与中共的败亡路 2017-04-04 19:51</a><br/>任何妄想挽救中共的企图，到头来只是逆天意而动，不仅劳而无功，还将断送了自己的前程，天灭中共乃是上天的旨意，因为它为祸人间、迫害善良，必遭天谴。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815939&from=ogGitn">网传王石离交出万科董事长一职不远了 2017-04-04 19:44</a><br/>日前，万科被收归国有，万科董事长王石成为正厅级干部的消息在网络流传。有文章认为从目前各方透露出的信息来看，王石应该离交出董事长一职不远了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815945&from=ogGitn">河南疯汉持筷血洗病房 致3死1伤 2017-04-04 19:33</a><br/>近些年，由于欠缺管理，大陆各地精神病人引发的命案频频曝出河南省洛阳市洛宁大众医院一名男性精神病患者，于2月24日晚间，在9分钟内挣脱捆绑的绳索，手持筷子行凶，造成3人死亡，1人受伤的恶性案件。</td></tr>
 </table>
