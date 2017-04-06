@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真   雄安新区影射毛泽东的罪过 2017-04-06 16:03</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816152&from=ogGitn">一年违规使用4亿元 河南逾两千官员被查 2017-04-06 15:07</a><br/>河南省于2016年对全省2116名官员进行经济责任审计，结果显示负直接责任违规使用资金达4.26亿元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816154&from=ogGitn">22名中共贪官忏悔录  3种心态最常见 2017-04-06 15:02</a><br/>近日，中共中纪委网站公布了中共四川省农业厅原巡视员胡相全的悔过书。至此，从2015年2月末开始，已有22名中共贪官的悔过书被披露。这些贪官最常见的三种心态是侥幸、贪欲、或是不平衡心态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816155&from=ogGitn">泸县校园命案维稳升级  官媒记者叹忍无可忍 2017-04-06 14:43</a><br/>中共党媒记者到泸县采访也遭到围堵威胁，而当地的种种电话骚扰，更让党媒记者忍无可忍。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815869&from=ogGitn">〝三重大山〞挤压 雄安新区面临一大难题 2017-04-04 14:20</a><br/>愚人节当天，中共要在河北设立雄安新区的消息引起轰动效应。港媒文章指，该地区面临北京、天津和石家庄三重大山的挤压，以及阴霾的威胁，并不具备区域经济优势。相反，新区的设立不过是给炒房和地方官员腐败提供更多的空间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815937&from=ogGitn">在大陆停用手机号 支付宝等信息仍泄露无遗 2017-04-04 14:17</a><br/>大多数用户可能还不知道，在将自己手机号码办理停号后，商家会将停用的号码销号回收，二次放号给其他人用。而前卡主的支付宝等信息，仍会被泄露无遗。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815919&from=ogGitn">《追问》诸多细节泄露落马官员原型 2017-04-04 14:04</a><br/>反腐新书《追问》面世后，其中的内容和一些细节泄露了落马官员的基本信息，让外界“对号入座”，找到了贪官原型。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815912&from=ogGitn">上访无门找死人告状？清明节大批访民到八宝山诉冤 2017-04-04 13:37</a><br/>北京警方派出数千警察、保安围追堵截和殴打访民。</td></tr>
 </table>
