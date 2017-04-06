@@ -4,10 +4,10 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 10:40</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 10:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816128&from=ogGitn">周晓辉：财新传媒主编谈“习川会”传信息 2017-04-06 09:27</a><br/>4月6日至7日，习近平将在佛州与美国总统川普（特朗普）举行会晤，对于这场世界颇为关注的会面，有习阵营背景的大陆财新网于5日在重要位置，刊发了财新传媒总编辑胡舒立撰写的《举世关注首次“习特会”》一文。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 09:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 09:08</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816108&from=ogGitn">【微视频】昨日无力报母 今朝无力护雏 2017-04-06 08:44</a><br/>蜀中泸州恶官横行，鱼肉乡里。泸州县令某并捕快某，皆有子顽劣，常于学堂之上，勒索同窗之人，曰〝保护费〞。民赵某之子家贫，求宽限数日，不准。再辩，竟遭殴毙。益州刺史遣军夺其尸，自此民怨益沸腾，皆曰〝昨日无力报母，今朝无力护雏，人伦自此丧尽矣！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816117&from=ogGitn">【禁闻】四川中学生死亡 公安辟谣 民众愤怒 2017-04-06 08:43</a><br/>中国泸县中学生赵姓同学惨死案继续发酵，校方和警方事后声称，这名学生是坠楼死亡，激起家属和当地民众的愤怒。当局派出大批特警进驻，警方与抗议民众多次爆发激烈冲突，场面一度失控。</td></tr>
@@ -36,7 +36,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816091&from=ogGitn">袁斌：清明 我的六炷香 2017-04-05 23:55</a><br/>今年的清明节，祭奠过祖先亲人之后，我又给那些因为中共的极权统治而失去生命的亡魂也分别上了香。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816090&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 23:53</a><br/>这几天，大陆最火爆的，莫过于设立河北雄安新区这件事。消息一传出，全国各地的投资人、投机商、中介、个人买房者等，一窝蜂地涌向雄安新区。于是，去当地的火车票几乎卖光，当地的酒店人满为患，街道上到处停的都是外地车辆。人们以最快的速度去雄安新区，就想抢在别人的前面，以最低的价格买入房子，复制大陆房地产赚钱的模式，实现自己的发财梦想。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816098&from=ogGitn">河北安新县冻结户籍变更 居民排长队结婚 2017-04-05 23:50</a><br/>大陆官方宣布在河北设立雄安新区，继热炒楼市后，安新县又冻结户籍变更等，当地出现居民排长队结婚的现象。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816078&from=ogGitn">姜维平曝何挺落马内情：替张德江〝捂盖子〞 2017-04-05 23:42</a><br/>近日，重庆市公安局长何挺被曝已遭〝双规〞。据指，这是王歧山〝清除薄熙来和王立军余毒〞行动的一部分。媒体人披露，何是周永康得意门生，后台还有张德江。何挺领会张德江〝捂盖子〞、〝保江派〞旨意，曾力阻重庆〝打黑〞冤案平反。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816088&from=ogGitn">谢田：纽时为何走入共产主义圈套 2017-04-05 23:31</a><br/>共产主义的追随者们在前苏联篡夺政权，是1922年，但奠定这个共产国家基础的，是1917年的俄国二月和十月革命。到今天，100年过去了。共产政权百年之际，出现了许多反思共产主义对人类荼毒的文章。美国主流媒体如《纽约时报》也发表一系列有关共产主义的评论。但《纽约时报》中文版今年2月张彦的文章〈共产党是如何引导中国走向成功的？〉，却真正的让人们跌破了眼镜，感叹纽时为何如此自相情愿的走入了共产主义的圈套，发出了《人民日报》才能发出、中共大外宣计画梦寐以求的声音？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816087&from=ogGitn">陈思敏：雄安新区推出前的一件腐败大案 2017-04-05 23:27</a><br/>在雄安新区、〝雄安协议失效〞成为新闻热点后，外界这才回头关注到，在消息发布前四天被查的保定市雄县县委书记吴亚飞，或是涉及签约的官员。其实在相关问题上，吴亚飞只是小角色。有比他问题大、级别高的官员，早在去年6月已经被拿下。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816086&from=ogGitn">丁抒：〝三反〞〝五反〞下指标逼供信 2017-04-05 23:23</a><br/>镇反、土改刚结束，毛泽东又发动了一个他称之为〝如同镇压反革命斗争一样重要〞的〝三反〞运动。</td></tr>
@@ -46,7 +45,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816097&from=ogGitn">陆文：谁能改变因果律？ 2017-04-05 22:18</a><br/>金钱、权势都有一定的作用。可是在用它们摆脱这个因果的同时又掉进另一个因果的窠臼，循环往复，无有穷尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-05 22:03</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816079&from=ogGitn">四川学生被打死 连日爆发警民冲突 2017-04-05 21:58</a><br/>赵鑫被强收保护费不成，1号遭5名校霸暴力殴打致死后，当地官方通报说是坠楼死亡，校方不让家长见遗体，试图强行火化遗体。2号、3号，愤怒的民众连日包围校门口抗议。据网上传出的视频显示，现场多次爆发激烈警民冲突。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816078&from=ogGitn">姜维平曝何挺落马内情：替张德江〝捂盖子〞 2017-04-05 21:42</a><br/>近日，重庆市公安局长何挺被曝已遭〝双规〞。据指，这是王歧山〝清除薄熙来和王立军余毒〞行动的一部分。媒体人披露，何是周永康得意门生，后台还有张德江。何挺领会张德江〝捂盖子〞、〝保江派〞旨意，曾力阻重庆〝打黑〞冤案平反。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  官方谎言败露（慎入） 2017-04-05 21:27</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816133&from=ogGitn">韩媒：对金正恩斩首行动 美韩推“三匕首” 2017-04-05 21:09</a><br/>韩媒今日报导，韩国和美国正在大力推动在朝鲜半岛有事时以无人机（UAV）、特种部队、匿踪战机等“三匕首”在最短时间内铲除朝鲜领导阶层的“斩首行动”方案。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816082&from=ogGitn">太爱玩手机 山东14岁少女颈椎老化如50岁 2017-04-05 20:52</a><br/>山东省青岛市14岁少女小婷，每天玩手机约5、6个小时，近日，她出现头晕、颈部酸痛等症状，其去医院检查后发现，其颈椎老化如50岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816067&from=ogGitn">南京男子残忍杀死前妻父母 2017-04-05 20:28</a><br/>4月4日凌晨，南京市栖霞区靖安街道发生一起恶性杀人案件，一男子持刀杀死前岳父岳母后逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816084&from=ogGitn">韩国汽车在大陆销量下降 2017-04-05 20:27</a><br/>韩国现代和起亚两家汽车制造商日前表示，3月份在大陆的销量大幅下滑。有分析师认为两家公司可能不得不减产以应对。这是大陆民众反韩情绪的又一个受害者。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815891&from=ogGitn">“辱母杀人案”背后 中共基层黑社会化 2017-04-04 07:39</a><br/>山东“辱母杀人案”持续发酵。近日，该案中被判无期的于欢之父曝光催债团伙背后的官方保护伞，中共基层政权黑社会化，再为外界关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815904&from=ogGitn">重庆丰都“花园洋房”背后：农民的血和泪 2017-04-04 07:20</a><br/>近年来，重庆丰都县仙女湖镇在大力发展房地产过程中，出现大量侵占农民利益的事件，导致当地农民怨声载道，民不聊生。村民呼吁社会各界关注，还公道于世间。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815899&from=ogGitn">【中国禁闻】4月3日完整版 2017-04-04 07:20</a><br/>川普：美国会出手解决朝鲜问题；返抵悉尼 冯崇义：学术只对真理负责；泸州中学生被霸凌致死  警方掩盖真相。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815950&from=ogGitn">台湾老奶奶用上千美元的LV包装虱目鱼 2017-04-04 06:52</a><br/>孝顺是拿钱买不到的，不懂时尚的台湾老奶奶用上千美元的LV包背鱼，孝顺的孙子却没有当面指出奶奶的错误。这不是一个显阔的故事，而是充满爱心的生活经历。记住下次看到长辈不适当使用贵重物品时，先想想这个故事。</td></tr>
 </table>
