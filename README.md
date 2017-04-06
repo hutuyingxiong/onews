@@ -2,12 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816184&from=ogGitn">四川泸州学生命案 警方与家属20分钟对话录音曝光 2017-04-06 21:30</a><br/>四川泸州初中生赵鑫死亡事件遭猛力镇压。民众爆料，官二代涉案，官方刻意包庇。目前有数百抗议民众被抓，军队装甲车进驻封锁。日前网上流传一份被软禁的家属和警方20分钟对话录音全文翻译，对了解真相有很大的参考价值。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816183&from=ogGitn">武汉精神病患者从医院3楼出逃后“失踪” 2017-04-06 20:18</a><br/>湖北武汉天祐医院精神病科一名患者4月4日逃离医院后，至今还是“失踪”状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816179&from=ogGitn">向黄兴国泄密的中纪委内鬼 帮商人揽工程收贿 2017-04-06 20:09</a><br/>近期，吉林华运房地产开发有限公司董事长黄保国被判刑5年。其被指控向中纪委官员袁卫华行贿数百万元（人民币、下同）。此前，袁被指以“故意泄露案情”换取利益，黄兴国落马前曾找他打探案情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816180&from=ogGitn">川习会 美议员吁释放中国人权律师等人士 2017-04-06 19:51</a><br/>美国国会及行政当局中国委员会（CECC）主席鲁比奥参议员和共同主席史密斯众议员本周发起一项名为“让中国的英雄自由”计划，呼吁川习会关注包括被关押或被失踪的中国人权律师在内的人权活动人士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-06 18:37</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 18:27</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 18:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816171&from=ogGitn">浙江义乌疑泄漏煤气爆炸 有伤亡 2017-04-06 18:05</a><br/>周四(4月6日)，浙江省义乌市发生煤气爆炸事故，目前已知有1人丧生，多人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背人之常情 2017-04-06 18:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
@@ -17,6 +18,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 17:00</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816170&from=ogGitn">河北再有公安系统高官落马 徐大志被审查 2017-04-06 16:25</a><br/>4月6日，中共河北唐山市曹妃甸区公安局党委委员、临港治安分局局长徐大志（副处级）涉嫌“严重违纪”，目前正接受审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816185&from=ogGitn">陈思敏：铁岭官场震荡 近逼辽宁两“老领导” 2017-04-06 16:17</a><br/>至于陈政高“虽生犹死”，除了昔日班底亲信纷纷落马，尤其今年伊始以来，他自己也被翻旧账经济数据造假，还有他主政沈阳国企改制的既得利益者辉山乳业，同样爆发做假账而深陷债务危机。如此的陈政高处境堪称高危，也危及了辽宁帮的总后台李长春。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816177&from=ogGitn">川习会在即 中国访民誓死要拦车鸣冤 2017-04-06 15:46</a><br/>在美中两国元首即将在佛罗里达棕榈滩的海湖庄园举行会晤之际，来自美国各地的中国访民都在习近平到来之前纷纷赶到棕榈滩，为拦截习近平车队做准备。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816166&from=ogGitn">武汉一条狗引发血案 狗主人被刺死 2017-04-06 15:34</a><br/>湖北武汉人杨建平因摸了一下宠物狗，狗主人彭某某邀约另2人持洋镐上门报复，被杨建平、杨建伟兄弟二人刺死。是否属防卫是控辩双方辩论的焦点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-06 15:28</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
@@ -202,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815952&from=ogGitn">汇文：江泽民与中共的败亡路 2017-04-04 19:51</a><br/>任何妄想挽救中共的企图，到头来只是逆天意而动，不仅劳而无功，还将断送了自己的前程，天灭中共乃是上天的旨意，因为它为祸人间、迫害善良，必遭天谴。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815939&from=ogGitn">网传王石离交出万科董事长一职不远了 2017-04-04 19:44</a><br/>日前，万科被收归国有，万科董事长王石成为正厅级干部的消息在网络流传。有文章认为从目前各方透露出的信息来看，王石应该离交出董事长一职不远了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815945&from=ogGitn">河南疯汉持筷血洗病房 致3死1伤 2017-04-04 19:33</a><br/>近些年，由于欠缺管理，大陆各地精神病人引发的命案频频曝出河南省洛阳市洛宁大众医院一名男性精神病患者，于2月24日晚间，在9分钟内挣脱捆绑的绳索，手持筷子行凶，造成3人死亡，1人受伤的恶性案件。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815930&from=ogGitn">四川泸州中学生被害激发万民抗暴 知情者曝内幕 
-										
-											?组图 2017-04-04 19:05</a><br/>四川泸州中学生赵鑫被校霸打死事件，事态恶化，舆论持续升温。有知情者曝光内幕，指官方公开否认孩子被打死的真相，激发民愤，上万民众向政府讨说法，官方调集数千名特警现场镇压，并抓捕反抗民众。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 19:01</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
 </table>
