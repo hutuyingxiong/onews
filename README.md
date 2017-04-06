@@ -56,6 +56,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816104&from=ogGitn">台媒：川普叫阵金正恩 平壤赏中共一耳光 2017-04-06 04:02</a><br/>川普放言要〝单独解决朝鲜〞，朝鲜马上试射导弹。台媒称朝鲜赏中共一计耳光。专家分析，美国不具备单独军事打击朝鲜的条件，川普意在敦促中共出手。而支持朝鲜核武的中共江派下台后，中朝日行渐远，但分析称中共并不希望金正恩倒台。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816101&from=ogGitn">出席川习会的川普高参 曾遭中共国安殴打 2017-04-06 03:58</a><br/>4月6、7日全球都将聚焦川习会，届时美中双方都会带上重要团队。对于川普（特朗普）来说，自然少不了带上其亚洲政策高参、前驻华记者博明（Matt Pottinger）。《纽约时报》称，川普的这位高参曾在中国被中共国安殴打。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816157&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-06 02:55</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816176&from=ogGitn">毛泽东的八句话骗了中国十多亿人 2017-04-06 02:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-06 02:45</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816110&from=ogGitn">27岁鼻炎患者术后坠亡 家属起诉医院与百度 2017-04-06 02:31</a><br/>继“魏则西事件”、尿毒症等患者受骗后，27岁的鼻炎患者张瑞再次因百度搜索“乌鲁木齐鼻炎医院”，找到排名第一的“乌鲁木齐爱德华医院”就医，但术后出现情绪控制能力弱，脑皮层呈抑制、疲劳状态，心理障碍、伴精神病等症状。半个月后，张瑞跳楼自杀身亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816103&from=ogGitn">A股雄安概念集体涨停 相关企业发通告澄清 2017-04-06 02:07</a><br/>4月5日是官方宣布设立雄安新区后A股的首个交易日，沪深两市大涨，雄安概念集体涨停。近日，相关企业纷纷发通告澄清。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815928&from=ogGitn">孙儿买LV包尽孝  祖母用来装鲜鱼  并称〝不漏水〞只是〝重了点〞 2017-04-04 18:01</a><br/>一位台湾网友说，特别买了一款名贵的LV包送给祖母，没想到祖母装日用杂货，包括鲜鱼。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816020&from=ogGitn">【谈股论金】Tesla市值超越福特的启示 2017-04-04 17:40</a><br/>特斯拉的市值与福特汽车形成黄金交叉颇具有历史意义，首先，前者成立于2003年，而后者成立于1903年，二者相差100年，这象征着汽车产业正在进行百年的世代交替。特斯拉首季出货2.5万台，而福特在美国就销售61.7万台，也象征电动车仍在萌芽的初期，未来仍有很大的增长空间。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815929&from=ogGitn">清明节 大陆访民八宝山诉冤被抓 2017-04-04 17:05</a><br/>4月4号清明节，数百名访民前往埋葬中共高官的北京八宝山万安公墓，以扫墓的形式抗议冤情长期得不到解决。</td></tr>
 </table>
