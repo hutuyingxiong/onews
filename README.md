@@ -2,6 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816189&from=ogGitn">觅真：清明泪 2017-04-06 23:11</a><br/>清明节前两天，我见到了已四年多未见面的陈运川的大女儿陈淑兰女士，她是一家六口唯一的幸存者。如今她的腰部在迫害中已经造成残疾，不能干活，靠她的小女儿照顾。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816188&from=ogGitn">陆文：浅析无神论 2017-04-06 23:08</a><br/>我从小就受无神论的影响，学的是无神论的课本，听的是无神论的宣传，在社会中接触的都是无神论的东西。对佛、道、神一无所知。所以从小就认为世界上没有神。对一些拜神、信神的人认为是迷信。把一些中华民族的传统文化也认为是迷信。可是神是客观存在的，只是你没有能力看见他。通过学习法轮大法，渐渐的改变了观念，世界观发生了根本性的转变。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816190&from=ogGitn">大陆反腐剧民意调查 结果释强烈信号 2017-04-06 23:01</a><br/>近日大陆反腐电视连续剧《人民的名义》，引社会各界的关注。大陆媒体形容为史上尺度最大的反腐剧，就此进行了一番民意调查“你觉得电视剧《人民的名义》中尺度最大的情节是什么？”大陆网路作家认为，问卷调查结果透露强烈信号，中共已经人民抛弃，根本就是崩溃前兆。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816187&from=ogGitn">陈思敏：铁岭官场震荡 近逼辽宁两〝老领导〞 2017-04-06 23:01</a><br/>4月5日，辽宁铁岭有两名官员同日落马，他们是市宣传部长王志勇，以及原副市长郭治鑫。至此，铁岭官场近一个月来已经〝三震〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816184&from=ogGitn">四川泸州学生命案 警方与家属20分钟对话录音曝光 2017-04-06 21:30</a><br/>四川泸州初中生赵鑫死亡事件遭猛力镇压。民众爆料，官二代涉案，官方刻意包庇。目前有数百抗议民众被抓，军队装甲车进驻封锁。日前网上流传一份被软禁的家属和警方20分钟对话录音全文翻译，对了解真相有很大的参考价值。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-06 20:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816183&from=ogGitn">武汉精神病患者从医院3楼出逃后“失踪” 2017-04-06 20:18</a><br/>湖北武汉天祐医院精神病科一名患者4月4日逃离医院后，至今还是“失踪”状态。</td></tr>
@@ -200,8 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815957&from=ogGitn">在京访民举牌呼吁释放无故被刑拘的维权人士 2017-04-04 20:14</a><br/>江苏维权人士吴继新在失联半个月后，家属接获通知，吴继新被以“寻衅滋事罪”刑事拘留在北京丰台看守所，3月30日下午，来自全国的部分访民，在北京为遭受失去自由的吴继新举牌呼吁，希望他早日无罪释放。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815944&from=ogGitn">清明节期间 大陆多地发生爆炸山火地震 2017-04-04 20:08</a><br/>清明节期间，大陆多地灾祸乱像频现。4月3日，大连市甘井子区一高层住宅发生燃气爆炸事故，一名女子从25楼被炸飞坠地身亡；同日，山西有4人在一场山火中死亡。此外，内蒙古及云南昭通还分别发生地震。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816008&from=ogGitn">中共资本管控 大陆公司转向境外融资 2017-04-04 20:05</a><br/>因中共实施严格的资金管控，造成大陆企业海外并购困难，中资公司转向海外融资。最新的数据显示，今年第一季度，中资公司到海外发行债券的数额几乎是去年同期的五倍。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815948&from=ogGitn">清明扫墓多地引山火 山西湖南7人身亡 2017-04-04 20:03</a><br/>清明时节，民众上山扫墓祭祖，接连引发山火。山西、湖南共造成7人死亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815941&from=ogGitn">福建现“死亡公路” 5年7套房被撞垮 2017-04-04 19:54</a><br/>在福建德化赤水街通往九仙山，有一段约1200米的长缓坡，被当地人称为“死亡公路”。日前，该地段又发生民房被土方车撞塌，致两人死亡的事件。这是近5年来，该地段有7套相连的老屋被撞毁。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815952&from=ogGitn">汇文：江泽民与中共的败亡路 2017-04-04 19:51</a><br/>任何妄想挽救中共的企图，到头来只是逆天意而动，不仅劳而无功，还将断送了自己的前程，天灭中共乃是上天的旨意，因为它为祸人间、迫害善良，必遭天谴。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815939&from=ogGitn">网传王石离交出万科董事长一职不远了 2017-04-04 19:44</a><br/>日前，万科被收归国有，万科董事长王石成为正厅级干部的消息在网络流传。有文章认为从目前各方透露出的信息来看，王石应该离交出董事长一职不远了。</td></tr>
 </table>
