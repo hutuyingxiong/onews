@@ -2,16 +2,19 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816179&from=ogGitn">向黄兴国泄密的中纪委内鬼 帮商人揽工程收贿 2017-04-06 20:09</a><br/>近期，吉林华运房地产开发有限公司董事长黄保国被判刑5年。其被指控向中纪委官员袁卫华行贿数百万元（人民币、下同）。此前，袁被指以“故意泄露案情”换取利益，黄兴国落马前曾找他打探案情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-06 18:37</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816171&from=ogGitn">浙江义乌疑泄漏煤气爆炸 有伤亡 2017-04-06 18:05</a><br/>周四(4月6日)，浙江省义乌市发生煤气爆炸事故，目前已知有1人丧生，多人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背人之常情 2017-04-06 18:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816178&from=ogGitn">江西一商城发生血案3人身亡 2017-04-06 17:32</a><br/>近期，大陆多地天灾人祸频发。4月6日上午11时许，江西鹰潭月湖区发生命案，一对开布店夫妻被杀身亡，嫌犯自杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816167&from=ogGitn">川校园死亡事件疑点多 中共当局封锁升级 2017-04-06 17:05</a><br/>再来关注中国的消息。四川泸州太伏镇中学生疑遭霸凌死亡事件，连日来引发群众抗议。当地民众透露，当地政府为了封锁消息，从5号到16号，泸州大规模停电，目前死者的家属被软禁，警察持续抓捕抗议民众，还传出曾有网民发起游行被抓捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 17:00</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816170&from=ogGitn">河北再有公安系统高官落马 徐大志被审查 2017-04-06 16:25</a><br/>4月6日，中共河北唐山市曹妃甸区公安局党委委员、临港治安分局局长徐大志（副处级）涉嫌“严重违纪”，目前正接受审查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816177&from=ogGitn">川习会在即 中国访民誓死要拦车鸣冤 2017-04-06 15:46</a><br/>在美中两国元首即将在佛罗里达棕榈滩的海湖庄园举行会晤之际，来自美国各地的中国访民都在习近平到来之前纷纷赶到棕榈滩，为拦截习近平车队做准备。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816166&from=ogGitn">武汉一条狗引发血案 狗主人被刺死 2017-04-06 15:34</a><br/>湖北武汉人杨建平因摸了一下宠物狗，狗主人彭某某邀约另2人持洋镐上门报复，被杨建平、杨建伟兄弟二人刺死。是否属防卫是控辩双方辩论的焦点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816152&from=ogGitn">一年违规使用4亿元 河南逾两千官员被查 2017-04-06 15:07</a><br/>河南省于2016年对全省2116名官员进行经济责任审计，结果显示负直接责任违规使用资金达4.26亿元（人民币，下同）。</td></tr>
@@ -203,7 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815934&from=ogGitn">习近平改革试验田？〝新陪都〞雄安面临3使命 2017-04-04 19:01</a><br/>中共突然宣布在河北设立雄安新区，引发各界猜测。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815935&from=ogGitn">极致疯狂：令人瞠目的雄安抢房记 2017-04-04 18:55</a><br/>4月1日愚人节，北京当局宣布设立〝雄安新区〞，一时间人们蜂拥而至，疯狂的抢购房产。香港某记者亲赴雄县，目睹了极致疯狂的雄安抢房一幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815942&from=ogGitn">郭文贵再曝李友换肝细节 骇人消息震惊网民 2017-04-04 18:50</a><br/>近日，大陆神秘富商郭文贵在推特上披露北大方正集团前CEO李友将进行第三次换肝手术的细节，并强调这是活摘器官血淋淋的佐证。网民对此表示震惊，直指这是“天理难容”“人神共诛”的罪恶。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815938&from=ogGitn">陈思敏：“雄安囤地王”起家过程涉人大高官 2017-04-04 18:26</a><br/>华夏幸福在收割的同时，自然也要为背后的利益集团服务。在北京，华夏幸福连包括万科在内的多家央企都可以“逼退”，其背后利益攸关方涉及的政治后台，除了起家的地方官员，想必还有更高级别的“关键少数”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815928&from=ogGitn">孙儿买LV包尽孝  祖母用来装鲜鱼  并称〝不漏水〞只是〝重了点〞 2017-04-04 18:01</a><br/>一位台湾网友说，特别买了一款名贵的LV包送给祖母，没想到祖母装日用杂货，包括鲜鱼。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816020&from=ogGitn">【谈股论金】Tesla市值超越福特的启示 2017-04-04 17:40</a><br/>特斯拉的市值与福特汽车形成黄金交叉颇具有历史意义，首先，前者成立于2003年，而后者成立于1903年，二者相差100年，这象征着汽车产业正在进行百年的世代交替。特斯拉首季出货2.5万台，而福特在美国就销售61.7万台，也象征电动车仍在萌芽的初期，未来仍有很大的增长空间。</td></tr>
 </table>
