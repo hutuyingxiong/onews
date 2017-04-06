@@ -6,13 +6,14 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816154&from=ogGitn">22名中共贪官忏悔录  3种心态最常见 2017-04-06 15:02</a><br/>近日，中共中纪委网站公布了中共四川省农业厅原巡视员胡相全的悔过书。至此，从2015年2月末开始，已有22名中共贪官的悔过书被披露。这些贪官最常见的三种心态是侥幸、贪欲、或是不平衡心态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816155&from=ogGitn">泸县校园命案维稳升级  官媒记者叹忍无可忍 2017-04-06 14:43</a><br/>中共党媒记者到泸县采访也遭到围堵威胁，而当地的种种电话骚扰，更让党媒记者忍无可忍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816153&from=ogGitn">郭利申诉案将于近日宣判 毒奶粉再受关注 2017-04-06 14:42</a><br/>中国毒奶粉受害患儿家长郭利8年前，被广东潮州法院以“敲诈勒索罪”判刑。郭利出狱后，向广东省高院提出申诉。广东高院将于7日对该案做出判决。2008年发生的震惊中外的“三鹿毒奶粉事件”再受关注。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816151&from=ogGitn">郭文贵称不会出现在川习会的海湖庄园 2017-04-06 14:39</a><br/>中美两国元首4月6日在海湖庄园的首次会晤备受关注。川习会将在佛罗里达州海滨渡假村马阿拉歌庄园（Mar-a-Lago）举行。作为该度假村会员的郭文贵是否会在川习会期间出现在庄园成为受关注的问题之一。郭文贵表示，他不会。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816150&from=ogGitn">北京朝阳群众App正式上架　网民：新时代锦衣卫 2017-04-06 14:35</a><br/>北京警方推出〝朝阳群众App〞，蛊惑和利诱民众〝举报你附近的人〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816149&from=ogGitn">学生命案未平息 泸县又爆杀人事件 2017-04-06 14:28</a><br/>四川泸县14岁中学生赵鑫惨死案仍在发酵之际，泸县兴隆山又传出暴力杀人事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816147&from=ogGitn">港媒：清明节〝冥婚〞大陆人18万买女尸 2017-04-06 13:43</a><br/>有家属愿出高价购买女尸，人贩子有利可图，他们甚至通过谋杀来获得尸体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816146&from=ogGitn">四川民办教师维权向外媒求助 遭警察威胁 2017-04-06 13:35</a><br/>四川资阳市近百名民代幼教师曾于3月中共俩会期间，到各级政府维权抗议，要求解决社会保障等问题。近日，遭到中共威胁，要求他们通过内部途径解决，如再接受外媒采访就会被抓。但教师们认为，十多年来止访始终无果，他们已不相信逐级反映能解决问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816151&from=ogGitn">郭文贵称不会出现在川习会的庄园 2017-04-06 12:56</a><br/>中美两国元首4月6日在海湖庄园的首次会晤备受关注。川习会将在佛罗里达州海滨渡假村马阿拉歌庄园（Mar-a-Lago）举行。作为该度假村会员的郭文贵是否会在川习会期间出现在庄园成为受关注的问题之一。郭文贵表示，他不会。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 12:48</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816135&from=ogGitn">重庆公安局长何挺与周永康勾结内幕 2017-04-06 12:43</a><br/>中共重庆副市长、公安局长何挺落马的消息在网络纷传。前资深媒体人姜维平发文透露何挺已被“双规”的内幕，何被指控贪污受贿及包庇薄王时期的涉嫌犯罪的警察。文章预示，重庆将有大变局，现在只是刚开始的序幕。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816140&from=ogGitn">一集电视剧5亿人看？ 大陆网络点击量9成造假 2017-04-06 11:19</a><br/>大陆电视剧片方出钱刷点击量，已是业界公开的秘密。有业内人士披露，电视剧网络点击量9成涉嫌造假。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 10:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815924&from=ogGitn">湖南发生车祸 12死19伤 或因货车违规载人 2017-04-04 12:21</a><br/>4月3日17时50分许，湖南郴州市苏仙区发生一起重大交通事故，已造成12人死亡，19人受伤，现场惨烈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815916&from=ogGitn">李友将第三次换肝 郭文贵发布信息公告 2017-04-04 12:15</a><br/>4月3日，大陆神秘富商郭文贵在推特上发布北大方正集团前CEO李友第三次换肝的关键文件，进一步佐证中共“活摘器官”罪行，他表示由于有关信息涉及有关敏感人员们，因此只公布一部分，一切都是刚刚开始。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815932&from=ogGitn">周晓辉：曾庆红被警告“放弃幻想”的话外音 2017-04-04 11:41</a><br/>据香港《争鸣》杂志2017年4月号披露，在中共“两会”结束不久后的3月18日，中纪委和中央书记处再次约谈了前中共国家副主席、政治局常委曾庆红和其弟弟、前文化部特别巡视员、文化部驻香港特区特派员曾庆淮。报导称，这是自2015年1月7日以来，当局对他们进行的第三次约谈，而且“情况已经发生变化”。二人被明确告知问题“很严重”，要放弃“不切实际的幻想”，自觉配合调查...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815908&from=ogGitn">惨！湖南绿化施工车侧翻  致12死19伤（组图） 2017-04-04 11:27</a><br/>湖南郴州市日前发生一起严重交通意外，一辆载有多名工人的道路绿化施工车，在植树后回程途中突然侧翻，当场造成至少12人死亡，19人受伤。</td></tr>
 </table>
