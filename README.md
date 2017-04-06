@@ -2,8 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816150&from=ogGitn">北京朝阳群众App正式上架　网民：新时代锦衣卫 2017-04-06 14:35</a><br/>北京警方推出〝朝阳群众App〞，蛊惑和利诱民众〝举报你附近的人〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816149&from=ogGitn">学生命案未平息 泸县又爆杀人事件 2017-04-06 14:28</a><br/>四川泸县14岁中学生赵鑫惨死案仍在发酵之际，泸县兴隆山又传出暴力杀人事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816147&from=ogGitn">港媒：清明节〝冥婚〞大陆人18万买女尸 2017-04-06 13:43</a><br/>有家属愿出高价购买女尸，人贩子有利可图，他们甚至通过谋杀来获得尸体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816146&from=ogGitn">四川民办教师维权向外媒求助 遭警察威胁 2017-04-06 13:35</a><br/>四川资阳市近百名民代幼教师曾于3月中共俩会期间，到各级政府维权抗议，要求解决社会保障等问题。近日，遭到中共威胁，要求他们通过内部途径解决，如再接受外媒采访就会被抓。但教师们认为，十多年来止访始终无果，他们已不相信逐级反映能解决问题。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816151&from=ogGitn">郭文贵称不会出现在川习会的庄园 2017-04-06 12:56</a><br/>中美两国元首4月6日在海湖庄园的首次会晤备受关注。川习会将在佛罗里达州海滨渡假村马阿拉歌庄园（Mar-a-Lago）举行。作为该度假村会员的郭文贵是否会在川习会期间出现在庄园成为受关注的问题之一。郭文贵表示，他不会。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 12:48</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816135&from=ogGitn">重庆公安局长何挺与周永康勾结内幕 2017-04-06 12:43</a><br/>中共重庆副市长、公安局长何挺落马的消息在网络纷传。前资深媒体人姜维平发文透露何挺已被“双规”的内幕，何被指控贪污受贿及包庇薄王时期的涉嫌犯罪的警察。文章预示，重庆将有大变局，现在只是刚开始的序幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
@@ -20,6 +23,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816119&from=ogGitn">姜维平：重庆何挺被“双规”，终于没能挺太久 2017-04-06 07:01</a><br/>重庆消息人士说，2017年3月31日，重庆市公安局长何挺，已经被中纪委专案组“双规”，估计官媒会在近期公布消息，指控他的主要罪名是贪污受贿和包庇薄王时期徇私枉法的涉嫌犯罪的警察，据称，这是落实中纪委书记王歧山提出的“重庆清除薄熙来和王立军余毒”，和抓捕“薄王余党”行动的一部分。何挺是周永康的嫡系，也是多年来力阻重庆平反冤假错案，造成中国民企老板“移民潮”继续...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816113&from=ogGitn">4月5日维权动态 2017-04-06 06:30</a><br/>江苏宝应公路站职工拉横幅 讨血汗钱；武汉两访民被打致骨折 疑上访遭报复；大连访民盛兰福被送精神病院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816112&from=ogGitn">【禁闻】4月5日退党精选 2017-04-06 06:29</a><br/>化名〝重生〞的大陆民众发表了近300字的退党声明，声明退出一切组织，为澄清玉宇尽绵薄之力。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816148&from=ogGitn">阴霾再袭京津冀 14城发布重污染橙色预警 2017-04-06 06:18</a><br/>近日，大陆京津冀等地区再遭重污染袭击， 14城发布橙色预警，5城发布黄色预警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816122&from=ogGitn">川普等政治素人将如何应付一群共产党官僚 2017-04-06 06:05</a><br/>这边厢，川普（特朗普）发誓“要让美国再次伟大”，那边厢，习近平在推动“中国梦”。他们两人将于周四（4月6日）在佛州棕榈滩首次会晤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816111&from=ogGitn">【禁闻】传泸州中学生死亡事件 涉官二代 2017-04-06 05:48</a><br/>川习会前 朝鲜再射导弹；传泸州中学生死亡事件 涉官二代；清明节 大陆三个墓地为禁区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816114&from=ogGitn">【热点透视】中国第一贪不抓 反腐难成功 2017-04-06 05:25</a><br/>贪官越抓越多，贪腐金额越来越大，因此当局称“反腐永远在路上”。许多官员在高压态势下仍然前赴后继地贪腐，“十八大后仍不收敛、不收手”，主要的原因何在？</td></tr>
@@ -204,8 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815905&from=ogGitn">中共逼迁阻挠租房 倪玉兰将流落街头 2017-04-04 11:05</a><br/>北京当局对维权人士的打压日益严重。北京维权人士、残疾人倪玉兰租房合约到期后，新签署的租屋合同在公安的干预下被毁约，但交付的近两万元预付房租却被拒绝退回。目前，倪玉兰和丈夫进退两难，面临无家可归、流浪街头的境地。这是倪玉兰自2013年出狱后，第七次遭到逼迁。她表示，如果遭到驱赶，她将露宿街头。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815900&from=ogGitn">肃清薄王余毒？〝薄粉〞王铮被正式批捕 2017-04-04 10:48</a><br/>消息称，〝薄粉〞王铮已被中国相关部门正式批捕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815886&from=ogGitn">雄县人卖房飙涨每平米约3万元 各方热议 2017-04-04 10:38</a><br/>对现在的河北雄县居民来说，大有〝一觉醒来、天堂地狱〞的感受。当地人调侃〝一觉醒来，发现自己成了特区人，然后又发现自己少赚了至少一百万。〞</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815903&from=ogGitn">每日三退声明精选（2017/04/03） 2017-04-04 10:32</a><br/>共产党反天、反地、反人类，战天斗地残民于惩，用进化论、无神论和阶级斗争摧毁人类最基本的道德体系和对善恶的评判标准，人与人之间关系冷漠，互相猜忌，都是共产党长期洗脑的结果，更悲哀的是中国人失去做人的意义和对神佛的敬仰，我们看清楚这个恶党的本质，以自己曾经为该组织一员而耻，从这一刻起远离邪恶，抹去兽记，选择光明的未来。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815909&from=ogGitn">川普警告对朝鲜动手 预示将与习有大交易？ 2017-04-04 09:31</a><br/>川普（特朗普）2日警告说，美国已准备好对朝鲜单方面采取行动，引发外界广泛猜测，认为川普可能寻求政策的重大转变，这可能促成他与习近平进行一笔大交易，或者对朝鲜发起先发制人的军事行动。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815898&from=ogGitn">中共落马官员哪些被通报“有私生子”？ 2017-04-04 08:54</a><br/>在中共官方通报的省部级落马官员中，几乎人人都有“与他人通奸”的行为，因此中共被民间讽刺为“通奸党”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 08:40</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
 </table>
