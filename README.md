@@ -2,10 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816147&from=ogGitn">港媒：清明节〝冥婚〞大陆人18万买女尸 2017-04-06 13:43</a><br/>有家属愿出高价购买女尸，人贩子有利可图，他们甚至通过谋杀来获得尸体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816146&from=ogGitn">四川民办教师维权向外媒求助 遭警察威胁 2017-04-06 13:35</a><br/>四川资阳市近百名民代幼教师曾于3月中共俩会期间，到各级政府维权抗议，要求解决社会保障等问题。近日，遭到中共威胁，要求他们通过内部途径解决，如再接受外媒采访就会被抓。但教师们认为，十多年来止访始终无果，他们已不相信逐级反映能解决问题。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 12:48</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816135&from=ogGitn">重庆公安局长何挺与周永康勾结内幕 2017-04-06 12:43</a><br/>中共重庆副市长、公安局长何挺落马的消息在网络纷传。前资深媒体人姜维平发文透露何挺已被“双规”的内幕，何被指控贪污受贿及包庇薄王时期的涉嫌犯罪的警察。文章预示，重庆将有大变局，现在只是刚开始的序幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 10:40</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 10:17</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815909&from=ogGitn">川普警告对朝鲜动手 预示将与习有大交易？ 2017-04-04 09:31</a><br/>川普（特朗普）2日警告说，美国已准备好对朝鲜单方面采取行动，引发外界广泛猜测，认为川普可能寻求政策的重大转变，这可能促成他与习近平进行一笔大交易，或者对朝鲜发起先发制人的军事行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815898&from=ogGitn">中共落马官员哪些被通报“有私生子”？ 2017-04-04 08:54</a><br/>在中共官方通报的省部级落马官员中，几乎人人都有“与他人通奸”的行为，因此中共被民间讽刺为“通奸党”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815879&from=ogGitn">【禁闻】返抵悉尼 冯崇义：学术只对真理负责 2017-04-04 08:40</a><br/>父女相拥，面带微笑，4月2号，前中共外交官陈用林在推特上发表了这张照片，显示一度被中共当局限制出境的悉尼科技大学华裔副教授冯崇义，已经和女儿冯云思在悉尼的家中团聚。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815901&from=ogGitn">【禁闻】泸州中学生被霸凌致死  警方掩盖真相 2017-04-04 08:37</a><br/>中国日前再发生校园霸凌事件，一名14岁的中学生因为没有交一万元保护费，怀疑在学校被校霸活生生打死。校方与当地警方随后公布说，这个学生是跳楼摔死，引发当地民众愤怒。死者的母亲当街哭诉，要求当局给出真相。</td></tr>
 </table>
