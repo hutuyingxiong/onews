@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816241&from=ogGitn">【禁闻】4月6日维权动态 2017-04-07 07:09</a><br/>习仲勋陵园成上访村 访民扫墓被抓；四川民师接受外媒采访 遭当局威胁。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816240&from=ogGitn">【禁闻】4月6日退党精选 2017-04-07 07:08</a><br/>广西民众说，为了拿驾照被迫宣誓入党，而其他被动入队和入团的民众也宣布退出中共组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:01</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 06:56</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816237&from=ogGitn">川习会前 美国会要员促川普向习提人权 2017-04-07 06:41</a><br/>6日，川习会登场前夕，美国众议院少数党领袖佩洛西和共和党重量级众议员史密斯，都敦促川普（特朗普）总统向习近平提起中国人权问题，以此支持那些因宗教和政治信仰而遭到迫害的人们。</td></tr>
@@ -11,6 +13,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816229&from=ogGitn">打女人丝毫不手软 城管围殴业主 棍棒铁锹齐上 2017-04-07 05:33</a><br/>中国城管的暴力执法，一直备受人们指责。现在，网友再度热传一段视频，显示一群城管，暴力殴打餐馆等小业主，非常凶残。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">31省委书记 江派被淘汰7成 十九大后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 05:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816239&from=ogGitn">中企抄袭韩广告创意遭奚落  网友：丢脸 2017-04-07 05:11</a><br/>中国大陆的偶像组合为一家服饰品牌拍摄的广告，被韩国网友发现疑似有抄袭嫌疑，引起网友的热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816224&from=ogGitn">【禁闻】作古十年污名上身 刘文彩善人变恶霸 2017-04-07 05:04</a><br/>即便今年已经年过七旬，但刘小飞仍然在持续奔走。他试图靠个人的力量来洗刷掉执政党让他爷爷背负的污名。早从1973年他就开始相关调查，考虑到洗冤可能付出的代价，他至今还是独身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816231&from=ogGitn">美国务院谈川习会：朝核问题〝绝对优先〞 2017-04-07 05:03</a><br/>举世关注的川习会已在佛罗里达州棕榈湾豪华的马阿拉歌庄园拉开帷幕。朝鲜问题和中美贸易是外界持续关注的焦点。而美官员称朝鲜问题是〝绝对优先〞。而此前川普表示，贸易是谈判槓杆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816223&from=ogGitn">【禁闻】纪录片《共犯》 大陆工人血泪史 2017-04-07 04:50</a><br/>纪录片《共犯》讲述在深圳和广州的电子产品制造工厂里，因暴露在有毒化学品环境中而患病的工人的经历。</td></tr>
@@ -199,7 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816002&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 05:25</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816001&from=ogGitn">梁木： 江泽民集团瓜分中国经济内幕（2） 2017-04-05 05:14</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拚死拚活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815996&from=ogGitn">十九大前人事调整 多省书记处于进退关键期 2017-04-05 05:01</a><br/>日前，中共地方数十名高层人事被再次密集换人。中共十九大前夕，还有浙江、福建、四川、宁夏等多名省委书记也处于可进可退的关键时刻。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815998&from=ogGitn">禁令、抓人止不住  雄安房产炒家继续疯狂扫货 2017-04-05 04:53</a><br/>河北雄安新区的炒楼潮愈遏愈盛，当局为控制井喷式炒楼潮，除重申禁卖楼令，警方还刑拘违规地产商，扣查违规代理。不过炒家置之不理，炒楼转入地下和周边三县，传新区楼价暴涨至每平四万元，周边楼价几日升逾五成。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815995&from=ogGitn">雄安新区爆热下诸多悬念 筹委会秘密办公 2017-04-05 02:53</a><br/>大陆雄安新区消息持续发酵。新区筹委会包下河北容城县整栋酒店办公，酒店守卫森严。外界关注，雄安新区有诸多悬念。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815994&from=ogGitn">重庆官场大震荡  孙政才辣手整治意在19大入常？ 2017-04-05 02:38</a><br/>遭批清除〝薄、王〞遗毒不彻底后，重庆官场持续震荡，公安局长亦落马。港媒分析，重庆市委书记孙政才抓紧动作，或为力搏十九大入常。此前有文章分析，孙政才打不开重庆局面，无力平反薄熙来当年〝打黑〞冤案，引起习近平不满。</td></tr>
 </table>
