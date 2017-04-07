@@ -85,6 +85,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816217&from=ogGitn">泸州校园命案 官方通报发布会姗姗来迟 2017-04-07 03:44</a><br/>四川泸州赵姓初中生死亡事件，因民众质疑警方隐瞒案情，爆发大规模警民冲突。当地政府封路封网，抓捕民众，软禁家属，甚至阻挠中央党媒记者采访。事件发生后的第6天，当地官方终于公开对外说明，但依然继续否认死者生前遭到霸凌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816234&from=ogGitn">河北太行水镇官商勾结 村民与保安均有受伤 2017-04-07 03:28</a><br/>近日，河北省保定易县恋乡．太行水镇一群青少年被该地开发商百悦集团雇用的保安打伤，其中有一个孩子头部受重伤，仍在ICU抢救，事件导致当地村民与保安发生冲突，保安亦被村民打成重伤。另外，该地200多家摊位被迫停业。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816253&from=ogGitn">新疆生产建设兵团党委前常委等4官员落马 2017-04-07 03:23</a><br/>近两日，中共新疆生产建设兵团党委前常委王世江、新疆大学副校长迪里木拉提·吾甫尔江，以及宁夏财政厅副厅长董锋、宁夏农业投资集团总经理陈延被查。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816301&from=ogGitn">泸州学生死亡案发酵 官方宣布停电断网12天 2017-04-07 02:44</a><br/>4月1日，四川泸州太伏中学一14岁男生赵鑫离奇“坠楼”死亡。警方隐瞒案情，引发当地逾上千民众抗议，爆发警民冲突，军方封镇。随后，泸州大范围停电断网12天。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816211&from=ogGitn">泸州惨案遭镇压 军车进驻 校园下封口令 2017-04-07 02:20</a><br/>四川泸州太伏镇中学生被打死事件已过去6天，官方一直未有可让人信服的结论，反而调动大批特警、军警，甚至装甲车开进城镇，封锁一切消息进行镇压，学生被下封口令。湖南衡州律师事务所廖曜中律师主动联系死者父亲愿为其提供法律帮助，却因官方干扰无法实现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816215&from=ogGitn">川普谈川习会：没人知道会发生什么 2017-04-07 02:03</a><br/>川普（特朗普）总统周四（4月6日）早上说，他跟中共主席习近平的会晤“没有人知道会发生什么”。他说，围绕贸易和朝鲜最近导弹测试的问题预计将摆上桌面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-07 01:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816084&from=ogGitn">韩国汽车在大陆销量下降 2017-04-05 20:27</a><br/>韩国现代和起亚两家汽车制造商日前表示，3月份在大陆的销量大幅下滑。有分析师认为两家公司可能不得不减产以应对。这是大陆民众反韩情绪的又一个受害者。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816064&from=ogGitn">中国“共享单车”乱象引关注 2017-04-05 20:16</a><br/>“共享单车”自去年在大陆蜂拥而上，呈爆炸式增长。随之带来的问题是，由于管理不到位加之民众素质有待提高，使得偷车、毁车、占道乱停车等现象达到近乎失控的混乱状态，引发社会舆论关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816041&from=ogGitn">禁毒总队总队长被查 湖南1个月5高官落马 2017-04-05 19:45</a><br/>日前中共湖南省公安厅禁毒总队总队长唐国栋被审查，其涉非法放贷等问题。1个月来，湖南至少有5高官落马，官场震荡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816017&from=ogGitn">美中高峰会 习近平川普各自关心什么 2017-04-05 19:42</a><br/>3月30日，美中两国正式确认美国总统川普（特朗普）和中国领导人习近平下周在佛州马尔拉歌庄园会晤。川普称会见将是艰难的讨论，有诸多敏感议题将摆上桌面。中方则表示，希望中美高层会谈成功。鉴于中美近来冲突不断，外界关注，两国首脑谈什么？能达成协议？未来中美关系走向如何？</td></tr>
 </table>
