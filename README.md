@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816313&from=ogGitn">袁斌：五问泸县中学生死亡事件 2017-04-08 02:12</a><br/>泸县中学生赵鑫离奇死亡已经6天了，当地官方对要求真相和公正的民众的打压不降反升，目前事态仍在进一步发酵中。纵观整个事件的来龙去脉，可谓疑窦重重。在此，笔者有几个问题要问。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816312&from=ogGitn">李放：一党专政 必然短命 2017-04-08 02:03</a><br/>日前，原中国军事学院出版社社长辛子陵披露：〝十八大之前李源潮做了一个调查，十七大中央委员、候补委员、中央纪委委员的家属子女已在国外定居、买房，准备弃官逃跑的占了85%以上。〞</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816311&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-08 01:56</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫在花季之年非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网路〝辟谣〞，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看，赵鑫死亡必定有骇人的隐情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816310&from=ogGitn">川习会晤 法轮功学员吁习近平制止迫害 2017-04-08 01:51</a><br/>4月6日和7日，美国总统川普在佛州与中国国家主席习近平举行首次会晤。法轮功学员也来到这里和平请愿，表达诉求，敦促习近平结束中共对法轮功的迫害，将迫害元凶江泽民绳之以法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816309&from=ogGitn">夏小强：泸州校园惨案的真相是什么？ 2017-04-08 01:50</a><br/>太伏镇，是一个距离四川省泸州市泸县县城40公里之遥的偏远小镇；位于这个偏僻小镇的太伏中学，在短短数天之内成为了全国新闻的聚焦点：太伏中学14岁的中学生赵鑫，4月1日惨死于校园之内。赵鑫遍体凌伤的尸体照片和视频在网路广传之后，泸县官方通报称死者坠楼身亡，引发民愤，民众自发聚集抗议，泸县官方迅速启动维稳程序，出动警察镇压抓捕民众，一个原本用正常司法手段就能很快处理的个案，演变为一场全社会聚焦的重大群体事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816300&from=ogGitn">在朝鲜攻击之后，可以想像亚洲会出现可怕的未来 2017-04-08 00:30</a><br/>现在世界上都在关注朝鲜的下一次潜在的核试验，美国的侦察卫星更是把视线固定在这里。朝鲜的核试验极为恐怖：如果真的开战，那么所谓的“隐士王国”——朝鲜就极有可能对其邻国进行攻击。因为朝鲜拥有世界上最大的常备军之一——120多万人的军队和之外的770万人的预备役——更有1000多枚携带生化武器与核武器的导弹，平壤具有杀死数百万人的能力，以使冲突迅速升级为全...</td></tr>
@@ -27,7 +30,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816279&from=ogGitn">为给父亲一个〝教训〞杭州男杀死弟弟和继母 2017-04-07 17:39</a><br/>江苏杭州建德市25岁男子，为了给父亲一个〝教训〞，残忍地杀死弟弟和继母。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 17:20</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816276&from=ogGitn">川校园命案 官称死者未遭欺凌引不满 2017-04-07 17:14</a><br/>有学生承认赵鑫是被杀的，学校下了封口令。有民众承认是跳楼的，签个字，每人给50元封口费。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816274&from=ogGitn">中纪委〝内鬼〞受贿618万   曾向黄兴国泄密 2017-04-07 17:07</a><br/>4月6日，北京法院审判信息网，公开黄保国行贿罪二审刑事裁定书。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816274&from=ogGitn">中纪委〝内鬼〞受贿618万   曾向黄兴国洩密 2017-04-07 17:07</a><br/>4月6日，北京法院审判信息网，公开黄保国行贿罪二审刑事裁定书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816275&from=ogGitn">北京访民告警案开庭 声援者遭驱赶 2017-04-07 17:01</a><br/>4月7号，季新华告诉《新唐人》，因无钱聘请律师，6号上午开庭时，他在法庭自述遭遇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816273&from=ogGitn">深圳前市委书记出任河北代省长　或助推进雄安新区发展 2017-04-07 16:44</a><br/>深圳前市委书记、前市长许勤，7日，获任命为河北省政府副省长、代理省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816280&from=ogGitn">【翻墙必看】泸州校园惨案升级 停电断网 2017-04-07 16:32</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816081&from=ogGitn">王友群：法轮功为什么那么受欢迎？ 2017-04-05 22:39</a><br/>3月29日，新唐人电视台网站发表一篇法轮功学员的修炼故事《台湾风水师惊见金色光柱方知世间真有高人》。我一直在跟踪这篇文章的点击量，到我写作此文时，点击量已达到34154人次，这还是在中共用防火墙全面封网情况下的点击量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816097&from=ogGitn">陆文：谁能改变因果律？ 2017-04-05 22:18</a><br/>金钱、权势都有一定的作用。可是在用它们摆脱这个因果的同时又掉进另一个因果的窠臼，循环往复，无有穷尽。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816079&from=ogGitn">四川学生被打死 连日爆发警民冲突 2017-04-05 21:58</a><br/>赵鑫被强收保护费不成，1号遭5名校霸暴力殴打致死后，当地官方通报说是坠楼死亡，校方不让家长见遗体，试图强行火化遗体。2号、3号，愤怒的民众连日包围校门口抗议。据网上传出的视频显示，现场多次爆发激烈警民冲突。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816054&from=ogGitn">泸州中学生临死前被打视频曝光  官方谎言败露（慎入） 2017-04-05 21:27</a><br/>当局试图掩盖真相的态度激起民愤，引发数千民众持续抗议。随着赵鑫被打的真相进一步曝光，地方当局势必更加被动，这也证实他们掩盖真相的做法不仅失败，而且有可能激起更强烈的民愤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816133&from=ogGitn">韩媒：对金正恩斩首行动 美韩推“三匕首” 2017-04-05 21:09</a><br/>韩媒今日报导，韩国和美国正在大力推动在朝鲜半岛有事时以无人机（UAV）、特种部队、匿踪战机等“三匕首”在最短时间内铲除朝鲜领导阶层的“斩首行动”方案。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816082&from=ogGitn">太爱玩手机 山东14岁少女颈椎老化如50岁 2017-04-05 20:52</a><br/>山东省青岛市14岁少女小婷，每天玩手机约5、6个小时，近日，她出现头晕、颈部酸痛等症状，其去医院检查后发现，其颈椎老化如50岁。</td></tr>
 </table>
