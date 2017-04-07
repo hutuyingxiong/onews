@@ -2,15 +2,19 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816331&from=ogGitn">福建山东修路毁林拆厂?武汉冤民被打骨折 2017-04-08 07:09</a><br/>现在中国大陆许多地方强占强拆行为，已经引起广大受害民众的愤慨，但民众上访喊冤可能很得到暴力相向，即使如此，他们仍在不屈地抗争。近日，福建厦门市、山东成武县等地民众讲出了他们受害情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816325&from=ogGitn">时政段子集：全网追捕“谣言”传递一个信息 2017-04-08 06:37</a><br/>最新时政段子集：全网追捕“谣言”传递一个信息</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816334&from=ogGitn">颜丹：美法院对“转基因”的判决打了谁的脸？ 2017-04-08 06:37</a><br/>因此，转基因是否真如他们对外宣称的“对身体无害”，大家完全可参照官员们的选择来进行无误的判断。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816328&from=ogGitn">谢天奇：直辖市6公安高官出事 还有4人高危 2017-04-08 06:32</a><br/>吴志明、傅政华、强卫作为两直辖市的前任公安局长，或步宋平顺、武长顺、朱明国、王立军、何挺等人的后尘，处境岌岌可危。谁会被最先抛出来？这也将是十九大前习江斗的一个重要风向标。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816330&from=ogGitn">【 禁闻】4月7日退党精选 2017-04-08 05:48</a><br/>山东的王顺利说：我已是一个60多岁的农民。这些年深受中共邪党村党支部书记的欺压，有冤无处诉。我现在申请退出小时加入的少先队组织，彻底脱离这个邪党，走向新生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816327&from=ogGitn">【禁闻 】4月7日维权动态 2017-04-08 05:47</a><br/>郑州电视台百名编辑记者上街抗议；中国访民美国佛州告〝御状〞；湖南拆迁户维权 公民发起接力声援；为防被强迫失踪 李和平妻留遗言。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816326&from=ogGitn">【禁闻】杜撰四大地主 丑化乡绅阶层 2017-04-08 05:42</a><br/>除了刘文彩背负着莫须有的罪名，中国知名的〝四大地主〞中的其他三人也是杜撰，但他们却成为中国地主阶级的代表，背负人们的仇恨。今天的〝百年红祸〞特别报导，就来看看真实的他们。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816333&from=ogGitn">动武叙利亚一石数鸟？川普：与习近平会晤获重大进展 2017-04-08 05:42</a><br/>7日，习近平访美进入第二天，也是最后一天。两国领导人举行了正式会晤。川普当场表示〝取得了进步〞。6日晚川普突然空袭叙利亚，让中方措手不及。分析称，此举作用不仅仅限于在朝核问题上向中方施压，对川普来说是一举数得。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816329&from=ogGitn">【禁闻】王宪魁主政黑龙江时的迫害秘闻 2017-04-08 05:41</a><br/>近年来不少地方陆续传出当地公检法司人员放弃迫害的消息，可是在黑龙江形势依然严峻。从中可以看出，虽然江泽民早已下台，但王宪魁把自己完全绑在了江泽民迫害法轮功的政治路线上，停不下手了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">海南甘肃河北省长候选人明确 山东省长难产 2017-04-08 05:25</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816317&from=ogGitn">【网闻】金家最恨谁？朝鲜特工讲述金家内幕 2017-04-08 05:04</a><br/>4月6日，微博账号为“NKmilitaryStudies”的网民发布文章：《金家最恨谁？---高级脱北者的证言 》。文章摘录朝鲜特务、资深统战部官员张振成著作中关于中朝关系的内容，披露朝鲜金家政权最痛恨的是中国，朝核对中国的潜在威胁是切实存在的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816323&from=ogGitn">4月7日全球看中国 2017-04-08 05:02</a><br/>江苏帮崩盘 第四只大老虎李云峰被立案查办；中国〝尺度最大〞反腐剧评价两级 造势不成反启发民众？雄安本地人如何看习近平〝千年大计〞；欧盟提高对中国产钢材的反倾销关税。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816332&from=ogGitn">泸县尸检结果重申坠楼 知情人发图质疑：赵鑫会飞？ 2017-04-08 04:53</a><br/>四川省泸州市初中生死亡事件，官方周五（7日）公布尸检结果，重申早前指〝坠楼〞的结论。家属未有明确表态是否接受，称已骋请律师处理。日前，网络热传该案十大疑点，其中一点是赵鑫伏尸离楼房太远，有网友质疑：赵鑫会飞？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816319&from=ogGitn">雄安新区炒房热消退 官称首要任务“搬迁” 2017-04-08 04:41</a><br/>前，河北雄安新区掀炒房热，据报，经政府打压后，当地社区已恢复平静。新区下一步首要任务是搬迁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816322&from=ogGitn">第4个被查省部级官员 江苏前副省长李云峰被双开 2017-04-08 04:38</a><br/>江苏省前省委常委、常务副省长李云峰因严重违纪，中纪委监察部网站通报其已被开除党籍和公职。大陆媒体报导称，曾蒙蔽领导的李云峰，下属官员排队给其送礼，他的下台与江苏前首富也有一定关系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816318&from=ogGitn">低调退休去向微妙 江绵康卸任上海城交研究院长 2017-04-08 03:58</a><br/>《信报》消息称，江泽民次子江绵康卸任上海市城建交通发展研究院院长，并称其〝疑似低调退休〞。去年江绵恒和江绵康被内控的消息传出后，该报曾发布〝江绵康履新〞的消息，被外媒以〝破被查谣言〞标题报导，不过消息真实性存疑。</td></tr>
@@ -204,8 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-06 02:45</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816110&from=ogGitn">27岁鼻炎患者术后坠亡 家属起诉医院与百度 2017-04-06 02:31</a><br/>继“魏则西事件”、尿毒症等患者受骗后，27岁的鼻炎患者张瑞再次因百度搜索“乌鲁木齐鼻炎医院”，找到排名第一的“乌鲁木齐爱德华医院”就医，但术后出现情绪控制能力弱，脑皮层呈抑制、疲劳状态，心理障碍、伴精神病等症状。半个月后，张瑞跳楼自杀身亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816103&from=ogGitn">A股雄安概念集体涨停 相关企业发通告澄清 2017-04-06 02:07</a><br/>4月5日是官方宣布设立雄安新区后A股的首个交易日，沪深两市大涨，雄安概念集体涨停。近日，相关企业纷纷发通告澄清。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816161&from=ogGitn">网传蒂勒森访华达6共识：美日韩斩首金正恩中方中立 2017-04-06 01:20</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816099&from=ogGitn">泸州学生命案疑涉3官二代 千警装甲车镇压抗议民众(视频) 2017-04-06 01:15</a><br/>四川泸州初中生赵鑫死亡事件引发民众抗议，遭官方猛力镇压。当地民众向外媒爆料，5名涉事凶手中3人为官二代，故官方刻意包庇。目前抗议民众有数百人被抓，军队装甲车已进驻封锁太伏镇，当局还派逾百名警察到殡仪馆抢尸抓人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816100&from=ogGitn">“武爷”“白乱拆”等六大老虎上月受审 2017-04-06 01:03</a><br/>3月，中共6名“老虎”受审，认罪。他们各有特点，如白雪山被戏称“白乱拆”，武长顺被戏称“武爷” ，他涉贪腐5个多亿元，包养数名情妇，4名女警官为其生私生子等。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816129&from=ogGitn">初中生死亡疑涉官二代 军方封镇阻众声援 2017-04-06 00:57</a><br/>四川省泸州市初中生死亡事件受到官方猛力镇压，有当地民众向自由亚洲电台爆出背后的原因，五名涉事凶手中，其中三人均为官二代，疑官方刻意包庇。事件持续发酵，大批民众连日来聚集抗议，先后有数百示威者被抓。有当地民众反映，军队已进驻及封锁太伏镇，阻挡外省民众前来声援。</td></tr>
 </table>
