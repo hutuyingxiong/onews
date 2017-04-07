@@ -2,11 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816174&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-07 22:04</a><br/>杨开慧在遗书中愤然指毛是政治、生活双料流氓，江青则在公审时自称是毛的一条狗，贺子珍则被毛折磨得十年怀孕9次。毛是什么德行由此可见。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816291&from=ogGitn">川习会 川普受习邀请年内访华 2017-04-07 21:47</a><br/>备受瞩目的川习会已于周四（4月6日）下午登场，美国总统川普（特朗普）在马阿拉哥（Mar-a-Lago，又称海湖庄园）宴请习近平。席间，川普已接受邀请，今年到中国进行国事访问。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816290&from=ogGitn">习打造新城市样板 以政绩超前“核心”？ 2017-04-07 20:47</a><br/>河北设立雄安新区的消息发布后，成为舆论关注的热点。据报导，有关部门已下令禁止炒作“陪都”等概念。有分析认为，在雄安这样一张白纸上作画，让习近平可尽情发挥，建造一个习近平式的样板大都市。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816286&from=ogGitn">江苏帮崩盘 第四只大老虎李云峰被立案查 2017-04-07 20:34</a><br/>中纪委监察部网站 4月7日发布消息，对中共第十八届中央候补委员，江苏省原省委常委、常务副省长李云峰严重“违纪”问题进行了立案审查。李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816288&from=ogGitn">三座“大山”压顶 中国逾5400万人患抑郁 2017-04-07 20:21</a><br/>世界卫生组织（WTO）4月6日对外发布信息称，在中国，有逾5400万人罹患抑郁症。网民吐槽都是三座大山压的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816284&from=ogGitn">为江派大佬卖命 张越王阳等被起诉 2017-04-07 20:08</a><br/>近日江苏、湖北、黑龙江三省分别对中共河北省委原常委、政法委原书记张越涉嫌受贿案，中共河南省委原常委、洛阳市委原书记陈雪枫涉嫌受贿、贪污、国有公司人员滥用职权案，辽宁省人大常委会原副主任王阳涉嫌受贿、破坏选举案被提起公诉。江苏另一只大老虎李云峰被宣布落马。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816284&from=ogGitn">为江派大佬卖命 张越王阳等3人被起诉 2017-04-07 20:08</a><br/>近日江苏、湖北、黑龙江三省分别对中共河北省委原常委、政法委原书记张越涉嫌受贿案，中共河南省委原常委、洛阳市委原书记陈雪枫涉嫌受贿、贪污、国有公司人员滥用职权案，辽宁省人大常委会原副主任王阳涉嫌受贿、破坏选举案被提起公诉。江苏另一只大老虎李云峰被宣布落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816285&from=ogGitn">大陆炒房团揭炒房内幕 有地方政府参与 2017-04-07 19:57</a><br/>日前，有大陆炒房团成员透露了他们是怎样在几个月的时间把当地的房价炒高了二至三倍，有的地方政府为了增加财政收入也参与炒作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816287&from=ogGitn">南京航大40余学生被辅导员骗贷 警方未立案 2017-04-07 19:35</a><br/>校园贷事件一波未平，一波又起。经历过“裸条”，“高利息逼死学生”，“传销式校园贷”等事件之后，近日媒体又曝光南京航空航天大学某辅导员骗取学生40余万的贷款。媒体的曝光、舆论的痛斥、受害者的死亡都没能阻止校园贷乱象的持续。据澎湃新闻4月7日报导，南京航空航天大学（以下简称：南京航大）一名大学生小甲，2015年的暑假期间，在一家兼职公司里相识了王某。那时...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816283&from=ogGitn">川习会前朝鲜再射导弹 专家谈会晤看点 2017-04-07 19:24</a><br/>备受外界关注的美国总统川普与习近平的首次会晤在海湖庄园拉开序幕。由于前一天北韩再发导弹，无疑增加川习会关于北韩问题的份量。双方会谈内容、谈的方式、及结果都是外界关注的焦点。专家认为双方首次见面无论表面多客气，都有三道难以逾越的坎。</td></tr>
@@ -143,7 +144,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816140&from=ogGitn">一集电视剧5亿人看？ 大陆网络点击量9成造假 2017-04-06 11:19</a><br/>大陆电视剧片方出钱刷点击量，已是业界公开的秘密。有业内人士披露，电视剧网络点击量9成涉嫌造假。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816159&from=ogGitn">袁斌：泸州中学生死亡事件为何越闹越大？ 2017-04-06 10:37</a><br/>日前发生的泸州中学生死亡事件，本是一个在很小范围就能解决的问题，不料想竟迅速演变成了一场当地政府和民众之间的尖锐对抗，甚至有愈演愈烈的势头。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816174&from=ogGitn">杨开慧指毛是双料流氓 江青自称是毛的一条狗 2017-04-06 10:21</a><br/>杨开慧在遗书中愤然指毛是政治、生活双料流氓，江青则在公审时自称是毛的一条狗，贺子珍则被毛折磨得十年怀孕9次。毛是什么德行由此可见。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816128&from=ogGitn">周晓辉：财新传媒主编谈“习川会”传信息 2017-04-06 09:27</a><br/>4月6日至7日，习近平将在佛州与美国总统川普（特朗普）举行会晤，对于这场世界颇为关注的会面，有习阵营背景的大陆财新网于5日在重要位置，刊发了财新传媒总编辑胡舒立撰写的《举世关注首次“习特会”》一文。</td></tr>
