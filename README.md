@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816297&from=ogGitn">川人：“人民姓党”才是最大的中国特色？ 2017-04-07 23:23</a><br/>近日一部描述中共反腐行动的政治宣传电视剧，《人民的名义》引发广大中国人围观。对这部政治宣传电视剧的热播，有人认为该影片“尺度大接地气”，有人认为该影片“戳疼了这个社会的痛点”，还有人认为该片反映出了“中共从严治党的决心”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816295&from=ogGitn">陈思敏：泸县警方与家属对话录音透露的讯息 2017-04-07 23:19</a><br/>至4月6日，四川泸州泸县发生近一周的太伏中学学生坠亡事件，舆情仍然汹涌也仍遭全面戒严，就连新华社记者实地采访亦受阻。而在新华记者发文〝无法忍受〞之后，一份所谓泸县公安局警方跟死者父母的对话录音也被曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816296&from=ogGitn">杨春华：清明悲歌 2017-04-07 23:00</a><br/>清明时节，在淅沥潺潺的小雨中，追忆我在大陆因坚定修炼法轮大法而被迫害致死的家人，遥想那一座座荒芜的坟冢前，不知是否已长出新草？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816174&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-07 22:04</a><br/>杨开慧在遗书中愤然指毛是政治、生活双料流氓，江青则在公审时自称是毛的一条狗，贺子珍则被毛折磨得十年怀孕9次。毛是什么德行由此可见。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816116&from=ogGitn">母亲清明扫墓被抓 11岁孩子无人看管 2017-04-05 19:04</a><br/>清明节期间，访民葛志惠到北京西郊福田公墓为杨佳、林昭扫墓，却遭苹果园警察绑架，至今未回，家里只剩下11岁的儿子，无人看管。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816056&from=ogGitn">网传蒂勒森访华达6共识：美日韩斩首金正恩中方中立 2017-04-05 19:03</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816058&from=ogGitn">毛泽东的八句话骗了中国十多亿人 2017-04-05 18:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816061&from=ogGitn">山东14岁少女玩手机  颈椎老化如50岁老人 2017-04-05 18:49</a><br/>山东青岛14岁少女小婷，因每天都玩手机，颈椎出现了〝曲度变直〞，老化程度如50岁老人。</td></tr>
 </table>
