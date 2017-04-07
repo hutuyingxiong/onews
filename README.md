@@ -2,11 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 07:22</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816241&from=ogGitn">【禁闻】4月6日维权动态 2017-04-07 07:09</a><br/>习仲勋陵园成上访村 访民扫墓被抓；四川民师接受外媒采访 遭当局威胁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816240&from=ogGitn">【禁闻】4月6日退党精选 2017-04-07 07:08</a><br/>广西民众说，为了拿驾照被迫宣誓入党，而其他被动入队和入团的民众也宣布退出中共组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:01</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 06:56</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816237&from=ogGitn">川习会前 美国会要员促川普向习提人权 2017-04-07 06:41</a><br/>6日，川习会登场前夕，美国众议院少数党领袖佩洛西和共和党重量级众议员史密斯，都敦促川普（特朗普）总统向习近平提起中国人权问题，以此支持那些因宗教和政治信仰而遭到迫害的人们。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816242&from=ogGitn">俄官员：朝鲜导弹威胁俄远东 俄已提升战备 2017-04-07 06:25</a><br/>俄罗斯专家评论称中俄也加入了美韩反对朝鲜的阵营中了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816232&from=ogGitn">【禁闻】特首选举遭操控？廉署抓人 建制指控 2017-04-07 05:47</a><br/>根据香港媒体报导，廉政公署早前接获投诉，指有人涉嫌在去年的立法会资讯科技功能界别选举中，作出违反《选举条例》的舞弊行为，因此从上周二起廉政公署展开为期3天、代号〝雪豹〞的行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816233&from=ogGitn">【禁闻】川习会 法轮功海湖庄园外吁法办江泽民 2017-04-07 05:47</a><br/>川习会 法轮功海湖庄园外吁法办江泽民；江苏、辽宁 两名法轮功学员无罪获释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816230&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:45</a><br/>今天，您将在美国佛罗里达州的马阿拉歌渡假村跟中国国家主席习近平实现第一次历史性会见，特再给您写这封信，并通过您强烈要求习近平主席立即抓捕江泽民。</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815999&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不便答复 2017-04-05 05:25</a><br/>北大对美国之音有关郭文贵捐款去向的询问作出反应，称郭文贵的公开信不是正式向北大提交，因此校长不方便做出答复。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816002&from=ogGitn">徐明天：辱母杀人案击中中国社会八大痛点 2017-04-05 05:25</a><br/>辱母杀人案，本人接连有两篇文章被举报删除，但是在网上放置的时间都比较长。此案受到如此大的关注，据说当天文章的阅读量超过1亿。因为一个小小的案件击到了中国的痛处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816001&from=ogGitn">梁木： 江泽民集团瓜分中国经济内幕（2） 2017-04-05 05:14</a><br/>今天的中国大陆，1949年以来中国人民流血流汗、拚死拚活、共同创造的全部社会主义公有制国家财富被江泽民带领江泽民集团哄抢瓜分遗尽。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815996&from=ogGitn">十九大前人事调整 多省书记处于进退关键期 2017-04-05 05:01</a><br/>日前，中共地方数十名高层人事被再次密集换人。中共十九大前夕，还有浙江、福建、四川、宁夏等多名省委书记也处于可进可退的关键时刻。</td></tr>
 </table>
