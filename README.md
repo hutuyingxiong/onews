@@ -2,6 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816271&from=ogGitn">县长镇长齐施压  泸县死亡学生奶奶气晕送医 
+										
+											?组图 2017-04-07 15:07</a><br/>消息指，太伏镇镇长和泸县副县长要求死者爷爷奶奶签字，谎称孩子跳楼死，二老气昏送院抢救。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816270&from=ogGitn">辽宁铁岭2任书记3任市长落马 网民：烂透了 2017-04-07 15:01</a><br/>日前，随着王志勇和郭治鑫的落马，铁岭官场已有三任市长及两任书记落马。中共十八大以来，辽宁铁岭官员及在铁岭任职过的官员共有9人落马。对于铁岭官场“塌方式腐败”，大陆网民直呼：“这地方太黑了，已经无药可救，烂透了。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 14:35</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816262&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-07 12:51</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫花季非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网络“辟谣”，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看...</td></tr>
@@ -205,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816039&from=ogGitn">被警察打无人管 维权人士告公安局案6日开庭 2017-04-05 11:31</a><br/>北京维权人士季新华控告丰台公安分局不作为案，将于4月6日在丰台法院开庭审理。4月3日季新华透过“玫瑰中国”网，希望关注此案件的朋友能参与旁听。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816012&from=ogGitn">谢天奇：川习仓促会晤 五大议题背后的秘密 2017-04-05 11:28</a><br/>离十九大召开还有半年时间，习近平紧急寻求与川普会谈，五大热门议题均与中国内政尤其十九大前夕习江斗态势发展密切相关。这或预示习阵营后续针对江泽民、曾庆红等江派高层及其家族贪腐的清洗大动作已在酝酿之中。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 11:14</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816040&from=ogGitn">河南一水库出险 大水倾泻逾300村民急撤离 2017-04-05 11:07</a><br/>4月4日凌晨，河南三门峡灵宝市阳店镇一个水库发生侧漏，洪水突袭倾泻而下淹没下庄村。大树被连根拔起，部分街道水深达30釐米，并淹浸村民家。目前，已有逾300名村民紧急撤离，暂未见伤亡报</td></tr>
 </table>
