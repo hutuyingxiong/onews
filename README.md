@@ -3,6 +3,7 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">海南甘肃河北省长候选人明确 山东省长难产 2017-04-08 05:25</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816323&from=ogGitn">4月7日全球看中国 2017-04-08 05:02</a><br/>江苏帮崩盘 第四只大老虎李云峰被立案查办；中国〝尺度最大〞反腐剧评价两级 造势不成反启发民众？雄安本地人如何看习近平〝千年大计〞；欧盟提高对中国产钢材的反倾销关税。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816317&from=ogGitn">【网闻】金家最恨谁？朝鲜特务讲述金家内幕 2017-04-08 04:44</a><br/>4月6日，微博账号为“NKmilitaryStudies”的网民发布文章：《金家最恨谁？---高级脱北者的证言 》。文章摘录朝鲜特务、资深统战部官员张振成著作中关于中朝关系的内容，披露朝鲜金家政权最痛恨的是中国，朝核对中国的潜在威胁是切实存在的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816319&from=ogGitn">雄安新区炒房热消退 官称首要任务“搬迁” 2017-04-08 04:41</a><br/>前，河北雄安新区掀炒房热，据报，经政府打压后，当地社区已恢复平静。新区下一步首要任务是搬迁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816322&from=ogGitn">第4个被查省部级官员 江苏前副省长李云峰被双开 2017-04-08 04:38</a><br/>江苏省前省委常委、常务副省长李云峰因严重违纪，中纪委监察部网站通报其已被开除党籍和公职。大陆媒体报导称，曾蒙蔽领导的李云峰，下属官员排队给其送礼，他的下台与江苏前首富也有一定关系。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816091&from=ogGitn">袁斌：清明 我的六炷香 2017-04-05 23:55</a><br/>今年的清明节，祭奠过祖先亲人之后，我又给那些因为中共的极权统治而失去生命的亡魂也分别上了香。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816090&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 23:53</a><br/>这几天，大陆最火爆的，莫过于设立河北雄安新区这件事。消息一传出，全国各地的投资人、投机商、中介、个人买房者等，一窝蜂地涌向雄安新区。于是，去当地的火车票几乎卖光，当地的酒店人满为患，街道上到处停的都是外地车辆。人们以最快的速度去雄安新区，就想抢在别人的前面，以最低的价格买入房子，复制大陆房地产赚钱的模式，实现自己的发财梦想。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816098&from=ogGitn">河北安新县冻结户籍变更 居民排长队结婚 2017-04-05 23:50</a><br/>大陆官方宣布在河北设立雄安新区，继热炒楼市后，安新县又冻结户籍变更等，当地出现居民排长队结婚的现象。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816078&from=ogGitn">姜维平曝何挺落马内情：替张德江〝捂盖子〞 2017-04-05 23:42</a><br/>近日，重庆市公安局长何挺被曝已遭〝双规〞。据指，这是王歧山〝清除薄熙来和王立军余毒〞行动的一部分。媒体人披露，何是周永康得意门生，后台还有张德江。何挺领会张德江〝捂盖子〞、〝保江派〞旨意，曾力阻重庆〝打黑〞冤案平反。</td></tr>
 </table>
