@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816283&from=ogGitn">川习会前朝鲜再射导弹 专家谈会晤看点 2017-04-07 19:24</a><br/>备受外界关注的美国总统川普与习近平的首次会晤在海湖庄园拉开序幕。由于前一天北韩再发导弹，无疑增加川习会关于北韩问题的份量。双方会谈内容、谈的方式、及结果都是外界关注的焦点。专家认为双方首次见面无论表面多客气，都有三道难以逾越的坎。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816281&from=ogGitn">河北雄安新区征地每亩仅6万 民不满言论被封 2017-04-07 18:19</a><br/>随着中国国家级“雄安新区”的出炉，河北白洋淀地区部分乡村将实施整村搬迁。有村民日前向本台透露，当局的征地协议每亩仅补偿6万元人民币，引发村民极大不满。村民们通过网络呼吁抗争，但相关言论均遭到删除。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816279&from=ogGitn">为给父亲一个〝教训〞杭州男杀死弟弟和继母 2017-04-07 17:39</a><br/>江苏杭州建德市25岁男子，为了给父亲一个〝教训〞，残忍地杀死弟弟和继母。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 17:20</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
@@ -16,9 +17,11 @@
 											?组图 2017-04-07 15:07</a><br/>消息指，太伏镇镇长和泸县副县长要求死者爷爷奶奶签字，谎称孩子跳楼死，二老气昏送院抢救。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816270&from=ogGitn">辽宁铁岭2任书记3任市长落马 网民：烂透了 2017-04-07 15:01</a><br/>日前，随着王志勇和郭治鑫的落马，铁岭官场已有三任市长及两任书记落马。中共十八大以来，辽宁铁岭官员及在铁岭任职过的官员共有9人落马。对于铁岭官场“塌方式腐败”，大陆网民直呼：“这地方太黑了，已经无药可救，烂透了。”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816278&from=ogGitn">丈母娘逼买房歌爆红 唱出年轻人的辛酸 2017-04-07 14:05</a><br/>近日一首男女声合唱的《丈母娘叫我去买房》在网络爆红，一天内点击量超过300万次，成为新的“买房神曲”。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816282&from=ogGitn">北京楼市量价齐跌 商住房成交降97% 2017-04-07 12:53</a><br/>最新的统计数据显示，北京上周新建住宅市场成交量和成交均价双双下降，尤其是商住公寓仅成交62套，环比下降97.26%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816262&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-07 12:51</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫花季非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网络“辟谣”，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816264&from=ogGitn">川习会晤最应该谈什么？ 美USCRIF这么说 2017-04-07 12:39</a><br/>美国总统川普（特朗普）和中国领导人习近平的首度会晤4月6日在佛州登场。川习会晤什么议题最重要？美国国际宗教自由委员会（USCRIF）主席和委员向大纪元分享了他们的看法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816258&from=ogGitn">俄中开发黑瞎子岛？ 江泽民卖国丑闻再被聚焦 2017-04-07 12:28</a><br/>黑瞎子岛历来属于中国领土，80多年前被苏军侵占，直到2008年才部分回归中国，其背后隐藏的是中共及其前党魁江泽民的卖国行径。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 11:55</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 11:36</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816256&from=ogGitn">庄园会晤餐单曝光 川普设牛扒宴请习近平 2017-04-07 11:21</a><br/>4月6晚，中共主席习近平抵达佛罗里达州，与美国总统川普（特朗普）举行高峰会。当晚6点半，川普夫妇在马拉阿哥私人庄园（又称海湖山庄）宴请习近平夫妇。川普准备了精致的餐点。美国传媒公开的餐单有2款，供习近平夫妇任选其一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816252&from=ogGitn">川普牛排宴招待习近平 还发推特玄酷 
@@ -39,7 +42,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816265&from=ogGitn">郑州电视台百名记者游行抗议地产商非法集资 2017-04-07 07:42</a><br/>4月6日，郑州电视台记者及编辑在内的多名媒体人发布消息称，今天上午，郑州街头，上百名郑州电视台的记者及编辑身穿印有黑色大字“无良地产启福”的白色体恤，走上了维权之路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:31</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816199&from=ogGitn">组图：川习会前 法轮功在佛州吁法办江泽民 2017-04-07 07:22</a><br/>4月6日，美国总统川普（特朗普）与中国国家主席习近平的首度会晤在美国佛州登场。在习近平前往川普的佛罗里达“海湖庄园”的路上，来自美国东南部的部分法轮功学员聚集在四个地点，举起“停止迫害法轮功”“法办江泽民”“法轮功大法好”等横幅，呼吁习近平立即制止对法轮功的迫害，并把迫害法轮功的元凶江泽民绳之以法。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 07:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 07:22</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816231&from=ogGitn">美国务院谈川习会：朝核问题〝绝对优先〞 2017-04-07 07:20</a><br/>举世关注的川习会已在佛罗里达州棕榈湾豪华的马阿拉歌庄园拉开帷幕。朝鲜问题和中美贸易是外界持续关注的焦点。而美官员称朝鲜问题是〝绝对优先〞。而此前川普表示，贸易是谈判槓杆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816244&from=ogGitn">【中国禁闻】4月6日完整版 2017-04-07 07:15</a><br/>中共反萨德 评：关键是不懂参数；特首选举遭操控？廉署抓人 建制指控；作古十年污名上身 刘文彩善人变恶霸。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816047&from=ogGitn">当局放松监控 陆民成功拜祭赵紫阳 2017-04-05 16:08</a><br/>同情六四学生的赵紫阳逝世已经12年了，至今仍未能安葬，骨灰一直保留在北京富强胡同6号故居，每年清明节，都有大批维权人士和访民，前往拜祭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816049&from=ogGitn">大陆环保部揭企业造假离谱　排污监测数据为负数 2017-04-05 16:03</a><br/>中国环保部机动督查组在调查中发现，有些企业的二氧化硫在线监测数据显示是负数。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816046&from=ogGitn">动真格？传下届中共高层必须公示财产 2017-04-05 15:45</a><br/>传中央政治局已通过决议，要求下届中央委员、候补委员、中纪委委员，必须在“十九大”召开前公示财产，以及申报配偶子女在外国的居留权和外国国籍情况。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816044&from=ogGitn">辽宁国资委原纪委书记贪千万判刑9年 民斥太轻 2017-04-05 15:45</a><br/>4日，中共官媒报导，刘凯因非法收受他人财物1249万余元，获刑9年。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死 受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
 </table>
