@@ -20,6 +20,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816243&from=ogGitn">5个中国人述说：为何川习会应谈中国人权 2017-04-07 08:31</a><br/>川习会，会不会谈中国人权，是各界都在关心的话题。下面，我们从几个中国人的视角，来听他们讲述，为什么川习会不应回避中国人权问题。他们每个人的故事，都代表中共侵犯人权的一个标志性事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816232&from=ogGitn">【禁闻】特首选举遭操控？廉署抓人 建制指控 2017-04-07 08:25</a><br/>根据香港媒体报导，廉政公署早前接获投诉，指有人涉嫌在去年的立法会资讯科技功能界别选举中，作出违反《选举条例》的舞弊行为，因此从上周二起廉政公署展开为期3天、代号〝雪豹〞的行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816222&from=ogGitn">【禁闻】中共反萨德 评：关键是不懂参数 2017-04-07 07:49</a><br/>萨德的拦截弹对中国威胁不大——它只拦截下降中的弹道末段的目标，但中国战略导弹，包括从黄海或渤海发射的潜射导弹，经过韩国附近时，还在上升中的助推段。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816265&from=ogGitn">郑州电视台百名记者游行抗议地产商非法集资 2017-04-07 07:42</a><br/>4月6日，郑州电视台记者及编辑在内的多名媒体人发布消息称，今天上午，郑州街头，上百名郑州电视台的记者及编辑身穿印有黑色大字“无良地产启福”的白色体恤，走上了维权之路。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:31</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816199&from=ogGitn">组图：川习会前 法轮功在佛州吁法办江泽民 2017-04-07 07:22</a><br/>4月6日，美国总统川普（特朗普）与中国国家主席习近平的首度会晤在美国佛州登场。在习近平前往川普的佛罗里达“海湖庄园”的路上，来自美国东南部的部分法轮功学员聚集在四个地点，举起“停止迫害法轮功”“法办江泽民”“法轮功大法好”等横幅，呼吁习近平立即制止对法轮功的迫害，并把迫害法轮功的元凶江泽民绳之以法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 07:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816022&from=ogGitn">每日三退声明精选（2017/04/04） 2017-04-05 10:25</a><br/>共产党很坏。以前觉得自己已经出国多年，年龄又大了。早就不是少先队员了。但是我知道毕竟以前宣过誓为它奋斗的，就算过了年龄，走到天涯海角还是最终要兑现的。为了不为它陪葬，今天宣布当年的誓言作废。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816023&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不方便答覆 2017-04-05 10:19</a><br/>郭文贵在信中控诉北大〝动用国家专案组力量〞恐吓他。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816024&from=ogGitn">北京地铁有多挤？男子被挤成四肢瘫痪地铁公司判赔 2017-04-05 10:07</a><br/>近日，北京昌平法院一审判决地铁公司赔偿王涛医疗费等共26万余元人民币。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816028&from=ogGitn">广东男子驾车冲民宅 向人群喷火 汽车爆炸 2017-04-05 09:35</a><br/>4月4日，广东一男子驾驶一辆面包车冲进中山小榄镇联丰社区一民宅内，用自制喷火装置向聚餐人群喷火，导致汽车发生爆炸，致1死3重伤。</td></tr>
 </table>
