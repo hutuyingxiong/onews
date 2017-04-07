@@ -2,9 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 14:35</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816262&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-07 12:51</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫花季非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网络“辟谣”，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816264&from=ogGitn">川习会晤最应该谈什么？ 美USCRIF这么说 2017-04-07 12:39</a><br/>美国总统川普（特朗普）和中国领导人习近平的首度会晤4月6日在佛州登场。川习会晤什么议题最重要？美国国际宗教自由委员会（USCRIF）主席和委员向大纪元分享了他们的看法。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 12:38</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816258&from=ogGitn">俄中开发黑瞎子岛？ 江泽民卖国丑闻再被聚焦 2017-04-07 12:28</a><br/>黑瞎子岛历来属于中国领土，80多年前被苏军侵占，直到2008年才部分回归中国，其背后隐藏的是中共及其前党魁江泽民的卖国行径。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 11:36</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816256&from=ogGitn">庄园会晤餐单曝光 川普设牛扒宴请习近平 2017-04-07 11:21</a><br/>4月6晚，中共主席习近平抵达佛罗里达州，与美国总统川普（特朗普）举行高峰会。当晚6点半，川普夫妇在马拉阿哥私人庄园（又称海湖山庄）宴请习近平夫妇。川普准备了精致的餐点。美国传媒公开的餐单有2款，供习近平夫妇任选其一。</td></tr>
@@ -15,6 +15,7 @@
 										
 											?组图 2017-04-07 10:38</a><br/>4月7日凌晨，网曝苏州虎丘安徽的和江苏徐州的开仗了！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816248&from=ogGitn">每日三退声明精选（2017/04/06） 2017-04-07 10:36</a><br/>上学时被动加入邪党的少先队和共青团，工作后为了生活稍微好点无奈加入邪党。静观邪党所作所为令人发指，无药可就。“呼格”等等案件媒体呼吁了二十年了，才因为权力斗争而浮出水面，现在雷洋案，辱母杀人案，是邪党的真实体现，再看看邪党一手扶植的朝鲜流氓政权，真是邪恶至极。仁和在此宣誓：相信退出邪党的党、团、队不与邪恶为伍，才是个好人才能保平安！</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816266&from=ogGitn">重庆一炼油厂发生火灾 已致3人死亡 2017-04-07 09:57</a><br/>4月6日上午10时40分，重庆亚特高级润滑油有限公司突然发生火灾，现场滚滚的黑烟弥漫天际，已造成3名工人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816261&from=ogGitn">李放：一党专政 必然短命 2017-04-07 09:11</a><br/>现在中共从高层到整个社会全都败坏、腐烂了。已病入膏肓，灭亡在即。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816247&from=ogGitn">横河：辱母杀人案是社会严重不公的缩影 2017-04-07 09:10</a><br/>这个案子说明在中共统治下的基层，所谓的恶黑势力，主要是中共的基层组织或者是中共的官员。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816249&from=ogGitn">袁斌：五问泸县中学生死亡事件 2017-04-07 09:09</a><br/>泸县中学生赵鑫离奇死亡已经6天了，当地官方对要求真相和公正的民众的打压不降反升，目前事态仍在进一步发酵中。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 11:14</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816040&from=ogGitn">河南一水库出险 大水倾泻逾300村民急撤离 2017-04-05 11:07</a><br/>4月4日凌晨，河南三门峡灵宝市阳店镇一个水库发生侧漏，洪水突袭倾泻而下淹没下庄村。大树被连根拔起，部分街道水深达30釐米，并淹浸村民家。目前，已有逾300名村民紧急撤离，暂未见伤亡报</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816022&from=ogGitn">每日三退声明精选（2017/04/04） 2017-04-05 10:25</a><br/>共产党很坏。以前觉得自己已经出国多年，年龄又大了。早就不是少先队员了。但是我知道毕竟以前宣过誓为它奋斗的，就算过了年龄，走到天涯海角还是最终要兑现的。为了不为它陪葬，今天宣布当年的誓言作废。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816023&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不方便答覆 2017-04-05 10:19</a><br/>郭文贵在信中控诉北大〝动用国家专案组力量〞恐吓他。</td></tr>
 </table>
