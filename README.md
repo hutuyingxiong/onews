@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816281&from=ogGitn">河北雄安新区征地每亩仅6万 民不满言论被封 2017-04-07 18:19</a><br/>随着中国国家级“雄安新区”的出炉，河北白洋淀地区部分乡村将实施整村搬迁。有村民日前向本台透露，当局的征地协议每亩仅补偿6万元人民币，引发村民极大不满。村民们通过网络呼吁抗争，但相关言论均遭到删除。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816279&from=ogGitn">为给父亲一个〝教训〞杭州男杀死弟弟和继母 2017-04-07 17:39</a><br/>江苏杭州建德市25岁男子，为了给父亲一个〝教训〞，残忍地杀死弟弟和继母。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 17:20</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816276&from=ogGitn">川校园命案 官称死者未遭欺凌引不满 2017-04-07 17:14</a><br/>有学生承认赵鑫是被杀的，学校下了封口令。有民众承认是跳楼的，签个字，每人给50元封口费。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816046&from=ogGitn">动真格？传下届中共高层必须公示财产 2017-04-05 15:45</a><br/>传中央政治局已通过决议，要求下届中央委员、候补委员、中纪委委员，必须在“十九大”召开前公示财产，以及申报配偶子女在外国的居留权和外国国籍情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816044&from=ogGitn">辽宁国资委原纪委书记贪千万判刑9年 民斥太轻 2017-04-05 15:45</a><br/>4日，中共官媒报导，刘凯因非法收受他人财物1249万余元，获刑9年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死 受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816042&from=ogGitn">女婿复婚不果泄愤  南京老夫妇睡梦中被杀 2017-04-05 15:32</a><br/>4日凌晨，江苏南京栖霞区，一对老夫妇在睡梦中被人杀死。</td></tr>
 </table>
