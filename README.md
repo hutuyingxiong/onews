@@ -2,10 +2,13 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816295&from=ogGitn">陈思敏：泸县警方与家属对话录音透露的讯息 2017-04-07 23:19</a><br/>至4月6日，四川泸州泸县发生近一周的太伏中学学生坠亡事件，舆情仍然汹涌也仍遭全面戒严，就连新华社记者实地采访亦受阻。而在新华记者发文〝无法忍受〞之后，一份所谓泸县公安局警方跟死者父母的对话录音也被曝光。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816296&from=ogGitn">杨春华：清明悲歌 2017-04-07 23:00</a><br/>清明时节，在淅沥潺潺的小雨中，追忆我在大陆因坚定修炼法轮大法而被迫害致死的家人，遥想那一座座荒芜的坟冢前，不知是否已长出新草？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816174&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-07 22:04</a><br/>杨开慧在遗书中愤然指毛是政治、生活双料流氓，江青则在公审时自称是毛的一条狗，贺子珍则被毛折磨得十年怀孕9次。毛是什么德行由此可见。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816291&from=ogGitn">川习会 川普答应习近平年内访华 2017-04-07 21:47</a><br/>备受瞩目的川习会已于周四（4月6日）下午登场，美国总统川普（特朗普）在马阿拉哥（Mar-a-Lago，又称海湖庄园）宴请习近平。席间，川普已接受邀请，今年到中国进行国事访问。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816292&from=ogGitn">陈思敏：泸县警方与家属对话录音透露的讯息 2017-04-07 21:26</a><br/>从北京人大硕士雷洋到四川泸县中学生赵鑫，乃至过去太多、甚至未来可能发生的类似案例──有人意外死亡是必须他自己病发或自杀，群众知情权是必须要被蒙蔽的，想要真相的家属是必须当成情绪不稳、胡搅蛮缠的，网上的理性讨论是必须打击的谣言，民众上街打横幅举标语是必须要武警镇压的恶意炒作──这一切只为了中共官员完全没责任。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816290&from=ogGitn">习打造新城市样板 以政绩超前“核心”？ 2017-04-07 20:47</a><br/>河北设立雄安新区的消息发布后，成为舆论关注的热点。据报导，有关部门已下令禁止炒作“陪都”等概念。有分析认为，在雄安这样一张白纸上作画，让习近平可尽情发挥，建造一个习近平式的样板大都市。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816294&from=ogGitn">雄安新区系统升级？ 3县先后停办婚姻登记 2017-04-07 21:06</a><br/>北京宣布设立雄安新区，受影响的不仅是房地产市场，就连户籍变更、公职人员进出、产权变更等都被暂时冻结，甚至部分居民的离婚、复婚也无法进行。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816290&from=ogGitn">雄安禁止炒作陪都概念 习打造新城市样板 2017-04-07 20:47</a><br/>河北设立雄安新区的消息发布后，成为舆论关注的热点。据报导，有关部门已下令禁止炒作“陪都”等概念。有分析认为，在雄安这样一张白纸上作画，让习近平可尽情发挥，建造一个习近平式的样板大都市。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816286&from=ogGitn">江苏帮崩盘 第四只大老虎李云峰被立案查 2017-04-07 20:34</a><br/>中纪委监察部网站 4月7日发布消息，对中共第十八届中央候补委员，江苏省原省委常委、常务副省长李云峰严重“违纪”问题进行了立案审查。李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816293&from=ogGitn">大陆居民去年债务增加6万多亿 2017-04-07 20:24</a><br/>大陆居民在2016年债务上升，比2015年增加了6万多亿元人民币。这和去年大陆楼市疯涨有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816288&from=ogGitn">三座“大山”压顶 中国逾5400万人患抑郁 2017-04-07 20:21</a><br/>世界卫生组织（WTO）4月6日对外发布信息称，在中国，有逾5400万人罹患抑郁症。网民吐槽都是三座大山压的。</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816056&from=ogGitn">网传蒂勒森访华达6共识：美日韩斩首金正恩中方中立 2017-04-05 19:03</a><br/>网上一份未经证实的消息称，中美双方可能达成几点共识，其中一项是，如果美国发动对朝鲜的军事行动，中国没有第二次〝抗美援朝〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816058&from=ogGitn">毛泽东的八句话骗了中国十多亿人 2017-04-05 18:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816061&from=ogGitn">山东14岁少女玩手机  颈椎老化如50岁老人 2017-04-05 18:49</a><br/>山东青岛14岁少女小婷，因每天都玩手机，颈椎出现了〝曲度变直〞，老化程度如50岁老人。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816065&from=ogGitn">山东三起重大丑闻 都发生在姜异康任内 2017-04-05 18:30</a><br/>近年来，山东曾发生三起引起舆论抨击的公共事件，如“辱母杀人案”、“山东疫苗案”、“陈光诚事件”。有分析认为，山东一次又一次以负面形象出现在中共政坛。折射出山东官场官官相护，上有政策下有对策的不作为。外界也注意到，上述三大事件都在中共山东省委书记姜异康的任内发生。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816062&from=ogGitn">退休两年后 四川公安厅高官被立案侦查 2017-04-05 17:47</a><br/>日前，中共四川公安厅原副厅级侦察员何宗志以涉嫌“受贿罪、滥用职权罪”被立案侦查。中共“十八大”后，习当局对四川官场持续清洗，大批官员落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816019&from=ogGitn">石涛：王岐山通杀外交部 强人政治摧毁制度邪恶 2017-04-05 17:42</a><br/>习近平以政治强人的概念想摧毁政治强权的制度，在把军队拿掉之后，先砍掉了国安部，然后冲着外交部，外交部包括港澳台等外交事务，这里已经包括统战部和政协了。政法委体系中对等着，我们看到了一样的场面。</td></tr>
 </table>
