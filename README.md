@@ -3,7 +3,6 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 07:22</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816231&from=ogGitn">美国务院谈川习会：朝核问题〝绝对优先〞 2017-04-07 07:20</a><br/>举世关注的川习会已在佛罗里达州棕榈湾豪华的马阿拉歌庄园拉开帷幕。朝鲜问题和中美贸易是外界持续关注的焦点。而美官员称朝鲜问题是〝绝对优先〞。而此前川普表示，贸易是谈判槓杆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816244&from=ogGitn">【中国禁闻】4月6日完整版 2017-04-07 07:15</a><br/>中共反萨德 评：关键是不懂参数；特首选举遭操控？廉署抓人 建制指控；作古十年污名上身 刘文彩善人变恶霸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816241&from=ogGitn">【禁闻】4月6日维权动态 2017-04-07 07:09</a><br/>习仲勋陵园成上访村 访民扫墓被抓；四川民师接受外媒采访 遭当局威胁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816240&from=ogGitn">【禁闻】4月6日退党精选 2017-04-07 07:08</a><br/>广西民众说，为了拿驾照被迫宣誓入党，而其他被动入队和入团的民众也宣布退出中共组织。</td></tr>
@@ -17,8 +16,10 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816229&from=ogGitn">打女人丝毫不手软 城管围殴业主 棍棒铁锹齐上 2017-04-07 05:33</a><br/>中国城管的暴力执法，一直备受人们指责。现在，网友再度热传一段视频，显示一群城管，暴力殴打餐馆等小业主，非常凶残。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">31省委书记 江派被淘汰7成 十九大后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 05:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816246&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:15</a><br/>川普总统：您好！3月28日，我写了《致美国总统川普的一封公开信》（An Open Letter to President Trump），发给了：1. White House；2. State Department；3. Washington Times；4. Politico.com；5. BreitBart.com；6. The Daily...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816239&from=ogGitn">中企抄袭韩广告创意遭奚落  网友：丢脸 2017-04-07 05:11</a><br/>中国大陆的偶像组合为一家服饰品牌拍摄的广告，被韩国网友发现疑似有抄袭嫌疑，引起网友的热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816224&from=ogGitn">【禁闻】作古十年污名上身 刘文彩善人变恶霸 2017-04-07 05:04</a><br/>即便今年已经年过七旬，但刘小飞仍然在持续奔走。他试图靠个人的力量来洗刷掉执政党让他爷爷背负的污名。早从1973年他就开始相关调查，考虑到洗冤可能付出的代价，他至今还是独身。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816231&from=ogGitn">美国务院谈川习会：朝核问题〝绝对优先〞 2017-04-07 05:03</a><br/>举世关注的川习会已在佛罗里达州棕榈湾豪华的马阿拉歌庄园拉开帷幕。朝鲜问题和中美贸易是外界持续关注的焦点。而美官员称朝鲜问题是〝绝对优先〞。而此前川普表示，贸易是谈判槓杆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816223&from=ogGitn">【禁闻】纪录片《共犯》 大陆工人血泪史 2017-04-07 04:50</a><br/>纪录片《共犯》讲述在深圳和广州的电子产品制造工厂里，因暴露在有毒化学品环境中而患病的工人的经历。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816222&from=ogGitn">【禁闻】中共反萨德 评：关键是不懂参数 2017-04-07 04:49</a><br/>萨德的拦截弹对中国威胁不大——它只拦截下降中的弹道末段的目标，但中国战略导弹，包括从黄海或渤海发射的潜射导弹，经过韩国附近时，还在上升中的助推段。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816226&from=ogGitn">被杀“回马枪”之际 吉林省委三关键职位换人 2017-04-07 04:17</a><br/>在吉林省被当局“杀回马枪”之际，近日，吉林省委纪委书记、宣传部长、组织部长三个关键职位换人。</td></tr>
@@ -27,7 +28,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816220&from=ogGitn">4月6日全球看中国 2017-04-07 03:56</a><br/>华人父女被控美国投资移民项目作假 帮助中国逃犯骗取绿卡；中国学生命案令当局重维稳 官媒撞铁板；林郑周日上京接受任命 惟未上任民望已呈负数；中国环保部通报一些地方政府在重污染天气应对工作中推诿扯皮。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816219&from=ogGitn">杀子悲剧再现   安徽一母亲疑因无钱毒杀两儿女 2017-04-07 03:55</a><br/>清明节假期，安徽泗县的一名母亲亲手毒害了自己的两个孩子。网友爆料称〝还想因为没有钱花吧〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816217&from=ogGitn">泸州校园命案 官方通报发布会姗姗来迟 2017-04-07 03:44</a><br/>四川泸州赵姓初中生死亡事件，因民众质疑警方隐瞒案情，爆发大规模警民冲突。当地政府封路封网，抓捕民众，软禁家属，甚至阻挠中央党媒记者采访。事件发生后的第6天，当地官方终于公开对外说明，但依然继续否认死者生前遭到霸凌。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816234&from=ogGitn">河北太行水镇官商勾结 保安与村民爆冲突 2017-04-07 03:28</a><br/>近日，河北省保定易县恋乡．太行水镇一群青少年被该地开发商百悦集团雇用的保安打伤，其中有一个孩子头部受重伤，仍在ICU抢救，事件导致当地村民与保安发生冲突，保安亦被村民打成重伤。另外，该地200多家摊位被迫停业。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816234&from=ogGitn">河北太行水镇官商勾结 村民与保安均有受伤 2017-04-07 03:28</a><br/>近日，河北省保定易县恋乡．太行水镇一群青少年被该地开发商百悦集团雇用的保安打伤，其中有一个孩子头部受重伤，仍在ICU抢救，事件导致当地村民与保安发生冲突，保安亦被村民打成重伤。另外，该地200多家摊位被迫停业。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816211&from=ogGitn">泸州惨案遭镇压 军车进驻 校园下封口令 2017-04-07 02:20</a><br/>四川泸州太伏镇中学生被打死事件已过去6天，官方一直未有可让人信服的结论，反而调动大批特警、军警，甚至装甲车开进城镇，封锁一切消息进行镇压，学生被下封口令。湖南衡州律师事务所廖曜中律师主动联系死者父亲愿为其提供法律帮助，却因官方干扰无法实现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816215&from=ogGitn">川普谈川习会 “没有人知道会发生什么” 2017-04-07 02:03</a><br/>川普（特朗普）总统周四（4月6日）早上说，他跟中共主席习近平的会晤“没有人知道会发生什么”。他说，围绕贸易和朝鲜最近导弹测试的问题预计将摆上桌面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-07 01:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
@@ -201,5 +202,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816004&from=ogGitn">4月4日全球看中国 2017-04-05 05:33</a><br/>雄安新区房地产点土成金 当局严打炒房奏效否?;清明节〝六四〞难属遭公安严控 孙文广教授被旅游;特朗普停止资助人口基金 与中国有关？;韩国现代和起亚汽车在中国减产 因中韩外交关系紧张。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816003&from=ogGitn">【禁闻】郭文贵再爆料：活摘器官血淋淋的佐证 2017-04-05 05:29</a><br/>川习会 法轮功将吁习法办江泽民；郭文贵再爆料：活摘器官血淋淋的佐证；李明哲妻宣布赴北京救夫出发日期。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816007&from=ogGitn">陈默：左右何以逢源 2017-04-05 05:28</a><br/>受曾建元教授邀请出席〝丁酉反右60周年〞国际学术研讨会，因故无法成行。又忙于世俗之事，匆匆拙笔，以补缺席之憾。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c815999&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不便答复 2017-04-05 05:25</a><br/>北大对美国之音有关郭文贵捐款去向的询问作出反应，称郭文贵的公开信不是正式向北大提交，因此校长不方便做出答复。</td></tr>
 </table>
