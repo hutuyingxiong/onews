@@ -2,9 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 14:35</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816262&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-07 12:51</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫花季非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网络“辟谣”，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816264&from=ogGitn">川习会晤最应该谈什么？ 美USCRIF这么说 2017-04-07 12:39</a><br/>美国总统川普（特朗普）和中国领导人习近平的首度会晤4月6日在佛州登场。川习会晤什么议题最重要？美国国际宗教自由委员会（USCRIF）主席和委员向大纪元分享了他们的看法。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 12:38</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816258&from=ogGitn">俄中开发黑瞎子岛？ 江泽民卖国丑闻再被聚焦 2017-04-07 12:28</a><br/>黑瞎子岛历来属于中国领土，80多年前被苏军侵占，直到2008年才部分回归中国，其背后隐藏的是中共及其前党魁江泽民的卖国行径。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 11:36</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816256&from=ogGitn">庄园会晤餐单曝光 川普设牛扒宴请习近平 2017-04-07 11:21</a><br/>4月6晚，中共主席习近平抵达佛罗里达州，与美国总统川普（特朗普）举行高峰会。当晚6点半，川普夫妇在马拉阿哥私人庄园（又称海湖山庄）宴请习近平夫妇。川普准备了精致的餐点。美国传媒公开的餐单有2款，供习近平夫妇任选其一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816252&from=ogGitn">川普牛排宴招待习近平 还发推特玄酷 
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816040&from=ogGitn">河南一水库出险 大水倾泻逾300村民急撤离 2017-04-05 11:07</a><br/>4月4日凌晨，河南三门峡灵宝市阳店镇一个水库发生侧漏，洪水突袭倾泻而下淹没下庄村。大树被连根拔起，部分街道水深达30釐米，并淹浸村民家。目前，已有逾300名村民紧急撤离，暂未见伤亡报</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816022&from=ogGitn">每日三退声明精选（2017/04/04） 2017-04-05 10:25</a><br/>共产党很坏。以前觉得自己已经出国多年，年龄又大了。早就不是少先队员了。但是我知道毕竟以前宣过誓为它奋斗的，就算过了年龄，走到天涯海角还是最终要兑现的。为了不为它陪葬，今天宣布当年的誓言作废。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816023&from=ogGitn">郭文贵追讨十亿捐款 北大称校长不方便答覆 2017-04-05 10:19</a><br/>郭文贵在信中控诉北大〝动用国家专案组力量〞恐吓他。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816024&from=ogGitn">北京地铁有多挤？男子被挤成四肢瘫痪地铁公司判赔 2017-04-05 10:07</a><br/>近日，北京昌平法院一审判决地铁公司赔偿王涛医疗费等共26万余元人民币。</td></tr>
 </table>
