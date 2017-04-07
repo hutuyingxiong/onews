@@ -3,6 +3,9 @@
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 10:57</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816252&from=ogGitn">川普牛排宴招待习近平 还发推特玄酷 
+										
+											?组图 2017-04-07 10:55</a><br/>6日晚，川普接待习近平时，准备了精致的餐点，并发推特炫耀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816250&from=ogGitn">突发：网曝苏州大规模械斗 炸药砍刀齐上如打仗 
 										
 											?组图 2017-04-07 10:38</a><br/>4月7日凌晨，网曝苏州虎丘安徽的和江苏徐州的开仗了！</td></tr>
@@ -12,6 +15,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816243&from=ogGitn">5个中国人述说：为何川习会应谈中国人权 2017-04-07 08:31</a><br/>川习会，会不会谈中国人权，是各界都在关心的话题。下面，我们从几个中国人的视角，来听他们讲述，为什么川习会不应回避中国人权问题。他们每个人的故事，都代表中共侵犯人权的一个标志性事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816232&from=ogGitn">【禁闻】特首选举遭操控？廉署抓人 建制指控 2017-04-07 08:25</a><br/>根据香港媒体报导，廉政公署早前接获投诉，指有人涉嫌在去年的立法会资讯科技功能界别选举中，作出违反《选举条例》的舞弊行为，因此从上周二起廉政公署展开为期3天、代号〝雪豹〞的行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816222&from=ogGitn">【禁闻】中共反萨德 评：关键是不懂参数 2017-04-07 07:49</a><br/>萨德的拦截弹对中国威胁不大——它只拦截下降中的弹道末段的目标，但中国战略导弹，包括从黄海或渤海发射的潜射导弹，经过韩国附近时，还在上升中的助推段。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:31</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 07:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 07:22</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816231&from=ogGitn">美国务院谈川习会：朝核问题〝绝对优先〞 2017-04-07 07:20</a><br/>举世关注的川习会已在佛罗里达州棕榈湾豪华的马阿拉歌庄园拉开帷幕。朝鲜问题和中美贸易是外界持续关注的焦点。而美官员称朝鲜问题是〝绝对优先〞。而此前川普表示，贸易是谈判槓杆。</td></tr>
@@ -19,13 +23,12 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816241&from=ogGitn">【禁闻】4月6日维权动态 2017-04-07 07:09</a><br/>习仲勋陵园成上访村 访民扫墓被抓；四川民师接受外媒采访 遭当局威胁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816240&from=ogGitn">【禁闻】4月6日退党精选 2017-04-07 07:08</a><br/>广西民众说，为了拿驾照被迫宣誓入党，而其他被动入队和入团的民众也宣布退出中共组织。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816224&from=ogGitn">【禁闻】作古十年污名上身 刘文彩善人变恶霸 2017-04-07 07:04</a><br/>即便今年已经年过七旬，但刘小飞仍然在持续奔走。他试图靠个人的力量来洗刷掉执政党让他爷爷背负的污名。早从1973年他就开始相关调查，考虑到洗冤可能付出的代价，他至今还是独身。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:01</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816237&from=ogGitn">川习会前 美国会要员促川普向习提人权 2017-04-07 06:41</a><br/>6日，川习会登场前夕，美国众议院少数党领袖佩洛西和共和党重量级众议员史密斯，都敦促川普（特朗普）总统向习近平提起中国人权问题，以此支持那些因宗教和政治信仰而遭到迫害的人们。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816242&from=ogGitn">俄官员：朝鲜导弹威胁俄远东 俄已提升战备 2017-04-07 06:25</a><br/>俄罗斯专家评论称中俄也加入了美韩反对朝鲜的阵营中了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816233&from=ogGitn">【禁闻】川习会 法轮功海湖庄园外吁法办江泽民 2017-04-07 05:47</a><br/>川习会 法轮功海湖庄园外吁法办江泽民；江苏、辽宁 两名法轮功学员无罪获释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816230&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:45</a><br/>今天，您将在美国佛罗里达州的马阿拉歌渡假村跟中国国家主席习近平实现第一次历史性会见，特再给您写这封信，并通过您强烈要求习近平主席立即抓捕江泽民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816229&from=ogGitn">打女人丝毫不手软 城管围殴业主 棍棒铁锹齐上 2017-04-07 05:33</a><br/>中国城管的暴力执法，一直备受人们指责。现在，网友再度热传一段视频，显示一群城管，暴力殴打餐馆等小业主，非常凶残。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">31省委书记 江派被淘汰7成 十九大后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">31省委书记 江派被淘汰7成 换届后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816246&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:15</a><br/>川普总统：您好！3月28日，我写了《致美国总统川普的一封公开信》（An Open Letter to President Trump），发给了：1. White House；2. State Department；3. Washington Times；4. Politico.com；5. BreitBart.com；6. The Daily...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816239&from=ogGitn">中企抄袭韩广告创意遭奚落  网友：丢脸 2017-04-07 05:11</a><br/>中国大陆的偶像组合为一家服饰品牌拍摄的广告，被韩国网友发现疑似有抄袭嫌疑，引起网友的热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816223&from=ogGitn">【禁闻】纪录片《共犯》 大陆工人血泪史 2017-04-07 04:50</a><br/>纪录片《共犯》讲述在深圳和广州的电子产品制造工厂里，因暴露在有毒化学品环境中而患病的工人的经历。</td></tr>
@@ -36,6 +39,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816219&from=ogGitn">杀子悲剧再现   安徽一母亲疑因无钱毒杀两儿女 2017-04-07 03:55</a><br/>清明节假期，安徽泗县的一名母亲亲手毒害了自己的两个孩子。网友爆料称〝还想因为没有钱花吧〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816217&from=ogGitn">泸州校园命案 官方通报发布会姗姗来迟 2017-04-07 03:44</a><br/>四川泸州赵姓初中生死亡事件，因民众质疑警方隐瞒案情，爆发大规模警民冲突。当地政府封路封网，抓捕民众，软禁家属，甚至阻挠中央党媒记者采访。事件发生后的第6天，当地官方终于公开对外说明，但依然继续否认死者生前遭到霸凌。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816234&from=ogGitn">河北太行水镇官商勾结 村民与保安均有受伤 2017-04-07 03:28</a><br/>近日，河北省保定易县恋乡．太行水镇一群青少年被该地开发商百悦集团雇用的保安打伤，其中有一个孩子头部受重伤，仍在ICU抢救，事件导致当地村民与保安发生冲突，保安亦被村民打成重伤。另外，该地200多家摊位被迫停业。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816253&from=ogGitn">新疆生产建设兵团党委前常委等4官员落马 2017-04-07 03:23</a><br/>近两日，中共新疆生产建设兵团党委前常委王世江、新疆大学副校长迪里木拉提·吾甫尔江，以及宁夏财政厅副厅长董锋、宁夏农业投资集团总经理陈延被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816211&from=ogGitn">泸州惨案遭镇压 军车进驻 校园下封口令 2017-04-07 02:20</a><br/>四川泸州太伏镇中学生被打死事件已过去6天，官方一直未有可让人信服的结论，反而调动大批特警、军警，甚至装甲车开进城镇，封锁一切消息进行镇压，学生被下封口令。湖南衡州律师事务所廖曜中律师主动联系死者父亲愿为其提供法律帮助，却因官方干扰无法实现。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816215&from=ogGitn">川普谈川习会 “没有人知道会发生什么” 2017-04-07 02:03</a><br/>川普（特朗普）总统周四（4月6日）早上说，他跟中共主席习近平的会晤“没有人知道会发生什么”。他说，围绕贸易和朝鲜最近导弹测试的问题预计将摆上桌面。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816175&from=ogGitn">【翻墙必看】大陆电视剧片方造假黑幕惊人 2017-04-07 01:42</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
@@ -68,12 +72,12 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816192&from=ogGitn">川农被打死 11年维权无果 家属报案情至省长 2017-04-06 20:52</a><br/>四川省武胜县赛马镇雀林村农民工尹才平、尹洪平十七年前被打死一案至今未给家属合理答复。堂弟尹才春和他的伯父、两位嫂嫂及父亲从十一年前维权一直到现在，仍没有结果。4月1日下午，尹才春将堂哥们的案情材料寄送给四川省省长尹力，期盼这桩十几年前的案子能有结果，但是他表示由于是中共执政，所以对此并不抱希望，只是尽自己的努力去帮助已死的哥哥们讨回公道。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816183&from=ogGitn">武汉精神病患者从医院3楼出逃后“失踪” 2017-04-06 20:18</a><br/>湖北武汉天祐医院精神病科一名患者4月4日逃离医院后，至今还是“失踪”状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816179&from=ogGitn">向黄兴国泄密的中纪委内鬼 帮商人揽工程收贿 2017-04-06 20:09</a><br/>近期，吉林华运房地产开发有限公司董事长黄保国被判刑5年。其被指控向中纪委官员袁卫华行贿数百万元（人民币、下同）。此前，袁被指以“故意泄露案情”换取利益，黄兴国落马前曾找他打探案情。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背人之常情 2017-04-06 20:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816180&from=ogGitn">川习会 美议员吁释放中国人权律师等人士 2017-04-06 19:51</a><br/>美国国会及行政当局中国委员会（CECC）主席鲁比奥参议员和共同主席史密斯众议员本周发起一项名为“让中国的英雄自由”计划，呼吁川习会关注包括被关押或被失踪的中国人权律师在内的人权活动人士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 19:20</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816171&from=ogGitn">浙江义乌疑泄漏煤气爆炸 有伤亡 2017-04-06 18:05</a><br/>周四(4月6日)，浙江省义乌市发生煤气爆炸事故，目前已知有1人丧生，多人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背人之常情 2017-04-06 18:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816178&from=ogGitn">江西一商城发生血案3人身亡 2017-04-06 17:32</a><br/>近期，大陆多地天灾人祸频发。4月6日上午11时许，江西鹰潭月湖区发生命案，一对开布店夫妻被杀身亡，嫌犯自杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816186&from=ogGitn">四川再出校园惨案 15岁女生6楼卫生间坠亡 2017-04-06 17:21</a><br/>就在泸县一名14岁男生离奇坠楼事件持续发酵之际，四川省再传校园惨案，西昌市一名15岁女生近日从学校6楼卫生间坠亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
@@ -202,6 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 令中共忧心的三个原因 2017-04-05 06:47</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816011&from=ogGitn">【禁闻】4月4日退党精选 2017-04-05 06:27</a><br/>张建莲说：我是佳木斯监狱的警察，我们小区有一个法轮功学员，冬天义务为大家清雪，夏天义务种花的，我敬佩的好人。他告诉我说因为患了严重的心脏病，医生建议安起搏器，他没安起搏器，而炼法轮功好了。他就按照法轮功〝心怀真善忍，修己利与民〞为大家尽的义务。他说炼法轮功的都是好人，不要迫害法轮功。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816010&from=ogGitn">【禁闻】4月4日维权动态 2017-04-05 06:25</a><br/>律师两次要求会见黄琦 遭拒绝；警方阻挠租房 倪玉兰面临流落街头；北京季新华诉丰台公安局案开庭；709谢阳案律师遭当局强行更换。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816034&from=ogGitn">河北设雄安新区消息传出 当地楼价一夜涨4倍 2017-04-05 06:23</a><br/>大陆官方宣布在河北设立雄安新区后，雄安掀炒楼热。据报，其楼价一夜翻4倍，雄安官方严打炒房，有中介现场被抓。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816115&from=ogGitn">真的了解美国粮食券吗？专家谈七大误解 2017-04-05 05:55</a><br/>粮食券是美国最重要的福利计划之一，然而，很多国会议员和民众对其运作情形并不了解，因此传出一些“故事”，例如有人拿粮食券买垃圾食物、享受福利者拥有豪车等，很多是以讹传讹。</td></tr>
 </table>
