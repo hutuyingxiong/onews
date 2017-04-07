@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 11:26</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 10:57</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816252&from=ogGitn">川普牛排宴招待习近平 还发推特玄酷 
 										
@@ -28,7 +29,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816233&from=ogGitn">【禁闻】川习会 法轮功海湖庄园外吁法办江泽民 2017-04-07 05:47</a><br/>川习会 法轮功海湖庄园外吁法办江泽民；江苏、辽宁 两名法轮功学员无罪获释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816230&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:45</a><br/>今天，您将在美国佛罗里达州的马阿拉歌渡假村跟中国国家主席习近平实现第一次历史性会见，特再给您写这封信，并通过您强烈要求习近平主席立即抓捕江泽民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816229&from=ogGitn">打女人丝毫不手软 城管围殴业主 棍棒铁锹齐上 2017-04-07 05:33</a><br/>中国城管的暴力执法，一直备受人们指责。现在，网友再度热传一段视频，显示一群城管，暴力殴打餐馆等小业主，非常凶残。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">31省委书记 江派被淘汰7成 换届后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">31省委书记 江派被淘汰7成 十九大后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816246&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:15</a><br/>川普总统：您好！3月28日，我写了《致美国总统川普的一封公开信》（An Open Letter to President Trump），发给了：1. White House；2. State Department；3. Washington Times；4. Politico.com；5. BreitBart.com；6. The Daily...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816239&from=ogGitn">中企抄袭韩广告创意遭奚落  网友：丢脸 2017-04-07 05:11</a><br/>中国大陆的偶像组合为一家服饰品牌拍摄的广告，被韩国网友发现疑似有抄袭嫌疑，引起网友的热议。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816223&from=ogGitn">【禁闻】纪录片《共犯》 大陆工人血泪史 2017-04-07 04:50</a><br/>纪录片《共犯》讲述在深圳和广州的电子产品制造工厂里，因暴露在有毒化学品环境中而患病的工人的经历。</td></tr>
@@ -205,5 +206,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816014&from=ogGitn">【中国禁闻】4月4日完整版 2017-04-05 07:09</a><br/>中国设〝雄安新区〞 再现疯狂炒房潮；追查国际收集犯罪名单 呼应美新法案；纪录片《掩埋》 揭唐山大地震实情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816000&from=ogGitn">美韩部署萨德系统 令中共忧心的三个原因 2017-04-05 06:47</a><br/>为对抗日益增加的朝核威胁，美韩联手在韩国境内部署萨德反导系统，引发中共不满。专家表示，中共反萨德的关键是“不知道它的技术参数”，也就是不了解这种防御性武器能在多大程度上能追踪并遏制大陆的核武。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816011&from=ogGitn">【禁闻】4月4日退党精选 2017-04-05 06:27</a><br/>张建莲说：我是佳木斯监狱的警察，我们小区有一个法轮功学员，冬天义务为大家清雪，夏天义务种花的，我敬佩的好人。他告诉我说因为患了严重的心脏病，医生建议安起搏器，他没安起搏器，而炼法轮功好了。他就按照法轮功〝心怀真善忍，修己利与民〞为大家尽的义务。他说炼法轮功的都是好人，不要迫害法轮功。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816010&from=ogGitn">【禁闻】4月4日维权动态 2017-04-05 06:25</a><br/>律师两次要求会见黄琦 遭拒绝；警方阻挠租房 倪玉兰面临流落街头；北京季新华诉丰台公安局案开庭；709谢阳案律师遭当局强行更换。</td></tr>
 </table>
