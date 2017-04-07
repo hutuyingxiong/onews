@@ -2,25 +2,25 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816243&from=ogGitn">5个中国人述说：为何川习会应谈中国人权 2017-04-07 08:31</a><br/>川习会，会不会谈中国人权，是各界都在关心的话题。下面，我们从几个中国人的视角，来听他们讲述，为什么川习会不应回避中国人权问题。他们每个人的故事，都代表中共侵犯人权的一个标志性事件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816232&from=ogGitn">【禁闻】特首选举遭操控？廉署抓人 建制指控 2017-04-07 08:25</a><br/>根据香港媒体报导，廉政公署早前接获投诉，指有人涉嫌在去年的立法会资讯科技功能界别选举中，作出违反《选举条例》的舞弊行为，因此从上周二起廉政公署展开为期3天、代号〝雪豹〞的行动。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816222&from=ogGitn">【禁闻】中共反萨德 评：关键是不懂参数 2017-04-07 07:49</a><br/>萨德的拦截弹对中国威胁不大——它只拦截下降中的弹道末段的目标，但中国战略导弹，包括从黄海或渤海发射的潜射导弹，经过韩国附近时，还在上升中的助推段。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816235&from=ogGitn">冯崇义：民主力量积累 突发事件或致中国变局 2017-04-07 07:22</a><br/>遭到中共当局扣押超过一个星期的澳大利亚学者冯崇义，返回澳洲后表示，中共的威吓将彻底失败，他将再回中国，继续他的研究。他还表示，中共不可能永远专政下去；大陆民主力量积累，突发事件或致中国变局。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816231&from=ogGitn">美国务院谈川习会：朝核问题〝绝对优先〞 2017-04-07 07:20</a><br/>举世关注的川习会已在佛罗里达州棕榈湾豪华的马阿拉歌庄园拉开帷幕。朝鲜问题和中美贸易是外界持续关注的焦点。而美官员称朝鲜问题是〝绝对优先〞。而此前川普表示，贸易是谈判槓杆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816244&from=ogGitn">【中国禁闻】4月6日完整版 2017-04-07 07:15</a><br/>中共反萨德 评：关键是不懂参数；特首选举遭操控？廉署抓人 建制指控；作古十年污名上身 刘文彩善人变恶霸。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816241&from=ogGitn">【禁闻】4月6日维权动态 2017-04-07 07:09</a><br/>习仲勋陵园成上访村 访民扫墓被抓；四川民师接受外媒采访 遭当局威胁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816240&from=ogGitn">【禁闻】4月6日退党精选 2017-04-07 07:08</a><br/>广西民众说，为了拿驾照被迫宣誓入党，而其他被动入队和入团的民众也宣布退出中共组织。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816224&from=ogGitn">【禁闻】作古十年污名上身 刘文彩善人变恶霸 2017-04-07 07:04</a><br/>即便今年已经年过七旬，但刘小飞仍然在持续奔走。他试图靠个人的力量来洗刷掉执政党让他爷爷背负的污名。早从1973年他就开始相关调查，考虑到洗冤可能付出的代价，他至今还是独身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816236&from=ogGitn">重庆官场再调整 唐良智异地调任副书记 2017-04-07 07:01</a><br/>继重庆市纪委书记、常务副市长换人后，日前该市市委副书记也履新，由成都前市委书记唐良智转任。去年下半年以来，黄奇帆卸任市长等，高层调整频频，重庆官场震荡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816243&from=ogGitn">5个中国人述说：为何川习会应谈中国人权 2017-04-07 06:56</a><br/>川习会，会不会谈中国人权，是各界都在关心的话题。下面，我们从几个中国人的视角，来听他们讲述，为什么川习会不应回避中国人权问题。他们每个人的故事，都代表中共侵犯人权的一个标志性事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816237&from=ogGitn">川习会前 美国会要员促川普向习提人权 2017-04-07 06:41</a><br/>6日，川习会登场前夕，美国众议院少数党领袖佩洛西和共和党重量级众议员史密斯，都敦促川普（特朗普）总统向习近平提起中国人权问题，以此支持那些因宗教和政治信仰而遭到迫害的人们。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816242&from=ogGitn">俄官员：朝鲜导弹威胁俄远东 俄已提升战备 2017-04-07 06:25</a><br/>俄罗斯专家评论称中俄也加入了美韩反对朝鲜的阵营中了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816232&from=ogGitn">【禁闻】特首选举遭操控？廉署抓人 建制指控 2017-04-07 05:47</a><br/>根据香港媒体报导，廉政公署早前接获投诉，指有人涉嫌在去年的立法会资讯科技功能界别选举中，作出违反《选举条例》的舞弊行为，因此从上周二起廉政公署展开为期3天、代号〝雪豹〞的行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816233&from=ogGitn">【禁闻】川习会 法轮功海湖庄园外吁法办江泽民 2017-04-07 05:47</a><br/>川习会 法轮功海湖庄园外吁法办江泽民；江苏、辽宁 两名法轮功学员无罪获释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816230&from=ogGitn">王友群：致美国总统川普的一封公开信 2017-04-07 05:45</a><br/>今天，您将在美国佛罗里达州的马阿拉歌渡假村跟中国国家主席习近平实现第一次历史性会见，特再给您写这封信，并通过您强烈要求习近平主席立即抓捕江泽民。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816229&from=ogGitn">打女人丝毫不手软 城管围殴业主 棍棒铁锹齐上 2017-04-07 05:33</a><br/>中国城管的暴力执法，一直备受人们指责。现在，网友再度热传一段视频，显示一群城管，暴力殴打餐馆等小业主，非常凶残。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816228&from=ogGitn">31省委书记 江派被淘汰7成 十九大后更惨 2017-04-07 05:23</a><br/>4月至7月，全国将有17省中共省委进行换届。4月1日，即有4省江派省委书记被替换。至此，江派31省委大员要职至少丢掉7成。若换届后，江派势力有可能低到不到1成半。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 05:22</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816239&from=ogGitn">中企抄袭韩广告创意遭奚落  网友：丢脸 2017-04-07 05:11</a><br/>中国大陆的偶像组合为一家服饰品牌拍摄的广告，被韩国网友发现疑似有抄袭嫌疑，引起网友的热议。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816224&from=ogGitn">【禁闻】作古十年污名上身 刘文彩善人变恶霸 2017-04-07 05:04</a><br/>即便今年已经年过七旬，但刘小飞仍然在持续奔走。他试图靠个人的力量来洗刷掉执政党让他爷爷背负的污名。早从1973年他就开始相关调查，考虑到洗冤可能付出的代价，他至今还是独身。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816231&from=ogGitn">美国务院谈川习会：朝核问题〝绝对优先〞 2017-04-07 05:03</a><br/>举世关注的川习会已在佛罗里达州棕榈湾豪华的马阿拉歌庄园拉开帷幕。朝鲜问题和中美贸易是外界持续关注的焦点。而美官员称朝鲜问题是〝绝对优先〞。而此前川普表示，贸易是谈判槓杆。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816223&from=ogGitn">【禁闻】纪录片《共犯》 大陆工人血泪史 2017-04-07 04:50</a><br/>纪录片《共犯》讲述在深圳和广州的电子产品制造工厂里，因暴露在有毒化学品环境中而患病的工人的经历。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816222&from=ogGitn">【禁闻】中共反萨德 评：关键是不懂参数 2017-04-07 04:49</a><br/>萨德的拦截弹对中国威胁不大——它只拦截下降中的弹道末段的目标，但中国战略导弹，包括从黄海或渤海发射的潜射导弹，经过韩国附近时，还在上升中的助推段。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816226&from=ogGitn">被杀“回马枪”之际 吉林省委三关键职位换人 2017-04-07 04:17</a><br/>在吉林省被当局“杀回马枪”之际，近日，吉林省委纪委书记、宣传部长、组织部长三个关键职位换人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816216&from=ogGitn">“混改”放空炮 港市不买单 联通复牌倒跌4% 2017-04-07 04:03</a><br/>中国联通作为中共国家发改委的头号“混改”对象，在经历星期三A股和H股双停牌后，星期四H股复牌失守，倒跌3.87%，被指港市对“政策”概念股不买单，未来股价走势还有待观察。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816221&from=ogGitn">党媒质疑泸州命案 被指唱红脸配合当局〝维稳〞 2017-04-07 03:58</a><br/>中共党媒喉舌日前首次报导泸州学生坠亡事件，罕见炮轰当地政府。有关报导被指是为配合当局维稳。此外，网上民众爆料，该校过去也曾发生同类事件，因此当地才民怨沸腾。</td></tr>
