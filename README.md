@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816274&from=ogGitn">中纪委〝内鬼〞受贿618万   曾向黄兴国泄密 2017-04-07 17:07</a><br/>4月6日，北京法院审判信息网，公开黄保国行贿罪二审刑事裁定书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816273&from=ogGitn">深圳前市委书记出任河北代省长　或助推进雄安新区发展 2017-04-07 16:44</a><br/>深圳前市委书记、前市长许勤，7日，获任命为河北省政府副省长、代理省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816272&from=ogGitn">江绵康已退休？ 不再任上海城乡交通研究院长 2017-04-07 15:46</a><br/>有报导说，63岁的江绵康已卸任上海市城乡建设和交通发展研究院党委书记、院长一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816271&from=ogGitn">县长镇长齐施压  泸县死亡学生奶奶气晕送医 
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816048&from=ogGitn">谢田：纽时为何走入共产主义圈套 2017-04-05 12:54</a><br/>共产主义的追随者们在前苏联篡夺政权，是1922年，但奠定这个共产国家基础的，是1917年的俄国二月和十月革命。到今天，100年过去了。共产政权百年之际，出现了许多反思共产主义对人类荼毒的文章。美国主流媒体如《纽约时报》也发表一系列有关共产主义的评论。但《纽约时报》中文版今年2月张彦的文章〈共产党是如何引导中国走向成功的？〉，却真正的让人们跌破了眼镜，感叹纽时...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816031&from=ogGitn">周晓辉：朝鲜再发射导弹 搅局习川会 2017-04-05 12:38</a><br/>4月6日至7日，美国总统川普（特朗普）和中国国家主席习近平将在佛州举行会晤，商讨中美关系中的一些重大问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816030&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 12:26</a><br/>大陆的一切乱象，“内鬼”是始作俑者。要改变现状，就必须改变产生“内鬼”的体制。体制不改，一切都是空谈。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816039&from=ogGitn">被警察打无人管 维权人士告公安局案6日开庭 2017-04-05 11:31</a><br/>北京维权人士季新华控告丰台公安分局不作为案，将于4月6日在丰台法院开庭审理。4月3日季新华透过“玫瑰中国”网，希望关注此案件的朋友能参与旁听。</td></tr>
 </table>
