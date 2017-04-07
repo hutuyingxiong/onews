@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816276&from=ogGitn">川校园命案 官称死者未遭欺凌引不满 2017-04-07 17:14</a><br/>有学生承认赵鑫是被杀的，学校下了封口令。有民众承认是跳楼的，签个字，每人给50元封口费。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816274&from=ogGitn">中纪委〝内鬼〞受贿618万   曾向黄兴国泄密 2017-04-07 17:07</a><br/>4月6日，北京法院审判信息网，公开黄保国行贿罪二审刑事裁定书。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816275&from=ogGitn">北京访民告警案开庭 声援者遭驱赶 2017-04-07 17:01</a><br/>4月7号，季新华告诉《新唐人》，因无钱聘请律师，6号上午开庭时，他在法庭自述遭遇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816273&from=ogGitn">深圳前市委书记出任河北代省长　或助推进雄安新区发展 2017-04-07 16:44</a><br/>深圳前市委书记、前市长许勤，7日，获任命为河北省政府副省长、代理省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816272&from=ogGitn">江绵康已退休？ 不再任上海城乡交通研究院长 2017-04-07 15:46</a><br/>有报导说，63岁的江绵康已卸任上海市城乡建设和交通发展研究院党委书记、院长一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816271&from=ogGitn">县长镇长齐施压  泸县死亡学生奶奶气晕送医 
@@ -26,6 +28,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816261&from=ogGitn">李放：一党专政 必然短命 2017-04-07 09:11</a><br/>现在中共从高层到整个社会全都败坏、腐烂了。已病入膏肓，灭亡在即。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816247&from=ogGitn">横河：辱母杀人案是社会严重不公的缩影 2017-04-07 09:10</a><br/>这个案子说明在中共统治下的基层，所谓的恶黑势力，主要是中共的基层组织或者是中共的官员。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816249&from=ogGitn">袁斌：五问泸县中学生死亡事件 2017-04-07 09:09</a><br/>泸县中学生赵鑫离奇死亡已经6天了，当地官方对要求真相和公正的民众的打压不降反升，目前事态仍在进一步发酵中。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816277&from=ogGitn">南海再掀波 菲下令军队占领无人岛 2017-04-07 08:44</a><br/>川习会6日登场前几小时，菲律宾总统杜特尔特在南海问题上突然转趋强硬，不仅表示6月要到南海岛屿升旗，还下令菲律宾军队占领该国声索海域范围内的所有无人岛屿。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816243&from=ogGitn">5个中国人述说：为何川习会应谈中国人权 2017-04-07 08:31</a><br/>川习会，会不会谈中国人权，是各界都在关心的话题。下面，我们从几个中国人的视角，来听他们讲述，为什么川习会不应回避中国人权问题。他们每个人的故事，都代表中共侵犯人权的一个标志性事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816232&from=ogGitn">【禁闻】特首选举遭操控？廉署抓人 建制指控 2017-04-07 08:25</a><br/>根据香港媒体报导，廉政公署早前接获投诉，指有人涉嫌在去年的立法会资讯科技功能界别选举中，作出违反《选举条例》的舞弊行为，因此从上周二起廉政公署展开为期3天、代号〝雪豹〞的行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816222&from=ogGitn">【禁闻】中共反萨德 评：关键是不懂参数 2017-04-07 07:49</a><br/>萨德的拦截弹对中国威胁不大——它只拦截下降中的弹道末段的目标，但中国战略导弹，包括从黄海或渤海发射的潜射导弹，经过韩国附近时，还在上升中的助推段。</td></tr>
@@ -205,7 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816063&from=ogGitn">扬州女子贪吃麻辣烫致内脏穿孔 2017-04-05 15:26</a><br/>今年31岁的江苏扬州女子晓丽（化名）平时饮食不规律，她还特别喜欢光顾卖麻辣烫、冒菜和烧烤的店。一周前的傍晚，晓丽突然感到右下腹剧烈疼痛，医生在手术时发现其回肠末端已穿孔，还有粪便从盲肠里穿孔漏出。医生表示，这和晓丽长期吃辛辣刺激的食物有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816052&from=ogGitn">大陆地下钱庄使用三种方法 一年转出九千亿 2017-04-05 15:16</a><br/>大陆地下钱庄依然在中国盛行，今年以来仅广东省被查的地下钱庄涉及金额近千亿元人民币。地下钱庄运用四种方法，在2016年就转出了9000亿元人民币。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816037&from=ogGitn">网传李瑞环视频 今年元老露面战开启？ 2017-04-05 13:02</a><br/>目前正是习当局“十九大”布局的关键时期，近期中共退休高层连番以各种形式露面。习阵营中除胡锦涛密集露面外，网传李瑞环也出现在公开场所。而江派亲信陈炳德亦公开露面。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816048&from=ogGitn">谢田：纽时为何走入共产主义圈套 2017-04-05 12:54</a><br/>共产主义的追随者们在前苏联篡夺政权，是1922年，但奠定这个共产国家基础的，是1917年的俄国二月和十月革命。到今天，100年过去了。共产政权百年之际，出现了许多反思共产主义对人类荼毒的文章。美国主流媒体如《纽约时报》也发表一系列有关共产主义的评论。但《纽约时报》中文版今年2月张彦的文章〈共产党是如何引导中国走向成功的？〉，却真正的让人们跌破了眼镜，感叹纽时...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816031&from=ogGitn">周晓辉：朝鲜再发射导弹 搅局习川会 2017-04-05 12:38</a><br/>4月6日至7日，美国总统川普（特朗普）和中国国家主席习近平将在佛州举行会晤，商讨中美关系中的一些重大问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816030&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 12:26</a><br/>大陆的一切乱象，“内鬼”是始作俑者。要改变现状，就必须改变产生“内鬼”的体制。体制不改，一切都是空谈。</td></tr>
 </table>
