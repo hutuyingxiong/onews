@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 17:20</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816276&from=ogGitn">川校园命案 官称死者未遭欺凌引不满 2017-04-07 17:14</a><br/>有学生承认赵鑫是被杀的，学校下了封口令。有民众承认是跳楼的，签个字，每人给50元封口费。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816274&from=ogGitn">中纪委〝内鬼〞受贿618万   曾向黄兴国泄密 2017-04-07 17:07</a><br/>4月6日，北京法院审判信息网，公开黄保国行贿罪二审刑事裁定书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816275&from=ogGitn">北京访民告警案开庭 声援者遭驱赶 2017-04-07 17:01</a><br/>4月7号，季新华告诉《新唐人》，因无钱聘请律师，6号上午开庭时，他在法庭自述遭遇。</td></tr>
@@ -11,7 +12,6 @@
 										
 											?组图 2017-04-07 15:07</a><br/>消息指，太伏镇镇长和泸县副县长要求死者爷爷奶奶签字，谎称孩子跳楼死，二老气昏送院抢救。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816270&from=ogGitn">辽宁铁岭2任书记3任市长落马 网民：烂透了 2017-04-07 15:01</a><br/>日前，随着王志勇和郭治鑫的落马，铁岭官场已有三任市长及两任书记落马。中共十八大以来，辽宁铁岭官员及在铁岭任职过的官员共有9人落马。对于铁岭官场“塌方式腐败”，大陆网民直呼：“这地方太黑了，已经无药可救，烂透了。”</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 15:00</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816262&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-07 12:51</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫花季非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网络“辟谣”，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816264&from=ogGitn">川习会晤最应该谈什么？ 美USCRIF这么说 2017-04-07 12:39</a><br/>美国总统川普（特朗普）和中国领导人习近平的首度会晤4月6日在佛州登场。川习会晤什么议题最重要？美国国际宗教自由委员会（USCRIF）主席和委员向大纪元分享了他们的看法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816258&from=ogGitn">俄中开发黑瞎子岛？ 江泽民卖国丑闻再被聚焦 2017-04-07 12:28</a><br/>黑瞎子岛历来属于中国领土，80多年前被苏军侵占，直到2008年才部分回归中国，其背后隐藏的是中共及其前党魁江泽民的卖国行径。</td></tr>
