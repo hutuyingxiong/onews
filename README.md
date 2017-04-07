@@ -8,6 +8,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816274&from=ogGitn">中纪委〝内鬼〞受贿618万   曾向黄兴国泄密 2017-04-07 17:07</a><br/>4月6日，北京法院审判信息网，公开黄保国行贿罪二审刑事裁定书。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816275&from=ogGitn">北京访民告警案开庭 声援者遭驱赶 2017-04-07 17:01</a><br/>4月7号，季新华告诉《新唐人》，因无钱聘请律师，6号上午开庭时，他在法庭自述遭遇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816273&from=ogGitn">深圳前市委书记出任河北代省长　或助推进雄安新区发展 2017-04-07 16:44</a><br/>深圳前市委书记、前市长许勤，7日，获任命为河北省政府副省长、代理省长。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816280&from=ogGitn">【翻墙必看】泸州校园惨案升级 停电断网 2017-04-07 16:32</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816272&from=ogGitn">江绵康已退休？ 不再任上海城乡交通研究院长 2017-04-07 15:46</a><br/>有报导说，63岁的江绵康已卸任上海市城乡建设和交通发展研究院党委书记、院长一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816271&from=ogGitn">县长镇长齐施压  泸县死亡学生奶奶气晕送医 
 										
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816044&from=ogGitn">辽宁国资委原纪委书记贪千万判刑9年 民斥太轻 2017-04-05 15:45</a><br/>4日，中共官媒报导，刘凯因非法收受他人财物1249万余元，获刑9年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816043&from=ogGitn">四川泸州中学生惨死 受害亲属被中共警方控制 2017-04-05 15:38</a><br/>大陆四川泸县中学生赵鑫被五名校霸害死一案，日前，死者的舅舅披露，所有的亲戚都已经被政府和警方的人控制。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816042&from=ogGitn">女婿复婚不果泄愤  南京老夫妇睡梦中被杀 2017-04-05 15:32</a><br/>4日凌晨，江苏南京栖霞区，一对老夫妇在睡梦中被人杀死。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816063&from=ogGitn">扬州女子贪吃麻辣烫致内脏穿孔 2017-04-05 15:26</a><br/>今年31岁的江苏扬州女子晓丽（化名）平时饮食不规律，她还特别喜欢光顾卖麻辣烫、冒菜和烧烤的店。一周前的傍晚，晓丽突然感到右下腹剧烈疼痛，医生在手术时发现其回肠末端已穿孔，还有粪便从盲肠里穿孔漏出。医生表示，这和晓丽长期吃辛辣刺激的食物有关。</td></tr>
 </table>
