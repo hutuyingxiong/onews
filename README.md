@@ -29,12 +29,13 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816275&from=ogGitn">北京访民告警案开庭 声援者遭驱赶 2017-04-07 17:01</a><br/>4月7号，季新华告诉《新唐人》，因无钱聘请律师，6号上午开庭时，他在法庭自述遭遇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816273&from=ogGitn">深圳前市委书记出任河北代省长　或助推进雄安新区发展 2017-04-07 16:44</a><br/>深圳前市委书记、前市长许勤，7日，获任命为河北省政府副省长、代理省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816280&from=ogGitn">【翻墙必看】泸州校园惨案升级 停电断网 2017-04-07 16:32</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 16:00</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816272&from=ogGitn">江绵康已退休？ 不再任上海城乡交通研究院长 2017-04-07 15:46</a><br/>有报导说，63岁的江绵康已卸任上海市城乡建设和交通发展研究院党委书记、院长一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816271&from=ogGitn">县长镇长齐施压  泸县死亡学生奶奶气晕送医 
 										
 											?组图 2017-04-07 15:07</a><br/>消息指，太伏镇镇长和泸县副县长要求死者爷爷奶奶签字，谎称孩子跳楼死，二老气昏送院抢救。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816270&from=ogGitn">辽宁铁岭2任书记3任市长落马 网民：烂透了 2017-04-07 15:01</a><br/>日前，随着王志勇和郭治鑫的落马，铁岭官场已有三任市长及两任书记落马。中共十八大以来，辽宁铁岭官员及在铁岭任职过的官员共有9人落马。对于铁岭官场“塌方式腐败”，大陆网民直呼：“这地方太黑了，已经无药可救，烂透了。”</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 14:55</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816308&from=ogGitn">湖南民众探视被拒 谢阳被当局强行安排律师 2017-04-07 14:16</a><br/>近日，湖南托口库区移民前往长沙第二看守所探视他们的代理律师谢阳被拒。当局指定律师介入谢阳案，试图给谢阳定罪。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816278&from=ogGitn">丈母娘逼买房歌爆红 唱出年轻人的辛酸 2017-04-07 14:05</a><br/>近日一首男女声合唱的《丈母娘叫我去买房》在网络爆红，一天内点击量超过300万次，成为新的“买房神曲”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816257&from=ogGitn">美宗教自由委员会收集“因信仰遭迫害”名单 2017-04-07 13:07</a><br/>美国国际宗教自由委员会（USCRIF）4月6日宣布，将收集一份因信仰而遭受迫害的良心犯名单，并开展一个名为 “宗教良心犯项目”的营救计划。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816268&from=ogGitn">【热点透视】泸州校园惨案的真相是什么？ 2017-04-07 13:05</a><br/>太伏镇，是一个距离四川省泸州市泸县县城40公里之遥的偏远小镇；位于这个偏僻小镇的太伏中学，在短短数天之内成为了全国新闻的聚焦点：太伏中学14岁的中学生赵鑫，4月1日惨死于校园之内。赵鑫遍体凌伤的尸体照片和视频在网络广传之后，泸县官方通报称死者坠楼身亡，引发民愤，民众自发聚集抗议，泸县官方迅速启动维稳程序，出动警察镇压抓捕民众，一个原本用正常司法手段就能很快处...</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816082&from=ogGitn">太爱玩手机 山东14岁少女颈椎老化如50岁 2017-04-05 20:52</a><br/>山东省青岛市14岁少女小婷，每天玩手机约5、6个小时，近日，她出现头晕、颈部酸痛等症状，其去医院检查后发现，其颈椎老化如50岁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816067&from=ogGitn">南京男子残忍杀死前妻父母 2017-04-05 20:28</a><br/>4月4日凌晨，南京市栖霞区靖安街道发生一起恶性杀人案件，一男子持刀杀死前岳父岳母后逃离。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816084&from=ogGitn">韩国汽车在大陆销量下降 2017-04-05 20:27</a><br/>韩国现代和起亚两家汽车制造商日前表示，3月份在大陆的销量大幅下滑。有分析师认为两家公司可能不得不减产以应对。这是大陆民众反韩情绪的又一个受害者。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816064&from=ogGitn">中国“共享单车”乱象引关注 2017-04-05 20:16</a><br/>“共享单车”自去年在大陆蜂拥而上，呈爆炸式增长。随之带来的问题是，由于管理不到位加之民众素质有待提高，使得偷车、毁车、占道乱停车等现象达到近乎失控的混乱状态，引发社会舆论关注。</td></tr>
 </table>
