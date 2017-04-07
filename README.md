@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816284&from=ogGitn">大陆检察院对张越陈雪枫王阳三案提起公诉 2017-04-07 20:08</a><br/>近日江苏、湖北、黑龙江三省分别对中共河北省委原常委、政法委原书记张越涉嫌受贿案，中共河南省委原常委、洛阳市委原书记陈雪枫涉嫌受贿、贪污、国有公司人员滥用职权案，辽宁省人大常委会原副主任王阳涉嫌受贿、破坏选举案被提起公诉。江苏另一只大老虎李云峰被宣布落马。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816285&from=ogGitn">大陆炒房团揭炒房内幕 有地方政府参与 2017-04-07 19:57</a><br/>日前，有大陆炒房团成员透露了他们是怎样在几个月的时间把当地的房价炒高了二至三倍，有的地方政府为了增加财政收入也参与炒作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816283&from=ogGitn">川习会前朝鲜再射导弹 专家谈会晤看点 2017-04-07 19:24</a><br/>备受外界关注的美国总统川普与习近平的首次会晤在海湖庄园拉开序幕。由于前一天北韩再发导弹，无疑增加川习会关于北韩问题的份量。双方会谈内容、谈的方式、及结果都是外界关注的焦点。专家认为双方首次见面无论表面多客气，都有三道难以逾越的坎。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816281&from=ogGitn">河北雄安新区征地每亩仅6万 民不满言论被封 2017-04-07 18:19</a><br/>随着中国国家级“雄安新区”的出炉，河北白洋淀地区部分乡村将实施整村搬迁。有村民日前向本台透露，当局的征地协议每亩仅补偿6万元人民币，引发村民极大不满。村民们通过网络呼吁抗争，但相关言论均遭到删除。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816279&from=ogGitn">为给父亲一个〝教训〞杭州男杀死弟弟和继母 2017-04-07 17:39</a><br/>江苏杭州建德市25岁男子，为了给父亲一个〝教训〞，残忍地杀死弟弟和继母。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816051&from=ogGitn">大陆清明习俗变味   扫墓烧〝纸二奶〞 2017-04-05 16:24</a><br/>中国大陆社会乱象近年来已经蔓延到丧葬行业，不仅出现利用〝孝心〞炫富奢侈攀比的现象，还出现了烧〝纸二奶〞变异怪事。据统计清明节全国〝白色消费〞高达一百多亿元。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816050&from=ogGitn">安徽邮递员私拆举报信卖〝情报〞  获刑22个月 2017-04-05 16:17</a><br/>2月7日，法院以私自开拆、隐匿邮件罪，判处鲍某有期徒刑1年10个月。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816047&from=ogGitn">当局放松监控 陆民成功拜祭赵紫阳 2017-04-05 16:08</a><br/>同情六四学生的赵紫阳逝世已经12年了，至今仍未能安葬，骨灰一直保留在北京富强胡同6号故居，每年清明节，都有大批维权人士和访民，前往拜祭。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816049&from=ogGitn">大陆环保部揭企业造假离谱　排污监测数据为负数 2017-04-05 16:03</a><br/>中国环保部机动督查组在调查中发现，有些企业的二氧化硫在线监测数据显示是负数。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816046&from=ogGitn">动真格？传下届中共高层必须公示财产 2017-04-05 15:45</a><br/>传中央政治局已通过决议，要求下届中央委员、候补委员、中纪委委员，必须在“十九大”召开前公示财产，以及申报配偶子女在外国的居留权和外国国籍情况。</td></tr>
 </table>
