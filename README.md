@@ -2,13 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816272&from=ogGitn">江绵康已退休？ 不再任上海城乡交通研究院长 2017-04-07 15:46</a><br/>有报导说，63岁的江绵康已卸任上海市城乡建设和交通发展研究院党委书记、院长一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816271&from=ogGitn">县长镇长齐施压  泸县死亡学生奶奶气晕送医 
 										
 											?组图 2017-04-07 15:07</a><br/>消息指，太伏镇镇长和泸县副县长要求死者爷爷奶奶签字，谎称孩子跳楼死，二老气昏送院抢救。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816270&from=ogGitn">辽宁铁岭2任书记3任市长落马 网民：烂透了 2017-04-07 15:01</a><br/>日前，随着王志勇和郭治鑫的落马，铁岭官场已有三任市长及两任书记落马。中共十八大以来，辽宁铁岭官员及在铁岭任职过的官员共有9人落马。对于铁岭官场“塌方式腐败”，大陆网民直呼：“这地方太黑了，已经无药可救，烂透了。”</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 14:35</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816262&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-07 12:51</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫花季非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网络“辟谣”，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816264&from=ogGitn">川习会晤最应该谈什么？ 美USCRIF这么说 2017-04-07 12:39</a><br/>美国总统川普（特朗普）和中国领导人习近平的首度会晤4月6日在佛州登场。川习会晤什么议题最重要？美国国际宗教自由委员会（USCRIF）主席和委员向大纪元分享了他们的看法。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816254&from=ogGitn">川习会晚宴：彭丽媛坐邻库什纳   房峰辉攀谈伊万卡 2017-04-07 12:38</a><br/>于当地时间6日下午，川普夫妇在海湖庄园宴请了习近平夫妇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816258&from=ogGitn">俄中开发黑瞎子岛？ 江泽民卖国丑闻再被聚焦 2017-04-07 12:28</a><br/>黑瞎子岛历来属于中国领土，80多年前被苏军侵占，直到2008年才部分回归中国，其背后隐藏的是中共及其前党魁江泽民的卖国行径。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 11:36</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816256&from=ogGitn">庄园会晤餐单曝光 川普设牛扒宴请习近平 2017-04-07 11:21</a><br/>4月6晚，中共主席习近平抵达佛罗里达州，与美国总统川普（特朗普）举行高峰会。当晚6点半，川普夫妇在马拉阿哥私人庄园（又称海湖山庄）宴请习近平夫妇。川普准备了精致的餐点。美国传媒公开的餐单有2款，供习近平夫妇任选其一。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816030&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 12:26</a><br/>大陆的一切乱象，“内鬼”是始作俑者。要改变现状，就必须改变产生“内鬼”的体制。体制不改，一切都是空谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816039&from=ogGitn">被警察打无人管 维权人士告公安局案6日开庭 2017-04-05 11:31</a><br/>北京维权人士季新华控告丰台公安分局不作为案，将于4月6日在丰台法院开庭审理。4月3日季新华透过“玫瑰中国”网，希望关注此案件的朋友能参与旁听。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816012&from=ogGitn">谢天奇：川习仓促会晤 五大议题背后的秘密 2017-04-05 11:28</a><br/>离十九大召开还有半年时间，习近平紧急寻求与川普会谈，五大热门议题均与中国内政尤其十九大前夕习江斗态势发展密切相关。这或预示习阵营后续针对江泽民、曾庆红等江派高层及其家族贪腐的清洗大动作已在酝酿之中。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816006&from=ogGitn">【禁闻】中国设〝雄安新区〞 再现疯狂炒房潮 2017-04-05 11:14</a><br/>中国过去20多年，陆续设立了18个国家级新区，几乎每一年就要设立一处。</td></tr>
 </table>
