@@ -2,7 +2,9 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">海南甘肃河北省长候选人明确 山东省长难产 2017-04-08 05:25</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816317&from=ogGitn">【网闻】金家最恨谁？朝鲜特务讲述金家内幕 2017-04-08 04:44</a><br/>4月6日，微博账号为“NKmilitaryStudies”的网民发布文章：《金家最恨谁？---高级脱北者的证言 》。文章摘录朝鲜特务、资深统战部官员张振成著作中关于中朝关系的内容，披露朝鲜金家政权最痛恨的是中国，朝核对中国的潜在威胁是切实存在的。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816319&from=ogGitn">雄安新区炒房热消退 官称首要任务“搬迁” 2017-04-08 04:41</a><br/>前，河北雄安新区掀炒房热，据报，经政府打压后，当地社区已恢复平静。新区下一步首要任务是搬迁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816318&from=ogGitn">低调退休还是出事？ 江绵康卸任上海城交研究院长 2017-04-08 03:58</a><br/>《信报》消息称，江泽民次子江绵康卸任上海市城建交通发展研究院院长，并称其〝疑似低调退休〞。去年江绵恒和江绵康被内控的消息传出后，该报曾发布〝江绵康履新〞的消息，被外媒以〝破被查谣言〞标题报导，不过消息真实性存疑。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816313&from=ogGitn">袁斌：五问泸县中学生死亡事件 2017-04-08 02:12</a><br/>泸县中学生赵鑫离奇死亡已经6天了，当地官方对要求真相和公正的民众的打压不降反升，目前事态仍在进一步发酵中。纵观整个事件的来龙去脉，可谓疑窦重重。在此，笔者有几个问题要问。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816312&from=ogGitn">李放：一党专政 必然短命 2017-04-08 02:03</a><br/>日前，原中国军事学院出版社社长辛子陵披露：〝十八大之前李源潮做了一个调查，十七大中央委员、候补委员、中央纪委委员的家属子女已在国外定居、买房，准备弃官逃跑的占了85%以上。〞</td></tr>
@@ -23,13 +25,14 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816292&from=ogGitn">陈思敏：泸县警方与家属对话录音透露的讯息 2017-04-07 21:26</a><br/>从北京人大硕士雷洋到四川泸县中学生赵鑫，乃至过去太多、甚至未来可能发生的类似案例──有人意外死亡是必须他自己病发或自杀，群众知情权是必须要被蒙蔽的，想要真相的家属是必须当成情绪不稳、胡搅蛮缠的，网上的理性讨论是必须打击的谣言，民众上街打横幅举标语是必须要武警镇压的恶意炒作──这一切只为了中共官员完全没责任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816294&from=ogGitn">雄安新区：系统升级？ 3县先后停办婚姻登记 2017-04-07 21:06</a><br/>北京宣布设立雄安新区，受影响的不仅是房地产市场，就连户籍变更、公职人员进出、产权变更等都被暂时冻结，甚至部分居民的离婚、复婚也无法进行。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816290&from=ogGitn">雄安禁止炒作陪都概念 习打造新城市样板 2017-04-07 20:47</a><br/>河北设立雄安新区的消息发布后，成为舆论关注的热点。据报导，有关部门已下令禁止炒作“陪都”等概念。有分析认为，在雄安这样一张白纸上作画，让习近平可尽情发挥，建造一个习近平式的样板大都市。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816286&from=ogGitn">江苏帮崩盘 第四只大老虎李云峰被立案查 2017-04-07 20:34</a><br/>中纪委监察部网站 4月7日发布消息，对中共第十八届中央候补委员，江苏省原省委常委、常务副省长李云峰严重“违纪”问题进行了立案审查。李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816286&from=ogGitn">江苏帮崩盘 第四只大老虎李云峰被立案审查 2017-04-07 20:34</a><br/>中纪委监察部网站 4月7日发布消息，对中共第十八届中央候补委员，江苏省原省委常委、常务副省长李云峰严重“违纪”问题进行了立案审查。李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816293&from=ogGitn">大陆居民去年债务增加6万多亿 2017-04-07 20:24</a><br/>大陆居民在2016年债务上升，比2015年增加了6万多亿元人民币。这和去年大陆楼市疯涨有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816288&from=ogGitn">三座“大山”压顶 中国逾5400万人患抑郁 2017-04-07 20:21</a><br/>世界卫生组织（WTO）4月6日对外发布信息称，在中国，有逾5400万人罹患抑郁症。网民吐槽都是三座大山压的。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816284&from=ogGitn">为江派大佬卖命 张越王阳等3人被起诉 2017-04-07 20:08</a><br/>近日江苏、湖北、黑龙江三省分别对中共河北省委原常委、政法委原书记张越涉嫌受贿案，中共河南省委原常委、洛阳市委原书记陈雪枫涉嫌受贿、贪污、国有公司人员滥用职权案，辽宁省人大常委会原副主任王阳涉嫌受贿、破坏选举案被提起公诉。江苏另一只大老虎李云峰被宣布落马。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816284&from=ogGitn">为江派大佬卖命 张越王阳等3人被起诉 2017-04-07 20:08</a><br/>近日江苏、湖北、黑龙江三省分别对中共河北省委原常委、政法委原书记张越涉嫌受贿案，中共河南省委原常委、洛阳市委原书记陈雪枫涉嫌受贿、贪污、国有公司人员滥用职权案，辽宁省人大常委会原副主任王阳涉嫌受贿、破坏选举案提起公诉。江苏另一只大老虎李云峰被宣布落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816285&from=ogGitn">大陆炒房团揭炒房内幕 有地方政府参与 2017-04-07 19:57</a><br/>日前，有大陆炒房团成员透露了他们是怎样在几个月的时间把当地的房价炒高了二至三倍，有的地方政府为了增加财政收入也参与炒作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816287&from=ogGitn">南京航大40余学生被辅导员骗贷 警方未立案 2017-04-07 19:35</a><br/>校园贷事件一波未平，一波又起。经历过“裸条”，“高利息逼死学生”，“传销式校园贷”等事件之后，近日媒体又曝光南京航空航天大学某辅导员骗取学生40余万的贷款。媒体的曝光、舆论的痛斥、受害者的死亡都没能阻止校园贷乱象的持续。据澎湃新闻4月7日报导，南京航空航天大学（以下简称：南京航大）一名大学生小甲，2015年的暑假期间，在一家兼职公司里相识了王某。那时...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816283&from=ogGitn">川习会前朝鲜再射导弹 专家谈会晤看点 2017-04-07 19:24</a><br/>备受外界关注的美国总统川普与习近平的首次会晤在海湖庄园拉开序幕。由于前一天北韩再发导弹，无疑增加川习会关于北韩问题的份量。双方会谈内容、谈的方式、及结果都是外界关注的焦点。专家认为双方首次见面无论表面多客气，都有三道难以逾越的坎。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 19:00</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816281&from=ogGitn">河北雄安新区征地每亩仅6万 民不满言论被封 2017-04-07 18:19</a><br/>随着中国国家级“雄安新区”的出炉，河北白洋淀地区部分乡村将实施整村搬迁。有村民日前向本台透露，当局的征地协议每亩仅补偿6万元人民币，引发村民极大不满。村民们通过网络呼吁抗争，但相关言论均遭到删除。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816307&from=ogGitn">美军利器战斧巡弋导弹 九大要点一次看懂 2017-04-07 18:11</a><br/>叙利亚反抗军占领区4日遭化武攻击，已造成逾百人丧生。4月6日美军从地中海两艘军舰发射59枚战斧巡弋导弹，打击叙利亚军事基地，以教训涉嫌下令化武攻击行动的叙利亚阿塞德政府。自1991年波湾战争后，美军战斧巡弋导弹在多场战事中扮演关键角色。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816279&from=ogGitn">为给父亲一个〝教训〞杭州男杀死弟弟和继母 2017-04-07 17:39</a><br/>江苏杭州建德市25岁男子，为了给父亲一个〝教训〞，残忍地杀死弟弟和继母。</td></tr>
@@ -39,7 +42,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816275&from=ogGitn">北京访民告警案开庭 声援者遭驱赶 2017-04-07 17:01</a><br/>4月7号，季新华告诉《新唐人》，因无钱聘请律师，6号上午开庭时，他在法庭自述遭遇。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816273&from=ogGitn">深圳前市委书记出任河北代省长　或助推进雄安新区发展 2017-04-07 16:44</a><br/>深圳前市委书记、前市长许勤，7日，获任命为河北省政府副省长、代理省长。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816280&from=ogGitn">【翻墙必看】泸州校园惨案升级 停电断网 2017-04-07 16:32</a><br/>大纪元每日为读者梳理翻墙必看的重点新闻：</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 16:00</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816272&from=ogGitn">江绵康已退休？ 不再任上海城乡交通研究院长 2017-04-07 15:46</a><br/>有报导说，63岁的江绵康已卸任上海市城乡建设和交通发展研究院党委书记、院长一职。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816271&from=ogGitn">县长镇长齐施压  泸县死亡学生奶奶气晕送医 
 										
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816098&from=ogGitn">河北安新县冻结户籍变更 居民排长队结婚 2017-04-05 23:50</a><br/>大陆官方宣布在河北设立雄安新区，继热炒楼市后，安新县又冻结户籍变更等，当地出现居民排长队结婚的现象。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816078&from=ogGitn">姜维平曝何挺落马内情：替张德江〝捂盖子〞 2017-04-05 23:42</a><br/>近日，重庆市公安局长何挺被曝已遭〝双规〞。据指，这是王歧山〝清除薄熙来和王立军余毒〞行动的一部分。媒体人披露，何是周永康得意门生，后台还有张德江。何挺领会张德江〝捂盖子〞、〝保江派〞旨意，曾力阻重庆〝打黑〞冤案平反。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816088&from=ogGitn">谢田：纽时为何走入共产主义圈套 2017-04-05 23:31</a><br/>共产主义的追随者们在前苏联篡夺政权，是1922年，但奠定这个共产国家基础的，是1917年的俄国二月和十月革命。到今天，100年过去了。共产政权百年之际，出现了许多反思共产主义对人类荼毒的文章。美国主流媒体如《纽约时报》也发表一系列有关共产主义的评论。但《纽约时报》中文版今年2月张彦的文章〈共产党是如何引导中国走向成功的？〉，却真正的让人们跌破了眼镜，感叹纽时为何如此自相情愿的走入了共产主义的圈套，发出了《人民日报》才能发出、中共大外宣计画梦寐以求的声音？</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816087&from=ogGitn">陈思敏：雄安新区推出前的一件腐败大案 2017-04-05 23:27</a><br/>在雄安新区、〝雄安协议失效〞成为新闻热点后，外界这才回头关注到，在消息发布前四天被查的保定市雄县县委书记吴亚飞，或是涉及签约的官员。其实在相关问题上，吴亚飞只是小角色。有比他问题大、级别高的官员，早在去年6月已经被拿下。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816086&from=ogGitn">丁抒：〝三反〞〝五反〞下指标逼供信 2017-04-05 23:23</a><br/>镇反、土改刚结束，毛泽东又发动了一个他称之为〝如同镇压反革命斗争一样重要〞的〝三反〞运动。</td></tr>
 </table>
