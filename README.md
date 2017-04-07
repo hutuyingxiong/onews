@@ -2,6 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 10:57</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816250&from=ogGitn">突发：网曝苏州大规模械斗 炸药砍刀齐上如打仗 
+										
+											?组图 2017-04-07 10:38</a><br/>4月7日凌晨，网曝苏州虎丘安徽的和江苏徐州的开仗了！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816248&from=ogGitn">每日三退声明精选（2017/04/06） 2017-04-07 10:36</a><br/>上学时被动加入邪党的少先队和共青团，工作后为了生活稍微好点无奈加入邪党。静观邪党所作所为令人发指，无药可就。“呼格”等等案件媒体呼吁了二十年了，才因为权力斗争而浮出水面，现在雷洋案，辱母杀人案，是邪党的真实体现，再看看邪党一手扶植的朝鲜流氓政权，真是邪恶至极。仁和在此宣誓：相信退出邪党的党、团、队不与邪恶为伍，才是个好人才能保平安！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816247&from=ogGitn">横河：辱母杀人案是社会严重不公的缩影 2017-04-07 09:10</a><br/>这个案子说明在中共统治下的基层，所谓的恶黑势力，主要是中共的基层组织或者是中共的官员。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816249&from=ogGitn">袁斌：五问泸县中学生死亡事件 2017-04-07 09:09</a><br/>泸县中学生赵鑫离奇死亡已经6天了，当地官方对要求真相和公正的民众的打压不降反升，目前事态仍在进一步发酵中。</td></tr>
@@ -200,6 +204,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816010&from=ogGitn">【禁闻】4月4日维权动态 2017-04-05 06:25</a><br/>律师两次要求会见黄琦 遭拒绝；警方阻挠租房 倪玉兰面临流落街头；北京季新华诉丰台公安局案开庭；709谢阳案律师遭当局强行更换。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816034&from=ogGitn">河北设雄安新区消息传出 当地楼价一夜涨4倍 2017-04-05 06:23</a><br/>大陆官方宣布在河北设立雄安新区后，雄安掀炒楼热。据报，其楼价一夜翻4倍，雄安官方严打炒房，有中介现场被抓。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816115&from=ogGitn">真的了解美国粮食券吗？专家谈七大误解 2017-04-05 05:55</a><br/>粮食券是美国最重要的福利计划之一，然而，很多国会议员和民众对其运作情形并不了解，因此传出一些“故事”，例如有人拿粮食券买垃圾食物、享受福利者拥有豪车等，很多是以讹传讹。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816009&from=ogGitn">川习会在即 三大问题将摆上桌 2017-04-05 05:45</a><br/>6日至7日，川普（特朗普）将与习近平进行首次面对面会晤。有美国媒体认为，朝鲜核问题、中美贸易以及南海问题，将成为摆上桌面的3大头号问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816005&from=ogGitn">【禁闻】追查国际收集犯罪名单 呼应美新法案 2017-04-05 05:37</a><br/>3月30号，《追查国际》发出公告称，自1999年以来，由中共前党魁江泽民为首的中共犯罪集团，利用国家机器在全国范围内对法轮功学员进行迫害，特别是用大量活摘器官的方式，对法轮功学员实施了群体灭绝性的大屠杀。</td></tr>
 </table>
