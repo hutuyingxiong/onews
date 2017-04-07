@@ -21,12 +21,12 @@
 										
 											?组图 2017-04-07 15:07</a><br/>消息指，太伏镇镇长和泸县副县长要求死者爷爷奶奶签字，谎称孩子跳楼死，二老气昏送院抢救。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816270&from=ogGitn">辽宁铁岭2任书记3任市长落马 网民：烂透了 2017-04-07 15:01</a><br/>日前，随着王志勇和郭治鑫的落马，铁岭官场已有三任市长及两任书记落马。中共十八大以来，辽宁铁岭官员及在铁岭任职过的官员共有9人落马。对于铁岭官场“塌方式腐败”，大陆网民直呼：“这地方太黑了，已经无药可救，烂透了。”</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 14:55</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816278&from=ogGitn">丈母娘逼买房歌爆红 唱出年轻人的辛酸 2017-04-07 14:05</a><br/>近日一首男女声合唱的《丈母娘叫我去买房》在网络爆红，一天内点击量超过300万次，成为新的“买房神曲”。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816282&from=ogGitn">北京楼市量价齐跌 商住房成交降97% 2017-04-07 12:53</a><br/>最新的统计数据显示，北京上周新建住宅市场成交量和成交均价双双下降，尤其是商住公寓仅成交62套，环比下降97.26%。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816262&from=ogGitn">杨宁：泸州学生死亡有隐情 官方举动透凶嫌 2017-04-07 12:51</a><br/>4月1日四川泸州市泸县太伏镇中学生赵鑫花季非正常死亡事件持续发酵。目前官方的说辞是赵鑫是自杀，当地警方还藉由网络“辟谣”，而民间曝出的消息称其是被同学围殴致死，其中3人的身份已确认，即分别是镇长的儿子、派出所田所长的儿子和校长的儿子，均为官二代。实情究竟如何，在当下官官相护的中国，要想查出，依靠当地政府，实属天方夜谭。不过，从当地政府一系列不合常规的举动看...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816264&from=ogGitn">川习会晤最应该谈什么？ 美USCRIF这么说 2017-04-07 12:39</a><br/>美国总统川普（特朗普）和中国领导人习近平的首度会晤4月6日在佛州登场。川习会晤什么议题最重要？美国国际宗教自由委员会（USCRIF）主席和委员向大纪元分享了他们的看法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816258&from=ogGitn">俄中开发黑瞎子岛？ 江泽民卖国丑闻再被聚焦 2017-04-07 12:28</a><br/>黑瞎子岛历来属于中国领土，80多年前被苏军侵占，直到2008年才部分回归中国，其背后隐藏的是中共及其前党魁江泽民的卖国行径。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 11:55</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816251&from=ogGitn">石涛：泸州悲剧真相渐显 吞噬人性的体制 2017-04-07 11:36</a><br/>在习近平到达佛罗里达的同时，四川泸州的14岁男孩被打死的事件成为了中国社交网路的头等大事，随着时间的推移，打人者的身份逐渐显露。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816256&from=ogGitn">庄园会晤餐单曝光 川普设牛扒宴请习近平 2017-04-07 11:21</a><br/>4月6晚，中共主席习近平抵达佛罗里达州，与美国总统川普（特朗普）举行高峰会。当晚6点半，川普夫妇在马拉阿哥私人庄园（又称海湖山庄）宴请习近平夫妇。川普准备了精致的餐点。美国传媒公开的餐单有2款，供习近平夫妇任选其一。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816252&from=ogGitn">川普牛排宴招待习近平 还发推特玄酷 
