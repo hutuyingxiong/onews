@@ -2,6 +2,10 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816325&from=ogGitn">时政段子集：全网追捕“谣言”传递一个信息 2017-04-08 06:37</a><br/>最新时政段子集：全网追捕“谣言”传递一个信息</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816328&from=ogGitn">谢天奇：直辖市6公安高官出事 还有4人高危 2017-04-08 06:32</a><br/>吴志明、傅政华、强卫作为两直辖市的前任公安局长，或步宋平顺、武长顺、朱明国、王立军、何挺等人的后尘，处境岌岌可危。谁会被最先抛出来？这也将是十九大前习江斗的一个重要风向标。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816327&from=ogGitn">【禁闻 】4月7日维权动态 2017-04-08 05:47</a><br/>郑州电视台百名编辑记者上街抗议；中国访民美国佛州告〝御状〞；湖南拆迁户维权 公民发起接力声援；为防被强迫失踪 李和平妻留遗言。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816326&from=ogGitn">【禁闻】杜撰四大地主 丑化乡绅阶层 2017-04-08 05:42</a><br/>除了刘文彩背负着莫须有的罪名，中国知名的〝四大地主〞中的其他三人也是杜撰，但他们却成为中国地主阶级的代表，背负人们的仇恨。今天的〝百年红祸〞特别报导，就来看看真实的他们。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">海南甘肃河北省长候选人明确 山东省长难产 2017-04-08 05:25</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816323&from=ogGitn">4月7日全球看中国 2017-04-08 05:02</a><br/>江苏帮崩盘 第四只大老虎李云峰被立案查办；中国〝尺度最大〞反腐剧评价两级 造势不成反启发民众？雄安本地人如何看习近平〝千年大计〞；欧盟提高对中国产钢材的反倾销关税。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816317&from=ogGitn">【网闻】金家最恨谁？朝鲜特务讲述金家内幕 2017-04-08 04:44</a><br/>4月6日，微博账号为“NKmilitaryStudies”的网民发布文章：《金家最恨谁？---高级脱北者的证言 》。文章摘录朝鲜特务、资深统战部官员张振成著作中关于中朝关系的内容，披露朝鲜金家政权最痛恨的是中国，朝核对中国的潜在威胁是切实存在的。</td></tr>
@@ -204,8 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816129&from=ogGitn">初中生死亡疑涉官二代 军方封镇阻众声援 2017-04-06 00:57</a><br/>四川省泸州市初中生死亡事件受到官方猛力镇压，有当地民众向自由亚洲电台爆出背后的原因，五名涉事凶手中，其中三人均为官二代，疑官方刻意包庇。事件持续发酵，大批民众连日来聚集抗议，先后有数百示威者被抓。有当地民众反映，军队已进驻及封锁太伏镇，阻挡外省民众前来声援。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816095&from=ogGitn">夏侯：苏共暴政下的群体灭绝（下） 2017-04-06 00:08</a><br/>种族灭绝也称为群体灭绝，指人为的、系统的对某个群体或民族、宗教团体进行全部或局部的屠杀，最早于1944年由波兰籍犹太法律学者拉斐尔．莱姆金提出。二战结束后，国际法庭对德国纳粹战犯的罪名指控，包括群体灭绝。对于斯大林时代苏共的暴行，至今虽未得到国际法庭的审判，不过在俄罗斯制作的大型历史记录片《20世纪俄罗斯历史》以及拉脱维亚历史记录片《苏联故事》（The Soviet Story）里，采用翔实的史料、解密的原始文件为斯大林时代的罪行做出诠释。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816093&from=ogGitn">夏侯：苏共暴政下的群体灭绝（上） 2017-04-06 00:04</a><br/>在上个世纪二战期间并存过两个极权主义政权：德国纳粹和苏联共产党。这两种制度虽然形式不同，称法有别，但却有着共同的一面，都留下数以千计的万人坑、大屠杀、集中营等这些反人类的罪恶遗迹。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816092&from=ogGitn">林辉：苏军东北施暴 中共置若罔闻 2017-04-05 23:58</a><br/>第二次世界大战后期，在1945年2月苏、美、英三国首脑斯大林、罗斯福和丘吉尔举行的雅尔塔会议上，一个重要议题就是苏联出兵中国东北。三方就苏联出兵东北的政治条件进行了试探性的会谈，并最终签订了《雅尔塔协定》。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816013&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-05 23:55</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816091&from=ogGitn">袁斌：清明 我的六炷香 2017-04-05 23:55</a><br/>今年的清明节，祭奠过祖先亲人之后，我又给那些因为中共的极权统治而失去生命的亡魂也分别上了香。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816090&from=ogGitn">任重：也说雄安新区抢房那点事儿 2017-04-05 23:53</a><br/>这几天，大陆最火爆的，莫过于设立河北雄安新区这件事。消息一传出，全国各地的投资人、投机商、中介、个人买房者等，一窝蜂地涌向雄安新区。于是，去当地的火车票几乎卖光，当地的酒店人满为患，街道上到处停的都是外地车辆。人们以最快的速度去雄安新区，就想抢在别人的前面，以最低的价格买入房子，复制大陆房地产赚钱的模式，实现自己的发财梦想。</td></tr>
 </table>
