@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816401&from=ogGitn">川校园命案学生头七 上千人再讨公道 2017-04-08 23:06</a><br/>7号上午，太伏中学学生陆续到校，大批民众还有媒体记者也来到现场，有民众手举着标牌，要求公正、公平、公开。太伏镇王先生表示，特警已经撤退，没有冲突发生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816397&from=ogGitn">万家文化或遭大规模索赔 龙薇传媒恐难脱干系 2017-04-08 22:19</a><br/>赵薇旗下龙薇传媒终止收购万家文化股权一事并未完全了结，4月7日，万家文化发布公告称，收到监管函询问解除本次股权转让的理由和细节。多位律师均表示,如果认定龙薇传媒存在违规行为，赵薇恐怕难以全身而退。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816398&from=ogGitn">又现短命官 粤国资委副主任试用期过即被查 2017-04-08 22:15</a><br/>中共广东省广州市国资委女副主任一年试用期刚过，立刻被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816395&from=ogGitn">陕西山阳前女高官圈地33亩建庄园被处理 2017-04-08 22:08</a><br/>中共陕西山阳县政协前副主席毛海琴在西安违规占地33亩建私人庄园，成为外界关注焦点。4月7日，毛海琴因“违纪”被严重警告处分。此处理结果，遭到大陆网民炮轰。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816185&from=ogGitn">陈思敏：铁岭官场震荡 近逼辽宁两“老领导” 2017-04-06 16:17</a><br/>至于陈政高“虽生犹死”，除了昔日班底亲信纷纷落马，尤其今年伊始以来，他自己也被翻旧账经济数据造假，还有他主政沈阳国企改制的既得利益者辉山乳业，同样爆发做假账而深陷债务危机。如此的陈政高处境堪称高危，也危及了辽宁帮的总后台李长春。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816177&from=ogGitn">川习会在即 中国访民誓死要拦车鸣冤 2017-04-06 15:46</a><br/>在美中两国元首即将在佛罗里达棕榈滩的海湖庄园举行会晤之际，来自美国各地的中国访民都在习近平到来之前纷纷赶到棕榈滩，为拦截习近平车队做准备。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816166&from=ogGitn">武汉一条狗引发血案 狗主人被刺死 2017-04-06 15:34</a><br/>湖北武汉人杨建平因摸了一下宠物狗，狗主人彭某某邀约另2人持洋镐上门报复，被杨建平、杨建伟兄弟二人刺死。是否属防卫是控辩双方辩论的焦点。</td></tr>
 </table>
