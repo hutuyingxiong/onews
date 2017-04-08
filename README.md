@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816374&from=ogGitn">四川老乡寻恩人26年  只为报答〝半碗饭〞的恩情 2017-04-08 16:04</a><br/>四川达州渠县男子欧高云17岁到深圳打工，老乡分半碗饭寻恩人26年。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816373&from=ogGitn">五次盗同一别墅  陆贼留纸条：对不起 2017-04-08 16:01</a><br/>姚先生家里连续遭盗贼5次光顾，而且还是同一个小偷，留纸条说救命用。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816372&from=ogGitn">马云抢先布局雄安   2015年设立村淘中心 2017-04-08 15:56</a><br/>自北京当局4月1日宣布设立雄安新区后，各大商家纷纷想进驻雄安。值得注意的是，近日马云旗下的农村淘宝透过微信招募村淘中心员工，工作地点就是雄安。外界哗然，马云早在2015年就已抢先布局雄安。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816371&from=ogGitn">拍北京〝花海列车〞   游客逼停火车 2017-04-08 15:35</a><br/>随着入春，北京居庸关花海进入山花开放期；然而游客为拍摄美景，破坏、翻越铁路护网的行为却屡禁不止。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈 朝鲜核进展已达〝非常严重阶段〞 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈达共识：共同遏制朝核 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816366&from=ogGitn">习十九大前官场布局 黑龙江高层遭大清洗 2017-04-08 13:18</a><br/>随着中共十九大临近，习近平当局持续官场布局。从去年以来，黑龙江地方高层人事变动频繁，各重要部门官员换人。这期间，江派亲信、黑龙江省委书记王宪魁被免职，多名省长卸任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816364&from=ogGitn">世界第一围棋手柯洁 下月对战AlphaGo 2017-04-08 13:04</a><br/>世界排名第一的中国棋手柯洁，将于5月下旬在浙江乌镇，与人工智能“阿尔法围棋”（AlphaGo）展开终极对决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816362&from=ogGitn">石涛：川普与习近平晚宴时 下令轰炸了敍利亚 2017-04-08 11:50</a><br/>2017年就是埋葬各自精英的年代，虚假的人的一面、泯灭人性的一面。习近平在党内反腐，打击的是共产党六十多年来在中囯权力体制当中的整体〝精英〞。</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816159&from=ogGitn">袁斌：泸州中学生死亡事件为何越闹越大？ 2017-04-06 10:37</a><br/>日前发生的泸州中学生死亡事件，本是一个在很小范围就能解决的问题，不料想竟迅速演变成了一场当地政府和民众之间的尖锐对抗，甚至有愈演愈烈的势头。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816124&from=ogGitn">苦胆：它就要你〝只护党妈，不护亲妈〞 2017-04-06 09:48</a><br/>〝唱支山歌给党听，我把党来比母亲……〞〝党啊，亲爱的妈妈……〞包括这些红色歌曲在内的中共意识形态，教老百姓认党作母、以党为妈，并且必须无条件的卫护党妈。至于自己的亲妈要不要卫护，那就又当别论了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816128&from=ogGitn">周晓辉：财新传媒主编谈“习川会”传信息 2017-04-06 09:27</a><br/>4月6日至7日，习近平将在佛州与美国总统川普（特朗普）举行会晤，对于这场世界颇为关注的会面，有习阵营背景的大陆财新网于5日在重要位置，刊发了财新传媒总编辑胡舒立撰写的《举世关注首次“习特会”》一文。</td></tr>
 </table>
