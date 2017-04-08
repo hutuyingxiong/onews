@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816361&from=ogGitn">朝鲜驻华外交官私卖核原料   美核专家：与氢弹有关 2017-04-08 11:38</a><br/>专家指，锂6能迅速让普通的原子弹变成氢弹，将其破坏力最高放大1000倍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816350&from=ogGitn">每日三退声明精选（2017/04/07） 2017-04-08 10:53</a><br/>小发，小吉，小烘，小宗，孙国忠以上5人纯属自愿，并请求退出中共邪党，团，队及－切所有的中共魔教恐怖组织。现在全民都认识到了中共才是全世界最大的魔教恐怖组织。你说不是吗？这么大面积大量的活摘人体器官不是魔教恐怖组织中共谁敢干啊？！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816360&from=ogGitn">陆媒罕见起底赵薇：背景特殊顶风作案 2017-04-08 10:47</a><br/>大陆知名女星赵薇再遭陆媒起底。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816351&from=ogGitn">川人：〝人民姓党〞才是最大的中国特色？ 2017-04-08 10:22</a><br/>近日一部描述中共反腐行动的政治宣传电视剧，《人民的名义》引发广大中国人围观。对这部政治宣传电视剧的热播，有人认为该影片〝尺度大接地气〞，有人认为该影片〝戳疼了这个社会的痛点〞，还有人认为该片反映出了〝中共从严治党的决心〞。但也有人根本不相信〝中共能够通过反腐变好〞，有网友表示：〝一个政党培养出了大批贪官，把贪官都抓起来是一个政府的正常行为，这是政府的耻辱并不值得歌颂，韩国抓了自己的总统舆论也没歌颂韩国政府英明神武。〞</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816119&from=ogGitn">姜维平：重庆何挺被“双规”，终于没能挺太久 2017-04-06 07:01</a><br/>重庆消息人士说，2017年3月31日，重庆市公安局长何挺，已经被中纪委专案组“双规”，估计官媒会在近期公布消息，指控他的主要罪名是贪污受贿和包庇薄王时期徇私枉法的涉嫌犯罪的警察，据称，这是落实中纪委书记王歧山提出的“重庆清除薄熙来和王立军余毒”，和抓捕“薄王余党”行动的一部分。何挺是周永康的嫡系，也是多年来力阻重庆平反冤假错案，造成中国民企老板“移民潮”继续...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816113&from=ogGitn">4月5日维权动态 2017-04-06 06:30</a><br/>江苏宝应公路站职工拉横幅 讨血汗钱；武汉两访民被打致骨折 疑上访遭报复；大连访民盛兰福被送精神病院。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816112&from=ogGitn">【禁闻】4月5日退党精选 2017-04-06 06:29</a><br/>化名〝重生〞的大陆民众发表了近300字的退党声明，声明退出一切组织，为澄清玉宇尽绵薄之力。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816148&from=ogGitn">阴霾再袭京津冀 14城发布重污染橙色预警 2017-04-06 06:18</a><br/>近日，大陆京津冀等地区再遭重污染袭击， 14城发布橙色预警，5城发布黄色预警。</td></tr>
 </table>
