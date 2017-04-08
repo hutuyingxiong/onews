@@ -2,13 +2,14 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816345&from=ogGitn">周立波持枪持毒案在美开庭      或面临2年刑期 2017-04-08 09:18</a><br/>大陆知名主持人周立波持枪持毒案，日前在美国正式开庭审理，有律师称，如罪名成立，或将面临2年以上刑期。当天周立波和代理律师莫虎在法庭现身，据悉，周立波案将再次延迟至6月开庭。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816343&from=ogGitn">【禁闻】泸州校园命案 当局结论出炉 民不服 2017-04-08 08:27</a><br/>4月7号，清明节假期结束后的第3天，从视频中可以看到全副武装的警察守着泸县中学学校大门，和人山人海的民众仍然对峙着。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816345&from=ogGitn">周立波持枪持毒案在美开庭 或面临2年刑期 2017-04-08 10:06</a><br/>大陆知名主持人周立波持枪持毒案，日前在美国正式开庭审理，有律师称，如罪名成立，或将面临2年以上刑期。当天周立波和代理律师莫虎在法庭现身，据悉，周立波案将再次延迟至6月开庭。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816343&from=ogGitn">【禁闻】泸州校园命案 当局结论出炉 民不服 2017-04-08 09:30</a><br/>4月7号，清明节假期结束后的第3天，从视频中可以看到全副武装的警察守着泸县中学学校大门，和人山人海的民众仍然对峙着。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816338&from=ogGitn">美中第一夫人参观艺术学校 华裔学生出席 2017-04-08 08:09</a><br/>周五（4月7日）上午，美国总统川普和中国国家主席习近平的会晤继续进行，与此同时，美中第一夫人梅拉尼娅和彭丽媛一起参观了佛州西棕榈滩一所艺术学校。就读该校的华裔学生也出席了这个活动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816337&from=ogGitn">美中首次高峰会 兵对兵将对将一览 2017-04-08 08:02</a><br/>周五（4月7日），美国总统川普（特朗普）在私人庄园海湖山庄（Mar-a-Lago）与中国国家主席习近平举行了双边会谈。美中双方各摔代表团参与会谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816331&from=ogGitn">福建山东修路毁林拆厂 武汉冤民被打骨折 2017-04-08 07:53</a><br/>现在中国大陆许多地方强占强拆行为，已经引起广大受害民众的愤慨，但民众上访喊冤可能很得到暴力相向，即使如此，他们仍在不屈地抗争。近日，福建厦门市、山东成武县等地民众讲出了他们受害情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816339&from=ogGitn">杨宁：四川泸州通报会少了关键的主角 2017-04-08 07:36</a><br/>不管这件事的结局如何，它与雷洋案、辱母案、呼格案、河南性侵幼女案……等一系列触碰人类底线的案件一样，都注定会在历史占有一席之地，它们让中国人看清了共产党是什么货色，看清了为什么中国人活的如此悲惨。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816335&from=ogGitn">玉清心：李友要N次换肝和傅彪两次换肝 2017-04-08 07:21</a><br/>从郭文贵的爆料证实了，中共活摘器官不但一直没有停止。而且在某些方面变本加厉，更加邪恶了。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816332&from=ogGitn">泸县尸检结果重申坠楼 知情人发图质疑：赵鑫会飞？ 2017-04-08 06:53</a><br/>四川省泸州市初中生死亡事件，官方周五（7日）公布尸检结果，重申早前指〝坠楼〞的结论。家属未有明确表态是否接受，称已骋请律师处理。日前，网络热传该案十大疑点，其中一点是赵鑫伏尸离楼房太远，有网友质疑：赵鑫会飞？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816342&from=ogGitn">【中国禁闻】4月7日完整版 2017-04-08 06:50</a><br/>川习会现场外 法轮功要求停止迫害；朝鲜核危机更紧迫 中美会否联手？；王宪魁主政黑龙江时的迫害秘闻；杜撰四大地主 丑化乡绅阶层。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816325&from=ogGitn">时政段子集：全网追捕“谣言”传递一个信息 2017-04-08 06:37</a><br/>最新时政段子集：全网追捕“谣言”传递一个信息</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816334&from=ogGitn">颜丹：美法院对“转基因”的判决打了谁的脸？ 2017-04-08 06:37</a><br/>因此，转基因是否真如他们对外宣称的“对身体无害”，大家完全可参照官员们的选择来进行无误的判断。</td></tr>
@@ -21,7 +22,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816329&from=ogGitn">【禁闻】王宪魁主政黑龙江时的迫害秘闻 2017-04-08 05:41</a><br/>近年来不少地方陆续传出当地公检法司人员放弃迫害的消息，可是在黑龙江形势依然严峻。从中可以看出，虽然江泽民早已下台，但王宪魁把自己完全绑在了江泽民迫害法轮功的政治路线上，停不下手了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816317&from=ogGitn">【网闻】金家最恨谁？朝鲜特工讲述金家内幕 2017-04-08 05:04</a><br/>4月6日，微博账号为“NKmilitaryStudies”的网民发布文章：《金家最恨谁？---高级脱北者的证言 》。文章摘录朝鲜特务、资深统战部官员张振成著作中关于中朝关系的内容，披露朝鲜金家政权最痛恨的是中国，朝核对中国的潜在威胁是切实存在的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816323&from=ogGitn">4月7日全球看中国 2017-04-08 05:02</a><br/>江苏帮崩盘 第四只大老虎李云峰被立案查办；中国〝尺度最大〞反腐剧评价两级 造势不成反启发民众？雄安本地人如何看习近平〝千年大计〞；欧盟提高对中国产钢材的反倾销关税。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816332&from=ogGitn">泸县尸检结果重申坠楼 知情人发图质疑：赵鑫会飞？ 2017-04-08 04:53</a><br/>四川省泸州市初中生死亡事件，官方周五（7日）公布尸检结果，重申早前指〝坠楼〞的结论。家属未有明确表态是否接受，称已骋请律师处理。日前，网络热传该案十大疑点，其中一点是赵鑫伏尸离楼房太远，有网友质疑：赵鑫会飞？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816319&from=ogGitn">雄安新区炒房热消退 官称首要任务“搬迁” 2017-04-08 04:41</a><br/>前，河北雄安新区掀炒房热，据报，经政府打压后，当地社区已恢复平静。新区下一步首要任务是搬迁。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816322&from=ogGitn">第4个被查省部级官员 江苏前副省长李云峰被双开 2017-04-08 04:38</a><br/>江苏省前省委常委、常务副省长李云峰因严重违纪，中纪委监察部网站通报其已被开除党籍和公职。大陆媒体报导称，曾蒙蔽领导的李云峰，下属官员排队给其送礼，他的下台与江苏前首富也有一定关系。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816318&from=ogGitn">低调退休去向微妙 江绵康卸任上海城交研究院长 2017-04-08 03:58</a><br/>《信报》消息称，江泽民次子江绵康卸任上海市城建交通发展研究院院长，并称其〝疑似低调退休〞。去年江绵恒和江绵康被内控的消息传出后，该报曾发布〝江绵康履新〞的消息，被外媒以〝破被查谣言〞标题报导，不过消息真实性存疑。</td></tr>
