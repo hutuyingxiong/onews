@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816392&from=ogGitn">地产商被判刑 牵出天津前高官背后的丑闻 2017-04-08 20:06</a><br/>近日，天津地产商人刘存发被判刑。此案也牵出落马一年多的天津津南区委原书记吕福春的最新消息，刘存发案也曝光了吕福春收受贿赂的背后黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816389&from=ogGitn">【翻墙必看】一张图泄露习川会背后的秘密 2017-04-08 19:46</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816388&from=ogGitn">辽宁铁岭官场崩盘 三重丑闻困扰陈政高 2017-04-08 19:09</a><br/>辽宁铁岭官场陷入危机，在一个月之内有三名市级官员落马。“十八大”之后，铁岭有包含两任书记三任市长的多名市级官员接连落马。这不仅显示当地官场崩塌，也再一次波及前辽宁省省长陈政高——其在任期间发生了辽宁贿选案、经济数据造假及铁岭官场的“塌方式腐败”。铁岭官场“崩盘”4月5日，铁岭市委常委、宣传部部长王志勇和副市长郭治鑫，均因涉嫌“严重违纪”接受审查。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816387&from=ogGitn">〝尺度最大〞反腐剧引热议  观众看出其中玄机 2017-04-08 18:53</a><br/>十三年后，反腐剧重现大陆荧屏，一周播放次数轻松破十亿，号称〝史上尺度最大的反腐剧〞《人民的名义》成功点燃了民众的追剧热情，然而，随着剧情的展开，不少剧迷出现了两级反应。有人认为该剧体现了当局反腐的决心，也有人认为该剧是为中共19大之前为习近平造势，但却展现出各级党政机关贪腐问题的严重程度。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816152&from=ogGitn">一年违规使用4亿元 河南逾两千官员被查 2017-04-06 15:07</a><br/>河南省于2016年对全省2116名官员进行经济责任审计，结果显示负直接责任违规使用资金达4.26亿元（人民币，下同）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816154&from=ogGitn">22名中共贪官忏悔录  3种心态最常见 2017-04-06 15:02</a><br/>近日，中共中纪委网站公布了中共四川省农业厅原巡视员胡相全的悔过书。至此，从2015年2月末开始，已有22名中共贪官的悔过书被披露。这些贪官最常见的三种心态是侥幸、贪欲、或是不平衡心态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816155&from=ogGitn">泸县校园命案维稳升级  官媒记者叹忍无可忍 2017-04-06 14:43</a><br/>中共党媒记者到泸县采访也遭到围堵威胁，而当地的种种电话骚扰，更让党媒记者忍无可忍。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816153&from=ogGitn">郭利申诉案将于近日宣判 毒奶粉再受关注 2017-04-06 14:42</a><br/>中国毒奶粉受害患儿家长郭利8年前，被广东潮州法院以“敲诈勒索罪”判刑。郭利出狱后，向广东省高院提出申诉。广东高院将于7日对该案做出判决。2008年发生的震惊中外的“三鹿毒奶粉事件”再受关注。</td></tr>
 </table>
