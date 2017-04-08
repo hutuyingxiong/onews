@@ -57,6 +57,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">冀甘琼省长候选人明确 山东省长难产 2017-04-08 05:59</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816330&from=ogGitn">【 禁闻】4月7日退党精选 2017-04-08 05:48</a><br/>山东的王顺利说：我已是一个60多岁的农民。这些年深受中共邪党村党支部书记的欺压，有冤无处诉。我现在申请退出小时加入的少先队组织，彻底脱离这个邪党，走向新生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816327&from=ogGitn">【禁闻 】4月7日维权动态 2017-04-08 05:47</a><br/>郑州电视台百名编辑记者上街抗议；中国访民美国佛州告〝御状〞；湖南拆迁户维权 公民发起接力声援；为防被强迫失踪 李和平妻留遗言。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816396&from=ogGitn">银监会首披露处罚情况 一天处罚17家金融机构 2017-04-08 05:44</a><br/>大陆银监会加强监管力度，日前，首次披露处罚情况，一天处罚17家金融机构。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816326&from=ogGitn">【禁闻】杜撰四大地主 丑化乡绅阶层 2017-04-08 05:42</a><br/>除了刘文彩背负着莫须有的罪名，中国知名的〝四大地主〞中的其他三人也是杜撰，但他们却成为中国地主阶级的代表，背负人们的仇恨。今天的〝百年红祸〞特别报导，就来看看真实的他们。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816333&from=ogGitn">动武叙利亚一石数鸟？川普：与习近平会晤获重大进展 2017-04-08 05:42</a><br/>7日，习近平访美进入第二天，也是最后一天。两国领导人举行了正式会晤。川普当场表示〝取得了进步〞。6日晚川普突然空袭叙利亚，让中方措手不及。分析称，此举作用不仅仅限于在朝核问题上向中方施压，对川普来说是一举数得。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816329&from=ogGitn">【禁闻】王宪魁主政黑龙江时的迫害秘闻 2017-04-08 05:41</a><br/>近年来不少地方陆续传出当地公检法司人员放弃迫害的消息，可是在黑龙江形势依然严峻。从中可以看出，虽然江泽民早已下台，但王宪魁把自己完全绑在了江泽民迫害法轮功的政治路线上，停不下手了。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816145&from=ogGitn">泸州维稳升级 政法委书记被官媒追问露馅 2017-04-06 15:32</a><br/>四川省泸县太伏镇中学发生的一起学生命案持续发酵。近日有陆媒记者进入该县实地调查，记者咨询相关信息时，陪同的该县政法委书记却“一问三不知”。此外，大陆网络上广传有南充市民欲集会游行声援泸州学生命案，警方对此下发通知密令对该事件“稳控”。与此同时，泸州市在此敏感时段已开始大面积限时停止供电，引发网民广泛质疑。案发后官方速报“排除他杀” 数日后改口...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-06 15:28</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816200&from=ogGitn">武汉男子每天坐12小时 患肺栓塞险猝死 2017-04-06 15:16</a><br/>上班做设计，下班后玩网络游戏，32岁的湖北武汉市民王先生每天要在电脑前坐12小时以上。半个月前，王先生腿肿了，检查发现是肺栓塞，经治疗有所缓解。出院后，王先生依然坐在电脑前玩游戏，结果病情恶化，险些猝死。</td></tr>
 </table>
