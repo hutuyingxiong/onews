@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816364&from=ogGitn">世界第一围棋手柯洁 下月对战AlphaGo 2017-04-08 13:04</a><br/>世界排名第一的中国棋手柯洁，将于5月下旬在浙江乌镇，与人工智能“阿尔法围棋”（AlphaGo）展开终极对决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816362&from=ogGitn">石涛：川普与习近平晚宴时 下令轰炸了敍利亚 2017-04-08 11:50</a><br/>2017年就是埋葬各自精英的年代，虚假的人的一面、泯灭人性的一面。习近平在党内反腐，打击的是共产党六十多年来在中囯权力体制当中的整体〝精英〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816361&from=ogGitn">朝鲜驻华外交官私卖核原料   美核专家：与氢弹有关 2017-04-08 11:38</a><br/>专家指，锂6能迅速让普通的原子弹变成氢弹，将其破坏力最高放大1000倍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816363&from=ogGitn">揭阳原副市长获刑14年 牵出神秘女子往事 2017-04-08 11:27</a><br/>日前中共广东省揭阳市原副市长郑松标以“受贿、单位受贿、滥用职权罪”终审被判14年有期徒刑。该案牵出一神秘女子“许小婉”，其与郑松标、揭阳市委原书记陈弘平、广州市委原书记万庆良等落马贪官的往事再受关注。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816117&from=ogGitn">【禁闻】四川中学生死亡 公安辟谣 民众愤怒 2017-04-06 08:43</a><br/>中国泸县中学生赵姓同学惨死案继续发酵，校方和警方事后声称，这名学生是坠楼死亡，激起家属和当地民众的愤怒。当局派出大批特警进驻，警方与抗议民众多次爆发激烈冲突，场面一度失控。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816137&from=ogGitn">习近平访芬兰 法轮功呼吁法办江泽民 2017-04-06 07:44</a><br/>4月5日，来自芬兰和瑞典的部分法轮功学员在芬兰的总统府附近举行和平请愿，敦促习近平制止对法轮功的迫害，并把迫害法轮功的元凶江泽民绳之以法。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816118&from=ogGitn">【中国禁闻】4月5日完整版 2017-04-06 07:31</a><br/>习川会五大议题 哪些是重头？人事异动余波未了 为清理江派埋伏笔？四川中学生死亡 公安辟谣 民众愤怒。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816119&from=ogGitn">姜维平：重庆何挺被“双规”，终于没能挺太久 2017-04-06 07:01</a><br/>重庆消息人士说，2017年3月31日，重庆市公安局长何挺，已经被中纪委专案组“双规”，估计官媒会在近期公布消息，指控他的主要罪名是贪污受贿和包庇薄王时期徇私枉法的涉嫌犯罪的警察，据称，这是落实中纪委书记王歧山提出的“重庆清除薄熙来和王立军余毒”，和抓捕“薄王余党”行动的一部分。何挺是周永康的嫡系，也是多年来力阻重庆平反冤假错案，造成中国民企老板“移民潮”继续...</td></tr>
 </table>
