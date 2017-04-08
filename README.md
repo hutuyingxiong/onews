@@ -8,7 +8,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816373&from=ogGitn">五次盗同一别墅  陆贼留纸条：对不起 2017-04-08 16:01</a><br/>姚先生家里连续遭盗贼5次光顾，而且还是同一个小偷，留纸条说救命用。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816372&from=ogGitn">马云抢先布局雄安   2015年设立村淘中心 2017-04-08 15:56</a><br/>自北京当局4月1日宣布设立雄安新区后，各大商家纷纷想进驻雄安。值得注意的是，近日马云旗下的农村淘宝透过微信招募村淘中心员工，工作地点就是雄安。外界哗然，马云早在2015年就已抢先布局雄安。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816371&from=ogGitn">拍北京〝花海列车〞   游客逼停火车 2017-04-08 15:35</a><br/>随着入春，北京居庸关花海进入山花开放期；然而游客为拍摄美景，破坏、翻越铁路护网的行为却屡禁不止。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈达共识：共同遏制朝核 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈 朝鲜核进展已达〝非常严重阶段〞 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816366&from=ogGitn">习十九大前官场布局 黑龙江高层遭大清洗 2017-04-08 13:18</a><br/>随着中共十九大临近，习近平当局持续官场布局。从去年以来，黑龙江地方高层人事变动频繁，各重要部门官员换人。这期间，江派亲信、黑龙江省委书记王宪魁被免职，多名省长卸任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816364&from=ogGitn">世界第一围棋手柯洁 下月对战AlphaGo 2017-04-08 13:04</a><br/>世界排名第一的中国棋手柯洁，将于5月下旬在浙江乌镇，与人工智能“阿尔法围棋”（AlphaGo）展开终极对决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816362&from=ogGitn">石涛：川普与习近平晚宴时 下令轰炸了敍利亚 2017-04-08 11:50</a><br/>2017年就是埋葬各自精英的年代，虚假的人的一面、泯灭人性的一面。习近平在党内反腐，打击的是共产党六十多年来在中囯权力体制当中的整体〝精英〞。</td></tr>
