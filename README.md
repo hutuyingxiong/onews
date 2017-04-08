@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816343&from=ogGitn">【禁闻】泸州校园命案 当局结论出炉 民不服 2017-04-08 08:51</a><br/>4月7号，清明节假期结束后的第3天，从视频中可以看到全副武装的警察守着泸县中学学校大门，和人山人海的民众仍然对峙着。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816342&from=ogGitn">【中国禁闻】4月7日完整版 2017-04-08 08:38</a><br/>川习会现场外 法轮功要求停止迫害；朝鲜核危机更紧迫 中美会否联手？；王宪魁主政黑龙江时的迫害秘闻；杜撰四大地主 丑化乡绅阶层。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816338&from=ogGitn">美中第一夫人参观艺术学校 华裔学生出席 2017-04-08 08:09</a><br/>周五（4月7日）上午，美国总统川普和中国国家主席习近平的会晤继续进行，与此同时，美中第一夫人梅拉尼娅和彭丽媛一起参观了佛州西棕榈滩一所艺术学校。就读该校的华裔学生也出席了这个活动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816337&from=ogGitn">美中首次高峰会 兵对兵将对将一览 2017-04-08 08:02</a><br/>周五（4月7日），美国总统川普（特朗普）在私人庄园海湖山庄（Mar-a-Lago）与中国国家主席习近平举行了双边会谈。美中双方各摔代表团参与会谈。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816331&from=ogGitn">福建山东修路毁林拆厂 武汉冤民被打骨折 2017-04-08 07:53</a><br/>现在中国大陆许多地方强占强拆行为，已经引起广大受害民众的愤慨，但民众上访喊冤可能很得到暴力相向，即使如此，他们仍在不屈地抗争。近日，福建厦门市、山东成武县等地民众讲出了他们受害情况。</td></tr>
@@ -206,6 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816106&from=ogGitn">【禁闻】人事异动余波未了 为清理江派埋伏笔？ 2017-04-06 05:04</a><br/>4月1号，海南、甘肃、山东、黑龙江四省省委书记同时换人，罗保铭、王三运、王宪魁、姜异康被更换。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816105&from=ogGitn">【禁闻】习川会五大议题 哪些是重头？ 2017-04-06 05:03</a><br/>习近平和川普的首次会面，美国白宫方面曾在3月底表示，两位领导人将就〝双方共同关心的国际、地区以及双边议题〞展开讨论。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816102&from=ogGitn">刘鹤副手力压吴邦国大秘 料任甘肃新省长 2017-04-06 04:09</a><br/>近日，甘肃省高层持续调整。中财办主任刘鹤副手唐仁健，力压吴邦国大秘孙伟出任甘肃省政府党组书记，将成为甘肃新省长。唐、孙两人几乎同时调任该省省委副书记。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816104&from=ogGitn">台媒：川普叫阵金正恩 朝鲜赏中共一耳光 2017-04-06 04:02</a><br/>川普放言要〝单独解决朝鲜〞，朝鲜马上试射导弹。台媒称朝鲜赏中共一计耳光。专家分析，美国不具备单独军事打击朝鲜的条件，川普意在敦促中共出手。而支持朝鲜核武的中共江派下台后，中朝日行渐远，但分析称中共并不希望金正恩倒台。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816101&from=ogGitn">出席川习会的川普高参 曾遭中共国安殴打 2017-04-06 03:58</a><br/>4月6、7日全球都将聚焦川习会，届时美中双方都会带上重要团队。对于川普（特朗普）来说，自然少不了带上其亚洲政策高参、前驻华记者博明（Matt Pottinger）。《纽约时报》称，川普的这位高参曾在中国被中共国安殴打。</td></tr>
 </table>
