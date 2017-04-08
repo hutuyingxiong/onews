@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816335&from=ogGitn">玉清心：李友要N次换肝和傅彪两次换肝 2017-04-08 07:21</a><br/>从郭文贵的爆料证实了，中共活摘器官不但一直没有停止。而且在某些方面变本加厉，更加邪恶了。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816331&from=ogGitn">福建山东修路毁林拆厂 武汉冤民被打骨折 2017-04-08 07:09</a><br/>现在中国大陆许多地方强占强拆行为，已经引起广大受害民众的愤慨，但民众上访喊冤可能很得到暴力相向，即使如此，他们仍在不屈地抗争。近日，福建厦门市、山东成武县等地民众讲出了他们受害情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816325&from=ogGitn">时政段子集：全网追捕“谣言”传递一个信息 2017-04-08 06:37</a><br/>最新时政段子集：全网追捕“谣言”传递一个信息</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816334&from=ogGitn">颜丹：美法院对“转基因”的判决打了谁的脸？ 2017-04-08 06:37</a><br/>因此，转基因是否真如他们对外宣称的“对身体无害”，大家完全可参照官员们的选择来进行无误的判断。</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816176&from=ogGitn">毛泽东的八句话骗了中国十多亿人 2017-04-06 02:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-06 02:45</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816110&from=ogGitn">27岁鼻炎患者术后坠亡 家属起诉医院与百度 2017-04-06 02:31</a><br/>继“魏则西事件”、尿毒症等患者受骗后，27岁的鼻炎患者张瑞再次因百度搜索“乌鲁木齐鼻炎医院”，找到排名第一的“乌鲁木齐爱德华医院”就医，但术后出现情绪控制能力弱，脑皮层呈抑制、疲劳状态，心理障碍、伴精神病等症状。半个月后，张瑞跳楼自杀身亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816103&from=ogGitn">A股雄安概念集体涨停 相关企业发通告澄清 2017-04-06 02:07</a><br/>4月5日是官方宣布设立雄安新区后A股的首个交易日，沪深两市大涨，雄安概念集体涨停。近日，相关企业纷纷发通告澄清。</td></tr>
 </table>
