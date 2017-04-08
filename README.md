@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816412&from=ogGitn">蒂勒森证实中美同意说服朝鲜无核化  外界不乐观 2017-04-09 03:32</a><br/>中美两国元首会晤吸引了媒体的目光，而目光的焦点质疑就是朝核问题。两国首脑会面后，国务卿蒂勒森重申了美方立场，指中美同意合作税负朝鲜放弃核计画。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816411&from=ogGitn">跳楼上吊开枪撞火车 中共官员为何如此极端 2017-04-09 03:18</a><br/>中共十八大后，随着习当局反腐“打虎”运动不断升级，据官方统计，已有158名官员自杀，他们大多是跳楼自杀，也有服毒、开枪、撞火车自杀的。外界指，其中很多官员深涉腐败丑闻，他们选择自杀，可保护很多涉及其贪腐的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816410&from=ogGitn">女尼结婚视频疯传 被疑传销聚会  网友：妖孽 2017-04-09 02:17</a><br/>内地网站流传题为〝五台山女尼结婚，师姐妹到场祝贺〞影片，片中女性全都〝剃光头〞，场内开心自拍、把酒言欢，引起网民热烈讨论。但有指现场其实是一个传销组织安排的聚会，而该组织据报是屡被媒体揭发涉庞氏骗局的〝五行币〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816409&from=ogGitn">美对付朝鲜办法：在韩部署核武 除金正恩 2017-04-09 01:06</a><br/>川习会前，美国国家安全委员会根据总统川普（特朗普）的要求，提出应对朝鲜核武计划的选项，包括在韩国部署核武器，除去独裁者金正恩，及秘密行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816406&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-08 23:19</a><br/>一般而言，人的一生中，最为亲近的除了父母、兄弟姐妹外，当属每日同床共枕的另一半，也正是因为如此亲密的关系，身为伴侣的他或她，才会更加深切的明晰对方是一个有着怎样品行之人。常人如此，那些名人也是如此。</td></tr>
@@ -212,6 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背人之常情 2017-04-06 20:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816180&from=ogGitn">川习会 美议员吁释放中国人权律师等人士 2017-04-06 19:51</a><br/>美国国会及行政当局中国委员会（CECC）主席鲁比奥参议员和共同主席史密斯众议员本周发起一项名为“让中国的英雄自由”计划，呼吁川习会关注包括被关押或被失踪的中国人权律师在内的人权活动人士。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 19:20</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 </table>
