@@ -5,6 +5,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816382&from=ogGitn">安徽女童患罕见〝早老症〞 11岁身体如80高龄 
 										
 											?组图 2017-04-08 18:13</a><br/>今年11岁的安徽女童，面相如80高龄的老妪。8岁时，身高仅有1.06米，重12公斤，相当于三四岁孩子的身高，两岁孩子的体重，据医院诊断被确诊为早老症。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816385&from=ogGitn">美国务院女官员如何被中共特务盯上（上） 2017-04-08 18:00</a><br/>3月底美司法部对一名美国务院女官员提出“涉及国家安全”指控，继斯诺登（Edward Snowden）之后的又一大案。当事人60岁即将退休，掌握高度机密17年，为家人追梦被套，你能清晰看到中共特务机构的真实运作。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816381&from=ogGitn">陈思敏：一日三案皆有牵连 河南前书记不妙 2017-04-08 17:57</a><br/>4月7日这天，被提起公诉的河北省政法委原书记张越、河南洛阳市原书记陈雪枫，以及被查的河南省政协办公厅副主任姚学亮，这三人共同交集的一人是目前退居人大任职的河南前书记郭庚茂。首先说去年年初落马的陈雪枫，在他出事后已有报导指出，他在调查期间供认向徐光春、卢展工、郭庚茂三任河南书记各行贿了二千万元人民币。对照履历，这则非官方消息颇为符合陈雪枫在河南...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816379&from=ogGitn">〝结石宝宝〞父亲坐牢5年改判无罪  毒奶粉再受关注 2017-04-08 17:48</a><br/>中国毒奶粉受害患儿家长郭利接受采访时表示，自己是为了受害的女儿而战，不是为钱。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816378&from=ogGitn">龙王转世？安徽老汉17年建〝龙宫〞  坐龙椅睡龙床（组图） 2017-04-08 17:42</a><br/>安徽省宣城市的村落有一座独特的庭院——〝颐博院〞。因庭院中处处可见龙的身影，当地人称之为〝龙宫〞。庭院主人是70多岁的李长银老人，他用了17年时间独自建造了这座〝皇家庭院〞，堪称奇观。</td></tr>
@@ -14,6 +15,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816373&from=ogGitn">五次盗同一别墅  陆贼留纸条：对不起 2017-04-08 16:01</a><br/>姚先生家里连续遭盗贼5次光顾，而且还是同一个小偷，留纸条说救命用。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816372&from=ogGitn">马云抢先布局雄安   2015年设立村淘中心 2017-04-08 15:56</a><br/>自北京当局4月1日宣布设立雄安新区后，各大商家纷纷想进驻雄安。值得注意的是，近日马云旗下的农村淘宝透过微信招募村淘中心员工，工作地点就是雄安。外界哗然，马云早在2015年就已抢先布局雄安。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816371&from=ogGitn">拍北京〝花海列车〞   游客逼停火车 2017-04-08 15:35</a><br/>随着入春，北京居庸关花海进入山花开放期；然而游客为拍摄美景，破坏、翻越铁路护网的行为却屡禁不止。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816384&from=ogGitn">在澳洲抢奶粉 两对华人夫妇大打出手 2017-04-08 14:33</a><br/>在珀斯的两对华人夫妇，为了抢几罐A2奶粉竟然在Coles店里大庭广众大打出手，真是让人觉得一言难尽，国人汗颜！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈达共识：共同遏制朝核 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816380&from=ogGitn">从习近平访美班底窥探中共高层人事 2017-04-08 13:36</a><br/>4月6日，备受瞩目的川普和习近平首次“面对面”会晤在川普的海湖庄园举行。细心的观察人士发现，这次习近平缩短了的行程，其带领的班底却较之前访美与奥巴马会面的班底有明显的“升格”，个中意味引人猜测。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816366&from=ogGitn">习十九大前官场布局 黑龙江高层遭大清洗 2017-04-08 13:18</a><br/>随着中共十九大临近，习近平当局持续官场布局。从去年以来，黑龙江地方高层人事变动频繁，各重要部门官员换人。这期间，江派亲信、黑龙江省委书记王宪魁被免职，多名省长卸任。</td></tr>
@@ -24,6 +26,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816350&from=ogGitn">每日三退声明精选（2017/04/07） 2017-04-08 10:53</a><br/>小发，小吉，小烘，小宗，孙国忠以上5人纯属自愿，并请求退出中共邪党，团，队及－切所有的中共魔教恐怖组织。现在全民都认识到了中共才是全世界最大的魔教恐怖组织。你说不是吗？这么大面积大量的活摘人体器官不是魔教恐怖组织中共谁敢干啊？！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816360&from=ogGitn">陆媒罕见起底赵薇：背景特殊顶风作案 2017-04-08 10:47</a><br/>大陆知名女星赵薇再遭陆媒起底。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816351&from=ogGitn">川人：〝人民姓党〞才是最大的中国特色？ 2017-04-08 10:22</a><br/>近日一部描述中共反腐行动的政治宣传电视剧，《人民的名义》引发广大中国人围观。对这部政治宣传电视剧的热播，有人认为该影片〝尺度大接地气〞，有人认为该影片〝戳疼了这个社会的痛点〞，还有人认为该片反映出了〝中共从严治党的决心〞。但也有人根本不相信〝中共能够通过反腐变好〞，有网友表示：〝一个政党培养出了大批贪官，把贪官都抓起来是一个政府的正常行为，这是政府的耻辱并不值得歌颂，韩国抓了自己的总统舆论也没歌颂韩国政府英明神武。〞</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816383&from=ogGitn">北京访民告警案开庭 逾30人声援遭驱赶 2017-04-08 10:16</a><br/>北京维权人士季新华状告北京市公安局行政不作为一案，4月6日在北京市丰台区法院开庭审理，有30多名民众到场声援，部分无法进入法庭参加旁听者在法庭外遭到警察驱赶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816345&from=ogGitn">周立波持枪持毒案在美开庭 或面临2年刑期 2017-04-08 10:06</a><br/>大陆知名主持人周立波持枪持毒案，日前在美国正式开庭审理，有律师称，如罪名成立，或将面临2年以上刑期。当天周立波和代理律师莫虎在法庭现身，据悉，周立波案将再次延迟至6月开庭。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816349&from=ogGitn">华裔女杀人交5亿保金震惊旧金山 被曝是李继耐外甥女 
 										
@@ -209,7 +212,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816150&from=ogGitn">北京朝阳群众App正式上架　网民：新时代锦衣卫 2017-04-06 14:35</a><br/>北京警方推出〝朝阳群众App〞，蛊惑和利诱民众〝举报你附近的人〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816149&from=ogGitn">学生命案未平息 泸县又爆杀人事件 2017-04-06 14:28</a><br/>四川泸县14岁中学生赵鑫惨死案仍在发酵之际，泸县兴隆山又传出暴力杀人事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816156&from=ogGitn">川习会前夕 美国议员敦促中共释放良心犯 2017-04-06 14:10</a><br/>美国总统特朗普与中国国家主席习近平即将举行首次会晤前夕，美国“国会及行政当局中国委员会”主席马克?鲁比奥参议员和共同主席克里斯?史密斯众议员发表联合声明，敦促特朗普总统就中国人权问题向习近平提出交涉，并呼吁中方释放在押的政治良心犯。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816147&from=ogGitn">港媒：清明节〝冥婚〞大陆人18万买女尸 2017-04-06 13:43</a><br/>有家属愿出高价购买女尸，人贩子有利可图，他们甚至通过谋杀来获得尸体。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816218&from=ogGitn">中国联通突停牌 外界猜测与企业混改有关 2017-04-06 13:40</a><br/>4月5日，中国联通A股和H股双双停牌，市场猜测联通将发布混改公告，但联通5日晚的公告仅称公司正在筹划混改事项，其它细节没有披露。公告说，股票将于6日上午复牌。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816146&from=ogGitn">四川民办教师维权向外媒求助 遭警察威胁 2017-04-06 13:35</a><br/>四川资阳市近百名民代幼教师曾于3月中共俩会期间，到各级政府维权抗议，要求解决社会保障等问题。近日，遭到中共威胁，要求他们通过内部途径解决，如再接受外媒采访就会被抓。但教师们认为，十多年来止访始终无果，他们已不相信逐级反映能解决问题。</td></tr>
 </table>
