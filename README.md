@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816410&from=ogGitn">女尼结婚视频疯传 被疑传销聚会  网友：妖孽 2017-04-09 02:17</a><br/>内地网站流传题为〝五台山女尼结婚，师姐妹到场祝贺〞影片，片中女性全都〝剃光头〞，场内开心自拍、把酒言欢，引起网民热烈讨论。但有指现场其实是一个传销组织安排的聚会，而该组织据报是屡被媒体揭发涉庞氏骗局的〝五行币〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816409&from=ogGitn">美对付朝鲜办法：在韩部署核武 除金正恩 2017-04-09 01:06</a><br/>川习会前，美国国家安全委员会根据总统川普（特朗普）的要求，提出应对朝鲜核武计划的选项，包括在韩国部署核武器，除去独裁者金正恩，及秘密行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816406&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-08 23:19</a><br/>一般而言，人的一生中，最为亲近的除了父母、兄弟姐妹外，当属每日同床共枕的另一半，也正是因为如此亲密的关系，身为伴侣的他或她，才会更加深切的明晰对方是一个有着怎样品行之人。常人如此，那些名人也是如此。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816405&from=ogGitn">颜丹：美法院对〝转基因〞的判决打了谁的脸 2017-04-08 23:16</a><br/>最新一条有关〝转基因〞的消息来自美国加利福利亚州法院。3月10日，该法院法官正式宣判，在加州销售的转基因伴侣草甘膦都要贴上致癌标签。与此同时，监管机构也准备在正式的法案出台之后，就立即推进贴标签的相关事宜。</td></tr>
@@ -55,7 +56,7 @@
 											?组图 2017-04-08 09:47</a><br/>网曝，李继红是中共前总装备部部长李继耐妹妹，李继耐则是江泽民心腹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816343&from=ogGitn">【禁闻】泸州校园命案 当局结论出炉 民不服 2017-04-08 09:30</a><br/>4月7号，清明节假期结束后的第3天，从视频中可以看到全副武装的警察守着泸县中学学校大门，和人山人海的民众仍然对峙着。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816352&from=ogGitn">川普下令空袭 白宫公布关键55小时决策过程 2017-04-08 08:48</a><br/>白宫发言人斯派塞公布川普从4日上午10点30分获悉叙利亚小镇遭化学武器攻击，到6日下午4点决定空袭叙利亚，关键55个小时的决策过程。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816328&from=ogGitn">谢天奇：直辖市6公安高官出事 还有4人高危 2017-04-08 08:46</a><br/>吴志明、傅政华、强卫作为两直辖市的前任公安局长，或步宋平顺、武长顺、朱明国、王立军、何挺等人的后尘，处境岌岌可危。谁会被最先抛出来？这也将是十九大前习江斗的一个重要风向标。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816328&from=ogGitn">谢天奇：直辖市6公安高官出事 吴志明高危 2017-04-08 08:46</a><br/>吴志明、傅政华、强卫作为两直辖市的前任公安局长，或步宋平顺、武长顺、朱明国、王立军、何挺等人的后尘，处境岌岌可危。谁会被最先抛出来？这也将是十九大前习江斗的一个重要风向标。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816347&from=ogGitn">加拿大公民在北京被非法关押 加国领事探望 2017-04-08 08:18</a><br/>近日，北京利德曼公司前高管、加拿大籍华人，法轮功学员孙茜在北京遭非法逮捕，孙茜家属对外呼吁营救的同时，该案受到加拿大驻北京大使馆官员的关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816338&from=ogGitn">美中第一夫人参观艺术学校 华裔学生出席 2017-04-08 08:09</a><br/>周五（4月7日）上午，美国总统川普和中国国家主席习近平的会晤继续进行，与此同时，美中第一夫人梅拉尼娅和彭丽媛一起参观了佛州西棕榈滩一所艺术学校。就读该校的华裔学生也出席了这个活动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816337&from=ogGitn">美中首次高峰会 双方兵对兵将对将一览 2017-04-08 08:02</a><br/>周五（4月7日），美国总统川普（特朗普）在私人庄园海湖山庄（Mar-a-Lago）与中国国家主席习近平举行了双边会谈。美中双方各摔代表团参与会谈。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816123&from=ogGitn">石涛：雄安为北京而建 非深圳可比 公示财产必亡党？ 2017-04-06 19:20</a><br/>习近平在夺取权力之后，选择在西方愚人节这天真正拿出治国的理念。你如果看看北京地方志的《日下旧闻考》和《帝京景物略》，你就知道为什么刘罗锅定都北京，根本不是什么利益的考量。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816171&from=ogGitn">浙江义乌疑泄漏煤气爆炸 有伤亡 2017-04-06 18:05</a><br/>周四(4月6日)，浙江省义乌市发生煤气爆炸事故，目前已知有1人丧生，多人受伤。</td></tr>
 </table>
