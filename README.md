@@ -9,6 +9,7 @@
 										
 											?组图 2017-04-08 09:47</a><br/>网曝，李继红是中共前总装备部部长李继耐妹妹，李继耐则是江泽民心腹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816343&from=ogGitn">【禁闻】泸州校园命案 当局结论出炉 民不服 2017-04-08 09:30</a><br/>4月7号，清明节假期结束后的第3天，从视频中可以看到全副武装的警察守着泸县中学学校大门，和人山人海的民众仍然对峙着。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816352&from=ogGitn">川普下令空袭 白宫公布关键55小时决策过程 2017-04-08 08:48</a><br/>白宫发言人斯派塞公布川普从4日上午10点30分获悉叙利亚小镇遭化学武器攻击，到6日下午4点决定空袭叙利亚，关键55个小时的决策过程。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816347&from=ogGitn">加拿大公民在北京被非法关押 加国领事探望 2017-04-08 08:18</a><br/>近日，北京利德曼公司前高管、加拿大籍华人，法轮功学员孙茜在北京遭非法逮捕，孙茜家属对外呼吁营救的同时，该案受到加拿大驻北京大使馆官员的关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816338&from=ogGitn">美中第一夫人参观艺术学校 华裔学生出席 2017-04-08 08:09</a><br/>周五（4月7日）上午，美国总统川普和中国国家主席习近平的会晤继续进行，与此同时，美中第一夫人梅拉尼娅和彭丽媛一起参观了佛州西棕榈滩一所艺术学校。就读该校的华裔学生也出席了这个活动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816337&from=ogGitn">美中首次高峰会 兵对兵将对将一览 2017-04-08 08:02</a><br/>周五（4月7日），美国总统川普（特朗普）在私人庄园海湖山庄（Mar-a-Lago）与中国国家主席习近平举行了双边会谈。美中双方各摔代表团参与会谈。</td></tr>
@@ -46,14 +47,14 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816295&from=ogGitn">陈思敏：泸县警方与家属对话录音透露的讯息 2017-04-07 23:19</a><br/>至4月6日，四川泸州泸县发生近一周的太伏中学学生坠亡事件，舆情仍然汹涌也仍遭全面戒严，就连新华社记者实地采访亦受阻。而在新华记者发文〝无法忍受〞之后，一份所谓泸县公安局警方跟死者父母的对话录音也被曝光。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816298&from=ogGitn">川普三次试探习近平？晚宴笑称〝啥也没得到〞 2017-04-07 23:13</a><br/>中国国家主席习近平与美国总统川普7日将正式会晤。在习近平6日抵达美国开始，美方已开始对习数次施压和试探，当晚美军空袭叙利亚更是其中一个重头戏。川普在晚宴上笑称〝目前啥也没得到〞，在调侃之余也似有心理施压意味。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816296&from=ogGitn">杨春华：清明悲歌 2017-04-07 23:00</a><br/>清明时节，在淅沥潺潺的小雨中，追忆我在大陆因坚定修炼法轮大法而被迫害致死的家人，遥想那一座座荒芜的坟冢前，不知是否已长出新草？</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816250&from=ogGitn">突发：网曝苏州大规模械斗 炸药砍刀齐上如打仗 
+										
+											?组图 2017-04-07 22:38</a><br/>4月7日凌晨，网曝苏州虎丘安徽的和江苏徐州的开仗了！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816315&from=ogGitn">台文化部长质问：中共为何可伤害言论自由 2017-04-07 22:29</a><br/>4月7日，中华民国文化部长郑丽君谈及中共对言论自由造成的影响时表示，当她看到台湾文化工作者、演艺人员被中共要求就政治立场表态，台湾人通常在问“他做了什么被封杀？”，但应该要先问“中共为何可以箝制表意自由？为何可以伤害言论自由、强迫政治表态？”</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816174&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-07 22:04</a><br/>杨开慧在遗书中愤然指毛是政治、生活双料流氓，江青则在公审时自称是毛的一条狗，贺子珍则被毛折磨得十年怀孕9次。毛是什么德行由此可见。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816291&from=ogGitn">川习会 川普答应习近平年内访华 2017-04-07 21:47</a><br/>备受瞩目的川习会已于周四（4月6日）下午登场，美国总统川普（特朗普）在马阿拉哥（Mar-a-Lago，又称海湖庄园）宴请习近平。席间，川普已接受邀请，今年到中国进行国事访问。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816292&from=ogGitn">陈思敏：泸县警方与家属对话录音透露的讯息 2017-04-07 21:26</a><br/>从北京人大硕士雷洋到四川泸县中学生赵鑫，乃至过去太多、甚至未来可能发生的类似案例──有人意外死亡是必须他自己病发或自杀，群众知情权是必须要被蒙蔽的，想要真相的家属是必须当成情绪不稳、胡搅蛮缠的，网上的理性讨论是必须打击的谣言，民众上街打横幅举标语是必须要武警镇压的恶意炒作──这一切只为了中共官员完全没责任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816294&from=ogGitn">雄安新区：系统升级？ 3县先后停办婚姻登记 2017-04-07 21:06</a><br/>北京宣布设立雄安新区，受影响的不仅是房地产市场，就连户籍变更、公职人员进出、产权变更等都被暂时冻结，甚至部分居民的离婚、复婚也无法进行。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816250&from=ogGitn">突发：网曝苏州大规模械斗 炸药砍刀齐上如打仗 
-										
-											?组图 2017-04-07 21:00</a><br/>4月7日凌晨，网曝苏州虎丘安徽的和江苏徐州的开仗了！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816290&from=ogGitn">雄安禁止炒作陪都概念 习打造新城市样板 2017-04-07 20:47</a><br/>河北设立雄安新区的消息发布后，成为舆论关注的热点。据报导，有关部门已下令禁止炒作“陪都”等概念。有分析认为，在雄安这样一张白纸上作画，让习近平可尽情发挥，建造一个习近平式的样板大都市。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 20:45</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816286&from=ogGitn">江苏帮崩盘 第四只大老虎李云峰被立案审查 2017-04-07 20:34</a><br/>中纪委监察部网站 4月7日发布消息，对中共第十八届中央候补委员，江苏省原省委常委、常务副省长李云峰严重“违纪”问题进行了立案审查。李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816112&from=ogGitn">【禁闻】4月5日退党精选 2017-04-06 06:29</a><br/>化名〝重生〞的大陆民众发表了近300字的退党声明，声明退出一切组织，为澄清玉宇尽绵薄之力。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816148&from=ogGitn">阴霾再袭京津冀 14城发布重污染橙色预警 2017-04-06 06:18</a><br/>近日，大陆京津冀等地区再遭重污染袭击， 14城发布橙色预警，5城发布黄色预警。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816122&from=ogGitn">川普等政治素人将如何应付一群共产党官僚 2017-04-06 06:05</a><br/>这边厢，川普（特朗普）发誓“要让美国再次伟大”，那边厢，习近平在推动“中国梦”。他们两人将于周四（4月6日）在佛州棕榈滩首次会晤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816111&from=ogGitn">【禁闻】传泸州中学生死亡事件 涉官二代 2017-04-06 05:48</a><br/>川习会前 朝鲜再射导弹；传泸州中学生死亡事件 涉官二代；清明节 大陆三个墓地为禁区。</td></tr>
 </table>
