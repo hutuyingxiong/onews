@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816362&from=ogGitn">石涛：川普与习近平晚宴时 下令轰炸了敍利亚 2017-04-08 11:50</a><br/>2017年就是埋葬各自精英的年代，虚假的人的一面、泯灭人性的一面。习近平在党内反腐，打击的是共产党六十多年来在中囯权力体制当中的整体〝精英〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816361&from=ogGitn">朝鲜驻华外交官私卖核原料   美核专家：与氢弹有关 2017-04-08 11:38</a><br/>专家指，锂6能迅速让普通的原子弹变成氢弹，将其破坏力最高放大1000倍。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816350&from=ogGitn">每日三退声明精选（2017/04/07） 2017-04-08 10:53</a><br/>小发，小吉，小烘，小宗，孙国忠以上5人纯属自愿，并请求退出中共邪党，团，队及－切所有的中共魔教恐怖组织。现在全民都认识到了中共才是全世界最大的魔教恐怖组织。你说不是吗？这么大面积大量的活摘人体器官不是魔教恐怖组织中共谁敢干啊？！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816360&from=ogGitn">陆媒罕见起底赵薇：背景特殊顶风作案 2017-04-08 10:47</a><br/>大陆知名女星赵薇再遭陆媒起底。</td></tr>
@@ -209,5 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816118&from=ogGitn">【中国禁闻】4月5日完整版 2017-04-06 07:31</a><br/>习川会五大议题 哪些是重头？人事异动余波未了 为清理江派埋伏笔？四川中学生死亡 公安辟谣 民众愤怒。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816119&from=ogGitn">姜维平：重庆何挺被“双规”，终于没能挺太久 2017-04-06 07:01</a><br/>重庆消息人士说，2017年3月31日，重庆市公安局长何挺，已经被中纪委专案组“双规”，估计官媒会在近期公布消息，指控他的主要罪名是贪污受贿和包庇薄王时期徇私枉法的涉嫌犯罪的警察，据称，这是落实中纪委书记王歧山提出的“重庆清除薄熙来和王立军余毒”，和抓捕“薄王余党”行动的一部分。何挺是周永康的嫡系，也是多年来力阻重庆平反冤假错案，造成中国民企老板“移民潮”继续...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816113&from=ogGitn">4月5日维权动态 2017-04-06 06:30</a><br/>江苏宝应公路站职工拉横幅 讨血汗钱；武汉两访民被打致骨折 疑上访遭报复；大连访民盛兰福被送精神病院。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816112&from=ogGitn">【禁闻】4月5日退党精选 2017-04-06 06:29</a><br/>化名〝重生〞的大陆民众发表了近300字的退党声明，声明退出一切组织，为澄清玉宇尽绵薄之力。</td></tr>
 </table>
