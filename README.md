@@ -49,6 +49,9 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816291&from=ogGitn">川习会 川普答应习近平年内访华 2017-04-07 21:47</a><br/>备受瞩目的川习会已于周四（4月6日）下午登场，美国总统川普（特朗普）在马阿拉哥（Mar-a-Lago，又称海湖庄园）宴请习近平。席间，川普已接受邀请，今年到中国进行国事访问。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816292&from=ogGitn">陈思敏：泸县警方与家属对话录音透露的讯息 2017-04-07 21:26</a><br/>从北京人大硕士雷洋到四川泸县中学生赵鑫，乃至过去太多、甚至未来可能发生的类似案例──有人意外死亡是必须他自己病发或自杀，群众知情权是必须要被蒙蔽的，想要真相的家属是必须当成情绪不稳、胡搅蛮缠的，网上的理性讨论是必须打击的谣言，民众上街打横幅举标语是必须要武警镇压的恶意炒作──这一切只为了中共官员完全没责任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816294&from=ogGitn">雄安新区：系统升级？ 3县先后停办婚姻登记 2017-04-07 21:06</a><br/>北京宣布设立雄安新区，受影响的不仅是房地产市场，就连户籍变更、公职人员进出、产权变更等都被暂时冻结，甚至部分居民的离婚、复婚也无法进行。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816250&from=ogGitn">突发：网曝苏州大规模械斗 炸药砍刀齐上如打仗 
+										
+											?组图 2017-04-07 21:00</a><br/>4月7日凌晨，网曝苏州虎丘安徽的和江苏徐州的开仗了！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816290&from=ogGitn">雄安禁止炒作陪都概念 习打造新城市样板 2017-04-07 20:47</a><br/>河北设立雄安新区的消息发布后，成为舆论关注的热点。据报导，有关部门已下令禁止炒作“陪都”等概念。有分析认为，在雄安这样一张白纸上作画，让习近平可尽情发挥，建造一个习近平式的样板大都市。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 20:45</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816286&from=ogGitn">江苏帮崩盘 第四只大老虎李云峰被立案审查 2017-04-07 20:34</a><br/>中纪委监察部网站 4月7日发布消息，对中共第十八届中央候补委员，江苏省原省委常委、常务副省长李云峰严重“违纪”问题进行了立案审查。李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。</td></tr>
@@ -86,9 +89,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816252&from=ogGitn">川普牛排宴招待习近平 还发推特玄酷 
 										
 											?组图 2017-04-07 10:55</a><br/>6日晚，川普接待习近平时，准备了精致的餐点，并发推特炫耀。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816250&from=ogGitn">突发：网曝苏州大规模械斗 炸药砍刀齐上如打仗 
-										
-											?组图 2017-04-07 10:38</a><br/>4月7日凌晨，网曝苏州虎丘安徽的和江苏徐州的开仗了！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816248&from=ogGitn">每日三退声明精选（2017/04/06） 2017-04-07 10:36</a><br/>上学时被动加入邪党的少先队和共青团，工作后为了生活稍微好点无奈加入邪党。静观邪党所作所为令人发指，无药可就。“呼格”等等案件媒体呼吁了二十年了，才因为权力斗争而浮出水面，现在雷洋案，辱母杀人案，是邪党的真实体现，再看看邪党一手扶植的朝鲜流氓政权，真是邪恶至极。仁和在此宣誓：相信退出邪党的党、团、队不与邪恶为伍，才是个好人才能保平安！</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816266&from=ogGitn">重庆一炼油厂发生火灾 已致3人死亡 2017-04-07 09:57</a><br/>4月6日上午10时40分，重庆亚特高级润滑油有限公司突然发生火灾，现场滚滚的黑烟弥漫天际，已造成3名工人死亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816261&from=ogGitn">李放：一党专政 必然短命 2017-04-07 09:11</a><br/>现在中共从高层到整个社会全都败坏、腐烂了。已病入膏肓，灭亡在即。</td></tr>
