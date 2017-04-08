@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816414&from=ogGitn">江泽民集团瓜分中国经济内幕（4） 2017-04-09 04:42</a><br/>江泽民集团忽悠习近平混制国企，是为毁掉民族经济、消灭公有制。关于论题，不作重述。这里，仅以中石化的混制例证观点。1、中石化混制的“活力说”中共官网2014年9月15日报导“腾讯等25家企业千亿注资中石化，为实现最大混制改革迈出实质一步”。笔者认为这个动作表明：中共外卖国有118家民族企业的危亡信号弹己经升空。其抢归党有、被命名央企的国营大企业，正...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816412&from=ogGitn">蒂勒森证实中美同意说服朝鲜无核化  外界不乐观 2017-04-09 03:32</a><br/>中美两国元首会晤吸引了媒体的目光，而目光的焦点质疑就是朝核问题。两国首脑会面后，国务卿蒂勒森重申了美方立场，指中美同意合作税负朝鲜放弃核计画。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816411&from=ogGitn">跳楼上吊开枪撞火车 中共官员为何如此极端 2017-04-09 03:18</a><br/>中共十八大后，随着习当局反腐“打虎”运动不断升级，据官方统计，已有158名官员自杀，他们大多是跳楼自杀，也有服毒、开枪、撞火车自杀的。外界指，其中很多官员深涉腐败丑闻，他们选择自杀，可保护很多涉及其贪腐的人。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816410&from=ogGitn">女尼结婚视频疯传 被疑传销聚会  网友：妖孽 2017-04-09 02:17</a><br/>内地网站流传题为〝五台山女尼结婚，师姐妹到场祝贺〞影片，片中女性全都〝剃光头〞，场内开心自拍、把酒言欢，引起网民热烈讨论。但有指现场其实是一个传销组织安排的聚会，而该组织据报是屡被媒体揭发涉庞氏骗局的〝五行币〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816389&from=ogGitn">【翻墙必看】一张图泄露习川会背后的秘密 2017-04-09 01:40</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816409&from=ogGitn">美对付朝鲜办法：在韩部署核武 除金正恩 2017-04-09 01:06</a><br/>川习会前，美国国家安全委员会根据总统川普（特朗普）的要求，提出应对朝鲜核武计划的选项，包括在韩国部署核武器，除去独裁者金正恩，及秘密行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816406&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-08 23:19</a><br/>一般而言，人的一生中，最为亲近的除了父母、兄弟姐妹外，当属每日同床共枕的另一半，也正是因为如此亲密的关系，身为伴侣的他或她，才会更加深切的明晰对方是一个有着怎样品行之人。常人如此，那些名人也是如此。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816405&from=ogGitn">颜丹：美法院对〝转基因〞的判决打了谁的脸 2017-04-08 23:16</a><br/>最新一条有关〝转基因〞的消息来自美国加利福利亚州法院。3月10日，该法院法官正式宣判，在加州销售的转基因伴侣草甘膦都要贴上致癌标签。与此同时，监管机构也准备在正式的法案出台之后，就立即推进贴标签的相关事宜。</td></tr>
@@ -18,7 +20,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816398&from=ogGitn">又现短命官 粤国资委副主任试用期过即被查 2017-04-08 22:15</a><br/>中共广东省广州市国资委女副主任一年试用期刚过，立刻被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816395&from=ogGitn">陕西山阳前女高官圈地33亩建庄园被处理 2017-04-08 22:08</a><br/>中共陕西山阳县政协前副主席毛海琴在西安违规占地33亩建私人庄园，成为外界关注焦点。4月7日，毛海琴因“违纪”被严重警告处分。此处理结果，遭到大陆网民炮轰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816399&from=ogGitn">南京建地铁20栋楼变危房 业主多次维权无果 2017-04-08 21:57</a><br/>江苏南京市鼓楼区宁工新寓小区的20栋楼房因建地铁变成危房，当地政府不予回购，仅提出低价赔偿加固，业主反对此方案，多次维权无果，期间不是被抓就是被打。3月29日，300余名业主再次来到南京地铁公司门前，要求地铁公司给一个说法。业主们将公司的大门堵住，业主张先生向大纪元记者介绍了当时的情况。一名工作人员在出大门时与业主发生争执，一名男子张口骂业主...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816389&from=ogGitn">【翻墙必看】一张图泄露习川会背后的秘密 2017-04-08 21:10</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816392&from=ogGitn">地产商被判刑 牵出天津前高官背后的丑闻 2017-04-08 20:06</a><br/>近日，天津地产商人刘存发被判刑。此案也牵出落马一年多的天津津南区委原书记吕福春的最新消息，刘存发案也曝光了吕福春收受贿赂的背后黑幕。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816394&from=ogGitn">被冤判三年半 山东访民林秀丽：将提上诉 2017-04-08 19:27</a><br/>山东访民林秀丽涉嫌“聚众扰乱社会秩序罪”一案，4月7日在青岛市看守所宣判，林秀丽被判处有期徒刑三年六个月，其代理律师认为量刑过重。林秀丽表示将会提起上诉。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816388&from=ogGitn">辽宁铁岭官场崩盘 三重丑闻困扰陈政高 2017-04-08 19:09</a><br/>辽宁铁岭官场陷入危机，在一个月之内有三名市级官员落马。“十八大”之后，铁岭有包含两任书记三任市长的多名市级官员接连落马。这不仅显示当地官场崩塌，也再一次波及前辽宁省省长陈政高——其在任期间发生了辽宁贿选案、经济数据造假及铁岭官场的“塌方式腐败”。铁岭官场“崩盘”4月5日，铁岭市委常委、宣传部部长王志勇和副市长郭治鑫，均因涉嫌“严重违纪”接受审查。...</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816183&from=ogGitn">武汉精神病患者从医院3楼出逃后“失踪” 2017-04-06 20:18</a><br/>湖北武汉天祐医院精神病科一名患者4月4日逃离医院后，至今还是“失踪”状态。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816179&from=ogGitn">向黄兴国泄密的中纪委内鬼 帮商人揽工程收贿 2017-04-06 20:09</a><br/>近期，吉林华运房地产开发有限公司董事长黄保国被判刑5年。其被指控向中纪委官员袁卫华行贿数百万元（人民币、下同）。此前，袁被指以“故意泄露案情”换取利益，黄兴国落马前曾找他打探案情。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816169&from=ogGitn">〝辱母杀人案〞生变？最高法副院长：不能违背人之常情 2017-04-06 20:05</a><br/>沈德咏的讲话似有所指，这可能意味着山东〝辱母杀人案〞的判决结果会发生变化。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816180&from=ogGitn">川习会 美议员吁释放中国人权律师等人士 2017-04-06 19:51</a><br/>美国国会及行政当局中国委员会（CECC）主席鲁比奥参议员和共同主席史密斯众议员本周发起一项名为“让中国的英雄自由”计划，呼吁川习会关注包括被关押或被失踪的中国人权律师在内的人权活动人士。</td></tr>
 </table>
