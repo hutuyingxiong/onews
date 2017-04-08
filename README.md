@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈 朝鲜核进展已达〝非常严重阶段〞 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816366&from=ogGitn">习十九大前官场布局 黑龙江高层遭大清洗 2017-04-08 13:18</a><br/>随着中共十九大临近，习近平当局持续官场布局。从去年以来，黑龙江地方高层人事变动频繁，各重要部门官员换人。这期间，江派亲信、黑龙江省委书记王宪魁被免职，多名省长卸任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816364&from=ogGitn">世界第一围棋手柯洁 下月对战AlphaGo 2017-04-08 13:04</a><br/>世界排名第一的中国棋手柯洁，将于5月下旬在浙江乌镇，与人工智能“阿尔法围棋”（AlphaGo）展开终极对决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816362&from=ogGitn">石涛：川普与习近平晚宴时 下令轰炸了敍利亚 2017-04-08 11:50</a><br/>2017年就是埋葬各自精英的年代，虚假的人的一面、泯灭人性的一面。习近平在党内反腐，打击的是共产党六十多年来在中囯权力体制当中的整体〝精英〞。</td></tr>
@@ -64,6 +65,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816290&from=ogGitn">雄安禁止炒作陪都概念 习打造新城市样板 2017-04-07 20:47</a><br/>河北设立雄安新区的消息发布后，成为舆论关注的热点。据报导，有关部门已下令禁止炒作“陪都”等概念。有分析认为，在雄安这样一张白纸上作画，让习近平可尽情发挥，建造一个习近平式的样板大都市。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816227&from=ogGitn">谢天奇：习访美重庆出状况 何挺被火速拿下？ 2017-04-07 20:45</a><br/>重庆公安局发布“翻墙”上网有罪的规定后，迅速传出局长何挺落马的消息。这发生在习近平出访前的短短数日内。习近平访美前夕，重庆公安系统再出状况，令人联想五年前的王立军事件。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816286&from=ogGitn">江苏帮崩盘 第四只大老虎李云峰被立案审查 2017-04-07 20:34</a><br/>中纪委监察部网站 4月7日发布消息，对中共第十八届中央候补委员，江苏省原省委常委、常务副省长李云峰严重“违纪”问题进行了立案审查。李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816367&from=ogGitn">苏州街头数十人械斗 汽车撞人群 2017-04-07 20:28</a><br/>江苏省苏州市虎丘区的街头发生数五十余人群殴械斗事件。他们在婚纱城附近持械殴斗，并燃放烟花爆竹当作武器，更有人驾车直接冲到人群，多人受伤倒地。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816293&from=ogGitn">大陆居民去年债务增加6万多亿 2017-04-07 20:24</a><br/>大陆居民在2016年债务上升，比2015年增加了6万多亿元人民币。这和去年大陆楼市疯涨有关。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816288&from=ogGitn">三座“大山”压顶 中国逾5400万人患抑郁 2017-04-07 20:21</a><br/>世界卫生组织（WTO）4月6日对外发布信息称，在中国，有逾5400万人罹患抑郁症。网民吐槽都是三座大山压的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816284&from=ogGitn">为江派大佬卖命 张越王阳等3人被起诉 2017-04-07 20:08</a><br/>近日江苏、湖北、黑龙江三省分别对中共河北省委原常委、政法委原书记张越涉嫌受贿案，中共河南省委原常委、洛阳市委原书记陈雪枫涉嫌受贿、贪污、国有公司人员滥用职权案，辽宁省人大常委会原副主任王阳涉嫌受贿、破坏选举案提起公诉。江苏另一只大老虎李云峰被宣布落马。</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816128&from=ogGitn">周晓辉：财新传媒主编谈“习川会”传信息 2017-04-06 09:27</a><br/>4月6日至7日，习近平将在佛州与美国总统川普（特朗普）举行会晤，对于这场世界颇为关注的会面，有习阵营背景的大陆财新网于5日在重要位置，刊发了财新传媒总编辑胡舒立撰写的《举世关注首次“习特会”》一文。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816134&from=ogGitn">推销核武原料 朝鲜驻华外交官登广告 2017-04-06 09:23</a><br/>日前，朝鲜驻北京大使馆三等秘书被曝登广告推销高纯度锂6，从中国丹东港发货。锂6是核武原料，能迅速让普通的原子弹变成氢弹，朝鲜此举引起全球情报机构的注意。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816108&from=ogGitn">【微视频】昨日无力报母 今朝无力护雏 2017-04-06 08:44</a><br/>蜀中泸州恶官横行，鱼肉乡里。泸州县令某并捕快某，皆有子顽劣，常于学堂之上，勒索同窗之人，曰〝保护费〞。民赵某之子家贫，求宽限数日，不准。再辩，竟遭殴毙。益州刺史遣军夺其尸，自此民怨益沸腾，皆曰〝昨日无力报母，今朝无力护雏，人伦自此丧尽矣！</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816117&from=ogGitn">【禁闻】四川中学生死亡 公安辟谣 民众愤怒 2017-04-06 08:43</a><br/>中国泸县中学生赵姓同学惨死案继续发酵，校方和警方事后声称，这名学生是坠楼死亡，激起家属和当地民众的愤怒。当局派出大批特警进驻，警方与抗议民众多次爆发激烈冲突，场面一度失控。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816137&from=ogGitn">习近平访芬兰 法轮功呼吁法办江泽民 2017-04-06 07:44</a><br/>4月5日，来自芬兰和瑞典的部分法轮功学员在芬兰的总统府附近举行和平请愿，敦促习近平制止对法轮功的迫害，并把迫害法轮功的元凶江泽民绳之以法。</td></tr>
 </table>
