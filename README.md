@@ -9,6 +9,7 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816403&from=ogGitn">杨宁：四川泸州通报会少了关键的主角 2017-04-08 23:07</a><br/>针对四川泸州泸县太伏中学初中生赵鑫坠亡事件，官方有了新的回应。4月7日，四川泸州市委市政府召开媒体见面会，通报了调查情况。根据该事件调查技术负责人、四川省公安厅刑侦局刑事技术处处长王庆红所言，当局最终的结论就是：赵鑫身体上的损伤符合外轻内重、暴力巨大的损伤特点，损伤均为高坠伤；无其它暴力加害形成的损伤；无死后伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816401&from=ogGitn">川校园命案学生头七 上千人再讨公道 2017-04-08 23:06</a><br/>7号上午，太伏中学学生陆续到校，大批民众还有媒体记者也来到现场，有民众手举着标牌，要求公正、公平、公开。太伏镇王先生表示，特警已经撤退，没有冲突发生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816402&from=ogGitn">谢天奇：直辖市6公安高官出事 傅政华吴志明高危 2017-04-08 23:02</a><br/>4月3日，港媒披露，中共重庆副市长、公安局长何挺目前正接受调查。知情人士还透露，何挺3月31日被中纪委带走。何挺被查消息传出至今，未见官方证实，但也未见官方辟谣。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816408&from=ogGitn">和川普首次会晤 习近平：增进友谊建立信任 2017-04-08 22:23</a><br/>川习会结束，尽管没有达成任何具体协议，仅同意推动贸易百日计划，但美国总统川普（特朗普）及中国国家主席习近平的第一次接触，似乎达到了认识对方的目的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816397&from=ogGitn">万家文化或遭大规模索赔 龙薇传媒恐难脱干系 2017-04-08 22:19</a><br/>赵薇旗下龙薇传媒终止收购万家文化股权一事并未完全了结，4月7日，万家文化发布公告称，收到监管函询问解除本次股权转让的理由和细节。多位律师均表示,如果认定龙薇传媒存在违规行为，赵薇恐怕难以全身而退。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816398&from=ogGitn">又现短命官 粤国资委副主任试用期过即被查 2017-04-08 22:15</a><br/>中共广东省广州市国资委女副主任一年试用期刚过，立刻被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816395&from=ogGitn">陕西山阳前女高官圈地33亩建庄园被处理 2017-04-08 22:08</a><br/>中共陕西山阳县政协前副主席毛海琴在西安违规占地33亩建私人庄园，成为外界关注焦点。4月7日，毛海琴因“违纪”被严重警告处分。此处理结果，遭到大陆网民炮轰。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816171&from=ogGitn">浙江义乌疑泄漏煤气爆炸 有伤亡 2017-04-06 18:05</a><br/>周四(4月6日)，浙江省义乌市发生煤气爆炸事故，目前已知有1人丧生，多人受伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816178&from=ogGitn">江西一商城发生血案3人身亡 2017-04-06 17:32</a><br/>近期，大陆多地天灾人祸频发。4月6日上午11时许，江西鹰潭月湖区发生命案，一对开布店夫妻被杀身亡，嫌犯自杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816186&from=ogGitn">四川再出校园惨案 15岁女生6楼卫生间坠亡 2017-04-06 17:21</a><br/>就在泸县一名14岁男生离奇坠楼事件持续发酵之际，四川省再传校园惨案，西昌市一名15岁女生近日从学校6楼卫生间坠亡。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
 </table>
