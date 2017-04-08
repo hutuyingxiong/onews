@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816409&from=ogGitn">美对付朝鲜办法：在韩部署核武 除金正恩 2017-04-09 01:06</a><br/>川习会前，美国国家安全委员会根据总统川普（特朗普）的要求，提出应对朝鲜核武计划的选项，包括在韩国部署核武器，除去独裁者金正恩，及秘密行动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816406&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-08 23:19</a><br/>一般而言，人的一生中，最为亲近的除了父母、兄弟姐妹外，当属每日同床共枕的另一半，也正是因为如此亲密的关系，身为伴侣的他或她，才会更加深切的明晰对方是一个有着怎样品行之人。常人如此，那些名人也是如此。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816405&from=ogGitn">颜丹：美法院对〝转基因〞的判决打了谁的脸 2017-04-08 23:16</a><br/>最新一条有关〝转基因〞的消息来自美国加利福利亚州法院。3月10日，该法院法官正式宣判，在加州销售的转基因伴侣草甘膦都要贴上致癌标签。与此同时，监管机构也准备在正式的法案出台之后，就立即推进贴标签的相关事宜。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816407&from=ogGitn">湖南镇政府强征田地 村民网上求助 2017-04-08 23:15</a><br/>上田村村民 石先生：〝搞卖地皮嘛，他说4万多一亩(补偿款)，他们拿出来卖的话，现在我们这边，地皮应该炒到30万一间了。〞</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816172&from=ogGitn">宠物狗被摸惹命案   湖北狗主上门报复被捅死 2017-04-06 18:50</a><br/>近日，法院一审判决，杨姓两兄弟，分别被判处有期徒刑15年及11年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816158&from=ogGitn">梁思成预言成真 雄安新区影射毛泽东的罪过 2017-04-06 18:13</a><br/>1972年，在文革中受到批判的著名建筑学家、原北京市副市长梁思成在生命弥留之际，一直重复这样的话：世界上很多城市都长大了，我们不应该走别人走错的路，早晚有一天你们会看到北京的交通、工业污染、人口等等，会有很大的问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816171&from=ogGitn">浙江义乌疑泄漏煤气爆炸 有伤亡 2017-04-06 18:05</a><br/>周四(4月6日)，浙江省义乌市发生煤气爆炸事故，目前已知有1人丧生，多人受伤。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816178&from=ogGitn">江西一商城发生血案3人身亡 2017-04-06 17:32</a><br/>近期，大陆多地天灾人祸频发。4月6日上午11时许，江西鹰潭月湖区发生命案，一对开布店夫妻被杀身亡，嫌犯自杀。</td></tr>
 </table>
