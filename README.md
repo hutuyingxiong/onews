@@ -2,17 +2,18 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816337&from=ogGitn">美中首次高峰会 兵对兵将对将一览 2017-04-08 08:02</a><br/>周五（4月7日），美国总统川普（特朗普）在私人庄园海湖山庄（Mar-a-Lago）与中国国家主席习近平举行了双边会谈。美中双方各摔代表团参与会谈。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816331&from=ogGitn">福建山东修路毁林拆厂 武汉冤民被打骨折 2017-04-08 07:53</a><br/>现在中国大陆许多地方强占强拆行为，已经引起广大受害民众的愤慨，但民众上访喊冤可能很得到暴力相向，即使如此，他们仍在不屈地抗争。近日，福建厦门市、山东成武县等地民众讲出了他们受害情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816335&from=ogGitn">玉清心：李友要N次换肝和傅彪两次换肝 2017-04-08 07:21</a><br/>从郭文贵的爆料证实了，中共活摘器官不但一直没有停止。而且在某些方面变本加厉，更加邪恶了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816331&from=ogGitn">福建山东修路毁林拆厂 武汉冤民被打骨折 2017-04-08 07:09</a><br/>现在中国大陆许多地方强占强拆行为，已经引起广大受害民众的愤慨，但民众上访喊冤可能很得到暴力相向，即使如此，他们仍在不屈地抗争。近日，福建厦门市、山东成武县等地民众讲出了他们受害情况。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816325&from=ogGitn">时政段子集：全网追捕“谣言”传递一个信息 2017-04-08 06:37</a><br/>最新时政段子集：全网追捕“谣言”传递一个信息</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816334&from=ogGitn">颜丹：美法院对“转基因”的判决打了谁的脸？ 2017-04-08 06:37</a><br/>因此，转基因是否真如他们对外宣称的“对身体无害”，大家完全可参照官员们的选择来进行无误的判断。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816328&from=ogGitn">谢天奇：直辖市6公安高官出事 还有4人高危 2017-04-08 06:32</a><br/>吴志明、傅政华、强卫作为两直辖市的前任公安局长，或步宋平顺、武长顺、朱明国、王立军、何挺等人的后尘，处境岌岌可危。谁会被最先抛出来？这也将是十九大前习江斗的一个重要风向标。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">冀甘琼省长候选人明确 山东省长难产 2017-04-08 05:59</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816330&from=ogGitn">【 禁闻】4月7日退党精选 2017-04-08 05:48</a><br/>山东的王顺利说：我已是一个60多岁的农民。这些年深受中共邪党村党支部书记的欺压，有冤无处诉。我现在申请退出小时加入的少先队组织，彻底脱离这个邪党，走向新生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816327&from=ogGitn">【禁闻 】4月7日维权动态 2017-04-08 05:47</a><br/>郑州电视台百名编辑记者上街抗议；中国访民美国佛州告〝御状〞；湖南拆迁户维权 公民发起接力声援；为防被强迫失踪 李和平妻留遗言。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816326&from=ogGitn">【禁闻】杜撰四大地主 丑化乡绅阶层 2017-04-08 05:42</a><br/>除了刘文彩背负着莫须有的罪名，中国知名的〝四大地主〞中的其他三人也是杜撰，但他们却成为中国地主阶级的代表，背负人们的仇恨。今天的〝百年红祸〞特别报导，就来看看真实的他们。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816333&from=ogGitn">动武叙利亚一石数鸟？川普：与习近平会晤获重大进展 2017-04-08 05:42</a><br/>7日，习近平访美进入第二天，也是最后一天。两国领导人举行了正式会晤。川普当场表示〝取得了进步〞。6日晚川普突然空袭叙利亚，让中方措手不及。分析称，此举作用不仅仅限于在朝核问题上向中方施压，对川普来说是一举数得。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816329&from=ogGitn">【禁闻】王宪魁主政黑龙江时的迫害秘闻 2017-04-08 05:41</a><br/>近年来不少地方陆续传出当地公检法司人员放弃迫害的消息，可是在黑龙江形势依然严峻。从中可以看出，虽然江泽民早已下台，但王宪魁把自己完全绑在了江泽民迫害法轮功的政治路线上，停不下手了。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">海南甘肃河北省长候选人明确 山东省长难产 2017-04-08 05:25</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816317&from=ogGitn">【网闻】金家最恨谁？朝鲜特工讲述金家内幕 2017-04-08 05:04</a><br/>4月6日，微博账号为“NKmilitaryStudies”的网民发布文章：《金家最恨谁？---高级脱北者的证言 》。文章摘录朝鲜特务、资深统战部官员张振成著作中关于中朝关系的内容，披露朝鲜金家政权最痛恨的是中国，朝核对中国的潜在威胁是切实存在的。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816323&from=ogGitn">4月7日全球看中国 2017-04-08 05:02</a><br/>江苏帮崩盘 第四只大老虎李云峰被立案查办；中国〝尺度最大〞反腐剧评价两级 造势不成反启发民众？雄安本地人如何看习近平〝千年大计〞；欧盟提高对中国产钢材的反倾销关税。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816332&from=ogGitn">泸县尸检结果重申坠楼 知情人发图质疑：赵鑫会飞？ 2017-04-08 04:53</a><br/>四川省泸州市初中生死亡事件，官方周五（7日）公布尸检结果，重申早前指〝坠楼〞的结论。家属未有明确表态是否接受，称已骋请律师处理。日前，网络热传该案十大疑点，其中一点是赵鑫伏尸离楼房太远，有网友质疑：赵鑫会飞？</td></tr>
@@ -207,5 +208,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816101&from=ogGitn">出席川习会的川普高参 曾遭中共国安殴打 2017-04-06 03:58</a><br/>4月6、7日全球都将聚焦川习会，届时美中双方都会带上重要团队。对于川普（特朗普）来说，自然少不了带上其亚洲政策高参、前驻华记者博明（Matt Pottinger）。《纽约时报》称，川普的这位高参曾在中国被中共国安殴打。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816157&from=ogGitn">雄安新区 将给中国带来什么？ 2017-04-06 02:55</a><br/>北京熬过雾霾笼罩的冬季，4月1号突然释放消息：官方确定了一个千年大计，要在河北成立雄安新区。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816176&from=ogGitn">毛泽东的八句话骗了中国十多亿人 2017-04-06 02:55</a><br/>近年来随着毛泽东的部分言论被披露出来，中共歪曲历史的事实已无法隐藏。其中八段毛泽东关于抗日言论的话，被学者认为，足以证实〝毛泽东实为抗日历史上最大的汉奸〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816053&from=ogGitn">【翻墙必看】雄安新区公布前被拿下的高官 2017-04-06 02:45</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 </table>
