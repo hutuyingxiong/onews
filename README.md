@@ -2,13 +2,16 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816379&from=ogGitn">〝结石宝宝〞父亲坐牢5年改判无罪  毒奶粉再受关注 2017-04-08 17:48</a><br/>中国毒奶粉受害患儿家长郭利接受采访时表示，自己是为了受害的女儿而战，不是为钱。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816378&from=ogGitn">龙王转世？安徽老汉17年建〝龙宫〞  坐龙椅睡龙床（组图） 2017-04-08 17:42</a><br/>安徽省宣城市的村落有一座独特的庭院——〝颐博院〞。因庭院中处处可见龙的身影，当地人称之为〝龙宫〞。庭院主人是70多岁的李长银老人，他用了17年时间独自建造了这座〝皇家庭院〞，堪称奇观。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816375&from=ogGitn">雄安新区一夜成名  15家企业身家暴涨300亿 2017-04-08 16:34</a><br/>陆媒称，雄安新区设立，楼市疯了，股市涨了，当地15个企业家族身家共上涨近300亿。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816376&from=ogGitn">南京〝黑鸭血〞制作内幕：多种化学品合成 2017-04-08 16:20</a><br/>深受江苏南京市民喜欢的鸭血，近日被曝光加工鸭血的黑心坊，属于无牌经营，不但卫生状况糟糕，而且还肆意添加多种化学品，食品安全无保障。而这家作坊生产的〝黑鸭血〞每日可销售200桶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816374&from=ogGitn">四川老乡寻恩人26年  只为报答〝半碗饭〞的恩情 2017-04-08 16:04</a><br/>四川达州渠县男子欧高云17岁到深圳打工，老乡分半碗饭寻恩人26年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816373&from=ogGitn">五次盗同一别墅  陆贼留纸条：对不起 2017-04-08 16:01</a><br/>姚先生家里连续遭盗贼5次光顾，而且还是同一个小偷，留纸条说救命用。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816372&from=ogGitn">马云抢先布局雄安   2015年设立村淘中心 2017-04-08 15:56</a><br/>自北京当局4月1日宣布设立雄安新区后，各大商家纷纷想进驻雄安。值得注意的是，近日马云旗下的农村淘宝透过微信招募村淘中心员工，工作地点就是雄安。外界哗然，马云早在2015年就已抢先布局雄安。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816371&from=ogGitn">拍北京〝花海列车〞   游客逼停火车 2017-04-08 15:35</a><br/>随着入春，北京居庸关花海进入山花开放期；然而游客为拍摄美景，破坏、翻越铁路护网的行为却屡禁不止。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈 朝鲜核进展已达〝非常严重阶段〞 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816368&from=ogGitn">川习会谈达共识：共同遏制朝核 2017-04-08 14:04</a><br/>美国国务卿提勒森（Rex Tillerson）对媒体说，习近平与川普都认为，朝鲜核进展已达〝非常严重阶段〞。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816380&from=ogGitn">从习近平访美班底窥探中共高层人事 2017-04-08 13:36</a><br/>4月6日，备受瞩目的川普和习近平首次“面对面”会晤在川普的海湖庄园举行。细心的观察人士发现，这次习近平缩短了的行程，其带领的班底却较之前访美与奥巴马会面的班底有明显的“升格”，个中意味引人猜测。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816366&from=ogGitn">习十九大前官场布局 黑龙江高层遭大清洗 2017-04-08 13:18</a><br/>随着中共十九大临近，习近平当局持续官场布局。从去年以来，黑龙江地方高层人事变动频繁，各重要部门官员换人。这期间，江派亲信、黑龙江省委书记王宪魁被免职，多名省长卸任。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816364&from=ogGitn">世界第一围棋手柯洁 下月对战AlphaGo 2017-04-08 13:04</a><br/>世界排名第一的中国棋手柯洁，将于5月下旬在浙江乌镇，与人工智能“阿尔法围棋”（AlphaGo）展开终极对决。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816362&from=ogGitn">石涛：川普与习近平晚宴时 下令轰炸了敍利亚 2017-04-08 11:50</a><br/>2017年就是埋葬各自精英的年代，虚假的人的一面、泯灭人性的一面。习近平在党内反腐，打击的是共产党六十多年来在中囯权力体制当中的整体〝精英〞。</td></tr>
@@ -23,6 +26,7 @@
 											?组图 2017-04-08 09:47</a><br/>网曝，李继红是中共前总装备部部长李继耐妹妹，李继耐则是江泽民心腹。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816343&from=ogGitn">【禁闻】泸州校园命案 当局结论出炉 民不服 2017-04-08 09:30</a><br/>4月7号，清明节假期结束后的第3天，从视频中可以看到全副武装的警察守着泸县中学学校大门，和人山人海的民众仍然对峙着。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816352&from=ogGitn">川普下令空袭 白宫公布关键55小时决策过程 2017-04-08 08:48</a><br/>白宫发言人斯派塞公布川普从4日上午10点30分获悉叙利亚小镇遭化学武器攻击，到6日下午4点决定空袭叙利亚，关键55个小时的决策过程。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816328&from=ogGitn">谢天奇：直辖市6公安高官出事 还有4人高危 2017-04-08 08:46</a><br/>吴志明、傅政华、强卫作为两直辖市的前任公安局长，或步宋平顺、武长顺、朱明国、王立军、何挺等人的后尘，处境岌岌可危。谁会被最先抛出来？这也将是十九大前习江斗的一个重要风向标。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816347&from=ogGitn">加拿大公民在北京被非法关押 加国领事探望 2017-04-08 08:18</a><br/>近日，北京利德曼公司前高管、加拿大籍华人，法轮功学员孙茜在北京遭非法逮捕，孙茜家属对外呼吁营救的同时，该案受到加拿大驻北京大使馆官员的关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816338&from=ogGitn">美中第一夫人参观艺术学校 华裔学生出席 2017-04-08 08:09</a><br/>周五（4月7日）上午，美国总统川普和中国国家主席习近平的会晤继续进行，与此同时，美中第一夫人梅拉尼娅和彭丽媛一起参观了佛州西棕榈滩一所艺术学校。就读该校的华裔学生也出席了这个活动。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816337&from=ogGitn">美中首次高峰会 双方兵对兵将对将一览 2017-04-08 08:02</a><br/>周五（4月7日），美国总统川普（特朗普）在私人庄园海湖山庄（Mar-a-Lago）与中国国家主席习近平举行了双边会谈。美中双方各摔代表团参与会谈。</td></tr>
@@ -33,7 +37,6 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816342&from=ogGitn">【中国禁闻】4月7日完整版 2017-04-08 06:50</a><br/>川习会现场外 法轮功要求停止迫害；朝鲜核危机更紧迫 中美会否联手？；王宪魁主政黑龙江时的迫害秘闻；杜撰四大地主 丑化乡绅阶层。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816325&from=ogGitn">时政段子集：全网追捕“谣言”传递一个信息 2017-04-08 06:37</a><br/>最新时政段子集：全网追捕“谣言”传递一个信息</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816334&from=ogGitn">颜丹：美法院对“转基因”的判决打了谁的脸？ 2017-04-08 06:37</a><br/>因此，转基因是否真如他们对外宣称的“对身体无害”，大家完全可参照官员们的选择来进行无误的判断。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816328&from=ogGitn">谢天奇：直辖市6公安高官出事 还有4人高危 2017-04-08 06:32</a><br/>吴志明、傅政华、强卫作为两直辖市的前任公安局长，或步宋平顺、武长顺、朱明国、王立军、何挺等人的后尘，处境岌岌可危。谁会被最先抛出来？这也将是十九大前习江斗的一个重要风向标。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816321&from=ogGitn">冀甘琼省长候选人明确 山东省长难产 2017-04-08 05:59</a><br/>刚调任中共海南、河北省委副书记的沈晓明、许勤日前分别出任两省代省长，甘肃省长候选人也已明确。而2月下旬就空缺的山东省长职位，由谁补位，至今未明确。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816330&from=ogGitn">【 禁闻】4月7日退党精选 2017-04-08 05:48</a><br/>山东的王顺利说：我已是一个60多岁的农民。这些年深受中共邪党村党支部书记的欺压，有冤无处诉。我现在申请退出小时加入的少先队组织，彻底脱离这个邪党，走向新生。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816327&from=ogGitn">【禁闻 】4月7日维权动态 2017-04-08 05:47</a><br/>郑州电视台百名编辑记者上街抗议；中国访民美国佛州告〝御状〞；湖南拆迁户维权 公民发起接力声援；为防被强迫失踪 李和平妻留遗言。</td></tr>
@@ -207,7 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816146&from=ogGitn">四川民办教师维权向外媒求助 遭警察威胁 2017-04-06 13:35</a><br/>四川资阳市近百名民代幼教师曾于3月中共俩会期间，到各级政府维权抗议，要求解决社会保障等问题。近日，遭到中共威胁，要求他们通过内部途径解决，如再接受外媒采访就会被抓。但教师们认为，十多年来止访始终无果，他们已不相信逐级反映能解决问题。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816132&from=ogGitn">首尔成阴霾污染重灾区 韩民众忍无可忍起诉北京 2017-04-06 12:48</a><br/>韩国首尔等多地区受阴霾所苦，该国一些民众把矛头指向中国。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816135&from=ogGitn">重庆公安局长何挺与周永康勾结内幕 2017-04-06 12:43</a><br/>中共重庆副市长、公安局长何挺落马的消息在网络纷传。前资深媒体人姜维平发文透露何挺已被“双规”的内幕，何被指控贪污受贿及包庇薄王时期的涉嫌犯罪的警察。文章预示，重庆将有大变局，现在只是刚开始的序幕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 11:48</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816140&from=ogGitn">一集电视剧5亿人看？ 大陆网络点击量9成造假 2017-04-06 11:19</a><br/>大陆电视剧片方出钱刷点击量，已是业界公开的秘密。有业内人士披露，电视剧网络点击量9成涉嫌造假。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
 </table>
