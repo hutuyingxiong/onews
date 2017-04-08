@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816387&from=ogGitn">〝尺度最大〞反腐剧引热议  观众看出其中玄机 2017-04-08 18:53</a><br/>十三年后，反腐剧重现大陆荧屏，一周播放次数轻松破十亿，号称〝史上尺度最大的反腐剧〞《人民的名义》成功点燃了民众的追剧热情，然而，随着剧情的展开，不少剧迷出现了两级反应。有人认为该剧体现了当局反腐的决心，也有人认为该剧是为中共19大之前为习近平造势，但却展现出各级党政机关贪腐问题的严重程度。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816386&from=ogGitn">大法弟子：清明悲歌   
 										
 											?组图 2017-04-08 18:46</a><br/>清明时节，在淅沥潺潺的小雨中，追忆我在大陆因坚定修炼法轮大法而被迫害致死的家人，遥想那一座座荒芜的坟冢前，不知是否已长出新草？而我已远隔重洋，不能亲自去凭吊他们的英魂，只能仰望穹苍，在纷纷泪雨中默默祷告，愿她们在天国一切安好。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816153&from=ogGitn">郭利申诉案将于近日宣判 毒奶粉再受关注 2017-04-06 14:42</a><br/>中国毒奶粉受害患儿家长郭利8年前，被广东潮州法院以“敲诈勒索罪”判刑。郭利出狱后，向广东省高院提出申诉。广东高院将于7日对该案做出判决。2008年发生的震惊中外的“三鹿毒奶粉事件”再受关注。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816151&from=ogGitn">郭文贵称不会出现在川习会的海湖庄园 2017-04-06 14:39</a><br/>中美两国元首4月6日在海湖庄园的首次会晤备受关注。川习会将在佛罗里达州海滨渡假村马阿拉歌庄园（Mar-a-Lago）举行。作为该度假村会员的郭文贵是否会在川习会期间出现在庄园成为受关注的问题之一。郭文贵表示，他不会。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816150&from=ogGitn">北京朝阳群众App正式上架　网民：新时代锦衣卫 2017-04-06 14:35</a><br/>北京警方推出〝朝阳群众App〞，蛊惑和利诱民众〝举报你附近的人〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816149&from=ogGitn">学生命案未平息 泸县又爆杀人事件 2017-04-06 14:28</a><br/>四川泸县14岁中学生赵鑫惨死案仍在发酵之际，泸县兴隆山又传出暴力杀人事件。</td></tr>
 </table>
