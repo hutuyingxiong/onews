@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816375&from=ogGitn">雄安新区一夜成名  15家企业身家暴涨300亿 2017-04-08 16:34</a><br/>陆媒称，雄安新区设立，楼市疯了，股市涨了，当地15个企业家族身家共上涨近300亿。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816376&from=ogGitn">南京〝黑鸭血〞制作内幕：多种化学品合成 2017-04-08 16:20</a><br/>深受江苏南京市民喜欢的鸭血，近日被曝光加工鸭血的黑心坊，属于无牌经营，不但卫生状况糟糕，而且还肆意添加多种化学品，食品安全无保障。而这家作坊生产的〝黑鸭血〞每日可销售200桶。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816374&from=ogGitn">四川老乡寻恩人26年  只为报答〝半碗饭〞的恩情 2017-04-08 16:04</a><br/>四川达州渠县男子欧高云17岁到深圳打工，老乡分半碗饭寻恩人26年。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816373&from=ogGitn">五次盗同一别墅  陆贼留纸条：对不起 2017-04-08 16:01</a><br/>姚先生家里连续遭盗贼5次光顾，而且还是同一个小偷，留纸条说救命用。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816372&from=ogGitn">马云抢先布局雄安   2015年设立村淘中心 2017-04-08 15:56</a><br/>自北京当局4月1日宣布设立雄安新区后，各大商家纷纷想进驻雄安。值得注意的是，近日马云旗下的农村淘宝透过微信招募村淘中心员工，工作地点就是雄安。外界哗然，马云早在2015年就已抢先布局雄安。</td></tr>
@@ -208,6 +210,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816109&from=ogGitn">谢天奇：习4次访美后都有大动作 这次将如何? 2017-04-06 11:48</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行2天高峰会谈。这也是习近平过去5年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。习近平此次访美回国后，会有哪些大动作？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816140&from=ogGitn">一集电视剧5亿人看？ 大陆网络点击量9成造假 2017-04-06 11:19</a><br/>大陆电视剧片方出钱刷点击量，已是业界公开的秘密。有业内人士披露，电视剧网络点击量9成涉嫌造假。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816131&from=ogGitn">每日三退声明精选（2017/04/05） 2017-04-06 11:00</a><br/>我是一名员警，我看到了共产党腐败，不愿与它为武，声明退出共产党邪教组织，走向光明。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816159&from=ogGitn">袁斌：泸州中学生死亡事件为何越闹越大？ 2017-04-06 10:37</a><br/>日前发生的泸州中学生死亡事件，本是一个在很小范围就能解决的问题，不料想竟迅速演变成了一场当地政府和民众之间的尖锐对抗，甚至有愈演愈烈的势头。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816130&from=ogGitn">获朱鎔基赏识被江泽民打击 雄安新区神秘策划人浮出 2017-04-06 09:55</a><br/>据报导称，徐匡迪现在是雄安新区智库领导。</td></tr>
 </table>
