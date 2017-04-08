@@ -2,7 +2,12 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816406&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-08 23:19</a><br/>一般而言，人的一生中，最为亲近的除了父母、兄弟姐妹外，当属每日同床共枕的另一半，也正是因为如此亲密的关系，身为伴侣的他或她，才会更加深切的明晰对方是一个有着怎样品行之人。常人如此，那些名人也是如此。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816405&from=ogGitn">颜丹：美法院对〝转基因〞的判决打了谁的脸 2017-04-08 23:16</a><br/>最新一条有关〝转基因〞的消息来自美国加利福利亚州法院。3月10日，该法院法官正式宣判，在加州销售的转基因伴侣草甘膦都要贴上致癌标签。与此同时，监管机构也准备在正式的法案出台之后，就立即推进贴标签的相关事宜。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816404&from=ogGitn">玉清心：李友要N次换肝和傅彪两次换肝 2017-04-08 23:09</a><br/>最近，旅居海外的中国富商郭文贵，不断披露北大方正集团前CEO李友换肝涉嫌〝活摘器官〞的内幕。最新消息说，李友2016年两次换肝失败后，在北京309医院请赵主任筹划他的第三次肝脏移植。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816403&from=ogGitn">杨宁：四川泸州通报会少了关键的主角 2017-04-08 23:07</a><br/>针对四川泸州泸县太伏中学初中生赵鑫坠亡事件，官方有了新的回应。4月7日，四川泸州市委市政府召开媒体见面会，通报了调查情况。根据该事件调查技术负责人、四川省公安厅刑侦局刑事技术处处长王庆红所言，当局最终的结论就是：赵鑫身体上的损伤符合外轻内重、暴力巨大的损伤特点，损伤均为高坠伤；无其它暴力加害形成的损伤；无死后伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816401&from=ogGitn">川校园命案学生头七 上千人再讨公道 2017-04-08 23:06</a><br/>7号上午，太伏中学学生陆续到校，大批民众还有媒体记者也来到现场，有民众手举着标牌，要求公正、公平、公开。太伏镇王先生表示，特警已经撤退，没有冲突发生。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816402&from=ogGitn">谢天奇：直辖市6公安高官出事 傅政华吴志明高危 2017-04-08 23:02</a><br/>4月3日，港媒披露，中共重庆副市长、公安局长何挺目前正接受调查。知情人士还透露，何挺3月31日被中纪委带走。何挺被查消息传出至今，未见官方证实，但也未见官方辟谣。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816397&from=ogGitn">万家文化或遭大规模索赔 龙薇传媒恐难脱干系 2017-04-08 22:19</a><br/>赵薇旗下龙薇传媒终止收购万家文化股权一事并未完全了结，4月7日，万家文化发布公告称，收到监管函询问解除本次股权转让的理由和细节。多位律师均表示,如果认定龙薇传媒存在违规行为，赵薇恐怕难以全身而退。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816398&from=ogGitn">又现短命官 粤国资委副主任试用期过即被查 2017-04-08 22:15</a><br/>中共广东省广州市国资委女副主任一年试用期刚过，立刻被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816395&from=ogGitn">陕西山阳前女高官圈地33亩建庄园被处理 2017-04-08 22:08</a><br/>中共陕西山阳县政协前副主席毛海琴在西安违规占地33亩建私人庄园，成为外界关注焦点。4月7日，毛海琴因“违纪”被严重警告处分。此处理结果，遭到大陆网民炮轰。</td></tr>
@@ -209,9 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816186&from=ogGitn">四川再出校园惨案 15岁女生6楼卫生间坠亡 2017-04-06 17:21</a><br/>就在泸县一名14岁男生离奇坠楼事件持续发酵之际，四川省再传校园惨案，西昌市一名15岁女生近日从学校6楼卫生间坠亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816167&from=ogGitn">川校园死亡事件疑点多 中共当局封锁升级 2017-04-06 17:05</a><br/>再来关注中国的消息。四川泸州太伏镇中学生疑遭霸凌死亡事件，连日来引发群众抗议。当地民众透露，当地政府为了封锁消息，从5号到16号，泸州大规模停电，目前死者的家属被软禁，警察持续抓捕抗议民众，还传出曾有网民发起游行被抓捕。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816162&from=ogGitn">大陆首艘自制航母4月下水？专家：很难超英赶美 2017-04-06 17:00</a><br/>外界预测〝001A型〞航母下水时间可能会是4月23日。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816170&from=ogGitn">河北再有公安系统高官落马 徐大志被审查 2017-04-06 16:25</a><br/>4月6日，中共河北唐山市曹妃甸区公安局党委委员、临港治安分局局长徐大志（副处级）涉嫌“严重违纪”，目前正接受审查。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816163&from=ogGitn">于欢案赵鑫案皆涉黑社会   专家发现真正〝老大〞 2017-04-06 16:24</a><br/>从于欢案到赵鑫案，专家发现中国黑社会的真正〝老大〞正是中共本身。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816185&from=ogGitn">陈思敏：铁岭官场震荡 近逼辽宁两“老领导” 2017-04-06 16:17</a><br/>至于陈政高“虽生犹死”，除了昔日班底亲信纷纷落马，尤其今年伊始以来，他自己也被翻旧账经济数据造假，还有他主政沈阳国企改制的既得利益者辉山乳业，同样爆发做假账而深陷债务危机。如此的陈政高处境堪称高危，也危及了辽宁帮的总后台李长春。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816177&from=ogGitn">川习会在即 中国访民誓死要拦车鸣冤 2017-04-06 15:46</a><br/>在美中两国元首即将在佛罗里达棕榈滩的海湖庄园举行会晤之际，来自美国各地的中国访民都在习近平到来之前纷纷赶到棕榈滩，为拦截习近平车队做准备。</td></tr>
 </table>
