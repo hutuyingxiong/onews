@@ -2,6 +2,8 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816397&from=ogGitn">万家文化或遭大规模索赔 龙薇传媒恐难脱干系 2017-04-08 22:19</a><br/>赵薇旗下龙薇传媒终止收购万家文化股权一事并未完全了结，4月7日，万家文化发布公告称，收到监管函询问解除本次股权转让的理由和细节。多位律师均表示,如果认定龙薇传媒存在违规行为，赵薇恐怕难以全身而退。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816398&from=ogGitn">又现短命官 粤国资委副主任试用期过即被查 2017-04-08 22:15</a><br/>中共广东省广州市国资委女副主任一年试用期刚过，立刻被查。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816395&from=ogGitn">陕西山阳前女高官圈地33亩建庄园被处理 2017-04-08 22:08</a><br/>中共陕西山阳县政协前副主席毛海琴在西安违规占地33亩建私人庄园，成为外界关注焦点。4月7日，毛海琴因“违纪”被严重警告处分。此处理结果，遭到大陆网民炮轰。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816389&from=ogGitn">【翻墙必看】一张图泄露习川会背后的秘密 2017-04-08 21:10</a><br/>大纪元每天为读者梳理翻墙必看的文章</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816392&from=ogGitn">地产商被判刑 牵出天津前高官背后的丑闻 2017-04-08 20:06</a><br/>近日，天津地产商人刘存发被判刑。此案也牵出落马一年多的天津津南区委原书记吕福春的最新消息，刘存发案也曝光了吕福春收受贿赂的背后黑幕。</td></tr>
@@ -212,6 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816177&from=ogGitn">川习会在即 中国访民誓死要拦车鸣冤 2017-04-06 15:46</a><br/>在美中两国元首即将在佛罗里达棕榈滩的海湖庄园举行会晤之际，来自美国各地的中国访民都在习近平到来之前纷纷赶到棕榈滩，为拦截习近平车队做准备。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816166&from=ogGitn">武汉一条狗引发血案 狗主人被刺死 2017-04-06 15:34</a><br/>湖北武汉人杨建平因摸了一下宠物狗，狗主人彭某某邀约另2人持洋镐上门报复，被杨建平、杨建伟兄弟二人刺死。是否属防卫是控辩双方辩论的焦点。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816145&from=ogGitn">泸州维稳升级 政法委书记被官媒追问露馅 2017-04-06 15:32</a><br/>四川省泸县太伏镇中学发生的一起学生命案持续发酵。近日有陆媒记者进入该县实地调查，记者咨询相关信息时，陪同的该县政法委书记却“一问三不知”。此外，大陆网络上广传有南充市民欲集会游行声援泸州学生命案，警方对此下发通知密令对该事件“稳控”。与此同时，泸州市在此敏感时段已开始大面积限时停止供电，引发网民广泛质疑。案发后官方速报“排除他杀” 数日后改口...</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816096&from=ogGitn">辽宁铁岭宣传部长副市长落马 高层被一锅端 2017-04-06 15:28</a><br/>4月5日，中共辽宁铁岭市宣传部部长王志勇和铁岭市原副市长郭治鑫被调查。近年来，辽宁铁岭官场持续被清洗。此前，铁岭市书记吴野松和铁岭市长姜周先后落马。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816160&from=ogGitn">官员发言念错字没人敢说 被指如同皇帝新衣 2017-04-06 15:16</a><br/>中共一些官员发言时“理直气壮”念错字，却没人敢提出来，竟然可以错上多年。有陆媒称，这如同上演“皇帝的新衣”。</td></tr>
 </table>
