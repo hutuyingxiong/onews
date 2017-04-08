@@ -4,6 +4,7 @@
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816406&from=ogGitn">林辉：杨开慧指毛是双料流氓 2017-04-08 23:19</a><br/>一般而言，人的一生中，最为亲近的除了父母、兄弟姐妹外，当属每日同床共枕的另一半，也正是因为如此亲密的关系，身为伴侣的他或她，才会更加深切的明晰对方是一个有着怎样品行之人。常人如此，那些名人也是如此。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816405&from=ogGitn">颜丹：美法院对〝转基因〞的判决打了谁的脸 2017-04-08 23:16</a><br/>最新一条有关〝转基因〞的消息来自美国加利福利亚州法院。3月10日，该法院法官正式宣判，在加州销售的转基因伴侣草甘膦都要贴上致癌标签。与此同时，监管机构也准备在正式的法案出台之后，就立即推进贴标签的相关事宜。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816407&from=ogGitn">湖南镇政府强征田地 村民网上求助 2017-04-08 23:15</a><br/>上田村村民 石先生：〝搞卖地皮嘛，他说4万多一亩(补偿款)，他们拿出来卖的话，现在我们这边，地皮应该炒到30万一间了。〞</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816404&from=ogGitn">玉清心：李友要N次换肝和傅彪两次换肝 2017-04-08 23:09</a><br/>最近，旅居海外的中国富商郭文贵，不断披露北大方正集团前CEO李友换肝涉嫌〝活摘器官〞的内幕。最新消息说，李友2016年两次换肝失败后，在北京309医院请赵主任筹划他的第三次肝脏移植。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816403&from=ogGitn">杨宁：四川泸州通报会少了关键的主角 2017-04-08 23:07</a><br/>针对四川泸州泸县太伏中学初中生赵鑫坠亡事件，官方有了新的回应。4月7日，四川泸州市委市政府召开媒体见面会，通报了调查情况。根据该事件调查技术负责人、四川省公安厅刑侦局刑事技术处处长王庆红所言，当局最终的结论就是：赵鑫身体上的损伤符合外轻内重、暴力巨大的损伤特点，损伤均为高坠伤；无其它暴力加害形成的损伤；无死后伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816401&from=ogGitn">川校园命案学生头七 上千人再讨公道 2017-04-08 23:06</a><br/>7号上午，太伏中学学生陆续到校，大批民众还有媒体记者也来到现场，有民众手举着标牌，要求公正、公平、公开。太伏镇王先生表示，特警已经撤退，没有冲突发生。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816178&from=ogGitn">江西一商城发生血案3人身亡 2017-04-06 17:32</a><br/>近期，大陆多地天灾人祸频发。4月6日上午11时许，江西鹰潭月湖区发生命案，一对开布店夫妻被杀身亡，嫌犯自杀。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816186&from=ogGitn">四川再出校园惨案 15岁女生6楼卫生间坠亡 2017-04-06 17:21</a><br/>就在泸县一名14岁男生离奇坠楼事件持续发酵之际，四川省再传校园惨案，西昌市一名15岁女生近日从学校6楼卫生间坠亡。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816168&from=ogGitn">陆官念错字笑话百出   军报罕提〝皇帝的新衣〞 2017-04-06 17:08</a><br/>军报5日发评论称，在工作中，官员说错话、念错字，没人敢说、敢提，导致官员的错彷佛〝皇帝的新衣〞。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816167&from=ogGitn">川校园死亡事件疑点多 中共当局封锁升级 2017-04-06 17:05</a><br/>再来关注中国的消息。四川泸州太伏镇中学生疑遭霸凌死亡事件，连日来引发群众抗议。当地民众透露，当地政府为了封锁消息，从5号到16号，泸州大规模停电，目前死者的家属被软禁，警察持续抓捕抗议民众，还传出曾有网民发起游行被抓捕。</td></tr>
 </table>
