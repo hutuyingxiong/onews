@@ -2,6 +2,7 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816928&from=ogGitn">安徽外卖员遭男顾客狂砍6刀 只因送错地址 2017-04-09 12:22</a><br/>安徽铜陵枞阳县一外卖员因搞不清楚送餐地点，被点餐者持刀狂砍，其鼻梁、额头及下巴等多处被砍伤。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816927&from=ogGitn">收购格陵兰废弃海军基地 中企遭丹麦拒绝 2017-04-09 11:23</a><br/>中国矿业公司“俊安集团”（General Nice）原计划购买丹麦领地格陵兰的一个废弃海军基地，已被丹麦政府以国防安全考虑为由拒绝出售。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816425&from=ogGitn">每日三退声明精选（2017/04/08） 2017-04-09 11:01</a><br/>自愿退出中共的一切党团队组织；看到中共官员吃喝嫖赌，知法犯法，就知道中共是好话说尽，坏事干绝，不是个好东西。有些人还沾沾自喜，在中共的指挥棒下，迫害信仰真善忍的好人，窜上跳下，从不给自己积点德，留点后路。殊不知，天灭中共之时，就是他们陪葬之际，都是自己种下的因果，也怨不得别人。只有明智的人，能分清善恶，摆脱邪灵，才能走向美好未来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816427&from=ogGitn">蒂勒森：打击ISIS仍为美国首要任务 2017-04-09 09:54</a><br/>将启程访问俄罗斯的美国国务卿蒂勒森（Rex Tillerson），周六（4月8日）表示，美国的优先任务是击败极端组织伊斯兰国（ISIS）。</td></tr>
@@ -213,5 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816208&from=ogGitn">石扉客：泸县事件，新华社专电暴怒背后 2017-04-06 23:25</a><br/>清明节这天，新华社新闻稿《拿出澄清谣言的事实需要多久 ——三问四川泸县校园死亡事件》，迅速在朋友圈刷屏。这篇中提到的四川泸县事件，此前已经刷屏一个礼拜了，是聊城于欢案之后的又一热点事件。这篇新华社稿以专电为名，两个署名记者吕庆福和谢佼都是四川分社职员，第一作者吕庆福还是分社信息采访室主任。在新华社稿件里，这个稿子的权威性算是不低的了。...</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816212&from=ogGitn">川习会 美对华新政策将撩开面纱？ 2017-04-06 23:22</a><br/>美国总统川普和中共主席习近平周四（4月6日）将首次会晤，寻求建立联系和稳定世界上最重要的外交关系，然而他们之间在经验、气质和全球化观点上都存在着鸿沟。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816194&from=ogGitn">袁斌：泸州中学生死亡事件为何越闹越大 2017-04-06 23:22</a><br/>日前发生的泸州中学生死亡事件，本是一个在很小范围就能解决的问题，不料想竟迅速演变成了一场当地政府和民众之间的尖锐对抗，甚至有愈演愈烈的势头。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816193&from=ogGitn">谢天奇：习4次访美内幕 回国后大动作逐次升级 2017-04-06 23:16</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行两天高峰会谈。这也是习近平过去五年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。（上接：谢天奇：川习仓促会晤五大议题背后的秘密）</td></tr>
 </table>
