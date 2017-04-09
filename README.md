@@ -2,9 +2,11 @@
 <tr><td align="center">网门新闻</td></tr>
 <tr><td align="center">如暂时打不开，请退回本页面再试，一般都能打开<br>
 微信中须先点右上角三个点，选择在浏览器中打开</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816927&from=ogGitn">收购格陵兰废弃海军基地 中企遭丹麦拒绝 2017-04-09 11:23</a><br/>中国矿业公司“俊安集团”（General Nice）原计划购买丹麦领地格陵兰的一个废弃海军基地，已被丹麦政府以国防安全考虑为由拒绝出售。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816425&from=ogGitn">每日三退声明精选（2017/04/08） 2017-04-09 11:01</a><br/>自愿退出中共的一切党团队组织；看到中共官员吃喝嫖赌，知法犯法，就知道中共是好话说尽，坏事干绝，不是个好东西。有些人还沾沾自喜，在中共的指挥棒下，迫害信仰真善忍的好人，窜上跳下，从不给自己积点德，留点后路。殊不知，天灭中共之时，就是他们陪葬之际，都是自己种下的因果，也怨不得别人。只有明智的人，能分清善恶，摆脱邪灵，才能走向美好未来。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816427&from=ogGitn">蒂勒森：打击ISIS仍为美国首要任务 2017-04-09 09:54</a><br/>将启程访问俄罗斯的美国国务卿蒂勒森（Rex Tillerson），周六（4月8日）表示，美国的优先任务是击败极端组织伊斯兰国（ISIS）。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816428&from=ogGitn">四川校园命案拟涉官二代引民情激愤 2017-04-09 09:04</a><br/>四川泸县太伏中学校园命案校方和警方掩盖真相，谎称学生是坠楼死亡，激起家属和当地民众的愤怒。连日爆发激烈的警民冲突，据当地民众表示，目前军队装甲车进驻封锁，先后有数百抗议民众被抓。</td></tr>
+<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816926&from=ogGitn">走其父之路 美袭叙后金正恩会躲起来？ 2017-04-09 05:29</a><br/>以美国为主的联军2003年进军伊拉克并开始打击萨达姆政权后，当时的朝鲜当权者金正日曾消失了6个星期。针对美国近日对叙利亚发动的导弹袭击，有专家提出疑问，金正恩是否会走其父之路，也在公众面前消失一段时间？</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816417&from=ogGitn">川习会获3〝成果〞 美媒：成功超预期 2017-04-09 05:20</a><br/>举世瞩目的川习会晤周五在佛罗里达州棕榈滩落下帷幕。尽管具体成果不多，但美国之音报导，这次峰会非常成功，超过预期。中共党媒也盛赞川习会，称两大国冲突并非〝不可避免〞，但避谈川习会期间美军空袭叙利亚。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816422&from=ogGitn">颜丹：到底是谁在“否认和歪曲历史”？ 2017-04-09 05:16</a><br/>而中共官方这样做的目地也只有一个，那就是掩盖曾经那段不光彩的历史。或许，正是因为对于实质上就是一部屠杀史的“文革”，中共实在编不出任何故事来掩盖其难抑的血腥味儿，因此才只用了短短几行字草草带过。但凡能捏造的，中共决不会如此意兴阑珊。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816416&from=ogGitn">武汉男大生〝懒〞收衣服  鸟儿在黑裤中筑巢 2017-04-09 05:00</a><br/>脏衣服堆放在一起，时间久了会生虫子。如果在阳台上，衣服放置久了会出现什么情况呢？</td></tr>
@@ -212,6 +214,4 @@
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816212&from=ogGitn">川习会 美对华新政策将撩开面纱？ 2017-04-06 23:22</a><br/>美国总统川普和中共主席习近平周四（4月6日）将首次会晤，寻求建立联系和稳定世界上最重要的外交关系，然而他们之间在经验、气质和全球化观点上都存在着鸿沟。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816194&from=ogGitn">袁斌：泸州中学生死亡事件为何越闹越大 2017-04-06 23:22</a><br/>日前发生的泸州中学生死亡事件，本是一个在很小范围就能解决的问题，不料想竟迅速演变成了一场当地政府和民众之间的尖锐对抗，甚至有愈演愈烈的势头。</td></tr>
 <tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816193&from=ogGitn">谢天奇：习4次访美内幕 回国后大动作逐次升级 2017-04-06 23:16</a><br/>4月6日、7日，习近平与美国总统川普（特朗普）将在美国佛罗里达州的马阿拉哥（Mar-a-Lago）俱乐部进行两天高峰会谈。这也是习近平过去五年来任国家副主席、主席期间的第五次到访美国。习近平前四次与美国政府高层会谈前后，中国政局均有敏感大事件发生。（上接：谢天奇：川习仓促会晤五大议题背后的秘密）</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816189&from=ogGitn">觅真：清明泪 2017-04-06 23:11</a><br/>清明节前两天，我见到了已四年多未见面的陈运川的大女儿陈淑兰女士，她是一家六口唯一的幸存者。如今她的腰部在迫害中已经造成残疾，不能干活，靠她的小女儿照顾。</td></tr>
-<tr><td><a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?c816188&from=ogGitn">陆文：浅析无神论 2017-04-06 23:08</a><br/>我从小就受无神论的影响，学的是无神论的课本，听的是无神论的宣传，在社会中接触的都是无神论的东西。对佛、道、神一无所知。所以从小就认为世界上没有神。对一些拜神、信神的人认为是迷信。把一些中华民族的传统文化也认为是迷信。可是神是客观存在的，只是你没有能力看见他。通过学习法轮大法，渐渐的改变了观念，世界观发生了根本性的转变。</td></tr>
 </table>
